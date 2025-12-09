@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a computer": "a police computer",
+    "a citation": "a traffic citation",
+    "a driver's license": "a driver's license",
+    "insurance papers": "insurance papers",
+    "vehicle registration": "vehicle registration"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a police computer": "Device used by law enforcement for checking information during a traffic stop",
+    "a traffic citation": "Document issued to IGNACIO RODRIGUEZ, JR. for a traffic violation, being written by Officer Reymundo Reyes during the stop",
+    "a driver's license": "Identification document required to be presented during a traffic stop",
+    "insurance papers": "Documents verifying vehicle insurance coverage, which must be provided during a traffic stop",
+    "vehicle registration": "Official document proving vehicle ownership and registration, requested during a traffic stop"
+  }
+}

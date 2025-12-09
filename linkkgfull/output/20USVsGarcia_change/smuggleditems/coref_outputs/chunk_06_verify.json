@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the pickup truck camper": "pickup truck camper",
+    "Maria De Jesus Garcia's pickup truck camper": "pickup truck camper",
+    "the United States-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35": null,
+    "Stanley Pruszenski": null,
+    "Alfred Baron": null,
+    "Laredo, Texas": null,
+    "Moore, Texas": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "pickup truck camper": "vehicle stopped by United States Border Patrol more than 100 miles from the United States-Mexican border, on Interstate Highway 35, without evidence it had crossed the border",
+    "United States-Mexican border": "border approximately 100 miles south of where the pickup truck camper was stopped"
+  }
+}

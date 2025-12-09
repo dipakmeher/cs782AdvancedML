@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["the five passengers", "the passengers"],
+    "NOUN_PHRASE": ["the passengers", "the five passengers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "the five passengers": "passengers in RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "the passengers": "individuals being transported in the vehicle"
+  }
+}

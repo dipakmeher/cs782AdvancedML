@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the phone",
+      "the record",
+      "the courtroom"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

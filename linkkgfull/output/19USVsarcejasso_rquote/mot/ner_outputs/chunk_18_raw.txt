@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable vehicles", "cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}

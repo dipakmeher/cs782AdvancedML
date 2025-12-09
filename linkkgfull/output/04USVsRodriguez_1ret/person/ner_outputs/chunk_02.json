@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ricardo Rodriguez, Jr.",
+      "Ignacio Rodriguez, Jr.",
+      "Ricardo Rodriguez",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the Court",
+      "a United States Border Patrol agent",
+      "an officer of the Freer Police Department",
+      "Defendants",
+      "the officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ricardo Rodriguez, Jr.": "Defendant",
+    "Ignacio Rodriguez, Jr.": "Defendant"
+  }
+}

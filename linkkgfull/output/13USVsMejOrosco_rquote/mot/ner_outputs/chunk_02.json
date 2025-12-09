@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "his van",
+      "the group",
+      "an airplane",
+      "the motel room",
+      "a motel room",
+      "the San Antonio International Airport",
+      "the Laredo International Airport",
+      "Juventino Mejia-Orosco's van"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

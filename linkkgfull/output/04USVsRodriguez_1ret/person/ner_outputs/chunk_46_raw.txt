@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["J. Scott Hacker"],
+    "NOUN_PHRASE": ["United States Magistrate Judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "J. Scott Hacker": "United States Magistrate Judge"
+  }
+}

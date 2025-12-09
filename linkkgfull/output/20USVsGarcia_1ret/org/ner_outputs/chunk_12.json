@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States district court",
+      "Allen"
+    ],
+    "NOUN_PHRASE": [
+      "the federal district court jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States district court": "court with discretion to give the Allen charge",
+    "Allen": "charge given to the jury"
+  }
+}

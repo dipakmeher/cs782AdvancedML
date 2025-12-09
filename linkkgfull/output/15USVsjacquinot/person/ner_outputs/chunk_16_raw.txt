@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Graham"],
+    "NOUN_PHRASE": ["the driver", "law enforcement officers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "testified about the truck's appearance"
+  }
+}

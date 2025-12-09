@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "smugglers",
+      "his chances",
+      "a roving United States Border Patrol agent",
+      "a policeman",
+      "anybody",
+      "highway",
+      "checkpoints"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

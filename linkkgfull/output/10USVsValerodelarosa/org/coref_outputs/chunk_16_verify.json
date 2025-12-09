@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States District Court",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "Plea Agreement Addendum": "Plea Agreement Addendum",
+    "Plea Agreement": "Plea Agreement"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that calculated the criminal history and sentenced Rogelio Valero-De La Rosa, determined the advisory guideline range, mentioned in the context of a plea agreement and 'fast track' program, made a finding regarding Rogelio Valero-De La Rosa's understanding of the charges and his rights",
+    "Rogelio Valero-De La Rosa": "defendant who was sentenced to 90 months of imprisonment and had no questions or objections regarding the sentence, claimed in his affidavit that he did not discuss or understand the waiver of rights in the Plea Agreement",
+    "Plea Agreement Addendum": "document signed by Rogelio Valero-De La Rosa, confirming understanding of rights and provisions of the United States Sentencing Commission's Guidelines Manual, contradicts his claims in the affidavit",
+    "Plea Agreement": "agreement between Rogelio Valero-De La Rosa and the government, including waiver of certain rights, mentioned in the context of a 'fast track' downward departure request, signed by Rogelio Valero-De La Rosa"
+  }
+}

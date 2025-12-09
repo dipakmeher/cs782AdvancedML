@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "United States of America": "United States of America",
+    "the border checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country making an argument and appealing a suppression decision, also whose government is a party to the appeal and cannot disturb the improperly appealed suppression ruling, making the ruling the law of the case by 'necessary implication', also where the legal case is being held, the government seeking review",
+    "Laredo, Texas": "location where a federal grand jury returned an indictment, where Raul Rafael Arce-Jasso was stopped by a border patrol checkpoint, and 15 miles south of which the checkpoint is located on I-35, also a location related to a federal grand jury indictment against Raul Rafael Arce-Jasso",
+    "border patrol checkpoint on I-35 near Laredo, Texas": "checkpoint where Raul Rafael Arce-Jasso's detention was argued to be unconstitutionally lengthy and the stop was found illegal by the United States of America, located 15 miles north of Laredo, Texas"
+  }
+}

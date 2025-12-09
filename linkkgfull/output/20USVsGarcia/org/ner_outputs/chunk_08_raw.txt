@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["5th Circuit Court of Appeals", "U.S.-Mexican border", "Border Patrol"],
+    "NOUN_PHRASE": ["the district court", "the agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "a court that has relied upon an agent's observation",
+    "U.S.-Mexican border": "a location where highways intersect and lead to",
+    "Border Patrol": "an organization whose agents had recently apprehended illegal alien smugglers"
+  }
+}

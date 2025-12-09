@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "five passengers": "undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, including five passengers found in RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped by United States Border Patrol Agent Jorge Luis Trevino near Farm-to-Market Road 2050, transporting five undocumented aliens, and suspected of being part of a smuggling operation",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop on Farm-to-Market Road 2050, driven by IGNACIO RODRIGUEZ, JR., and suspected of being part of a smuggling operation with RICARDO RODRIGUEZ, JR.'s white Malibu sedan"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ford pickup truck"],
+    "NOUN_PHRASE": ["the second vehicle", "a large white Ford pickup truck", "a work truck", "the driver", "construction vehicles", "the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ford pickup truck": "a large white work truck with a Kansas license plate"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Alfredo Ortega-Chavez's phone": null,
+    "the defendant's communication device": null,
+    "Alfredo Ortega-Chavez's messaging app": null,
+    "the phone": null,
+    "the bus": "the bus to Nuevo Laredo",
+    "the taxi": "the taxi from the Nuevo Laredo bus terminal",
+    "the van": "the van used for smuggling",
+    "the bridge": "the bridge leading into the United States",
+    "the record": "the court record",
+    "the courtroom": "the district court",
+    "written notice": null,
+    "written demand": null,
+    "Ms. Salinas' law firm": "Ms. Salinas' law firm",
+    "U.S. Government Attorney": "U.S. Government Attorney"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the bus to Nuevo Laredo": "Transportation used by Alfredo Ortega-Chavez, Ramon Gonzalez Sanchez, Alejandro Gonzalez Delgado, and five undocumented aliens from Sabinas Hidalgo to Nuevo Laredo",
+    "the taxi from the Nuevo Laredo bus terminal": "Transportation used by five undocumented aliens from the Nuevo Laredo bus terminal to a point close to the bridge leading into the United States",
+    "the van used for smuggling": "Vehicle driven by Ramon Gonzalez Sanchez, used to smuggle five undocumented aliens into the United States, with a hidden compartment discovered during inspection",
+    "the bridge leading into the United States": "Border crossing point where Alfredo Ortega-Chavez, Ramon Gonzalez Sanchez, Alejandro Gonzalez Delgado, and five undocumented aliens attempted to enter the United States",
+    "the district court": "Location of the trial of Alfredo Ortega-Chavez",
+    "the court record": "Documentation of the trial proceedings against Alfredo Ortega-Chavez",
+    "Ms. Salinas' law firm": "Law firm representing Ms. Salinas in the courtroom proceedings",
+    "U.S. Government Attorney": "Attorney representing the U.S. Government in the trial of Alfredo Ortega-Chavez"
+  }
+}

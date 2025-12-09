@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the trek": "South Texas Trek",
+    "the journey": "South Texas Journey",
+    "this trek through the South Texas": "South Texas Trek",
+    "the South Texas desert": "South Texas Trek",
+    "the desert-like South Texas brush": "South Texas Trek",
+    "the dangerous journey": "South Texas Journey",
+    "the journey through South Texas": "South Texas Journey",
+    "through the South Texas desert": "South Texas Trek",
+    "a group of aliens through South Texas desert-like brush": "South Texas Trek",
+    "the mountains between Mexico and San Diego": null,
+    "such a journey": "South Texas Journey",
+    "the trek through South Texas": "South Texas Trek",
+    "a very dangerous way to travel": null,
+    "this particular offense": null,
+    "the bed of a pickup truck": null,
+    "highway driving": null,
+    "the hot South Texas desert": "South Texas Trek",
+    "the desert-like South Texas brush in the middle of summer without adequate food, water, and rest periods": "South Texas Trek",
+    "leading members of the group, on foot, through the South Texas desert in June": "South Texas Trek",
+    "guiding a group of aliens through South Texas desert-like brush in June": "South Texas Trek",
+    "via the mountains between Mexico and San Diego": null,
+    "through South Texas in the dead of summer": "South Texas Trek",
+    "the hot South Texas desert in the heat of the summer with inadequate water and food": "South Texas Trek"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "South Texas Trek": "a dangerous route through South Texas where an alien died from probable heat stroke, contributed to Alma Delia Simon-Fernandez's death, guided by Inocencio Garcia-Guerrero with inadequate supplies, traversed on foot in June and July, involves desert-like brush, temperatures reached 100-105 degrees during the journey, poses risks due to hot summer conditions with inadequate water and food, and includes guiding aliens through South Texas desert-like brush, created substantial risk, involved transporting aliens with inadequate water and food in the heat of the summer",
+    "South Texas Journey": "a hazardous path taken by aliens with inadequate supplies, resulting in hospitalizations and death due to extreme heat, misrepresented as a one-day journey, involved walking through South Texas from early morning until midnight, poses risks of injury, water-borne parasites or disease, severe weather conditions, lack of food and water",
+    "the mountains between Mexico and San Diego": null
+  }
+}

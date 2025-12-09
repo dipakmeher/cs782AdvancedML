@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the passenger side", "the glove box", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

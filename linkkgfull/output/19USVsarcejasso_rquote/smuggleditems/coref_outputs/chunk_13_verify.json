@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States of America": "United States of America",
+    "the suppressed evidence": "cocaine",
+    "the suppression decision": null,
+    "the proceeding": null,
+    "the notice of appeal": null,
+    "the acquittal": null,
+    "the guilty verdict": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "party in the appeal, responsible for filing notice of appeal within specified deadlines",
+    "cocaine": "illicit substance discovered in the side panel of the 1996 Mercury Cougar, subject of suppression motions and appeals"
+  }
+}

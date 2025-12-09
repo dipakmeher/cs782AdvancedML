@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States District",
+      "United States Magistrate Judge",
+      "Rogelio Valero-De La Rosa"
+    ],
+    "NOUN_PHRASE": [
+      "the probation office",
+      "the Report and Recommendation"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District": "court",
+    "United States Magistrate Judge": "judge",
+    "Rogelio Valero-De La Rosa": "defendant"
+  }
+}

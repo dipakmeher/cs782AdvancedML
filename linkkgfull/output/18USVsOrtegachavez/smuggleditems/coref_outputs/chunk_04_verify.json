@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "the appeal": null,
+    "prejudicial error claims": null,
+    "the plain error rule": null,
+    "Judge Kazen": "Judge Kazen",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States",
+    "Judge Kazen": "trial judge who instructed the jury to disregard his opinions and focus on legal instructions",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses"
+  }
+}

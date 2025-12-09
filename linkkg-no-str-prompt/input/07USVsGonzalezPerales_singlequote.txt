@@ -1,0 +1,184 @@
+ 
+
+ 
+ 
+ 
+
+
+ Andrea Gonzalez-Perales is a Defendant.
+
+     PER CURIAM:   
+
+ After  Andrea Gonzalez-Perales was charged with transporting an illegal  alien for purposes of commercial advantage or private financial  gain, in violation of ,  a jury found her guilty of the lesser-included offense of  transporting an illegal alien without commercial advantage or  private financial gain. She appeals her    conviction  and sentence, challenging several evidentiary rulings and the jury  instruction on the lesser-included offense. For the reasons  discussed below, we affirm.  
+
+
+ I.  Facts 
+
+ A.  Gonzalez-Perales's November 2005 Arrest for Transporting Three  Illegal Aliens   
+
+ Border  Patrol Agent Fernando Martinez testified at trial as follows. On  November 15, 2005, Andrea Gonzalez-Perales drove three female  passengers to the primary inspection lane of a border patrol  checkpoint north of Laredo , Texas .  Agent Martinez conducted an immigration inspection there, inquiring  into the citizenship of the vehicle's occupants. Gonzalez-Perales, a  fluent English speaker, stated that she was a resident alien. The  three passengers claimed in broken English to be United States  citizens. Agent Martinez asked the passengers in Spanish for the  names of their birth hospitals, but the passengers were unable to  answer. Thereafter, he referred the vehicle to the  secondary-inspection area, where he and other agents interviewed the  passengers and ultimately determined that they were illegal aliens.  Agent Martinez then arrested Gonzalez-Perales and escorted her and  the passengers into the checkpoint office. 
+
+ B.  Gonzalez-Perales's    Post-Arrest  Statements   
+
+ Agent  Martinez and his colleague, Agent Herman Marin, further testified  that upon her arrest, Gonzalez-Perales waived her Miranda rights and agreed to speak with them. When questioned by Agent  Martinez, Gonzalez-Perales first stated that her passengers were  nieces of her friend,    Paolo, and that Paolo had told her that his nieces were in the  United States illegally. When questioned by Agent Marin, however,  Gonzalez-Perales claimed no knowledge of her passengers' illegal  status and denied ever telling Agent Martinez otherwise.  
+
+ Gonzalez-Perales  explained to Agent Marin that she had come to Laredo from Austin,  Texas, the day before to pick up her divorce papers and to see her  ex-boyfriend. Meanwhile, Paolo had learned that she was in Laredo  and had asked her to take his three nieces to a Wal-Mart in San  Antonio ,  Texas, on her way back to Austin. Gonzalez-Perales agreed and told  Paolo that she was staying at the Siesta Motel--a motel that,  according to Agent Marin's trial testimony, had a reputation as a  place where smugglers stash illegal aliens for subsequent pickup.  
+
+ The  next morning, November 15, the three young women came to  Gonzalez-Perales's motel room and knocked    on  the door. Gonzalez-Perales asked them if they were Paolo's nieces;  they said yes; and she told them to stay in the room while she left  to get them some food. 
+
+ C.  Contreras-Puente's Testimony   
+
+ One  of the illegal-alien passengers, Fabiola Beatriz Contreras-Puente,  testified at trial that she found a smuggler named Paolo to bring  her illegally from Mexico to the United States, and that her brother  in Houston agreed to pay him $ 1,000 upon her arrival in San  Antonio .  On November 14, Paolo drove her and two other young women to Nuevo  Laredo, Tamaulipas, Mexico, from where they left the next morning  with a guide who helped them cross the Rio Grande.  
+
+ The  guide then called someone to drive the young women to a motel. Each  of the women paid the driver $ 100. Gonzalez-Perales answered their  knock at the motel-room door and asked if they were Paolo's nieces;  they said yes, and they all departed the motel together.  
+
+ Contreras-Puente  further testified that, shortly before the checkpoint,  Gonzalez-Perales asked the young women if they were Paolo's nieces  and they said yes; but Contreras-Puente then stated that she was not  Paolo's niece but a friend of the other women. In addition,  Gonzalez-Perales    twice  told the young women to say that they were United States citizens,  but Contreras-Puente, who does not speak English, was unable to say  the words and could not answer the agent's questions. When the agent  asked Contreras-Puente in Spanish about her citizenship, she  admitted that she was in the United States illegally from Mexico.  She also later testified that all three women were going to a house  in San  Antonio and did not have plans to go to Wal-Mart. 
+
+ D.  Gonzalez-Perales's Involvement in the October 2005  Alien-Transporting Encounter   
+
+ Customs  Officer Martina Ramos testified at trial that on October 5, 2005, a  male driver, with Gonzalez-Perales as the front passenger, drove a  minivan to the primary inspection lane of an international bridge  that connects Laredo and Nuevo Laredo. Officer Ramos asked  Gonzalez-Perales about her citizenship, and she claimed to be a  United States citizen. Gonzalez-Perales stated that her two young,  female passengers were her daughters, and each passenger gave  Officer Ramos a birth certificate. Officer Ramos did not believe  that the women were Gonzalez-Perales's daughters because  Gonzalez-Perales's clean appearance contrasted with the dirty, muddy  appearance    of  the two young women. Nor did Officer Ramos believe  Gonzalez-Perales's story that she was bringing her daughters to the  United States for the first time and that the women    had been living with their grandmother in Mexico. Consequently,  Officer Ramos referred the vehicle to the secondary-inspection area.  
+
+ Officer  Ramos then fingerprinted the two young women and ran their prints in  the Customs IDENT/IAFIS computer system, which she testified she and  the other agents use frequently. She further testified about the  computer system as follows:  
+
+ It's  a system operated by Customs. It's called IDENT/IAFIS, where all the  apprehensions by Border Patrol, Customs, INS. And all the people  that we prosecute or send back, they have to be fingerprinted and we  have to enroll. So any time the aliens are fingerprinted, all their  record is going to come up there.  
+
+ The  computer check revealed that the two women had been stopped the day  before by Border Patrol for entry without documents. That encounter  had been entered into the computer and the women had been returned  to Mexico without prosecution. After the officers entered the new  encounter into the computer system, they confiscated the birth  certificates,    sent  the two women back to Mexico, and released Gonzalez-Perales and the  driver into the United States. 
+
+ The  defense did not present any evidence after the government rested its  case. 
+
+
+ II.  Discussion 
+
+ Gonzalez-Perales  argues that the district court erred by: (1) admitting testimony  regarding her involvement in the October 2005 alien-transporting  encounter because it was hearsay, a violation of the ,  and a violation of ;  (2) admitting 'guilt by association' testimony regarding  the Siesta Motel's reputation as a place where smugglers stash  illegal aliens for subsequent pickup; and (3) submitting a pattern  jury instruction on the lesser-included offense. 
+
+
+ A.  The October 2005 Alien-Transporting Encounter Testimony 
+
+ 1.  The Public Records Hearsay Exception  
+
+ For  the first time on appeal, Gonzalez-Perales argues that Officer  Ramos's testimony regarding the October encounter was inadmissible  hearsay under because the results of the Customs computer system check involved  matters observed by law enforcement in a criminal case. At trial,  Gonzalez-Perales objected to the admission of this testimony solely  upon the grounds of    the and .  Accordingly, because she now raises an argument that is different  from the one raised in the district court, this Court reviews her  hearsay argument for plain error. See (   'When a defendant . . . urges a different ground for the  objection on appeal than before the district court, we review for  plain error.' (citing .  
+
+   The public records hearsay exception provides that the following is  admissible despite the general prohibition against hearsay:  
+
+ (8)  Public records and reports. Records,  reports, statements, or data compilations, in any form, of public  offices or agencies, setting forth (A) the activities of the office  or agency, or (B) matters observed pursuant to duty imposed by law  as to which matters there was a duty to report, excluding, however,  in criminal cases matters observed by police officers and other law  enforcement personnel, or (C) in civil actions and proceedings and  against the Government in criminal cases, factual findings resulting  from an investigation made pursuant to authority granted    by  law, unless the    sources of information or other circumstances indicate a lack of  trustworthiness.  
+
+
+ .  
+
+   It is well settled that 'customs . . . officials are 'law  enforcement personnel' within the meaning of this rule.' (citation omitted). This Circuit makes a distinction, however,  between 'law enforcement reports prepared in a routine,  non-adversarial setting, and those resulting from the arguably more  subjective endeavor of investigating a crime and evaluating the  results of that investigation.' .  In other words, 'documents recording routine, objective  observations, made as part of the everyday function of the preparing  official or agency' are admissible under ,  even if the documents are prepared by a police officer or other law  enforcement official. Id.   
+
+ Here,  the Customs computer information that the passengers had been  returned to Mexico was recorded by Officer Ramos as part of a  routine, administrative procedure in a non-adversarial setting.  Officer Ramos testified that she and the other officers use the  Customs computer    system  frequently to record encounters with aliens, including the aliens'  fingerprints, whether those aliens are prosecuted or returned to  Mexico. In addition, she testified that the particular computer  check at issue revealed that the two passengers had been apprehended  in the same clothing by Border Patrol for 'entry without  documents' on October 4, 2005, that the encounter was recorded  into the computer system, and that the women were returned to Mexico  without prosecution.  
+
+ Gonzalez-Perales  baldly asserts that while our precedent allows for the admission of  public records that 'reflect objective facts,' the instant  IDENT/IAFIS records reflect 'criminal interrogations and law  enforcement investigative measures.' To the contrary,   the repetitive, everyday IDENT/IAFIS notations are exactly the kind  of 'mechanically registered, . . . unambiguous factual  matters' that this Circuit has found to be inherently  reliable.  See  id. And 'there is no reason to believe that because this  information was later retrieved in connection with litigation, it is  less reliable than when first recorded.' .  
+
+ Accordingly,  Officer Ramos's testimony regarding the October alien-transporting  encounter was admissible under the public records hearsay exception.  Gonzalez-Perales has not shown any error, let alone plain error.  
+
+ 2.  The   
+
+ Gonzalez-Perales  also asserts that the testimony regarding the October  alien-transporting encounter violated the .  As discussed above, however, because this evidence meets the public  records hearsay exception, it is not 'testimonial' and,  therefore, does not implicate the . See (noting that   computer records that satisfy the public records hearsay exception  are non-testimonial such that the requirements of the do not apply). 
+
+     3.   
+
+ Gonzalez-Perales  further contends that the prosecutor's closing argument was improper  because it exceeded the    limited  purposes for which the testimony regarding the October encounter was  admitted under . Because Gonzalez-Perales did not timely object, this Court reviews  her claim of improper closing argument for plain error. ('As the defendant failed to object timely to the  prosecutor's comments, we review them for plain error.'  (footnote omitted)).  
+
+ We  hold that the prosecutor's closing argument did not violate .  First, the prosecutor argued that based on the October encounter  testimony admitted at trial, the jury could 'infer' that  Gonzalez-Perales 'was caught a month before trying to smuggle  aliens in.' The prosecutor argued that the prior incident established  her intent to transport the three alien passengers illegally in  November 2005, her knowledge    of  how to do so, and her absence of mistake in doing so--all of which  fall within the bounds of . See (   'A prosecutor is not prohibited from reciting to the jury  those inferences and conclusions    he wishes the jury to draw from the evidence so long as those  inferences are grounded upon the evidence.' (internal quotation  marks and footnote omitted)).  
+
+ Second,  the prosecutor's statement regarding Gonzalez-Perales's knowledge of alien  smuggling constituted a fair response to and explanation of defense counsel's  closing argument that the driver had not given any instructions  about what to do or say upon dropping the aliens off at the motel. See (   ''The prosecution is entitled to make a fair response in  rebuttal' to the arguments of defense counsel.' (quoting )) .  And this Court assumes that the jury was sufficiently competent to  discount the prosecutor's hyperbolic characterization of  Gonzalez-Perales as a 'pro.' See (   'We assume that the jury has the common sense to discount    the  hyperbole of an advocate, discounting the force of the argument.').  
+
+ Third,  as Gonzalez-Perales requested in her belated objection, the district  court instructed the jury to consider the testimony regarding the  October encounter for the limited purposes specified in the jury  instructions. The jury instructions showed that this testimony was  admitted for the limited purposes of showing state of mind, intent,  knowledge, plan, preparation for the commission of a crime, or  absence of mistake. As a result, even assuming a risk of prejudice,  the district court's cautionary instruction effectively mitigated  any potential harm. See (noting that   a potential risk of prejudice can be cured with proper instructions,  and that 'juries are presumed to follow their instructions'  (internal quotation marks and citation omitted)); see  also (holding that the district court's curative instructions minimized  any prejudice arising from the prosecutor's closing argument).  
+
+ Accordingly,  the prosecutor's closing argument regarding the October encounter  did not violate .  Gonzalez-Perales has    failed  to show any error, much less plain error.   
+
+ B.  Testimony Regarding the Siesta Motel's Reputation   
+
+ At  trial, Gonzalez-Perales objected to testimony regarding the Siesta  Motel's reputation as a place where smugglers stash illegal aliens  for subsequent pickup on the grounds of relevancy and undue  prejudice. She argues that this evidence allowed the jury to find  her 'guilty by association' with the motel.    We review the district court's evidentiary ruling for abuse of  discretion. (citation omitted).  
+
+     Our precedent is well settled that   the Government may 'not attempt to prove a defendant's guilt by  showing that she associates with 'unsavory characters.'' (citation omitted). The Government correctly argues that this  precedent involves guilt by association with particular people  rather than with a particular place. Even assuming arguendo ,  however, that this precedent should be applied in the context of a  place rather than a person, and that therefore it was error to admit  the testimony regarding the Siesta Motel's reputation for alien  smuggling ,  any such error was harmless. See ('Although we find that the district court abused its  discretion by permitting the challenged portion of the agent's  testimony, we nonetheless affirm the defendant's conviction  because the error was harmless.'). The testimony comprised a  small part of an otherwise strong case given Gonzalez-Perales's  inconsistent responses to the agents regarding her knowledge of the  passengers' illegal-alien status, the     evidence  of her involvement in the October encounter, and, most of all,  Contreras-Puente's testimony regarding Gonzalez-Perales's role in  the smuggling scheme. See  id. (holding that the district court's erroneous admission of challenged  testimony was harmless in part because 'the statements made by  the agent constituted only a small portion of an otherwise strong  case' (citation omitted)). 
+
+ Accordingly,  the district court's admission of the testimony regarding the Siesta  Motel's reputation was, at most, harmless error. 
+
+ C.  The Pattern Jury Instruction On the Lesser-Included Offense   
+
+ In  the district court, Gonzalez-Perales objected to submission of  instructions for both alien transporting for financial gain and  simple alien transporting and argued for submission of only the  lesser offense. She did not object, however, that this Circuit's  pattern jury instruction on lesser-included offenses was erroneous.  Accordingly, we review her argument for plain error. See (   'When a defendant has failed to properly preserve an issue for  appeal, this court will only review it for plain error.'  (citing . 
+
+ Gonzalez-Perales    contends  that the district court should not have submitted the pattern jury  instruction on lesser-included offenses because it allows for  consideration of the lesser offense if after 'reasonable  efforts' the jury cannot agree on the greater offense. Instead, she argues, the    court should have submitted an 'acquittal-first'  instruction, which requires the jury to unanimously agree to acquit  on the greater offense before considering the lesser offense. She  relies on ,  which she claims 'firmly placed this Court in the 'acquittal  first' camp.'  
+
+ Gonzalez-Perales  is correct that Williams quotes with approval the proposition that ''when a greater  and lesser offense are charged to the jury, the proper course is to  tell the jury to consider first the greater offense, and to move on  to consideration of the lesser offense only if they have some  reasonable doubt as to the guilt of the greater offense.'' (quoting (en banc)). Williams did so, however, not to address the propriety of a  'reasonable-efforts'    instruction  versus an 'acquittal-first' instruction, but rather to  explain that the district court there had reversed the order of  consideration of greater and lesser offenses by improperly  instructing the jury to consider the lesser offense first and then  the greater offense. See  id. Even then, the reason that Williams vacated the defendant's conviction was not because of this erroneous  ordering but because the district court entered a judgment of guilty  on the greater offense despite the fact that the jury did not  unanimously agree to every element of that offense. See . Williams ,  therefore, does not apply.  
+
+ Although  Gonzalez-Perales cites several cases from other jurisdictions that  use the 'acquittal-first' instruction instead of the  'reasonable-efforts' instruction, she has not pointed to  any case from this Circuit that invalidates the longstanding pattern  jury instruction at issue. In addition, although she contends that  she should have been given the choice between the two types of  instructions, she never requested that the district court submit  anything other than this Circuit's 'reasonable-efforts'  pattern jury instruction. See     (holding  that   neither the acquittal-first instruction nor the reasonable-efforts  instruction is 'wrong as a matter of law. The court may give  the one that it prefers if the defendant expresses no choice,'  and that, as a result, defense counsel's failure to request the  instruction advocated on appeal did not amount to plain error).  
+
+ Accordingly,  the district court did not plainly err in submitting the pattern  jury instruction on the lesser-included offense. 
+
+
+     III.  Conclusion 
+
+ Finding  no reversible error in the district court's rulings, we AFFIRM. 
+
+
+ 
+
+
+ E nd  of Document   
+
+ *  Pursuant  to 5TH  CIR. R. 47.5 ,  the court has determined that this opinion should not be published  and is not precedent except under the limited circumstances set  forth in 5TH  CIR. R. 47.5.4 .    
+
+ 1  What  is more, no computer records or printouts were even admitted    in  the instant case; rather, Officer Ramos simply testified about the  information retrieved from the IDENT/IAFIS. In addition, because  Officer Ramos never testified about any statements made by the  passengers, there is no hearsay-within-hearsay problem either.    
+
+ 2  Gonzalez-Perales  challenges the following three portions of the prosecutor's closing  argument:  
+
+ (1)  . . . What's important is she was caught a month before trying to smuggle  aliens in. That's what you can infer that she was doing. Now, if someone  has tried to smuggle  aliens across the Rio Grande before and you have three people showing up at  your hotel who wanted a ride and they all had wet pants, what do you  think? Do you think they just came across the river? It's probably a  pretty good chance. And you can look at that piece of evidence and  the circumstance in connection with all the other pieces of  evidence. 
+
+ (2)  The way to ensure that the alien  smuggling goes smoothly is to hire someone who knows what they're doing and  to make sure they get there.    And  here's the defendant. Does she know what she's doing? Well, she's  experienced. She did it just one month before. So, she'd probably be  a good person to hire . . . . 
+
+ The  way alien smugglers do it is not to trick someone into taking your  load north and it's not to ask for favors. It's to pay someone who  knows what they're doing, who knows they're aliens and who's  experienced and is going to do it right. That's how you know that  she knows what she's doing. 
+
+ (3)  . . . She's a pro. That's why she's hired to do this. She did it  once before, a month before. That's . . . exactly why she was hired. 
+
+ .  . . You only get your money if the aliens make it to San  Antonio .  And so if that's your goal, who are you going to hire? You're going  to hire someone who knows what they're doing and you're going to  hire someone who knows they're aliens and you're going to hire  someone who's experienced. You know she's experienced. You heard  evidence of that.  
+
+ The  third portion was the prosecutor's response to defense counsel's  closing argument that the driver had not given any instructions  about what to do or say upon dropping the aliens off at the motel  room. It was at that point--after the prosecutor had already    argued  the October encounter evidence without objection in his initial  closing and earlier in the rebuttal closing--that defense counsel  belatedly objected:  
+
+ Your  Honor, I'd object to this line of argument. It's inappropriate. That  it's argument to the jury. It's not part of the law. That they be  given an instruction that it's supposed to be considered for a  limited purpose only.  
+
+ As  requested, the court instructed the jury as follows:  
+
+ Ladies  and gentleman--your objection is overruled--but let me emphasize  that the evidence submitted to you as to the prior offense was  submitted to you for a limited purpose that is defined for you in  the instructions and the law, which you are bound to follow the  Court's instructions for purpose that the evidence should be  considered for.    
+
+ 3  Given  that the evidence was uncontradicted and unchallenged that  Gonzalez-Perales transported illegal alien Contreras-Puente, the  only issue as to the offense of conviction was Gonzalez-Perales's  knowledge or state of mind at the time.    
+
+ 4  On  direct examination, Officer Marin testified about the Siesta Motel's  reputation as follows:  
+
+ Q.  . . . And based on your experience in that four years and seven  months as a Border Patrol officer, have you come to learn if there's  any particular reputation of the Siesta Motel? 
+
+ A.  Yes, sir. 
+
+ Q.  What is that reputation? 
+
+ A.  It's a place where they stash a lot of illegal aliens. 
+
+ Q.  Who is 'they'? 
+
+ A.    The  smugglers. Usually the smugglers put illegal aliens in that motel to  then go later on and pick them up.    
+
+ 5  The  district court instructed the jury on the elements of the greater  offense of alien transporting for financial gain as follows:  
+
+ For  you to find the defendant guilty of this crime, you must first be  convinced that the government has proven each of the following  beyond a reasonable doubt: 
+
+ First:  That an alien had entered or remained in the United States in  violation of law; 
+
+ Second:  The defendant knew or recklessly disregarded the fact that the alien  was in the United States in violation of law; 
+
+ Third:  That the defendant transported the alien within the United States  with the intent to further    the  alien's unlawful presence; and  
+
+ Fourth:  That the offense was committed for the purpose of commercial  advantage or private gain.  
+
+ The  court later submitted this circuit's pattern jury instruction on  lesser-included offenses:  
+
+ We  have just talked about what the government has to prove for you to  convict the defendant of the crime charged in the indictment,  transportation of illegal aliens for commercial advantage or private  financial gain by means of a motor vehicle. Your first task is to  decide whether the government has proved beyond a reasonable doubt  that the defendant committed that crime. If your verdict on that is  guilty, you are finished. But if your verdict is not guilty, or if  after all reasonable efforts you are unable to reach a verdict, you  should go on to consider whether the defendant is guilty of  transportation of illegal aliens by means of a motor vehicle. You  should find the defendant guilty of transportation of illegal aliens  by means of a motor vehicle if the government has proved beyond a  reasonable doubt that the defendant did everything we discussed  before except that it did not prove that the defendant committed the  offense for commercial advantage or private    financial  gain.  
+
+ The  court also instructed the jury on the first three elements of alien  transporting recited above, and submitted a verdict form that  tracked the jury instructions.  
+
+ During  the deliberations, the court advised the parties of a jury note that  the jury was deadlocked on the first question, but had reached a  verdict on the second question, and that the jury wanted to know  whether it had to decide the first question. The court instructed  the jury to return to the jury room and make sure that it was unable  to reach a verdict on the first question, and if so, then to answer  the second question. The jurors returned a verdict of guilty of  simple alien transporting.           
+   
+   
+        

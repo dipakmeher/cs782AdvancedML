@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Benavides",
+      "Agent Trevino",
+      "Ricardo Rodriguez",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the driver",
+      "his supervisor",
+      "the black truck's registered owner"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "Border Patrol agent",
+    "Agent Trevino": "Border Patrol agent",
+    "Ricardo Rodriguez": "driver of the white sedan",
+    "Ignacio Rodriguez": "traveler"
+  }
+}

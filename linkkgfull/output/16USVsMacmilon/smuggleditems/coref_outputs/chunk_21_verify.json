@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ramon De La Cruz's indictment": "Ramon De La Cruz's indictment",
+    "Ramon De La Cruz's trial": "Ramon De La Cruz's trial",
+    "the United States District Court": "United States District Court",
+    "seventy non-excludable days": null,
+    "July 8, 2014": null,
+    "July 25": null,
+    "July 28th": null,
+    "August 11": null,
+    "August 12th": null,
+    "August 18": null,
+    "Ramon De La Cruz's speedy trial clock": "Speedy Trial Act",
+    "Ramon De La Cruz's motion to continue": "pretrial motion",
+    "the Speedy Trial Act clock": "Speedy Trial Act"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz's indictment": "indictment against Ramon De La Cruz for alien transportation offenses, including conspiracy to transport aliens within the United States for commercial advantage or private financial gain",
+    "Ramon De La Cruz's trial": "trial of Ramon De La Cruz for smuggling undocumented aliens, began after denial of motion to dismiss",
+    "United States District Court": "court that rules on pretrial motions and applies the Speedy Trial Act",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods",
+    "pretrial motion": "motion filed before trial, subject to exclusions under the Speedy Trial Act"
+  }
+}

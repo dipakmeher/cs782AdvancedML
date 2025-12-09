@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Carlos Martinez-Romero"],
+    "NOUN_PHRASE": ["Appellant", "Defendant", "the trial court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Carlos Martinez-Romero": "Defendant and Appellant"
+  }
+}

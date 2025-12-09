@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the table",
+      "the district court",
+      "the circumstances",
+      "the Sentencing Commission",
+      "the pre-sentence report"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

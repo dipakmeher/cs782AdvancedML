@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the tractor-trailer",
+      "the driver-side door",
+      "the tractor",
+      "the engine",
+      "the steps",
+      "the door"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this appeal": null,
+    "the district": "United States district court",
+    "her automobile": "pickup truck",
+    "the government": null,
+    "the jury": "federal district court jury",
+    "the vehicle": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located and whose Constitution protects residents from unreasonable searches",
+    "United States district court": "federal court that made the original judgment in the case and where the jury deliberated, also responsible for trying cases of aiding and abetting the transportation of undocumented aliens",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment, also referred to as the vehicle in this context, traveling at slow speed with obvious overloading, and owned by Maria De Jesus Garcia"
+  }
+}

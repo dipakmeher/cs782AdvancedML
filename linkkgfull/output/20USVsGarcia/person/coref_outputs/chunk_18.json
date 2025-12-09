@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Maria De Jesus Garcia",
+    "Garcia": "Maria De Jesus Garcia",
+    "the majority": null,
+    "my brethren": null,
+    "the officers": "Stanley Pruszenski and Alfred Baron",
+    "the agent": "Stanley Pruszenski and Alfred Baron"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "Defendant convicted of aiding and abetting the transportation of undocumented aliens, subject of a suppression motion regarding the stop and search of her vehicle, driver of the stopped pickup camper, appellant in the current case, appellant contesting the district court's refusal to allow post-verdict discovery through juror depositions",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation and observed the suspicious vehicle, applied the Brignoni-Ponce standard in their assessment, had reason to suspect the presence of illegal aliens due to various factors including the vehicle's appearance and occupant behavior, stopped a pickup truck with a heavily loaded camper attachment on an Interstate Highway in Texas"
+  }
+}

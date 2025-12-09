@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the agents' patrol car", "the pickup truck", "the window of the patrol car", "the truck cab", "Maria De Jesus Garcia's vehicle", "the back seat of Maria De Jesus Garcia's vehicle", "the truck cab", "the pickup truck camper", "the rear window to the pickup truck camper"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

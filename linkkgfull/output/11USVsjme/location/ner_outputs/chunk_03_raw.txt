@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the Center", "the juvenile court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ibarra-Zelaya", "Adrian Almaguer"],
+    "NOUN_PHRASE": ["defense counsel", "the Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ibarra-Zelaya": "claimant",
+    "Adrian Almaguer": "affidavit provider and defense counsel"
+  }
+}

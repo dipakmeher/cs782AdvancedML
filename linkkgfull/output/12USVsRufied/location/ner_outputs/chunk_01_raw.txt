@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Southern District of Texas", "United States"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Southern District of Texas": "location where Yusif Ahmed Rufied was charged",
+    "United States": "country where aliens entered or remained in violation of law"
+  }
+}

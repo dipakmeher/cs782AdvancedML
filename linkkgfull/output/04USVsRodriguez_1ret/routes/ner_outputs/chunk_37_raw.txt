@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Highway 85", "U.S. Highway 385"],
+    "NOUN_PHRASE": ["a common smuggling route", "a known drug smuggling route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 85": "a common smuggling route that avoids immigration checkpoints",
+    "U.S. Highway 385": "a known drug smuggling route in an area known for drug smuggling"
+  }
+}

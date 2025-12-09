@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "5th Cir.": "United States Court of Appeals for the Fifth Circuit",
+    "Maria De Jesus Garcia's vehicle": "pickup truck",
+    "the vehicle": "pickup truck",
+    "the camper compartment": "pickup truck camper",
+    "the camper": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "federal court that reviews cases related to border patrol stops and provides guidance to jurors on their duties and responsibilities, also responsible for giving instructions to the jury",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment, with occupants attempting to evade detection, searched by border patrol agents Stanley Pruszenski and Alfred Baron",
+    "pickup truck camper": "compartment of Maria De Jesus Garcia's vehicle where evidence was obtained by the government as a result of the stop and search, found to contain undocumented aliens"
+  }
+}

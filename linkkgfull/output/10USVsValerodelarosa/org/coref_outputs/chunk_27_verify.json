@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court for the Southern District of Texas",
+    "Congress": "United States Congress"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court for the Southern District of Texas": "court that imposes sentences and decides on downward departures in 'fast track' cases, not required to factor in sentencing disparity caused by early disposition programs",
+    "United States Congress": "legislative body that intended sentencing disparity reductions through guidelines and amendments, acknowledging disparities caused by early disposition programs"
+  }
+}

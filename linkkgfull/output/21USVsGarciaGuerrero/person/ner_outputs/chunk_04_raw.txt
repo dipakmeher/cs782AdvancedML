@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Simon-Fernandez"],
+    "NOUN_PHRASE": ["the district court", "this court", "another person"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "defendant",
+    "Simon-Fernandez": "deceased person"
+  }
+}

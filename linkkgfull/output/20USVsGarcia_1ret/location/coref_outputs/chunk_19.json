@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the location": "Moore, Texas",
+    "the border": "United States-Mexican border",
+    "the interstate highway": "Interstate Highway 35",
+    "the back of it": null,
+    "the camper shell attachment": "pickup truck camper",
+    "the truck": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Moore, Texas": "location near the border, approximately 115 miles from the Mexican border, and a point through which Interstate Highway 35 passes before reaching the United States-Mexican border, also a common location for apprehending illegal alien smugglers",
+    "United States-Mexican border": "geographical boundary between the United States and Mexico, relevant to the case and the Brignoni-Ponce test",
+    "Interstate Highway 35": "highway leading directly to the border, passing through Laredo, Texas, and several other towns before reaching Moore, Texas, known as a common smuggling route, with a history of alien smuggling on certain segments",
+    "pickup truck camper": "compartment of the vehicle where evidence was found and is relevant to the suppression motion, often used for transporting illegal aliens",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment"
+  }
+}

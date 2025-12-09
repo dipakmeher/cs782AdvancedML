@@ -1,0 +1,39 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Mexico": "Mexico",
+    "Nuevo Laredo": "Nuevo Laredo",
+    "Sabinas Hidalgo": "Sabinas Hidalgo",
+    "the restaurant": "a restaurant in Sabinas Hidalgo",
+    "a restaurant": "a restaurant in Sabinas Hidalgo",
+    "the Nuevo Laredo bus terminal": "Nuevo Laredo bus terminal",
+    "a point close to the bridge": null,
+    "the bridge": null,
+    "a hidden compartment": null,
+    "the van": null,
+    "trial court": null,
+    "San Antonio, Texas": "San Antonio, Texas",
+    "their home": "San Antonio, Texas",
+    "the jury": null,
+    "the scene of the alleged offense": null,
+    "San Antonio": "San Antonio, Texas",
+    "the courtroom": "courtroom",
+    "Laredo": "Laredo",
+    "this situation": null,
+    "this Court": null,
+    "the entire record": null,
+    "the proceedings": "courtroom",
+    "the court": "courtroom",
+    "the place": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where aliens were being smuggled into and where undocumented aliens were attempted to be brought into",
+    "Mexico": "country where smuggling operation originated and where Alfredo Ortega-Chavez previously ventured to smuggle undocumented aliens",
+    "Nuevo Laredo": "city where permit was obtained and smuggling operation proceeded",
+    "Sabinas Hidalgo": "city where meeting with undocumented aliens took place, where Alfredo Ortega-Chavez was allegedly seen by Ramon Gonzalez Sanchez's parents, and where Alfredo Ortega-Chavez was on November 22, 1980",
+    "a restaurant in Sabinas Hidalgo": "location of meeting between smugglers and undocumented aliens",
+    "San Antonio, Texas": "location where Graciela Castaneda and her husband had brunch with Alfredo Ortega-Chavez, and location where Alfredo Ortega-Chavez had been on the day in question",
+    "Laredo": "location where the juror's friend, another female lawyer, is from",
+    "courtroom": "location where trial of Alfredo Ortega-Chavez took place, conducted fairly and impartially by Judge Kazen"
+  }
+}

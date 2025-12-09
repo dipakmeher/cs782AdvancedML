@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Counsel": "Adrian Almaguer",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Adrian Almaguer": "Attorney for Jose Marlon Ibarra-Zelaya, whose performance is under scrutiny for constitutional deficiency, specifically for failing to object to the incorrect application of the United States Sentencing Guidelines Manual and acknowledging the use of an older version in drafting objections",
+    "Nancy F. Atlas": "judge who concludes that jurists of reason would not debate whether the movant has stated a valid claim or whether any procedural ruling in this case was correct, and orders the denial of Jose Marlon Ibarra-Zelaya's motion",
+    "Jose Marlon Ibarra-Zelaya": "defendant whose punishment is being determined based on the United States Sentencing Guidelines Manual, with a claim of ineffective assistance of counsel and a denied motion for relief",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with specific guidelines for ex post facto laws and amendments affecting base offense levels, applied in Jose Marlon Ibarra-Zelaya's case to calculate a total offense level of 40"
+  }
+}

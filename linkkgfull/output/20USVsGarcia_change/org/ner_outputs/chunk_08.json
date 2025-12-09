@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States District Court",
+      "United States Court of Appeals for the Fifth Circuit",
+      "U.S.-Mexican border"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Court": "court that made unassailed findings",
+    "United States Court of Appeals for the Fifth Circuit": "court that relied on an agent's observation"
+  }
+}

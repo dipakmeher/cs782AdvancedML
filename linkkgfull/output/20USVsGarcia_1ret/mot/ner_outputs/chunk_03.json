@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the agents' patrol car",
+      "the pickup truck",
+      "the patrol car",
+      "the truck cab",
+      "the truck",
+      "the pickup truck camper",
+      "the rear window to the pickup truck camper",
+      "the floor of the camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

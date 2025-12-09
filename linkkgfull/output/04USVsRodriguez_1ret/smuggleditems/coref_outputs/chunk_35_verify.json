@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Defendant IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reymundo Reyes of the Freer Police Department": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Defendant RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino": "RICARDO RODRIGUEZ, JR.'s vehicle stop",
+    "United States Government": "United States Department of Homeland Security",
+    "United States Magistrate Judge": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the stop of his vehicle by Officer Reymundo Reyes",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino",
+    "Jorge Luis Trevino": "United States Border Patrol agent who performed the traffic stop on RICARDO RODRIGUEZ, JR.'s vehicle",
+    "Officer Reymundo Reyes": "Freer Police Department officer who stopped IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident"
+  }
+}

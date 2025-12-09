@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Yusif Ahmed Rufied", "Defendant"],
+    "NOUN_PHRASE": ["the Defendant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Yusif Ahmed Rufied": "defendant"
+  }
+}

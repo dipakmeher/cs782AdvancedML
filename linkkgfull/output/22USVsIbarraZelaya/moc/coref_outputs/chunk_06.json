@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the United States of America": "the United States of America",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "the sentence": null,
+    "the United States Sentencing Guidelines Manual": "the United States Sentencing Guidelines Manual",
+    "the motion to dismiss": null,
+    "the affidavit": null,
+    "the record": null,
+    "Doc. # 418": null,
+    "Doc. # 422": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "Defendant convicted of conspiracy to commit hostage taking and seeking relief from his sentence",
+    "the United States of America": "Plaintiff responding to Jose Marlon Ibarra-Zelaya's motion for relief",
+    "Adrian Almaguer": "Attorney for Jose Marlon Ibarra-Zelaya, whose performance is being questioned",
+    "Nancy F. Atlas": "Judge reviewing Jose Marlon Ibarra-Zelaya's motion for relief from his sentence",
+    "the United States Sentencing Guidelines Manual": "Manual used for determining punishment under the United States sentencing guidelines, relevant to Jose Marlon Ibarra-Zelaya's claim of incorrect sentence calculation"
+  }
+}

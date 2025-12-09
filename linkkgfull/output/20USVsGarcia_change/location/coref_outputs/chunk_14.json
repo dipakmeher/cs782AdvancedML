@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "United States Court of Appeals for the Fifth Circuit",
+    "district court": "United States District Court",
+    "United States": "United States",
+    "Anglo-American": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the legal case is being tried",
+    "United States Court of Appeals for the Fifth Circuit": "federal court that has ruled on cases related to probable cause and searches, including United States v. Pena-Cantu, United States v. Pacheco, and United States v. Orona-Sanchez",
+    "United States District Court": "court where the suppression motion was filed and considered, also involved in post-verdict juror deposition decisions"
+  }
+}

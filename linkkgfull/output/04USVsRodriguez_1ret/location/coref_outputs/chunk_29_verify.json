@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "Fifth Circuit": "Fifth Circuit",
+    "the border": "Mexico border",
+    "the checkpoint": "Echo 43",
+    "Echo 43": "Echo 43",
+    "rural, two-lane highway": null,
+    "the towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico": "country of origin for illegal aliens and relevant to the smuggling context",
+    "Fifth Circuit": "judicial circuit with relevant case law on reasonable suspicion and Border Patrol stops",
+    "Echo 43": "checkpoint within fifty miles of the Mexico border, significant in determining reasonable suspicion for vehicle stops",
+    "Mexico border": "country border relevant to the smuggling context, where roving Border Patrol stops are governed by a standard requiring specific articulable facts and rational inferences"
+  }
+}

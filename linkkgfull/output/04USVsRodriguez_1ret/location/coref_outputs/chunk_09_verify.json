@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Bruni": "Bruni",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 16": "Highway 16",
+    "Houston": "Houston",
+    "San Antonio": "San Antonio",
+    "Freer": "Freer, Texas",
+    "U.S. 59": "U.S. 59",
+    "Hebbronville": "Hebbronville",
+    "U.S. 359": "U.S. 359",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the loop": "route avoiding checkpoints via FM 2050, U.S. 59, and U.S. 359",
+    "the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route, described as having no shoulder and being 'real narrow' with 'sharp turns', adjacent to the Border Patrol station parking lot, location of drop-offs",
+    "Bruni": "reference point for drop-offs, destination for smuggled aliens",
+    "Highway 16": "route for picked up aliens, potential destination or route for smugglers",
+    "Houston": "destination city for smuggled aliens",
+    "San Antonio": "destination city for smuggled aliens",
+    "Freer, Texas": "location of checkpoint on U.S. 59",
+    "U.S. 59": "road intersecting with FM 2050, location of Freer checkpoint",
+    "Hebbronville": "location of checkpoint on U.S. 359",
+    "U.S. 359": "road intersecting with FM 2050, location of Hebbronville checkpoint",
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, relevant to the events' context",
+    "route avoiding checkpoints via FM 2050, U.S. 59, and U.S. 359": "alternative route used by smugglers to avoid checkpoints"
+  }
+}

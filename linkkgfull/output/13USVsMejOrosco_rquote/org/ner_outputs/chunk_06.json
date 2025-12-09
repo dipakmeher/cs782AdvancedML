@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Congress"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "parole officials"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Congress": "abandoned the rehabilitation model"
+  }
+}

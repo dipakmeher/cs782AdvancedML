@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Arce-Jasso"],
+    "NOUN_PHRASE": ["the Government", "the court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Arce-Jasso": "appellant"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino"],
+    "NOUN_PHRASE": ["the passengers", "the drivers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "testifying agent"
+  }
+}

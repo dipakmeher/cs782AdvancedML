@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Mejia-Orosco", "Paz-Ortega", "Cruz-Morales"],
+    "NOUN_PHRASE": ["the aliens", "relatives of the aliens", "family members", "immigration officials", "law enforcement officials"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mejia-Orosco": "smuggler",
+    "Paz-Ortega": "alien being smuggled",
+    "Cruz-Morales": "alien being smuggled"
+  }
+}

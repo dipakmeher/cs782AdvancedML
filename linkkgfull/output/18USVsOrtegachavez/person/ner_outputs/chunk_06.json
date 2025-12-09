@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ortega-Chavez"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "the government",
+      "the witnesses",
+      "any of the defendant's alibi witnesses",
+      "rebuttal witnesses"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ortega-Chavez": "defendant"
+  }
+}

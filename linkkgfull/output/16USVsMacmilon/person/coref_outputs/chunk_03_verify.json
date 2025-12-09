@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Williams": "Zeba Williams",
+    "Luis Pena": "Luis Pena",
+    "Agent Pena": "Luis Pena",
+    "Manuel Hernandez": "Manuel Hernandez",
+    "Agent Hernandez": "Manuel Hernandez",
+    "the driver": "Zeba Williams",
+    "the passenger": "Raymond McMillon"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant and appellant in an alien transportation case, convicted of several offenses and sentenced to 41 months' imprisonment, traveled with co-defendant Zeba Williams from Houston to San Antonio and then to Laredo, was a passenger in the tractor-trailer",
+    "Zeba Williams": "individual allegedly transporting aliens with McMillon, drove the tractor-trailer, co-conspirator, testified at sentencing that McMillon did not recruit her to commit the offenses and that they entered a joint partnership to smuggle aliens, gave consent to open the door during the checkpoint stop, asked McMillon to accompany him in a tractor-trailer to Laredo, was driving the tractor-trailer",
+    "Luis Pena": "Government agent narrating the checkpoint stop, testified at trial, asked Williams to open the door without ordering him to do so, approached the driver-side door of the tractor-trailer",
+    "Manuel Hernandez": "Government agent narrating the checkpoint stop, testified at trial, prepared to have his canine perform a sniff of the tractor-trailer's exterior"
+  }
+}

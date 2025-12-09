@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Speedy Trial Act": "Speedy Trial Act",
+    "the United States District Court": "United States District Court",
+    "the motion": null,
+    "the hearing": null,
+    "the papers": null,
+    "the post-hearing briefs": null,
+    "the thirty-day exclusion period": null,
+    "the statutory exclusions": null,
+    "the clock": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Speedy Trial Act": "federal law governing trial timing, excluding certain periods of delay",
+    "United States District Court": "court where motions are heard and ruled upon"
+  }
+}

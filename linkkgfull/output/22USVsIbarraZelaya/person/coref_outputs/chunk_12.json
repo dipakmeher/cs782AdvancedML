@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the defendant": "Jose Marlon Ibarra-Zelaya",
+    "the government": null,
+    "the Court": null,
+    "the defendants": "Jose Marlon Ibarra-Zelaya and six co-defendants",
+    "co-defendants": null,
+    "the jury": null,
+    "the Probation Department": null,
+    "the other defendants": null,
+    "his attorney": "Adrian Almaguer",
+    "counsel": "Adrian Almaguer",
+    "a petitioner": null,
+    "a defendant": "Jose Marlon Ibarra-Zelaya",
+    "pro se litigants": null,
+    "a court": null,
+    "a habeas petitioner": null,
+    "defense counsel": "Adrian Almaguer",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "the reviewing court": null,
+    "his counsel": "Adrian Almaguer",
+    "attorney": "Adrian Almaguer",
+    "a sentencing court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant charged with conspiracy and assorted offenses related to an illegal alien smuggling venture, found guilty on all counts, sentenced to 292 months in prison, seeking relief from his sentence under Section 2255, and arguing for relief due to sentencing error, alleging ineffective assistance of counsel",
+    "Jose Marlon Ibarra-Zelaya and six co-defendants": "individuals jointly accused of conspiracy to conceal, harbor, shield, and transport illegal aliens for commercial advantage",
+    "Adrian Almaguer": "affidavit provider and defense counsel for Jose Marlon Ibarra-Zelaya, whose performance is being challenged by Ibarra-Zelaya for alleged ineffectiveness during sentencing, specifically for failing to object to the use of the 2004 Sentencing Guidelines Manual"
+  }
+}

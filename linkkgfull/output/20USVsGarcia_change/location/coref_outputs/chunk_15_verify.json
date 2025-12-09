@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Mexican border": "United States-Mexican border",
+    "an Interstate Highway": "Interstate Highway",
+    "the front seat of the truck cab": null,
+    "the back seat": null,
+    "this vehicle": "Maria De Jesus Garcia's vehicle",
+    "the stop": "stop on Interstate 35 near Cotulla, Texas",
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the pickup truck was stopped, location of Interstate Highway and events took place",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, reference point for distance",
+    "Interstate Highway": "highways where border patrol agents may stop persons, including the location where Maria De Jesus Garcia was stopped",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens, with several passengers admitting to being undocumented and others hiding within the camper compartment, noted for having a heavy or overloaded condition, stopped by border patrol agents Stanley Pruszenski and Alfred Baron",
+    "stop on Interstate 35 near Cotulla, Texas": "location where border patrol agents stopped Maria De Jesus Garcia's vehicle"
+  }
+}

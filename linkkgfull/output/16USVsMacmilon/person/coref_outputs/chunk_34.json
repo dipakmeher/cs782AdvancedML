@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Raymond McMillon",
+    "McMillon": "Raymond McMillon",
+    "Williams": "Zeba Williams",
+    "the district court": null,
+    "the pair": "Raymond McMillon and Zeba Williams",
+    "the defendant's brief": "Raymond McMillon"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant identified as the person motioning for aliens to hide, wore white clothing and a blinking cellular Bluetooth Device during the incident, argued against conspiracy conviction, and was convicted of alien transportation offenses, seeking a reduction in offense level due to minimal or minor participation, denied \u00a7 3B1.2 request",
+    "Zeba Williams": "individual allegedly transporting aliens with McMillon, stopped at an empty parking lot where aliens were waiting, co-conspirator in the case, testified against McMillon at sentencing",
+    "Raymond McMillon and Zeba Williams": "pair who traveled together from Houston to San Antonio and then to Laredo, questioned by Agent Pena at an immigration checkpoint, defendants in the case who requested continuances to file pretrial motions, entered a joint partnership to smuggle aliens"
+  }
+}

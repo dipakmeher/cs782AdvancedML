@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate Highway 35",
+      "United States-Mexican border"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "a highway where a stop occurred and where Stanley Pruszenski and Alfred Baron had previous experience with illegal alien traffic",
+    "United States-Mexican border": "a reference point for the distance to the stop location"
+  }
+}

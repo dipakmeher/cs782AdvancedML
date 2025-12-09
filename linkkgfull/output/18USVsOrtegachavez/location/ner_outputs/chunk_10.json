@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mexico",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the courtroom"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mexico": "country where Alfredo Ortega-Chavez previously ventured to smuggle undocumented aliens",
+    "United States": "country into which Alfredo Ortega-Chavez attempted to smuggle undocumented aliens"
+  }
+}

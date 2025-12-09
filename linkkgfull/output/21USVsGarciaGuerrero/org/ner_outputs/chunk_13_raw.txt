@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["district court", "United States"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "the court that enhanced Inocencio Garcia-Guerrero's sentence",
+    "United States": "the country whose meaning is referenced in the context of intent and causation"
+  }
+}

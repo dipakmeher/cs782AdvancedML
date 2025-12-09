@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that imposed judgment of conviction and sentence",
+    "United States": "party to a plea agreement"
+  }
+}

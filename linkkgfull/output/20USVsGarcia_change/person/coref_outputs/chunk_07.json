@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "Garcia": "Maria De Jesus Garcia",
+    "the Defendant": "Maria De Jesus Garcia",
+    "GARWOOD": "GARWOOD",
+    "the district judge": null,
+    "the government": null,
+    "defense counsel": null,
+    "the jury": null,
+    "Stanley Pruszenski": "Stanley Pruszenski",
+    "Pruszenski": "Stanley Pruszenski",
+    "Alfred Baron": "Alfred Baron",
+    "Baron": "Alfred Baron",
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "the driver": "Lourdes Rangel-Campos",
+    "Lourdes Rangel-Campos": "Lourdes Rangel-Campos",
+    "the male passengers": null,
+    "the men": null,
+    "the women": null,
+    "the female passengers": null,
+    "defense counsel in Garcia's case": null,
+    "the government in Garcia's appeal": null,
+    "the district court in Garcia's trial": null,
+    "the officer": null,
+    "the detaining officers": null,
+    "the passengers": null,
+    "the agent": "Stanley Pruszenski and Alfred Baron",
+    "Brignoni-Ponce": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "Defendant convicted of aiding and abetting the transportation of undocumented aliens, whose vehicle was stopped and searched",
+    "GARWOOD": "Circuit Judge presiding over the appeal",
+    "Stanley Pruszenski": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper, driving the patrol car, did not testify to having reason to believe the vehicle came from the border",
+    "Alfred Baron": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper, observed the truck and its passengers, did not testify to having reason to believe the vehicle came from the border",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation and observed the suspicious vehicle",
+    "Lourdes Rangel-Campos": "Driver of the camper",
+    "Brignoni-Ponce": "Namesake of a test regarding stops near the border"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "border",
+      "Big Bend National Park"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the border",
+      "an area very close to the border",
+      "the district court",
+      "the stop",
+      "the two towns",
+      "the area of the stop",
+      "Highway 385"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border": "physical boundary relevant to the case",
+    "Big Bend National Park": "location with a major highway used by visitors"
+  }
+}

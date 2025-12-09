@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Court": "United States District Court",
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "TxDOT": "Texas Department of Transportation",
+    "Transportation, Planning, and Programming Division": "Texas Department of Transportation, Transportation, Planning, and Programming Division",
+    "the Laredo Division": "Texas Department of Transportation, Laredo Division"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses, with a focus on evaluating evidence such as district traffic maps",
+    "Texas Department of Transportation": "state agency responsible for preparing district traffic maps and determining traffic flow data, providing critical information for law enforcement agencies involved in immigration enforcement and smuggling investigations, with a division in Laredo that collects and determines traffic flow data for specific roads",
+    "Texas Department of Transportation, Transportation, Planning, and Programming Division": "division of the Texas Department of Transportation that collected and determined traffic flow data for Farm-to-Market Road 2050 and U.S. 59, highlighting the importance of local knowledge and data analysis in detecting smuggling operations, with a focus on average daily traffic data",
+    "Texas Department of Transportation, Laredo Division": "division of the Texas Department of Transportation that collected and determined traffic flow data for Farm-to-Market Road 2050 and U.S. 59, providing critical information for law enforcement agencies involved in immigration enforcement and smuggling investigations in the Laredo area"
+  }
+}

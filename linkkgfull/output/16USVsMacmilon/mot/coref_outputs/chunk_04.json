@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a tractor-trailer": "tractor-trailer",
+    "a rental car": null,
+    "the tractor-trailer": "tractor-trailer",
+    "the tractor": "tractor-trailer",
+    "the driver-side door": null,
+    "the engine": null,
+    "the steps": null,
+    "the door": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tractor-trailer": "Vehicle used to transport undocumented aliens, also used for transporting commercial equipment and stopped at Freer, Texas on June 12, 2014; involved in an incident where contraband was detected by a dog"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the government": null,
+    "the district court": "United States District Court",
+    "the jury": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "roving border patrol": "United States Border Patrol",
+    "the officers": "United States Border Patrol",
+    "the detaining officers": "United States Border Patrol",
+    "the Court": "United States District Court",
+    "the agent": "United States Border Patrol",
+    "United States-Mexican border": "United States-Mexican border",
+    "Border Patrol": "United States Border Patrol",
+    "U.S.-Mexican border": "United States-Mexican border",
+    "the police": null,
+    "United States": "United States",
+    "district court in Maria De Jesus Garcia's case": "United States District Court",
+    "the judge": null,
+    "the jury in Maria De Jesus Garcia's trial": null,
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "Stanley Pruszenski and Alfred Baron": "United States Border Patrol",
+    "pickup truck camper": null,
+    "border patrol agents": "United States Border Patrol",
+    "governmental enforcement agents": null,
+    "Court": "United States District Court",
+    "Interstate Highway 35": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court where trial was held and made oral findings of fact regarding the constitutionality of a stop and search, applying the Brignoni-Ponce standard; exercised discretion in giving the Allen charge",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, control, and immigration inspections, with agents operating on roving patrol and making stops based on reasonable suspicion; its agents had recently apprehended illegal alien smugglers at or near the location of a specific stop and were entitled to question occupants about their citizenship and immigration status after a stop",
+    "5th Circuit Court of Appeals": "a court that has relied upon an agent's observation in cases involving stops and searches near the U.S.-Mexican border, made rulings on probable cause, upheld the use of the modified Allen charge, and found no abuse of discretion in the case of Maria De Jesus Garcia; held that the giving of the Allen charge was not error; upheld a district court's refusal to conduct a post-verdict hearing on whether the jury was coerced by a properly given Allen charge; reviewing the issue of stops by roving border patrol agents",
+    "United States-Mexican border": "geographic location relevant to border surveillance and immigration inspections where highways intersect",
+    "United States": "country with constitutional protections, differentiating from police states in its prohibition against unreasonable searches",
+    "Maria De Jesus Garcia": "defendant in the case",
+    "Court": "the court making decisions on stops by immigration agents",
+    "Interstate Highway 35": "highway where Maria De Jesus Garcia was stopped"
+  }
+}

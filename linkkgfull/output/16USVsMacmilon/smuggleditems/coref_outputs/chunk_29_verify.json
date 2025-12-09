@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ramon De La Cruz's pretrial motions": "pretrial motion",
+    "his convictions": "Ramon De La Cruz's convictions",
+    "the evidence": null,
+    "the verdict": null,
+    "the sufficiency challenges": null,
+    "the offenses": null,
+    "the elements of the offenses": null,
+    "a rational jury": null,
+    "the reasonable doubt": null,
+    "the credibility determinations": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "pretrial motion": "motion filed by Ramon De La Cruz before trial, subject to exclusions under the Speedy Trial Act",
+    "Ramon De La Cruz's convictions": "convictions of Ramon De La Cruz for smuggling undocumented aliens, being challenged on sufficiency of evidence"
+  }
+}

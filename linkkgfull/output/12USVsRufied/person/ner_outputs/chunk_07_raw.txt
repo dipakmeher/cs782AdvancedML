@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Henderson", "Defendant"],
+    "NOUN_PHRASE": ["the defendant", "a person of ordinary prudence and caution", "the government", "the magistrate", "the accused"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Henderson": "government witness",
+    "Defendant": "individual accused of a crime"
+  }
+}

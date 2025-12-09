@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Officer Reyes",
+      "Reyes",
+      "Ignacio Rodriguez",
+      "Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the officer",
+      "Defendant",
+      "a family member",
+      "the Freer patrolman"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Officer Reyes": "testifying officer",
+    "Reyes": "testifying officer",
+    "Ignacio Rodriguez": "individual involved in the incident",
+    "Rodriguez": "individual involved in the incident"
+  }
+}

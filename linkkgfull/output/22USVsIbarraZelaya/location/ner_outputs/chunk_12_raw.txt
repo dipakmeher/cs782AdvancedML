@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the States", "the Congress"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

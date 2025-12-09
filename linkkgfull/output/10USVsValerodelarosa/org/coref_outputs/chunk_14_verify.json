@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States District Court",
+    "United States District Judge": "United States District Court",
+    "United States District Court": "United States District Court for the Southern District of Texas",
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court for the Southern District of Texas": "court where Rogelio Valero-De La Rosa's plea was entered, rearraignment took place, and his sworn statements were made",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court giving weight to defendant's statements at the plea colloquy"
+  }
+}

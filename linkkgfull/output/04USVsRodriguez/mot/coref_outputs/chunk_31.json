@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicles": "white sedan and black truck",
+    "the black truck": "black Dodge pickup truck",
+    "the white sedan": "white Malibu sedan",
+    "the patrol car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white, designed to hold five people, used for transporting illegal aliens, stopped by United States Border Patrol Agent Jorge Luis Trevino",
+    "black Dodge truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident, driving in tandem, potentially used for transporting illegal aliens",
+    "black Dodge pickup truck": "subject of a BOLO, involved in a traffic stop",
+    "white sedan": "rental vehicle registered to Dallas-Fort Worth",
+    "black truck": "registered to Corinth, Texas",
+    "white sedan and black truck": "vehicles with out-of-town registrations, one of which was a rental vehicle, raised Jorge Luis Trevino's suspicions"
+  }
+}

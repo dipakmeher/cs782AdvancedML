@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border patrol": "United States Border Patrol",
+    "U.S.-Mexican border": "United States-Mexico Border",
+    "Interstate Highway 35": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency whose agents conduct stops and searches, including roving border patrol agents like Stanley Pruszenski and Alfred Baron, and observe behaviors such as occupants avoiding eye contact or trying to hide",
+    "United States-Mexico Border": "reference point for distance calculation in determining reasonable suspicion for stops",
+    "Interstate Highway 35": "location where previous experience with illegal alien traffic occurred and where the stop took place, known for being a common smuggling route"
+  }
+}

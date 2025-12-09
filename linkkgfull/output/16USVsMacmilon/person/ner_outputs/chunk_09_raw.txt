@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Martinez-Fuerte"],
+    "NOUN_PHRASE": ["the agent", "a Border Patrol agent", "officers", "travelers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Martinez-Fuerte": "referenced in a legal context regarding checkpoint stops and detentions"
+  }
+}

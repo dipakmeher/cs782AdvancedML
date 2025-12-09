@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "counsel": "Rogelio Valero-De La Rosa's counsel",
+    "the record": null,
+    "Rogelio Valero-De La Rosa's family situation": null,
+    "his membership in a gang": null,
+    "periods of incarceration": null,
+    "violation of the laws of the United States by returning illegally after deportation": "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa",
+    "violating supervised release by committing additional offenses": null,
+    "using drugs": null,
+    "failure to report as directed": null,
+    "failure to participate in drug treatment": null,
+    "a defendant who had repeatedly illegally returned to the United States after deportation": "Rogelio Valero-De La Rosa",
+    "who had engaged in alien smuggling": null,
+    "who had used aliases": null,
+    "who listed no substantial assets or liabilities on his financial statement was \"culturally assimilated\"": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant in a court case for illegal re-entry after deportation, native and citizen of Mexico, sentenced to 90 months of imprisonment, made statements under oath, has a family situation and is a member of a gang",
+    "United States District Court for the Southern District of Texas": "Court where the case is being heard, calculated advisory guideline range and sentenced defendant, considered Rogelio Valero-De La Rosa's family situation and membership in a gang during sentencing",
+    "Rogelio Valero-De La Rosa's counsel": "Defendant's legal representative, accused of being ineffective in representing Rogelio Valero-De La Rosa, subject to standards of professional conduct",
+    "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa": "Criminal charges pending against the defendant, includes violation of supervised release by committing additional offenses"
+  }
+}

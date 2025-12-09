@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "the vehicle registration": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana, searched by officers for drugs, subject of a traffic stop due to unsafe lane changes and near-collisions, with consent given by Federico Saldana for search",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by officers, containing a scissor lift and a piece of heavy machinery",
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, identified himself as a truck driver by trade, has a history of arrests including smuggling of illegal aliens and drugs, served 9 years in federal prison"
+  }
+}

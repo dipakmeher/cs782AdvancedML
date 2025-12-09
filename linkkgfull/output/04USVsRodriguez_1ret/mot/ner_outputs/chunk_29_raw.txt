@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the vehicle", "a car", "Defendants' vehicles", "ranch trucks", "hunting jeeps"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

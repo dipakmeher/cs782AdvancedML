@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["the aliens"],
+    "NOUN_PHRASE": ["the tractor-trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "the aliens": "undocumented immigrants discovered at the immigration checkpoint stop"
+  }
+}

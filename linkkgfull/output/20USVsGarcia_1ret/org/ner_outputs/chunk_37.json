@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States district court",
+      "federal district court"
+    ],
+    "NOUN_PHRASE": [
+      "the federal district court jury",
+      "the United States district court judge"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States district court": "court that knows the taking of evidence required two days",
+    "federal district court": "court where the jury deliberated"
+  }
+}

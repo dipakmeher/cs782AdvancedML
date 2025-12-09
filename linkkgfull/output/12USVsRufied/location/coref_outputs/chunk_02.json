@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Southern District of Texas": "Southern District of Texas",
+    "United States": "United States",
+    "Highway 59": "Highway 59",
+    "the Border Patrol check point": "Border Patrol check point on Highway 59",
+    "the checkpoint": "Border Patrol check point on Highway 59",
+    "the hospital": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Southern District of Texas": "location where Yusif Ahmed Rufied was charged with unlawfully transporting illegal aliens",
+    "United States": "country where aliens entered or remained in violation of law and were transported by Yusif Ahmed Rufied",
+    "Highway 59": "location of the Border Patrol check point",
+    "Border Patrol check point on Highway 59": "checkpoint where sixty undocumented aliens were found in a tractor trailer"
+  }
+}

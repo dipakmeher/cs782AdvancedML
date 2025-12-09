@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the agents",
+      "the majority",
+      "the appellant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

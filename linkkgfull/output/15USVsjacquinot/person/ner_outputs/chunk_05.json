@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Graham"
+    ],
+    "NOUN_PHRASE": [
+      "the driver",
+      "a small-framed person"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "observer of the vehicle"
+  }
+}

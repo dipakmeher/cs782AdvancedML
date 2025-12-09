@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "Williams"],
+    "NOUN_PHRASE": ["the district court", "the defendant", "the pair", "the defendant's brief"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "defendant",
+    "Williams": "testifying party"
+  }
+}

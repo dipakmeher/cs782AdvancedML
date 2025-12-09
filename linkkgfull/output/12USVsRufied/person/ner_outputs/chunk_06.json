@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Henderson",
+      "Claudia",
+      "Defendant",
+      "Codefendant"
+    ],
+    "NOUN_PHRASE": [
+      "the lady",
+      "a person with black skin color",
+      "the primary agent",
+      "the passenger",
+      "the driver",
+      "the material witness",
+      "the other material witnesses"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Henderson": "investigating agent",
+    "Claudia": "lady mentioned by Defendant",
+    "Defendant": "individual being investigated",
+    "Codefendant": "individual being investigated alongside Defendant"
+  }
+}

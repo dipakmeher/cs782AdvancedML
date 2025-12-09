@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the undersigned": "J. Scott Hacker",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "Agent Trevino": "United States Border Patrol",
+    "Jorge Luis Trevino": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J. Scott Hacker": "United States Magistrate Judge who does not consider the fact that the black Dodge pickup truck was riding low as contributing to reasonable suspicion for a traffic stop, analyzed the capacity of the white Malibu sedan during the hearing",
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents such as Jorge Luis Trevino encountering illegals in vehicles and evaluating circumstances related to reasonable suspicion",
+    "white Malibu sedan": "vehicle involved in a case where it was determined to have five passengers, which was not more than the rate of capacity in the passenger compartment, providing context for the traffic stop and investigation",
+    "black Dodge pickup truck": "vehicle mentioned in a comparison of cases, with its 'riding low' characteristic not considered as contributing to reasonable suspicion for a traffic stop by J. Scott Hacker",
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops, took judicial notice of sunset time in Laredo, Texas on February 4, 2013"
+  }
+}

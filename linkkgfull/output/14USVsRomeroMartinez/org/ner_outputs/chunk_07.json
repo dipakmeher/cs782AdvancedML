@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas Court of Criminal Appeals",
+      "Woods court"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Court of Criminal Appeals": "established a new reasonableness standard",
+    "Woods court": "eliminated the former test and set out the totality of the circumstances test"
+  }
+}

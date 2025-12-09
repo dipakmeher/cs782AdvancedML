@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["F-150s", "F-250s"],
+    "NOUN_PHRASE": ["oilfield trucks", "tankers", "utility trucks", "small cars", "oil field truck", "cars", "vehicles", "trucks"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "F-150s": "used by most of the ranchers",
+    "F-250s": "used by most of the ranchers"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this court": "5th Circuit Court of Appeals",
+    "this nation": "United States",
+    "the highways": "highways of the United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the legal case is taking place and whose Constitution protects residents from arbitrary stops by governmental agents",
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit reviewing the case regarding roving border patrols and the Brignoni-Ponce standard, providing instructions to jurors on their duties and responsibilities, and upholding the use of the modified Allen charge",
+    "highways of the United States": "public roads where travelers, including those of Hispanic descent, may be stopped by border patrol agents"
+  }
+}

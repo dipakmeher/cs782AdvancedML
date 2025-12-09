@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the truck",
+      "the record",
+      "the prevailing party"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

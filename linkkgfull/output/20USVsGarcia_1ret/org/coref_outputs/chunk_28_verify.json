@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States-Mexican border": "United States-Mexico Border",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico Border": "geographical boundary used as a reference point in determining reasonable suspicion for stops",
+    "United States Court of Appeals for the Fifth Circuit": "federal court reviewing the issue of stops by border patrol agents and making decisions on reasonable suspicion"
+  }
+}

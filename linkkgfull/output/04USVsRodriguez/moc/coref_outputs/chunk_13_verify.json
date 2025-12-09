@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Border Patrol radio": "the United States Border Patrol radio",
+    "United States Border Patrol Agent": "Agent Jorge Luis Trevino",
+    "the white Malibu sedan": "the white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "the black Dodge truck": "the black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations, including details about traffic stops and encounters with vehicles",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent who encountered Defendants' vehicles and testified about his knowledge of Hertz rental cars",
+    "the white Malibu sedan": "Vehicle rented by IGNACIO RODRIGUEZ, JR. from Hertz at the Laredo International Airport, registered to Hertz Dallas-Fort Worth, and involved in the surveillance on Farm-to-Market Road 2050, designed to hold five people with two sitting in front and three in back.",
+    "RICARDO RODRIGUEZ, JR.": "Defendant and individual related to IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "Paved road with two lanes and no shoulder, where Agent Jorge Luis Trevino encountered the vehicles, located adjacent to the United States Border Patrol station parking lot",
+    "San Pablo Road": "Road south of the wind farm on Farm-to-Market Road 2050, extending to the east and providing vehicle access to Highway 16",
+    "the black Dodge pickup truck": "Vehicle driven by IGNACIO RODRIGUEZ, JR., searched and impounded due to lack of insurance information, and also involved in the surveillance on Farm-to-Market Road 2050"
+  }
+}

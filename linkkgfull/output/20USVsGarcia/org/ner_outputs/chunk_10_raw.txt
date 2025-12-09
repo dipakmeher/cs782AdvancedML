@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["5th Circuit Court of Appeals"],
+    "NOUN_PHRASE": ["the jury", "the police"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "a court that has made a ruling on probable cause"
+  }
+}

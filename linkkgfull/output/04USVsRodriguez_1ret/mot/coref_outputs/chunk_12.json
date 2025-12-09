@@ -1,0 +1,41 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his vehicle": null,
+    "the stop of his vehicle": null,
+    "a traffic stop": null,
+    "the vehicle": null,
+    "Malibu": "white Malibu sedan",
+    "Dodge truck": "black Dodge truck",
+    "the vehicles": "black Dodge truck and white car",
+    "a white one": "white Malibu sedan",
+    "a black one": "black Dodge truck",
+    "a white Malibu sedan": "white Malibu sedan",
+    "a black Dodge truck": "black Dodge truck",
+    "two vehicles": "black Dodge truck and white car",
+    "vehicles with illegals": null,
+    "the two vehicles": "black Dodge truck and white car",
+    "F-150s": "Ford F-150s",
+    "F-250s": "Ford F-250s",
+    "oilfield trucks": null,
+    "tankers": null,
+    "utility trucks": null,
+    "small cars": null,
+    "oil field truck": null,
+    "cars": null,
+    "trucks": null,
+    "the black Dodge truck": "black Dodge truck",
+    "the white car": "white car",
+    "the black truck": "black Dodge truck",
+    "a work truck": null,
+    "the camper": null,
+    "Dodge": "black Dodge truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a vehicle mentioned as a white sedan, involved in the incident at the Freer immigration checkpoint",
+    "black Dodge truck": "a black truck with a camper, suspected of being used to transport illegal aliens",
+    "white car": "a vehicle driving in tandem with the black Dodge truck, possibly involved in smuggling operations",
+    "black Dodge truck and white car": "vehicles jointly involved in the incident, with the black Dodge truck following the white car",
+    "Ford F-150s": "used by ranchers",
+    "Ford F-250s": "used by ranchers"
+  }
+}

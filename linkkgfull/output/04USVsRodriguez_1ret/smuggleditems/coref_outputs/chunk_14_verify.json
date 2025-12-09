@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "the aliens": "undocumented aliens",
+    "illegals": "undocumented aliens",
+    "vehicles with illegals": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, often dropped off near Farm-to-Market Road 2050 to avoid checkpoints",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens"
+  }
+}

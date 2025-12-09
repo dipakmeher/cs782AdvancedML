@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "a pickup": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "two cars": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "two vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the load car": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the lead car": "RICARDO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens, both lacked wind farm stickers and were traveling in tandem on Farm-to-Market Road 2050 with out-of-town registrations",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes, suspected to harbor illegal aliens due to its proximity to the Mexico border, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Corinth, Texas",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company"
+  }
+}

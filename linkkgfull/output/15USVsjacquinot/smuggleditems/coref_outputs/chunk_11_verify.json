@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the U.S. District Court": "U.S. District Court",
+    "United States/Mexican Border Patrol": "United States/Mexican Border Patrol",
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "Brignoni-Ponce Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the United States/Mexican Border": "United States/Mexican Border",
+    "the totality of the circumstances": null,
+    "the stop": null,
+    "the proximity element": null,
+    "the remaining factors": null,
+    "the large white Ford pickup truck in question": "large white Ford pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. District Court": "court that found the totality of the circumstances provided United States/Mexican Border Patrol with reasonable suspicion to warrant the stop of the large white Ford pickup truck",
+    "United States/Mexican Border Patrol": "agency whose agents stopped the large white Ford pickup truck driven by Brignoni-Ponce Jacquinot based on reasonable suspicion",
+    "large white Ford pickup truck": "vehicle driven by Brignoni-Ponce Jacquinot, stopped by United States/Mexican Border Patrol due to suspicious behavior and proximity to the United States/Mexican Border",
+    "Brignoni-Ponce Jacquinot": "defendant driving the large white Ford pickup truck, subject of a stop by United States/Mexican Border Patrol",
+    "United States/Mexican Border": "border near which the large white Ford pickup truck was initially observed and later stopped, with its proximity being a key factor in the stop"
+  }
+}

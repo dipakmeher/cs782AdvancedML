@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Cotulla, Texas": "Cotulla, Texas",
+    "Interstate 35": "Interstate 35",
+    "Texas-Mexico border": "Texas-Mexico border",
+    "Texas": "Texas",
+    "Mexico": "Mexico",
+    "the vehicle": null,
+    "the floorboard of the truck": null,
+    "the back of the truck": null,
+    "the toolbox": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location where the investigatory stop took place",
+    "Interstate 35": "road where Carlos Martinez-Romero was traveling",
+    "Texas-Mexico border": "border near where the stop occurred",
+    "Texas": "state where the stop took place",
+    "Mexico": "country of Carlos Martinez-Romero's citizenship"
+  }
+}

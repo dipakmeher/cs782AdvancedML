@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raul Rafael Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "the United States of America": "United States of America",
+    "the law of the case doctrine": null,
+    "Article III": null,
+    "the case": null,
+    "Signal Oil & Gas Co. v. Barge W-701": null,
+    "the appeal": null,
+    "the United States Court of Appeals": "United States Court of Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raul Rafael Arce-Jasso": "defendant in a criminal case involving cocaine discovered during an immigration stop, argued against the United States of America's right to appeal the judgment for acquittal",
+    "United States of America": "party in the appeal, appellant regarding post-verdict suppression order, responsible for filing notice of appeal within 30 days after suppression decision is final, restricted by the law of the case doctrine",
+    "United States Court of Appeals": "court hearing the appeal, bound by the law of the case doctrine"
+  }
+}

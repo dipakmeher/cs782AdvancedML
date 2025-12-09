@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Border Patrol",
+      "Government"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "law enforcement agency",
+    "Government": "prevailing party at the suppression hearing"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S.-Mexican border",
+      "Interstate Highway 35",
+      "border patrol"
+    ],
+    "NOUN_PHRASE": [
+      "the border patrol agent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexican border": "geographic boundary",
+    "Interstate Highway 35": "highway where the stop occurred",
+    "border patrol": "law enforcement agency"
+  }
+}

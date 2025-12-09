@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Andrew P. Graham": "Agent Andrew P. Graham",
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "U.S. District Court": "U.S. District Court",
+    "United States/Mexican Border Patrol agents": "United States/Mexican Border Patrol",
+    "Brignoni-Ponce Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the driver": "Brignoni-Ponce Jacquinot",
+    "the school zone sign": null,
+    "Highway 118": null,
+    "Alpine, Texas": null,
+    "Texas Highway 385 and Highway 90 intersection": null,
+    "a stop sign": null,
+    "the large white Ford pickup truck's five-second pause at the stop sign": null,
+    "the school zone speed limit": null,
+    "Big Bend National Park to Alpine, Texas": null,
+    "United States/Mexican Border Patrol draw from historical facts and the events leading up to a stop": null,
+    "the totality of the driver's behavior": null,
+    "Particular aspects of the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Agent Andrew P. Graham": "United States/Mexican Border Patrol agent who followed the large white Ford pickup truck and observed its suspicious behavior",
+    "large white Ford pickup truck": "vehicle driven by Brignoni-Ponce Jacquinot, stopped by United States/Mexican Border Patrol due to suspicious behavior and proximity to the United States/Mexican Border, deviating from typical traffic patterns on Texas Highway 385 early on a Sunday morning",
+    "U.S. District Court": "court that found the totality of the circumstances provided United States/Mexican Border Patrol with reasonable suspicion to warrant the stop of the large white Ford pickup truck, considering Texas Highway 385 as a notorious smuggling route",
+    "United States/Mexican Border Patrol": "agency whose agents stopped the large white Ford pickup truck driven by Brignoni-Ponce Jacquinot based on reasonable suspicion, drawing from historical facts and events leading up to the stop",
+    "Brignoni-Ponce Jacquinot": "defendant driving the large white Ford pickup truck, subject of a stop by United States/Mexican Border Patrol, with his behavior and the vehicle's presence on Texas Highway 385 contributing to reasonable suspicion"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the group": "nineteen undocumented aliens",
+    "the other members of the group": "eighteen undocumented aliens",
+    "two of the aliens": "two undocumented aliens",
+    "the aliens": "nineteen undocumented aliens",
+    "seven additional undocumented aliens": "seven other undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented alien": "individual being smuggled, part of a group that included Alma Delia Simon-Fernandez, transported by Inocencio Garcia-Guerrero for financial gain",
+    "nine undocumented aliens": "group of nine undocumented immigrants being smuggled from Mexico to the United States, led by Inocencio Garcia-Guerrero",
+    "seven other undocumented aliens": "additional group of seven undocumented immigrants being smuggled from Mexico to the United States, part of the larger group of nineteen",
+    "nineteen undocumented aliens": "individuals being smuggled through South Texas, led by Inocencio Garcia-Guerrero, with inadequate water and food, subjected to substantial risk of death or serious bodily injury during the smuggling journey, transported unrestrained in the bed of a pickup truck",
+    "Alma Delia Simon-Fernandez": "deceased undocumented female alien who died due to heat stroke caused by harsh conditions during the South Texas desert trek",
+    "Jaime Gomez-Arroyo": "individual met by Border Patrol agents",
+    "Inocencio Garcia-Guerrero": "defendant, alien smuggler guide responsible for creating substantial risk of death or serious bodily injury to the undocumented aliens during the smuggling journey through South Texas, transported aliens with inadequate water and food in the heat of summer for financial gain",
+    "two undocumented aliens": "adult males found severely dehydrated and showing acute signs of heat stroke near the emergency call box"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a rural road used by ranchers, oilfield trucks, and utility trucks"
+  }
+}

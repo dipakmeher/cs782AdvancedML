@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented aliens": "undocumented aliens",
+    "pickup truck camper": "pickup truck camper",
+    "the pickup truck camper": "pickup truck camper",
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals suspected of crossing the border illegally, potentially traveling in a crowded pickup truck camper, often stopped by immigration agents based on their appearance and circumstances",
+    "pickup truck camper": "vehicle stopped by United States Border Patrol on Interstate Highway 35 in Texas, carrying individuals suspected of being undocumented aliens",
+    "Maria De Jesus Garcia": "defendant arguing against the use of the modified Allen charge, claiming it was coercive and seeking post-verdict discovery through juror depositions",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, focusing on the modified Allen charge's potential coercive effect and its proper use in this instance"
+  }
+}

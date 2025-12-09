@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "five or six illegal aliens": "undocumented aliens",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the driver": "IGNACIO RODRIGUEZ, JR.",
+    "the stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the traffic stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the United States Border Patrol radio": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan rented by RICARDO RODRIGUEZ, JR. at the Laredo International Airport, registered to Hertz Rental Car Company, containing five or six illegal aliens",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., impounded due to lack of proof of insurance and potential theft concerns",
+    "undocumented aliens": "Individuals being transported in vehicles, displaying suspicious behavior such as wearing caps and appearing stiff, found in RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who was placed in holding cells, potentially constituting a de facto arrest, driver of the black Dodge pickup truck",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop on Farm-to-Market Road 2050 where United States Border Patrol Agent Hugo Benavides arrested IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol": "Law enforcement agency involved in the incident, with agents arriving at the scene after Officer Reymundo Reyes's interaction with IGNACIO RODRIGUEZ, JR."
+  }
+}

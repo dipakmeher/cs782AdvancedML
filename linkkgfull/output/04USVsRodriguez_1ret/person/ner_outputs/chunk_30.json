@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Trevino"
+    ],
+    "NOUN_PHRASE": [
+      "the officer",
+      "the drivers",
+      "the defendant",
+      "the patrol car",
+      "the officers",
+      "the agents",
+      "the driver"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "explaining his suspicions and actions during a traffic stop"
+  }
+}

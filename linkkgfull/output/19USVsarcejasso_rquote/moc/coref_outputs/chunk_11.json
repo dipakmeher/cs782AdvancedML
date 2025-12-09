@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States of America's argument": "the United States of America's argument regarding post-verdict suppression order",
+    "a post-verdict suppression order": "a post-verdict suppression order in the case of Raul Rafael Arce-Jasso",
+    "the proceedings": "the legal proceedings against Raul Rafael Arce-Jasso",
+    "Rule 4(b)(1)(B)(i)": "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)",
+    "the judgment or order being appealed": "the written order reaffirming the decision to suppress the cocaine",
+    "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)": "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)",
+    "the deadline for the United States of America": "September 11, 2003",
+    "the motion for reconsideration of granting suppression entered on August 12, 2003": "the United States of America's motion for reconsideration of the decision to suppress the cocaine",
+    "the language of Rule 4(b)(1)(B)(i)": "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)",
+    "the United States of America": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States of America's argument regarding post-verdict suppression order": "Argument made by the United States of America about the timing of a post-verdict suppression order",
+    "a post-verdict suppression order in the case of Raul Rafael Arce-Jasso": "Order suppressing evidence after the verdict in Raul Rafael Arce-Jasso's case",
+    "the legal proceedings against Raul Rafael Arce-Jasso": "Court case involving Raul Rafael Arce-Jasso",
+    "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)": "Rule governing the timing and filing of appeals by the United States Government",
+    "the written order reaffirming the decision to suppress the cocaine": "Order reaffirming the suppression of the cocaine evidence",
+    "September 11, 2003": "Deadline for the United States of America to file an appeal",
+    "the United States of America's motion for reconsideration of the decision to suppress the cocaine": "Motion filed by the United States of America to reconsider the suppression of the cocaine evidence",
+    "United States of America": "Plaintiff-Appellant in the case"
+  }
+}

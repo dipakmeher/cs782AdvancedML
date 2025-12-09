@@ -1,0 +1,26 @@
+[2025-07-15 22:34:04] Starting Chunking Step...
+[2025-07-15 22:34:04] Starting chunking for ./input/02yusufsmall.txt.txt...
+[2025-07-15 22:34:04] Transformers library is not installed. Run: pip install transformers
+[2025-07-15 22:34:04] Chunking completed in 0.06 seconds.
+[2025-07-15 22:34:04] Cumulative time after Chunking: 0.06 seconds.
+[2025-07-15 22:34:04] Starting NER Step...
+[2025-07-15 22:34:05] Found 0 chunk files.
+[2025-07-15 22:34:05] NER completed in 0.68 seconds.
+[2025-07-15 22:34:05] Cumulative time after NER: 0.74 seconds.
+[2025-07-15 22:34:05] Starting Coreference Resolution Step...
+[2025-07-15 22:34:05] Final memory saved to: output/02yusufsmall.txt/person/final_memory.json
+[2025-07-15 22:34:05] Starting verification pass 1...
+[2025-07-15 22:34:05] Final memory saved to: output/02yusufsmall.txt/person/final_memory.json
+[2025-07-15 22:34:05] Starting verification pass 2...
+[2025-07-15 22:34:05] Final memory saved to: output/02yusufsmall.txt/person/final_memory.json
+[2025-07-15 22:34:05] Coreference Resolution completed in 0.18 seconds.
+[2025-07-15 22:34:05] Cumulative time after Coref: 0.92 seconds.
+[2025-07-15 22:34:05] Starting Final Coref Resolution Step...
+[2025-07-15 22:34:05] Starting coreference resolution loop
+[2025-07-15 22:34:05] 0 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-07-15 22:34:05] Merging all resolved chunks into output/02yusufsmall.txt/person/person_resolved_02yusufsmall.txt.txt
+[2025-07-15 22:34:05] All resolved chunks merged and saved to output/02yusufsmall.txt/person/person_resolved_02yusufsmall.txt.txt
+[2025-07-15 22:34:05] Completed coreference resolution for all chunks.
+[2025-07-15 22:34:05] Final Resolution completed in 0.18 seconds.
+[2025-07-15 22:34:05] Cumulative time after Final Resolution: 1.10 seconds.
+[2025-07-15 22:34:05] Total pipeline time: 1.10 seconds.

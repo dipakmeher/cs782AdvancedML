@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Corinth", "Dallas"],
+    "NOUN_PHRASE": ["the ranches", "the specific location"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Corinth": "a suburb",
+    "Dallas": "a city"
+  }
+}

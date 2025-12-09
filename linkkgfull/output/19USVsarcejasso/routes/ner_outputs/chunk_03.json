@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "I-35"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "I-35": "location of a border patrol checkpoint"
+  }
+}

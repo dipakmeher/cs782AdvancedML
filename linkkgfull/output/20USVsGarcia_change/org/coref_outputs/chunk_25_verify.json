@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "border patrol": "United States Border Patrol",
+    "the border patrol agent": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographic boundary relevant to immigration and smuggling cases, with areas near the border considered high-risk for illegal alien traffic",
+    "Interstate Highway 35": "highway where stops and searches may occur, commonly used for smuggling of aliens, with agents observing vehicle behavior such as slow speed and heavy loading, and considering factors like proximity to the United States-Mexican border and history of illegal alien traffic",
+    "United States Border Patrol": "border patrol agent involved in stops and searches, with expertise in distinguishing between characteristics of travelers who are illegal aliens and those lawfully present in the United States, and considering factors such as vehicle appearance and passenger behavior, with knowledge of common smuggling routes and methods"
+  }
+}

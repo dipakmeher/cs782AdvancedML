@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a certificate of appealability": "certificate of appealability",
+    "the petitioner": null,
+    "the United States District Court's assessment of the constitutional claims": null,
+    "reasonable jurists": null,
+    "the petition": null,
+    "the issues presented": null,
+    "a valid claim of the denial of a constitutional right": null,
+    "the movant": null,
+    "the entire record of the criminal proceeding": null,
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "the United States Federal Grand Jury": "United States Federal Grand Jury",
+    "the certificate of appealability": "certificate of appealability"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "certificate of appealability": "document required for an appeal to proceed under the Antiterrorism and Effective Death Penalty Act of 1996, which will not issue unless the petitioner makes a substantial showing of the denial of a constitutional right",
+    "Nancy F. Atlas": "judge who concludes that jurists of reason would not debate whether the movant has stated a valid claim or whether any procedural ruling in this case was correct, resulting in the denial of a certificate of appealability",
+    "United States Federal Grand Jury": "grand jury that may deny a certificate of appealability, sua sponte, without requiring further briefing or argument"
+  }
+}

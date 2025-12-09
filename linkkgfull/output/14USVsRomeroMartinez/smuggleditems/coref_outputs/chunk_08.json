@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "marijuana": "marijuana",
+    "six bundles of marijuana": "marijuana",
+    "the toolbox": null,
+    "the crew-cab truck": "Carlos Martinez-Romero's crew-cab truck",
+    "the key": null,
+    "the floorboard": null,
+    "the border-crosser card": null,
+    "the proof of citizenship": null,
+    "illegal aliens": null,
+    "narcotics": null,
+    "a vehicle": null,
+    "the stowage": null,
+    "Carlos Martinez-Romero's crew-cab truck": "Carlos Martinez-Romero's crew-cab truck",
+    "United States Border Patrol Agent David Fitzgerald's vehicle": "United States Border Patrol Agent David Fitzgerald's vehicle",
+    "the back seat": null,
+    "the back seat area": null,
+    "the stow-away location": null,
+    "the modification": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "marijuana": "possession of which Carlos Martinez-Romero was convicted, found in six bundles totaling one hundred and sixty-nine pounds in the toolbox",
+    "illegal aliens": "smuggled persons",
+    "narcotics": "smuggled substances",
+    "Carlos Martinez-Romero's crew-cab truck": "vehicle used by Carlos Martinez-Romero during the stop, with a modified back seat, registered in Edna, Texas",
+    "United States Border Patrol Agent David Fitzgerald's vehicle": "vehicle used by United States Border Patrol Agent David Fitzgerald to follow Carlos Martinez-Romero",
+    "the modification": "alteration to the crew-cab truck's back seat area, suspected to be for illegal purposes"
+  }
+}

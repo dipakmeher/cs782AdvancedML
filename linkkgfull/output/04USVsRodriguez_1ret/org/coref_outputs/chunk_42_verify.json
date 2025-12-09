@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agent": "United States Border Patrol Agent Jorge Luis Trevino",
+    "Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "the Court": "United States District Court",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law. Involved in the stop of the black Dodge pickup truck and white Malibu sedan.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Agent who encountered Defendants' vehicles, white Malibu sedan and black Dodge pickup truck, within the benchmark fifty miles from the Mexico border; has nearly seven years of experience with the United States Border Patrol and over a year of experience at the Freer immigration checkpoint.",
+    "United States District Court": "heard motions to suppress evidence obtained from the vehicle stops and arrests of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Freer Immigration Checkpoint": "Checkpoint where the initial stop occurred and interviews were conducted",
+    "Farm-to-Market Road 2050": "road frequently and increasingly used to circumvent the checkpoints on both U.S. Highway 59 and U.S. Highway 359, known as a smuggling route"
+  }
+}

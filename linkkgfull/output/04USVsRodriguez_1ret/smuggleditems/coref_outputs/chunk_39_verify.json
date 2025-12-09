@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "aliens": "undocumented aliens",
+    "narcotics": null,
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Farm-to-Market Road 2050": null,
+    "Corinth, Texas": null,
+    "Dallas, Texas": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, often dropped off near Farm-to-Market Road 2050 to avoid checkpoints and walk to Highway 16 for further transportation to cities like Houston or San Antonio, sitting stiff and not communicating with each other during transport, admitted to being in the country illegally",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes, suspected to harbor illegal aliens due to its proximity to the Mexico border, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050"
+  }
+}

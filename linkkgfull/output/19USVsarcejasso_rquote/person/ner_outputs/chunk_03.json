@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Arce-Jasso"
+    ],
+    "NOUN_PHRASE": [
+      "a magistrate judge",
+      "the district court",
+      "Arce-Jasso's counsel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Arce-Jasso": "defendant"
+  }
+}

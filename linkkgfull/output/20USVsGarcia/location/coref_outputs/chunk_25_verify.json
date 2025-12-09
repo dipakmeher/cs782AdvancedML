@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "this country": "United States",
+    "the highway": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical reference point relevant for determining distance and context of illegal alien traffic",
+    "United States": "country where the legal case is taking place, with a diverse population including individuals of Hispanic descent",
+    "Interstate Highway 35": "common smuggling route with known alien smuggling activity, subject to roving border patrol stops"
+  }
+}

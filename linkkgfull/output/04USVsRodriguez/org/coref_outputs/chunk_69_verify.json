@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Officer Reymundo Reyes": "Freer Police Department",
+    "Reymundo Reyes": "Freer Police Department",
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "Hugo Benavides": "United States Border Patrol",
+    "the undersigned": "J. Scott Hacker",
+    "United States Border Patrol's arrival": "United States Border Patrol",
+    "a white passenger vehicle": null,
+    "a black truck": "black Dodge pickup truck",
+    "Reymundo Reyes's account": "Freer Police Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops, took judicial notice of sunset time in Laredo, Texas on February 4, 2013",
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents such as Jorge Luis Trevino encountering illegals in vehicles and evaluating circumstances related to reasonable suspicion",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., with Officer Reymundo Reyes conducting the initial questioning",
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses, with a focus on evaluating evidence such as district traffic maps",
+    "J. Scott Hacker": "United States Magistrate Judge who does not consider the fact that the black Dodge pickup truck was riding low as contributing to reasonable suspicion for a traffic stop, analyzed the capacity of the white Malibu sedan during the hearing",
+    "Reymundo Reyes": "Freer Police Department officer who could not recall exactly when IGNACIO RODRIGUEZ, JR. was informed that a canine was coming to conduct the search, explained that stolen vehicles are not necessarily reported stolen immediately, has experience in impounding vehicles due to lack of proof of insurance or other issues",
+    "Hugo Benavides": "United States Border Patrol agent who participated in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., transporting him to the Freer immigration checkpoint for further questioning"
+  }
+}

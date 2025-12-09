@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Fifth Circuit",
+      "Ford"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "a court that has noted the order of vehicles in a smuggling venture is not significant",
+    "Ford": "a truck manufacturer"
+  }
+}

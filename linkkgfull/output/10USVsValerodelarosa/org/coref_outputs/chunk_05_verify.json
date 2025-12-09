@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Judge": "United States District Court",
+    "United States Magistrate Judge": "United States District Court",
+    "the Magistrate Judge": "United States District Court",
+    "the Magistrate": "United States District Court",
+    "the United States District Court": "United States District Court",
+    "the parties": null,
+    "United States Sentencing Guidelines": "United States Sentencing Commission"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that may accept guilty plea and enter final judgment, explained the range of punishment to Rogelio Valero-De La Rosa",
+    "United States Sentencing Commission": "issuer of the Guidelines Manual consulted in determining sentence"
+  }
+}

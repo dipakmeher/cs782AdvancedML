@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Kazen", "Valero"],
+    "NOUN_PHRASE": ["the Defendant", "the Court", "the United States Magistrate Judge", "Senior United States District Judge", "the probation office", "Valero's counsel"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Kazen": "Senior United States District Judge",
+    "Valero": "Defendant"
+  }
+}

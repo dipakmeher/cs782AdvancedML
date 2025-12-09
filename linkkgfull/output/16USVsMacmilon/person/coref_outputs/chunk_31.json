@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "Agent Pena": "Luis Pena",
+    "Agent Camacho": "Eric Camacho",
+    "Williams": "Zeba Williams",
+    "the person": null,
+    "the aliens": null,
+    "the jury": null,
+    "the witnesses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant identified as the person motioning for aliens to hide, wore white clothing and a blinking cellular Bluetooth Device during the incident, argued against conspiracy conviction",
+    "Zeba Williams": "individual allegedly transporting aliens with McMillon, stopped at an empty parking lot where aliens were waiting, co-conspirator in the case",
+    "Ramon De La Cruz": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Jorge Miguel Hernandez-Gomez": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Luis Pena": "Government agent narrating the checkpoint stop, testified about the events during the trial",
+    "Eric Camacho": "Border Patrol Agent testifying about how aliens or their families commonly pay smugglers indirectly"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a case",
+      "a district court",
+      "the guidelines",
+      "the universe",
+      "the sentence"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

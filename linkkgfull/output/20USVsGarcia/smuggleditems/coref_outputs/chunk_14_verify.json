@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Allen charge used in the 5th Circuit Court of Appeals": "modified Allen charge",
+    "Maria De Jesus Garcia's trial": "United States v. Garcia",
+    "the jury in Maria De Jesus Garcia's trial": "United States v. Garcia",
+    "the dissenting jurors": null,
+    "the United States District Court": "United States District Court",
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "modified Allen charge": "a form of jury instruction used in the 5th Circuit Court of Appeals, considered permissible within certain limitations, given to the jury in Maria De Jesus Garcia's trial",
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation",
+    "United States District Court": "court that refused to conduct a post-verdict hearing on whether the jury was coerced by the Allen charge and instructed the jury to continue deliberation",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge"
+  }
+}

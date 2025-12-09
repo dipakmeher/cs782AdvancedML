@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Saldana": "Federico Saldana",
+    "Cox": "Jason Cox",
+    "Vargas": "Heather Vargas",
+    "the officer": "Jason Cox",
+    "the inspector": null,
+    "the woman": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Gary Haston": "testified about Saldana's driving, observed Saldana having trouble maintaining his vehicle and the attached trailer in a single lane",
+    "Federico Saldana": "driver of the vehicle and trailer, had trouble maintaining his vehicle and the attached trailer in a single lane, changed lanes in an unsafe manner resulting in two near-collisions",
+    "Jason Cox": "conducted a traffic stop, witnessed the trailer veering onto the shoulder before he initiated the stop, had an objectively reasonable suspicion Saldana had committed multiple traffic violations",
+    "Heather Vargas": "witnessed traffic violations"
+  }
+}

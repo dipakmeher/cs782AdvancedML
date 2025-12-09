@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "District Court",
+    "a court of appeals": "court of appeals",
+    "a district court": "district court",
+    "United States of America": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "the appellant in a criminal case seeking review of the district court's judgment",
+    "District Court": "court that granted the motion to suppress and entered a judgment for acquittal, with appellate jurisdiction being examined",
+    "court of appeals": "appellate court with jurisdiction over appeals from district courts, including the current appeal by the United States of America",
+    "district court": "trial court whose decision is under appeal by the United States of America, with rules governing appeals and certification requirements"
+  }
+}

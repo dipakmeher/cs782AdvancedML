@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the group": "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales",
+    "the family members": null,
+    "the three": "Juventino Mejia-Orosco, Hector Galvencio Paz-Ortega, and Carlos Enrique Cruz-Morales",
+    "the motel room": null,
+    "the key": null,
+    "the airline tickets": null,
+    "the airport": null,
+    "the airplane": null,
+    "the van": "Juventino Mejia-Orosco's van"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales": "Two Guatemalan citizens transported illegally by Juventino Mejia-Orosco, considered smuggled aliens",
+    "Juventino Mejia-Orosco, Hector Galvencio Paz-Ortega, and Carlos Enrique Cruz-Morales": "Group involved in human smuggling operation, including the transporter and two smuggled aliens",
+    "Juventino Mejia-Orosco's van": "vehicle used for transporting smuggled aliens from Guatemala, seized pending forfeiture proceedings and containing $4,102 USD and 574,000 Mexican pesos"
+  }
+}

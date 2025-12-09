@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate highway"
+    ],
+    "NOUN_PHRASE": [
+      "a seldom-used remote road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate highway": "location where vehicles were driving in tandem"
+  }
+}

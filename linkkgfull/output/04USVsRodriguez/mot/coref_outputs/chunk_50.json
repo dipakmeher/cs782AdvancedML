@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "F-150": "Ford F-150",
+    "F-250": "Ford F-250",
+    "Dodge Rams": null,
+    "vehicles": null,
+    "vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white, designed to hold five people, used for transporting illegal aliens, stopped by United States Border Patrol Agent Jorge Luis Trevino, searched after owner's consent",
+    "black Dodge truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident, driving in tandem, potentially used for transporting illegal aliens",
+    "Ford F-150": "used by most of the ranchers on Farm-to-Market Road 2050, Ford truck model, often with brush guards, commonly used by oil companies",
+    "Ford F-250": "used by most of the ranchers on Farm-to-Market Road 2050, Ford truck model, with head rack in the back",
+    "black Dodge pickup truck": "subject of a BOLO, involved in a traffic stop",
+    "white sedan": "rental vehicle registered to Dallas-Fort Worth",
+    "black truck": "registered to Corinth, Texas",
+    "white sedan and black truck": "vehicles with out-of-town registrations, one of which was a rental vehicle, raised Jorge Luis Trevino's suspicions",
+    "unknown": null,
+    "Cadillac": "one of the vehicles in a tandem driving scenario"
+  }
+}

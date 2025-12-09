@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "U.S. 359",
+      "U.S. 59",
+      "FM 2895"
+    ],
+    "NOUN_PHRASE": [
+      "the most direct route",
+      "the indirect route",
+      "a route designed to avoid stationary checkpoints"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a road taken by the Defendants",
+    "U.S. 359": "the most direct route out of Laredo, Texas",
+    "U.S. 59": "a highway used by the Defendants before turning onto Farm-to-Market Road 2050",
+    "FM 2895": "an alternative Farm-to-Market Road that could be taken to reach Bruni"
+  }
+}

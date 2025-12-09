@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["two unloaded handguns"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "two unloaded handguns": "dangerous weapons found in the large white Ford pickup truck"
+  }
+}

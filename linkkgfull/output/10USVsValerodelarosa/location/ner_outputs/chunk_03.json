@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mexico",
+      "United States",
+      "Brownsville, Texas",
+      "Laredo, Texas"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mexico": "country of origin and citizenship of Rogelio Valero-De La Rosa",
+    "United States": "country where Rogelio Valero-De La Rosa was removed from and later found",
+    "Brownsville, Texas": "location from which Rogelio Valero-De La Rosa was previously removed",
+    "Laredo, Texas": "location near where Rogelio Valero-De La Rosa was found"
+  }
+}

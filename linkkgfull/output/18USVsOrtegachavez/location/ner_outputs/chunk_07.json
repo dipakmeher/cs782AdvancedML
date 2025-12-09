@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Sabinas Hidalgo",
+      "San Antonio"
+    ],
+    "NOUN_PHRASE": [
+      "the courtroom"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sabinas Hidalgo": "location where Alfredo Ortega-Chavez was on November 22, 1980",
+    "San Antonio": "location where Alfredo Ortega-Chavez had been on the day in question"
+  }
+}

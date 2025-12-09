@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Juventino Mejia-Orosco's truck": "Juventino Mejia-Orosco's truck",
+    "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales' transportation": null,
+    "the phone": null,
+    "the van": "Juventino Mejia-Orosco's van",
+    "the airplane": "the airplane to New York City",
+    "the motel room": "the motel room in San Antonio",
+    "Juventino Mejia-Orosco's van": "Juventino Mejia-Orosco's van"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Juventino Mejia-Orosco's van": "Vehicle used by Juventino Mejia-Orosco to transport individuals across the border from Guatemala and within the United States, seized pending forfeiture proceedings",
+    "the motel room in San Antonio": "Location where Juventino Mejia-Orosco, Hector Galvencio Paz-Ortega, and Carlos Enrique Cruz-Morales stayed during their time in San Antonio",
+    "Juventino Mejia-Orosco's truck": "Vehicle used by Juventino Mejia-Orosco for transporting curios from Guatemala to the United States",
+    "the airplane to New York City": "Airplane on which Carlos Enrique Cruz-Morales was detained while awaiting departure"
+  }
+}

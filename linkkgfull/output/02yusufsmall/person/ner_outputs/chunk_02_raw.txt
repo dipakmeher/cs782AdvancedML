@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Yusuf", "Juan Carlos De Arcos", "Agent De Arcos"],
+    "NOUN_PHRASE": ["Homeland Security Inspector", "his tractor", "a representative"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Yusuf": "individual who waived his Miranda rights and was hauling a load",
+    "Juan Carlos De Arcos": "Homeland Security Inspector",
+    "Agent De Arcos": "testified about the lot on Auburn Road"
+  }
+}

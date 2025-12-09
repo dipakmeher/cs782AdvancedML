@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "Mexico": "Mexico",
+    "United States": "United States",
+    "Brownsville, Texas": "Brownsville, Texas",
+    "Laredo, Texas": "Laredo, Texas",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the Plea Agreement": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the United States Attorney General": "United States Attorney General",
+    "the Secretary of the Department of Homeland Security": "Secretary of the Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence",
+    "Mexico": "Country of origin for Rogelio Valero-De La Rosa",
+    "United States": "Country where Rogelio Valero-De La Rosa was found after illegal re-entry",
+    "Brownsville, Texas": "Location where Rogelio Valero-De La Rosa was previously removed from the United States",
+    "Laredo, Texas": "Location where Rogelio Valero-De La Rosa was found in the United States after illegal re-entry",
+    "United States Attorney General": "Official responsible for granting permission to re-enter the United States after removal",
+    "Secretary of the Department of Homeland Security": "Official responsible for granting permission to re-enter the United States after removal"
+  }
+}

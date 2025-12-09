@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Bruni": "Bruni",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Hebbronville": "Hebbronville",
+    "Laredo": "Laredo, Texas",
+    "U.S. 359": "U.S. 359",
+    "U.S. 59": "U.S. 59",
+    "Ranchitos Las Lomas": "Ranchitos Las Lomas",
+    "FM 2895": "Farm-to-Market Road 2895",
+    "the southern terminus": null,
+    "one of the ranches": null,
+    "the southern end": null,
+    "any other location": null,
+    "the most direct route": null,
+    "the indirect route": null,
+    "the checkpoint": "Hebbronville checkpoint",
+    "the journey": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Bruni": "destination of travel, located at the southern terminus of FM 2050",
+    "Farm-to-Market Road 2050": "farm-to-market road taken by defendants to avoid checkpoints, intersects with U.S. 59 and has an indirect route to Bruni",
+    "Hebbronville": "location with a checkpoint on U.S. 359 that defendants attempted to avoid",
+    "Laredo, Texas": "origin of journey for defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "U.S. 359": "alternative route that travels in an easterly direction and has a checkpoint in Hebbronville",
+    "U.S. 59": "route taken by defendants before turning onto FM 2050, intersects with Farm-to-Market Road 2050",
+    "Ranchitos Las Lomas": "possible origin of journey for defendants if U.S. 359 was not immediately accessible",
+    "Farm-to-Market Road 2895": "alternative farm-to-market road that would be a more direct route to Bruni",
+    "Hebbronville checkpoint": "checkpoint on U.S. 359 that defendants attempted to avoid by taking the indirect route of U.S. 59 to FM 2050"
+  }
+}

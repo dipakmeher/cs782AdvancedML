@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "that portion": "Interstate 35",
+    "the camper shell": "pickup truck camper",
+    "the truck": "pickup truck",
+    "the vehicle": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate 35": "a highway where Maria De Jesus Garcia's vehicle was traveling at an unusual slow speed late at night, known for being a common smuggling route with alien smuggling history and obvious overloading of vehicles",
+    "pickup truck camper": "vehicle searched by border patrol agents due to suspicious behavior, frequently used for transporting illegal aliens and having an unusually heavy and overloaded appearance with fogged-over windows indicating breathing cargo",
+    "pickup truck": "vehicle type involved in the incident, appeared heavily loaded with fogged-over windows and exhibited unusual behavior, including occupants attempting to conceal themselves when a flashlight was shined inside",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens, subject of a court case, and used by Maria De Jesus Garcia during the incident, exhibiting suspicious behavior"
+  }
+}

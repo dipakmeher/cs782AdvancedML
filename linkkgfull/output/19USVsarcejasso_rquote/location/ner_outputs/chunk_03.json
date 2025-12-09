@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo",
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "the border checkpoint"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location where a federal grand jury returned an indictment",
+    "United States of America": "party that denied the motion to suppress and found Raul Rafael Arce-Jasso guilty"
+  }
+}

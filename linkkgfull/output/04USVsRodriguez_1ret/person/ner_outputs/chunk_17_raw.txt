@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Benavides", "Ignacio Rodriguez", "Officer Reyes"],
+    "NOUN_PHRASE": ["his supervisor", "Defendant", "the checkpoint"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "conducted questioning and transported Ignacio Rodriguez",
+    "Ignacio Rodriguez": "individual being questioned and transported",
+    "Officer Reyes": "informed of the situation by Agent Benavides"
+  }
+}

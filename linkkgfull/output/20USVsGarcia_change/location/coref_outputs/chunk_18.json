@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this circuit": "United States Court of Appeals for the Fifth Circuit",
+    "the border": "Mexico/United States border",
+    "an interstate highway": "Interstate Highway",
+    "Texas": "Texas",
+    "Mexico/United States border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "federal court reviewing the case of roving border patrol agents' stops, with precedents applied in a principled way",
+    "Mexico/United States border": "geographical boundary relevant to the case and location of the incident, 115 miles south of the stop in Texas",
+    "Interstate Highway": "highways where border patrol agents may stop persons, including the location where Maria De Jesus Garcia was stopped",
+    "Texas": "location where the defendant was stopped, 115 miles north of the Mexico/United States border",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident"
+  }
+}

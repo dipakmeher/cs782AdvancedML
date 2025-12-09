@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "border": "United States-Mexican border",
+    "the truck": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, reference point for distance",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens, with several passengers admitting to being undocumented and others hiding within the camper compartment, noted for having a heavy or overloaded condition, stopped by border patrol agents Stanley Pruszenski and Alfred Baron"
+  }
+}

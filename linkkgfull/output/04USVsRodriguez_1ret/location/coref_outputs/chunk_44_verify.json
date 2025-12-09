@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the scene of the traffic stop": "traffic stop on Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "an open area": "open area at Freer immigration checkpoint",
+    "a holding cell": "holding cell at Freer immigration checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "traffic stop on Farm-to-Market Road 2050": "location of a traffic stop based on articulable factors indicating potential illegal activity, subject to scrutiny of its scope and duration under the totality of the circumstances.",
+    "Freer immigration checkpoint": "location where Marco Montemayor arrived to investigate an attempted alien smuggling event, checkpoint on U.S. 59",
+    "open area at Freer immigration checkpoint": "area within the checkpoint where IGNACIO RODRIGUEZ, JR. was initially taken for further questioning",
+    "holding cell at Freer immigration checkpoint": "secure area where IGNACIO RODRIGUEZ, JR. was detained behind a locked sliding door before being interviewed by Marco Montemayor"
+  }
+}

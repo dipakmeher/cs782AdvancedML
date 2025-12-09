@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia",
+      "Agent Baron"
+    ],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the agents",
+      "the agent",
+      "innocent passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "owner of the truck",
+    "Agent Baron": "border patrol agent who testified"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. Border Patrol": "United States Border Patrol",
+    "the Government": "United States Government",
+    "the agent's": null,
+    "U.S. Highway 59": "U.S. Highway 59",
+    "U.S. Highway 359": "U.S. Highway 359",
+    "U.S. Highway 277": "U.S. Highway 277",
+    "Highway 16": "Highway 16",
+    "Highway 377": "Highway 377",
+    "Ranch Road 2523": "Ranch Road 2523",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in which dictates that agents may temporarily detain vehicles for investigation only if they are aware of specific articulable facts that reasonably warrant suspicion; involved in the stop of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; familiar with most vehicles on Farm-to-Market Road 2050; has knowledge of smuggling routes including Farm-to-Market Road 2050",
+    "United States Government": "prohibits unreasonable searches and seizures, involved in the prosecution of individuals and bears the burden of proving that stops were constitutional; has a court system including the Fifth Circuit",
+    "U.S. Highway 59": "highway where vehicles were inspected by United States Border Patrol and location of Freer immigration checkpoint; location of the traffic stop; part of route used to avoid checkpoints",
+    "U.S. Highway 359": "highway with Hebbronville checkpoint; part of route used to avoid checkpoints",
+    "U.S. Highway 277": "highway with a checkpoint that can be avoided by taking Ranch Road 2523 north to Highway 377",
+    "Highway 16": "highway connecting to Houston or San Antonio, used by smugglers after avoiding checkpoints; accessible via San Pablo Road and Santo Nino Road; location of the traffic stop",
+    "Highway 377": "highway that can be used to avoid the checkpoint on Highway 277 by taking Ranch Road 2523 north to Highway 377",
+    "Ranch Road 2523": "road that can be used to avoid the checkpoint on Highway 277 by taking it north to Highway 377",
+    "Farm-to-Market Road 2050": "road adjacent to the Border Patrol station parking lot where vehicles turned southbound and where drop-offs of undocumented individuals were noticed; used by smugglers to avoid checkpoints; primarily used by ranchers, oil trucks, and occasional small cars from a nearby wind farm; has intersections with Mills Bennett Road, San Pablo Road, and Santo Nino Road; location of the traffic stop; known to be a popular smuggling route"
+  }
+}

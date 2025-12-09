@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States Magistrate Judge"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Magistrate Judge": "made a finding regarding Rogelio Valero-De La Rosa's understanding of the charges and his rights"
+  }
+}

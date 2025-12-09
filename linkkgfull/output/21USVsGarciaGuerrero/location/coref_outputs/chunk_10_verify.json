@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the bed of a pickup truck": "bed of a pickup truck",
+    "the event of an accident": null,
+    "highway": "highway"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "bed of a pickup truck": "location where unrestrained aliens were transported, posing a substantial risk of death or serious bodily injury due to potential ejection during accidents or sharp driving maneuvers",
+    "highway": "route where accidents or driving maneuvers can occur, posing a risk to unrestrained passengers, such as those being smuggled in the bed of a pickup truck"
+  }
+}

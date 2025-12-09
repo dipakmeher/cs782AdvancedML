@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo, Texas",
+      "Interstate 35",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "a Border Patrol checkpoint",
+      "the trailer",
+      "several wooden crates",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo, Texas": "location where Abdullah Yusuf was stopped by Border Patrol",
+    "Interstate 35": "road on which Abdullah Yusuf was traveling",
+    "United States": "country where the crime of transporting illegal aliens occurred"
+  }
+}

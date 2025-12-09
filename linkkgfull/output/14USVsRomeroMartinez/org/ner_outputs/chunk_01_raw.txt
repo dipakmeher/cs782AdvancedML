@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.-Mexico border", "Texas Court of Criminal Appeals"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "location of a truck stop",
+    "Texas Court of Criminal Appeals": "court that agreed on the justification for the stop"
+  }
+}

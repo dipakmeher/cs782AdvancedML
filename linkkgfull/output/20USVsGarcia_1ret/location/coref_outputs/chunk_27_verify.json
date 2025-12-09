@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck cab": "truck cab",
+    "the interior of his vehicle": "interior of the pickup truck",
+    "the back seat of the cab": "back seat of the truck",
+    "behind the cab's front seat": "area behind the front seat of the truck cab"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "truck cab": "front part of the truck where passengers were seated and where a flashlight was shone",
+    "interior of the pickup truck": "area inside the vehicle where occupants were trying to hide, also referred to as the dark cabin, and where occupants were moving and slouching low to get out of the light",
+    "back seat of the truck": "rear part of the truck cab where passengers were seated and attempting to conceal themselves, also referred to as the back seat or the seat in this context",
+    "area behind the front seat of the truck cab": "space where passengers were moving and slouching low to get out of the light"
+  }
+}

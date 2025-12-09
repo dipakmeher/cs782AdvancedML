@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Texas": "Texas",
+    "United States": "United States",
+    "district court": "Southern District of Texas",
+    "this court": "Southern District of Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "location where the court proceeding took place and pickup location for a load",
+    "Texas": "state where the court proceeding took place",
+    "United States": "country where aliens entered or remained in violation of law and were transported by Yusif Ahmed Rufied",
+    "Southern District of Texas": "location where Yusif Ahmed Rufied was charged with unlawfully transporting illegal aliens and where the court proceeding took place, specifically a preliminary examination hearing on June 2, 2006"
+  }
+}

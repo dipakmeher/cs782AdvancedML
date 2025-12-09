@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a dangerous weapon", "the weapon", "the drug trafficking activity", "drugs", "drug paraphernalia"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

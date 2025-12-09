@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": null,
+    "the Defendant's vehicle": null,
+    "the vehicle": null,
+    "a local vehicle": null,
+    "two vehicles": null,
+    "the two vehicles": null,
+    "the Defendant's pickup": null,
+    "the marked patrol car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a vehicle mentioned as a white sedan, involved in the incident at the Freer immigration checkpoint, lacked a wind farm sticker, designed to hold five people, stopped by Agent Trevino and found to be transporting illegals, registered to Dallas-Fort Worth as a rental vehicle, traveling in tandem with a black Dodge pickup truck, driven by RICARDO RODRIGUEZ, JR.",
+    "black Dodge truck": "a black truck with a camper, suspected of being used to transport illegal aliens, lacked a wind farm sticker, believed to be connected to the white Malibu sedan, subject of a BOLO, stopped by Officer Reymundo Reyes for not using a turning signal, registered to Corinth, Texas",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident at the Freer immigration checkpoint, with out-of-town registrations, traveling in tandem on Farm-to-Market Road 2050, driven by RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Ford F-150s": "used by ranchers, typical vehicles seen on Farm-to-Market Road 2050",
+    "Ford F-250s": "used by ranchers, typical vehicles seen on Farm-to-Market Road 2050",
+    "white car": "a vehicle driving in tandem with the black Dodge truck, possibly involved in smuggling operations, identified as a rental car from Hertz Dallas-Fort Worth",
+    "black Dodge truck and white car": "vehicles jointly involved in the incident, with the black Dodge truck following the white car",
+    "black Dodge pickup truck": "a black truck with a camper, suspected of being used to transport illegal aliens, lacked a wind farm sticker, believed to be connected to the white Malibu sedan, subject of a BOLO, stopped by Officer Reymundo Reyes for not using a turning signal, registered to Corinth, Texas",
+    "white Malibu sedan and black Dodge pickup truck": "vehicles jointly involved in the incident at the Freer immigration checkpoint, with out-of-town registrations, traveling in tandem on Farm-to-Market Road 2050"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate Highway 35",
+      "United States-Mexican border"
+    ],
+    "NOUN_PHRASE": [
+      "the border"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "a public highway leading from the United States-Mexican border",
+    "United States-Mexican border": "the international border between the United States and Mexico"
+  }
+}

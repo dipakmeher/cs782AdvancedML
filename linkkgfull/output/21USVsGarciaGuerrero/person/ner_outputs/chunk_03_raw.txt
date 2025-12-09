@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Simon-Fernandez", "Gomez-Arroyo", "Garcia"],
+    "NOUN_PHRASE": ["the ranch hand", "border patrol agents", "emergency technicians", "the probation officer", "a border patrol agent"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Simon-Fernandez": "undocumented female alien who died",
+    "Gomez-Arroyo": "met with border patrol agents",
+    "Garcia": "guide for the group of undocumented aliens"
+  }
+}

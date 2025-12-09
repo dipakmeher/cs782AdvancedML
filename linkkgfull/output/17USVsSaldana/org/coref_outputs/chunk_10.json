@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the Government": "United States",
+    "Court": "Court",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "Gary Haston": "Williamson County Sheriff's Office",
+    "the scissor lift": null,
+    "the battery charger area": null,
+    "the 2008 Chevrolet truck": null,
+    "Def. Ex. 2": null,
+    "Def. Ex. 1": null,
+    "a patrol": null,
+    "Jason Cox": "Williamson County Sheriff's Office",
+    "Heather Vargas": "Williamson County Sheriff's Office",
+    "Gov't Ex. 1": null,
+    "Federico Saldana": null,
+    "Daniel": null,
+    "Daniel Martin Huerta": null,
+    "K-9 unit": "Williamson County Sheriff's Office",
+    "the flatbed trailer": null,
+    "the K-9 unit": "Williamson County Sheriff's Office",
+    "Josiah Bennett": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "referred to as the Government, party in the legal case",
+    "Court": "held a hearing and entered an opinion and order in Federico Saldana's case, reviewed testimony about drug alerts in a vehicle search",
+    "Williamson County Sheriff's Office": "Employer of detectives Gary Haston, Heather Vargas, and Deputy Jason Cox, involved in drug interdiction cases and utilized a K-9 unit for searches",
+    "Jason Cox": "Deputy who initiated the traffic stop on Interstate 35 and handled paperwork for the stop",
+    "Heather Vargas": "Detective involved in providing traffic violation information and present at the scene after the stop, participated in searching vehicles",
+    "Federico Saldana": "Individual stopped by Jason Cox, admitted to prior arrests for smuggling illegal aliens and drugs, served 9 years in federal prison",
+    "Gary Haston": "Detective who interrogated Federico Saldana about potential drug trafficking and conducted searches with a K-9 unit"
+  }
+}

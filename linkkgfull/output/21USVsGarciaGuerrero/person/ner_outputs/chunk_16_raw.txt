@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Simon-Fernandez"],
+    "NOUN_PHRASE": ["the district court", "members of the group", "agents", "the aliens", "emergency personnel"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "defendant",
+    "Simon-Fernandez": "adult female mentioned in autopsy report"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Inocencio Garcia-Guerrero",
+      "Garcia",
+      "KING"
+    ],
+    "NOUN_PHRASE": [
+      "Defendant",
+      "the district court",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Inocencio Garcia-Guerrero": "Defendant",
+    "Garcia": "Defendant",
+    "KING": "Chief Judge"
+  }
+}

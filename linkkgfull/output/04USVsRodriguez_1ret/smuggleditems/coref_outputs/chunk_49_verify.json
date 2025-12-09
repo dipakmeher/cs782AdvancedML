@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the traffic stop on Farm-to-Market Road 2050": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "Farm-to-Market Road 2050": null,
+    "United States Constitution": null,
+    "Supreme Court of the United States": "United States Department of Homeland Security",
+    "United States Court": "United States Department of Homeland Security",
+    "the traffic stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the officer": null,
+    "the individual officers": null,
+    "the United States Constitution": null,
+    "the courts": null,
+    "the position": null,
+    "Causey": null,
+    "Vernon 2011": null,
+    "United States law": null,
+    "the operator": null,
+    "the signal": null,
+    "the intention": null,
+    "the turn": null,
+    "the lanes": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Highway 16 for failing to use a turn signal, where Officer Reymundo Reyes confirmed the license plate matched a BOLO description",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident"
+  }
+}

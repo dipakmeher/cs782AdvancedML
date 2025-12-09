@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Texas": "Texas",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "location where the document was signed",
+    "Texas": "state where Laredo is located",
+    "United States": "country where the legal proceedings are taking place"
+  }
+}

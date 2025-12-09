@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "an arrest": null,
+    "a warrant": null,
+    "probable cause": null,
+    "the suspect": null,
+    "the offense": null,
+    "the arresting officer": null,
+    "the collective knowledge doctrine": null,
+    "the totality of facts and circumstances": null,
+    "a police officer's knowledge": null,
+    "the moment of arrest": null,
+    "a reasonable person": null,
+    "the defendant": null,
+    "the United States Constitution": null,
+    "exigent circumstances": null,
+    "the obtainment of a warrant": null,
+    "fair probability": null,
+    "a bare suspicion": null,
+    "a preponderance of the evidence": null,
+    "the agents involved": null,
+    "the events which led to a defendant's arrest": null,
+    "the collective knowledge": null,
+    "the arresting officer and an officer": null,
+    "the necessary facts": null,
+    "some degree of communication": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "an arrest without a warrant": "Proper only if probable cause supports it",
+    "probable cause for a warrantless arrest": "Exists when the totality of facts and circumstances within a police officer's knowledge at the moment of arrest are sufficient for a reasonable person to conclude that the suspect had committed or was committing an offense"
+  }
+}

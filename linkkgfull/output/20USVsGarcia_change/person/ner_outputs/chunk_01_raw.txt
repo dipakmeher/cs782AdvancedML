@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia", "Garcia", "GARWOOD"],
+    "NOUN_PHRASE": ["the Defendant", "the district judge", "the government", "defense counsel", "the jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia": "Defendant",
+    "Garcia": "Defendant",
+    "GARWOOD": "Circuit Judge"
+  }
+}

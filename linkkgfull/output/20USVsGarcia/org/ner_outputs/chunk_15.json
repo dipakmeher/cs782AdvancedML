@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "5th Circuit Court of Appeals"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "party in the case",
+    "5th Circuit Court of Appeals": "court that upheld the district court's decision"
+  }
+}

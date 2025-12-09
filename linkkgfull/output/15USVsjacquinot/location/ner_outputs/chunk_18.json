@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the truck",
+      "the same location",
+      "where drugs or drug paraphernalia are stored",
+      "where part of the transaction occurred"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

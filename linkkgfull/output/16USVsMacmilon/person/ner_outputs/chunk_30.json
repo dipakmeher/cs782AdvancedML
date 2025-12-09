@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon",
+      "Williams",
+      "De La Cruz",
+      "Hernandez-Gomez",
+      "Eric Camacho"
+    ],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the jury",
+      "Border Patrol Agent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "defendant",
+    "Williams": "co-conspirator",
+    "De La Cruz": "witness and alien being smuggled",
+    "Hernandez-Gomez": "witness and alien being smuggled",
+    "Eric Camacho": "Border Patrol Agent"
+  }
+}

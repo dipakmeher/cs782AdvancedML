@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Sentencing Guidelines Manual", "United States Court of Appeals for the Fifth Circuit"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Sentencing Guidelines Manual": "a manual used for sentencing",
+    "United States Court of Appeals for the Fifth Circuit": "a court that affirmed the conviction and sentence"
+  }
+}

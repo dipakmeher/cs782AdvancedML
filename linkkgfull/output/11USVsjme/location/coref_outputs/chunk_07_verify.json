@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located, involved in a case of alien smuggling, referenced in relation to the constitution",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, providing a structured facility for rehabilitation and confinement, believed to be in J.M.E.'s best interest due to the services it provides, where juveniles are sent upon violating conditions of probation, offering behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, institution where J.M.E. was committed"
+  }
+}

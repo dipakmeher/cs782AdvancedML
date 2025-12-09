@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Highway 16": "Highway 16",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Hebbronville checkpoint": "Hebbronville Checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR.",
+    "Freer Police Department": "local law enforcement agency that conducted a traffic stop of IGNACIO RODRIGUEZ, JR. and cooperated with United States Border Patrol",
+    "U.S. Highway 59": "location where Agent Benavides drove to after receiving a phone call from his supervisor",
+    "Highway 16": "location where Agent Benavides drove to after receiving a phone call from his supervisor",
+    "Farm-to-Market Road 2050": "location of the traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "Hebbronville Checkpoint": "border patrol checkpoint mentioned by Defendant as his point of origin"
+  }
+}

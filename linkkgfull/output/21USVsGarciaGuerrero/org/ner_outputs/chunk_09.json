@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "border patrol",
+      "United States"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border patrol": "the agency that interacted with the aliens",
+    "United States": "the party agreeing with the conduct being covered"
+  }
+}

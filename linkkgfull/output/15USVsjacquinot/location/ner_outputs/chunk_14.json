@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Big Bend"
+    ],
+    "NOUN_PHRASE": [
+      "the park",
+      "the highway",
+      "the road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Big Bend": "a location where traffic patterns and visitor behavior are being observed"
+  }
+}

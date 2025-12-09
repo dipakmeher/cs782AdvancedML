@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "2008 Chevrolet truck",
+    "a 2008 Chevrolet truck": "2008 Chevrolet truck",
+    "the trailer": "flatbed trailer",
+    "a flatbed trailer": "flatbed trailer",
+    "Chevrolet": null,
+    "the patrol car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck": "Vehicle pulling a flatbed trailer, registered to Daniel A. Huerta",
+    "flatbed trailer": "Trailer transporting a scissor lift, registered to Daniel Martin Huerta"
+  }
+}

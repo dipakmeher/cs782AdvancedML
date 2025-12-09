@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas, Texas": "Dallas, Texas",
+    "San Antonio": "San Antonio",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "origin of IGNACIO RODRIGUEZ, JR.'s travel, city located on the US-Mexico border with high smuggling activity",
+    "Dallas, Texas": "destination of IGNACIO RODRIGUEZ, JR.'s travel, city where the two vehicles originated, indicating a potential smuggling route or connection",
+    "San Antonio": "alternative route location, reference city for direction and potential destination for smuggled aliens"
+  }
+}

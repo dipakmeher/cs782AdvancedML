@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the two vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Hertz Rental Car Company": "Hertz Rental Car Company",
+    "Corinth, Texas": null,
+    "Farm-to-Market Road 2050": null,
+    "United States Court of Appeals for the Fifth Circuit": "United States Department of Homeland Security",
+    "San Angelo": null,
+    "Interstate 20": null,
+    "Dallas-Fort Worth metroplex": null,
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the small passenger-style vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "non-work truck": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes, suspected to harbor illegal aliens due to its proximity to the Mexico border, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Corinth, Texas",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens, both lacked wind farm stickers and were traveling in tandem on Farm-to-Market Road 2050 with out-of-town registrations",
+    "Jorge Luis Trevino": "United States Border Patrol agent who performed the traffic stop on RICARDO RODRIGUEZ, JR.'s vehicle based on reasonable suspicion due to out-of-town registrations and atypical vehicles for the area"
+  }
+}

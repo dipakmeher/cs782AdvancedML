@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "Agent Pena", "Williams", "Tedford"],
+    "NOUN_PHRASE": ["the defendant", "the police", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "arguer",
+    "Agent Pena": "agent involved in the encounter",
+    "Williams": "defendant",
+    "Tedford": "reference to a legal factor"
+  }
+}

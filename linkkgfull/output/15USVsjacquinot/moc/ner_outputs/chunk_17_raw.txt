@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the phone", "the patrol car", "the stop sign", "the school zone", "the large white Ford pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

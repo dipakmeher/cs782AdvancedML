@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "unlawful aliens",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "unlawful aliens": "aliens being transported into the United States",
+    "illegal aliens": "aliens being trafficked across South Texas"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Adriana Arce Flores"],
+    "NOUN_PHRASE": ["the defendant", "United States Magistrate Judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Adriana Arce Flores": "United States Magistrate Judge"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's pickup truck camper",
+      "the United States Border Patrol's patrol car",
+      "Stanley Pruszenski",
+      "Alfred Baron",
+      "Maria De Jesus Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the men",
+      "the rest of the men",
+      "the window",
+      "the patrol car",
+      "the pickup truck camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for smuggling",
+    "the United States Border Patrol's patrol car": "law enforcement vehicle",
+    "Stanley Pruszenski": "witness",
+    "Alfred Baron": "witness",
+    "Maria De Jesus Garcia": "defendant"
+  }
+}

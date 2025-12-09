@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the Government": "United States of America",
+    "Laredo, Texas": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "I-35": "I-35",
+    "San Antonio": "San Antonio",
+    "the border patrol checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "the primary inspection lane": "primary inspection lane at the border patrol checkpoint on I-35 near Laredo, Texas",
+    "the secondary inspection area": "secondary inspection area at the border patrol checkpoint on I-35 near Laredo, Texas",
+    "the side panel of the car": null,
+    "the border checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "the Court": "District Court",
+    "District Court": "District Court",
+    "this Court": "District Court",
+    "a court of appeals": "court of appeals",
+    "a district court": "district court",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country involved in the appeal process, conceding to a deadline failure and arguing the materiality requirement",
+    "Laredo, Texas": "location where a federal grand jury returned an indictment and where Raul Rafael Arce-Jasso was stopped by a border patrol checkpoint, 15 miles south of which the checkpoint is located on I-35",
+    "I-35": "highway where the border patrol checkpoint is located, near Laredo, Texas",
+    "San Antonio": "destination of Raul Rafael Arce-Jasso's trip",
+    "border patrol checkpoint on I-35 near Laredo, Texas": "checkpoint where Raul Rafael Arce-Jasso was initially stopped and questioned by Agent Jesus Garcia and where his detention was argued to be unconstitutionally lengthy",
+    "primary inspection lane at the border patrol checkpoint on I-35 near Laredo, Texas": "lane where Agent Jesus Garcia was manning when Raul Rafael Arce-Jasso pulled up",
+    "secondary inspection area at the border patrol checkpoint on I-35 near Laredo, Texas": "area where a canine alerted and agents discovered cocaine hidden in the side panel of Raul Rafael Arce-Jasso's car",
+    "District Court": "court with jurisdiction over the case and whose decision is being appealed by the United States of America",
+    "court of appeals": "appellate court with jurisdiction over appeals from district courts",
+    "district court": "trial court where evidence was suppressed or excluded and whose decision is under appeal"
+  }
+}

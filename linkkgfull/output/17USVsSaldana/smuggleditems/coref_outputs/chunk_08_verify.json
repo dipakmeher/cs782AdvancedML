@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Williamson County Sheriff's Office video recording": "Williamson County Sheriff's Office video recording",
+    "K-9 unit": "K-9 dog used for searching",
+    "flatbed trailer towed by the 2008 Chevrolet truck driven by Federico Saldana": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "2008 Chevrolet truck driven by Federico Saldana": "2008 Chevrolet truck driven by Federico Saldana",
+    "Federico Saldana": "Federico Saldana"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Williamson County Sheriff's Office video recording": "Video recording made by Williamson County Sheriff's Office during the search, used to compare with Josiah Bennett's testimony",
+    "K-9 dog used for searching": "Dog used by Josiah Bennett to search the 2008 Chevrolet truck and flatbed trailer",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, traveling at approximately 75 miles per hour, driven by Federico Saldana who was not used to driving this sort of truck and trailer combination",
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, gave consent to Williamson County Sheriff's Office to search the vehicle and trailer, identified himself during the traffic stop, served 9 years in federal prison"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Trevino",
+      "Officer Reyes",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the undersigned",
+      "his assistant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "testified during cross examination",
+    "Officer Reyes": "explained procedures and concerns",
+    "Ignacio Rodriguez": "informed about a canine search"
+  }
+}

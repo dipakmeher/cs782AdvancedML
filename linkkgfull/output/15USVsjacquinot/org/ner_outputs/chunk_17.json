@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Big Bend National Park"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "law enforcement officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "noted suspicious behavior",
+    "Big Bend National Park": "location of observation"
+  }
+}

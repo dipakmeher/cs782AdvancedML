@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Speedy Trial Act": "Speedy Trial Act",
+    "pretrial motion": "pretrial motion",
+    "the hearing": "hearing on the motion",
+    "post-hearing briefs": "post-hearing briefs",
+    "the United States District Court": "United States District Court",
+    "the motion": "pretrial motion",
+    "the papers": "papers necessary to dispose of the motion",
+    "thirty excludable days": "thirty-day exclusion period",
+    "the statutory exclusions": "statutory exclusions",
+    "the clock": "Speedy Trial Act clock"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods",
+    "pretrial motion": "motion filed before trial, subject to exclusions under the Speedy Trial Act",
+    "hearing on the motion": "proceeding where evidence is presented regarding the pretrial motion",
+    "post-hearing briefs": "submissions made after the hearing on the motion, necessary for the court's disposition",
+    "United States District Court": "court that rules on pretrial motions and applies the Speedy Trial Act",
+    "papers necessary to dispose of the motion": "documents required for the court to rule on the pretrial motion",
+    "thirty-day exclusion period": "exclusion period under the Speedy Trial Act, during which the clock is stopped",
+    "statutory exclusions": "periods excluded from the Speedy Trial Act's time calculations",
+    "Speedy Trial Act clock": "mechanism for tracking time under the Speedy Trial Act, including start and stop times"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo",
+      "Texas",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "district court",
+      "this court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location where the court proceeding took place",
+    "Texas": "state where the court proceeding took place"
+  }
+}

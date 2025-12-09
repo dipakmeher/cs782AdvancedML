@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas Highway 385": "Texas Highway 385",
+    "Highway 90": "Highway 90",
+    "Interstate 10": "Interstate 10",
+    "Highway 118": "Highway 118",
+    "the most direct and logical route of travel": "Highway 118",
+    "a smuggling route": "Texas Highway 385",
+    "the road": null,
+    "a road frequently used for illegal activity": "Texas Highway 385",
+    "an indirect route": "Highway 90",
+    "indirect travel route": "Highway 118",
+    "this factor": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas Highway 385": "notorious for smuggling and with increased alien and smuggling apprehensions, location where Agents Andrew P. Graham and Jay Snodgrass were parked, near the United States/Mexican border, road from which the truck turned onto Highway 90, reputation for the smuggling of aliens and narcotics, area very close to the United States/Mexican border, major highway used by thousands of visitors to Big Bend National Park, known for alien and narcotics smuggling, increased activity due to enhanced enforcement on other nearby highways, location where Agents Andrew P. Graham and Jay Snodgrass were parked, involved in a case where a truck with a Kansas license plate was stopped 70 or 80 miles from the United States/Mexican border, area much less than 50 miles from the United States/Mexican border, has a reputation as a smuggling route, known by agents for alien and narcotics smuggling",
+    "Highway 90": "road where the truck turned left, route to Alpine, Texas, traveled at posted speed limit of 20 miles per hour, indirect route taken by a truck",
+    "Interstate 10": "highway toward which most vehicles would continue straight",
+    "Highway 118": "most direct and logical route of travel from Big Bend National Park to Alpine, Texas, indirect travel route, potentially used in narcotics smuggling operations, suspected route for smuggling activities between Big Bend National Park and Alpine, Texas, considered suspicious due to its indirect nature, relevant in cases involving recent illegal trafficking in aliens or narcotics"
+  }
+}

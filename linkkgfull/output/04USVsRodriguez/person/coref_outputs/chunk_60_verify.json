@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the Defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Trevino's": "Jorge Luis Trevino",
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who elicited testimony from Santiago Hinojosa about rental car registrations and testified otherwise during the hearing",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose vehicle was stopped by law enforcement officers due to suspicion of alien smuggling activities, attempted to travel through an indirect route to avoid stationary checkpoints, and acknowledged during the hearing that he consented to have his vehicle searched",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about the black truck and camper, and noted that smugglers often use rental cars to avoid losing their own vehicles if caught, also thought the Defendants' driving was an aberration from the norm",
+    "J. Scott Hacker": "United States Magistrate Judge who presided over a hearing where facts about a vehicle stop were discussed"
+  }
+}

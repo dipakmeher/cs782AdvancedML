@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Government": "United States Government",
+    "Williamson County Sheriff's Office officials": "Gary Haston and Heather Vargas",
+    "Federico Saldana": "Federico Saldana",
+    "the Court": "Court in the above-styled cause",
+    "the motion": "Federico Saldana's Motion to Suppress #24",
+    "Gov't": null,
+    "Gov't Ex.':": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Government": "Party responding to Federico Saldana's motion, arguing that consent to search was voluntary",
+    "Gary Haston and Heather Vargas": "Williamson County Sheriff's Office detectives involved in the case, with Gary Haston being a veteran narcotics investigator and Heather Vargas a relative newcomer to the narcotics division",
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, gave consent to Williamson County Sheriff's Office to search the vehicle and trailer, identified himself during the traffic stop, served 9 years in federal prison",
+    "Court in the above-styled cause": "Court presiding over Federico Saldana's case, evaluating the voluntariness of consent to search, denied Federico Saldana's Motion to Suppress #24",
+    "Federico Saldana's Motion to Suppress #24": "Motion denied by the Court in the above-styled cause, filed as #24"
+  }
+}

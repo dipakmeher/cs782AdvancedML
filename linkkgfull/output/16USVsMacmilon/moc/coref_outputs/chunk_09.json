@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "checkpoint stops": null,
+    "immigration checkpoints": "immigration checkpoints",
+    "vehicle stops": null,
+    "the Supreme Court of the United States": "the Supreme Court of the United States",
+    "United States Border Patrol Agent": "United States Border Patrol Agent",
+    "the stop": null,
+    "the detention": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "immigration checkpoints": "Locations where routine vehicle stops are conducted to ascertain occupants' citizenship",
+    "the Supreme Court of the United States": "Highest court in the United States that has recognized the constitutionality of suspicionless vehicle stops at immigration checkpoints",
+    "United States Border Patrol Agent": "Agent responsible for conducting stops and determining citizenship status of individuals"
+  }
+}

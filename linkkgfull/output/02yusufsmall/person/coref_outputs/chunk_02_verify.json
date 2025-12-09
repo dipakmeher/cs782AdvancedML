@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Yusuf": "Abdullah Yusuf",
+    "Juan Carlos De Arcos": "Juan Carlos De Arcos",
+    "Agent De Arcos": "Juan Carlos De Arcos",
+    "Homeland Security Inspector": "Juan Carlos De Arcos",
+    "his tractor": null,
+    "a representative": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Abdullah Yusuf": "Defendant involved in a human smuggling case near Laredo, Texas, convicted of trafficking aliens, who waived his Miranda rights and was hauling a load for Steel on Steel Transportation, claimed to be paid by You Brokerage",
+    "Andrew S. Oldham": "Circuit Judge presiding over the appeal of Abdullah Yusuf's case",
+    "Juan Carlos De Arcos": "Homeland Security Inspector who testified about the lot on Auburn Road, investigated You Brokerage, and interviewed Yusuf after he waived his Miranda rights, found a forged BOL in Yusuf's tractor",
+    "You Brokerage": "Company whose existence was not found by Agent De Arcos during his investigation, phone number provided by Yusuf didn't work",
+    "USA Trucking": "Carrier company listed on the BOL for the load in question, not Yusuf's company",
+    "Steel on Steel Transportation": "Yusuf's company, which was not listed as the carrier on the BOL"
+  }
+}

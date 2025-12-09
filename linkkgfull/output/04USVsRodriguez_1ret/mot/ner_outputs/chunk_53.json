@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "F-150",
+      "F-250",
+      "Ford"
+    ],
+    "NOUN_PHRASE": [
+      "two cars",
+      "the first car",
+      "the scout car",
+      "the load car",
+      "a load car",
+      "a scout car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "F-150": "Ford truck model",
+    "F-250": "Ford truck model",
+    "Ford": "truck manufacturer"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol",
+    "border patrol": "United States Border Patrol",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "United States-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States v. Pena-Cantu": "United States v. Pena-Cantu",
+    "United States v. Pacheco": "United States v. Pacheco",
+    "United States v. Orona-Sanchez": "United States v. Orona-Sanchez",
+    "the Court": "United States District Court",
+    "the agent": "United States Border Patrol",
+    "United States": "United States",
+    "Brignoni-Ponce": "Brignoni-Ponce standard",
+    "U.S.-Mexican border": "United States-Mexican border",
+    "the jury": null,
+    "the court": "United States District Court",
+    "the trial judge": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that made unassailed findings and oral findings of fact regarding the constitutionality of the stop and search, also referencing the Brignoni-Ponce standard in its decisions, and gave a modified Allen charge to the jury",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, smuggling interception, and immigration inspections, with agents making stops based on reasonable suspicion, including factors such as vehicle appearance and passenger behavior",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court considering the suppression motion on its merits, articulating principles for investigatory stops near the United States-Mexican border, and relying on an agent's observation, also providing guidance on probable cause to search vehicles, and upholding the use of the modified Allen charge",
+    "United States v. Maria De Jesus Garcia": "a legal case involving a challenge to the modified Allen charge given to the jury",
+    "United States-Mexican border": "an international border relevant to immigration and smuggling cases, with its proximity being a factor in justifying investigatory stops",
+    "Interstate Highway 35": "a highway where smuggling and illegal alien traffic have been reported, leading directly to the United States-Mexican border but passing through several towns, and a location of an investigatory stop",
+    "United States v. Pena-Cantu": "a legal case referenced in determining the justification for investigatory stops, and rejecting a general attack on the Allen charge as being inherently coercive",
+    "United States v. Pacheco": "a legal case referenced in determining the justification for investigatory stops, and affirming the rejection of a general attack on the Allen charge",
+    "United States v. Orona-Sanchez": "a legal case referenced in determining the justification for investigatory stops, and upholding the use of the modified Allen charge",
+    "United States": "country of origin relevant to immigration and smuggling cases",
+    "Brignoni-Ponce standard": "legal standard guiding reasonable suspicion for investigatory stops near the border"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States-Mexican border", "Interstate Highways"],
+    "NOUN_PHRASE": ["the highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexican border": "border where smuggling occurs",
+    "Interstate Highways": "designated highways near the border"
+  }
+}

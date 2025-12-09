@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "cocaine"
+    ],
+    "NOUN_PHRASE": [
+      "the cocaine"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "cocaine": "smuggled substance discovered in the 1996 Mercury Cougar"
+  }
+}

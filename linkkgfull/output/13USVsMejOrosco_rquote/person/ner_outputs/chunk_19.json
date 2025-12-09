@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mejia-Orosco"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "the district judge",
+      "relatives of the aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mejia-Orosco": "defendant in the case"
+  }
+}

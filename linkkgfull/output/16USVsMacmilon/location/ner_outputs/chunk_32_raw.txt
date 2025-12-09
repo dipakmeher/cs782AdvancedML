@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the parking lot", "the checkpoint", "the jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

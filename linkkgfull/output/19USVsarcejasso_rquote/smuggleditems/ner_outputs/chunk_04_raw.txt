@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["cocaine", "drug evidence"],
+    "NOUN_PHRASE": ["the drug evidence", "the cocaine"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "cocaine": "smuggled substance",
+    "drug evidence": "evidence related to smuggled drugs"
+  }
+}

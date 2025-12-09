@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agents Pruszenski": "Stanley Pruszenski",
+    "Baron": "Alfred Baron",
+    "Garcia": "Maria De Jesus Garcia",
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "the passengers": null,
+    "its occupants": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "Defendant convicted of aiding and abetting the transportation of undocumented aliens, subject of a suppression motion regarding the stop and search of her vehicle, driver of the stopped pickup camper",
+    "Stanley Pruszenski": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, driving the patrol car, observed unwashed and unkempt occupants, had reason to suspect the presence of illegal aliens due to various factors including the vehicle's appearance and occupant behavior",
+    "Alfred Baron": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, observed the truck and its passengers, did not testify to having reason to believe the vehicle came from the border, testified about recent apprehensions of illegal alien smugglers, had reason to suspect the presence of illegal aliens due to various factors including the vehicle's appearance and occupant behavior",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation and observed the suspicious vehicle, applied the Brignoni-Ponce standard in their assessment, had reason to suspect the presence of illegal aliens due to various factors including the vehicle's appearance and occupant behavior"
+  }
+}

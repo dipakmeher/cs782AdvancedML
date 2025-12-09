@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Supreme Court": "Supreme Court",
+    "Border Patrol station": "Border Patrol station",
+    "law enforcement stations": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Supreme Court": "highest court in the land, providing guidance on probable cause for arrests and interrogations",
+    "Border Patrol station": "location where individuals are taken for questioning, potentially following a traffic stop or other law enforcement action"
+  }
+}

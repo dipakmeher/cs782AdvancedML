@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agent": "United States Border Patrol",
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol agents": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "involved in the stop of RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; considered the behavior of vehicles' drivers in determining reasonable suspicion to stop; followed suspicious vehicles for approximately five minutes; conducted a roving stop; familiar with most vehicles on Farm-to-Market Road 2050; interacted with law enforcement during the traffic stop; involved in the arrest and questioning of IGNACIO RODRIGUEZ, JR.; location of questioning; had sufficient evidence to conclude that two vehicles were driving in tandem; agents were expected to arrive at the scene",
+    "Officer Reymundo Reyes": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR., noticed he was nervous and shaking during the interaction; issued a citation and impounded the black Dodge pickup truck due to unclear ownership and lack of insurance information; informed IGNACIO RODRIGUEZ, JR. that he needed to wait for the United States Border Patrol agents to arrive",
+    "IGNACIO RODRIGUEZ, JR.": "defendant who was stopped by Officer Reymundo Reyes and felt not free to leave after being handed a citation; asked about bus times to leave but was told to wait for the United States Border Patrol agents"
+  }
+}

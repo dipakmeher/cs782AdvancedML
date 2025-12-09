@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States District Court", "United States Court of Appeals for the Fifth Circuit"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Court": "denied the extension motion and made oral findings of fact",
+    "United States Court of Appeals for the Fifth Circuit": "considers the suppression motion on its merits"
+  }
+}

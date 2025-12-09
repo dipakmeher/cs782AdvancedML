@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the owner": null,
+    "his aunt": null,
+    "his cousin": null,
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop on Ignacio Rodriguez's vehicle and observed that he was shaking and seemed extremely nervous. He impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a case regarding alien smuggling, whose vehicle was stopped by Officer Reyes for failing to use a turn signal, and who appeared extremely nervous during the stop. He provided inconsistent statements about the ownership of the vehicle.",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who appeared to concede that the route taken would be convenient for smugglers and suggested alternative routes for smugglers to avoid detection, testified in a hearing about his vehicle not going off the road",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about the black truck and camper, and noted that smugglers often use rental cars to avoid losing their own vehicles if caught",
+    "Hugo Benavides": "United States Border Patrol Agent who questioned Defendant at the Border Patrol station",
+    "Marco Montemayor": "Special Agent who conducted an interview with Ignacio Rodriguez after he waived his Miranda rights",
+    "J. Scott Hacker": "United States Magistrate Judge who considered the evidence presented in the case"
+  }
+}

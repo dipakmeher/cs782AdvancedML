@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S. Border Patrol", "United States Court of Appeals for the Fifth Circuit"],
+    "NOUN_PHRASE": ["the agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. Border Patrol": "employer of Stanley Pruszenski and Alfred Baron",
+    "United States Court of Appeals for the Fifth Circuit": "court reviewing the case"
+  }
+}

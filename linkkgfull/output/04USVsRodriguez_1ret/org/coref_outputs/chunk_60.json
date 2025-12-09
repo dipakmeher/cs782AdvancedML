@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Magistrate Judge": "United States Magistrate Judge",
+    "District Judge": "United States District Judge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge making recommendations based on articulable factors indicating that illegal activity might be afoot, recommends denial of motions to suppress",
+    "United States District Judge": "conducts independent review of motions to suppress"
+  }
+}

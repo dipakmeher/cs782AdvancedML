@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America",
+      "FED. R. APP. P."
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "a party in the legal proceedings",
+    "FED. R. APP. P.": "federal rules of appellate procedure"
+  }
+}

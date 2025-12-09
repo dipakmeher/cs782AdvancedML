@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Jose Marlon Ibarra-Zelaya", "Ibarra-Zelaya"],
+    "NOUN_PHRASE": ["the defendant", "the government", "the Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jose Marlon Ibarra-Zelaya": "defendant",
+    "Ibarra-Zelaya": "defendant"
+  }
+}

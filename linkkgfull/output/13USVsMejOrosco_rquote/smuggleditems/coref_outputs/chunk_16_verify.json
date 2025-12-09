@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The Supreme Court of the United States": "Supreme Court of the United States",
+    "cause": null,
+    "a venireman": null,
+    "the defendant's status as a 'manager'": "manager or leader of human smuggling operation",
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco",
+    "the Continuing Criminal Enterprise statute": "Continuing Criminal Enterprise statute"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Supreme Court of the United States": "Highest federal court in the United States, responsible for interpreting laws and deciding appeals, including recognizing factual findings that require assessment of complex evidence and sensitivity to legal purposes",
+    "manager or leader of human smuggling operation": "Individual who directs or oversees the transportation of smuggled aliens, subject to increased penalties under the sentencing guidelines",
+    "Juventino Mejia-Orosco": "an organizer or leader of a criminal activity, potentially exercising control over unwitting participants",
+    "Continuing Criminal Enterprise statute": "Federal law that provides for the prosecution of individuals involved in ongoing criminal enterprises, including human smuggling operations"
+  }
+}

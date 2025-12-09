@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Valero",
+      "United States Attorney General",
+      "Secretary of the Department of Homeland Security"
+    ],
+    "NOUN_PHRASE": [
+      "Defendant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "defendant",
+    "United States Attorney General": "government official",
+    "Secretary of the Department of Homeland Security": "government official"
+  }
+}

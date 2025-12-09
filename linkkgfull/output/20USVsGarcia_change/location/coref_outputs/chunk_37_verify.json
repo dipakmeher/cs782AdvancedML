@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this case": "United States v. Maria De Jesus Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place, with a Constitution that protects residents from unreasonable searches and seizures",
+    "United States v. Maria De Jesus Garcia": "trial where the jury was instructed with a modified Allen charge to reach a verdict, emphasizing the importance of their decision and the potential consequences of not agreeing upon one, involving a heavily loaded truck with fogged windows"
+  }
+}

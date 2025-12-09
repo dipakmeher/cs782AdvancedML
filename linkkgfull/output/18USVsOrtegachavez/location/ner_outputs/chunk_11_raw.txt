@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the entire record", "the proceedings"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the report": "Senate Report"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court that imposed a sentence of 10 months on Juventino Mejia-Orosco, found that an offense level of 7 did not accurately reflect the nature of the crime committed",
+    "Senate Report": "Report containing information about Juventino Mejia-Orosco's case, which he does not challenge"
+  }
+}

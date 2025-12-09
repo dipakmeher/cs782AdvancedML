@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's Vehicle",
+      "United States-Mexico Border"
+    ],
+    "NOUN_PHRASE": [
+      "a heavy load",
+      "the testimony",
+      "illegal aliens",
+      "a heavy load of produce",
+      "livestock"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's Vehicle": "vehicle carrying a heavy load",
+    "United States-Mexico Border": "border relevant to smuggling context"
+  }
+}

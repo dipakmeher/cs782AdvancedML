@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the dope": "smuggled substances",
+    "the drugs": "smuggled substances",
+    "a load of dope": "smuggled substances",
+    "dope": "smuggled substances",
+    "drugs": "smuggled substances",
+    "cocaine": "specific type of smuggled substance",
+    "methamphetamine": "specific type of smuggled substance"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "smuggled substances": "illicit substances being searched for in the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck, denied by Federico Saldana to be in his possession",
+    "specific type of smuggled substance": "twenty four bundles of a compressed white powder that field-tested positive for cocaine, subject of Federico Saldana's motion to suppress"
+  }
+}

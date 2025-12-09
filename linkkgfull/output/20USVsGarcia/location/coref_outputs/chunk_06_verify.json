@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States-Mexican border": "United States-Mexican border",
+    "Laredo, Texas": "Laredo, Texas",
+    "Interstate 35": "Interstate Highway 35",
+    "the border": "United States-Mexican border",
+    "this country": "United States",
+    "the city": "Laredo, Texas",
+    "the towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "relevant to the Brignoni-Ponce test and a geographical boundary for determining distance from the border",
+    "Laredo, Texas": "location through which Interstate 35 passes, one of the towns before reaching Moore, Texas",
+    "Interstate Highway 35": "public highway leading from the border, known for being a common route with alien smuggling history"
+  }
+}

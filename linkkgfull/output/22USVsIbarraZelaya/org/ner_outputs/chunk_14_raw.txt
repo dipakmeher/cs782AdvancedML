@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Sentencing Guidelines Manual", "Probation Department"],
+    "NOUN_PHRASE": ["the Probation Department"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Sentencing Guidelines Manual": "a manual used for sentencing guidelines",
+    "Probation Department": "a department that advised on the relevant Guideline"
+  }
+}

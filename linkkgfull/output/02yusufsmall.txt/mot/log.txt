@@ -1,0 +1,26 @@
+[2025-07-15 22:34:07] Starting Chunking Step...
+[2025-07-15 22:34:07] Starting chunking for ./output/02yusufsmall.txt/routes/routes_resolved_02yusufsmall.txt.txt...
+[2025-07-15 22:34:07] Transformers library is not installed. Run: pip install transformers
+[2025-07-15 22:34:07] Chunking completed in 0.07 seconds.
+[2025-07-15 22:34:07] Cumulative time after Chunking: 0.07 seconds.
+[2025-07-15 22:34:07] Starting NER Step...
+[2025-07-15 22:34:07] Found 0 chunk files.
+[2025-07-15 22:34:07] NER completed in 0.21 seconds.
+[2025-07-15 22:34:07] Cumulative time after NER: 0.29 seconds.
+[2025-07-15 22:34:07] Starting Coreference Resolution Step...
+[2025-07-15 22:34:07] Final memory saved to: output/02yusufsmall.txt/mot/final_memory.json
+[2025-07-15 22:34:07] Starting verification pass 1...
+[2025-07-15 22:34:07] Final memory saved to: output/02yusufsmall.txt/mot/final_memory.json
+[2025-07-15 22:34:07] Starting verification pass 2...
+[2025-07-15 22:34:07] Final memory saved to: output/02yusufsmall.txt/mot/final_memory.json
+[2025-07-15 22:34:07] Coreference Resolution completed in 0.20 seconds.
+[2025-07-15 22:34:07] Cumulative time after Coref: 0.49 seconds.
+[2025-07-15 22:34:07] Starting Final Coref Resolution Step...
+[2025-07-15 22:34:07] Starting coreference resolution loop
+[2025-07-15 22:34:07] 0 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-07-15 22:34:07] Merging all resolved chunks into output/02yusufsmall.txt/mot/mot_resolved_02yusufsmall.txt.txt
+[2025-07-15 22:34:07] All resolved chunks merged and saved to output/02yusufsmall.txt/mot/mot_resolved_02yusufsmall.txt.txt
+[2025-07-15 22:34:07] Completed coreference resolution for all chunks.
+[2025-07-15 22:34:07] Final Resolution completed in 0.21 seconds.
+[2025-07-15 22:34:07] Cumulative time after Final Resolution: 0.71 seconds.
+[2025-07-15 22:34:07] Total pipeline time: 0.71 seconds.

@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": "United States-Mexican border",
+    "the border": "United States-Mexican border",
+    "common smuggling routes": "Interstate Highway 35 and other highways",
+    "this segment": "Interstate Highway 35",
+    "an interstate highway": null,
+    "the highways of this nation": null,
+    "a common smuggling route": "Interstate Highway 35",
+    "the highway": "Interstate Highway 35",
+    "designated highways": null,
+    "smuggling routes": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate Highway 35": "public highway leading from the border, passing through several towns including Laredo, Texas, and a common smuggling route with history of alien smuggling on this segment, location where the pickup truck was stopped, often used for transporting illegal aliens, where officers had previous experience with illegal alien traffic, commonly used for the smuggling of aliens, portion of the highway where Maria De Jesus Garcia's vehicle was traveling, location where border patrol agents spotted a pickup truck camper, leads directly to the United States-Mexican border but passes through multiple towns before reaching its destination, recently used by illegal alien smugglers, and has an unusually heavy and overloaded appearance of vehicles",
+    "United States-Mexican border": "geographical boundary relevant to the Brignoni-Ponce test, a border from which the pickup truck may have come, reference point for calculating distance to the stop location, basis for determining proximity in stops made by roving border patrol agents, connecting point for roads"
+  }
+}

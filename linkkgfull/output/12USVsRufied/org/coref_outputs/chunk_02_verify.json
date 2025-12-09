@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "Immigration and Customs Enforcement": "Immigration and Customs Enforcement (ICE)",
+    "ICE": "Immigration and Customs Enforcement (ICE)",
+    "Border Patrol": "United States Border Patrol",
+    "the government": "United States",
+    "Monterrey Inn": "Monterrey Inn",
+    "Diesel Impact 2000": "Diesel Impact 2000",
+    "Defense counsel": null,
+    "Bruce Henderson": null,
+    "Claudia": null,
+    "Martin Adaboh": null,
+    "Yusif Ahmed Rufied": null,
+    "United States": "United States",
+    "Agent Bruce Henderson": null,
+    "Ghana": "Ghana",
+    "Africa": "Africa",
+    "Quebec": "Quebec",
+    "Montreal": "Montreal",
+    "Canada": "Canada"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court for the Southern District of Texas": "held a preliminary examination hearing in the case of Yusif Ahmed Rufied and found probable cause to hold him, conducted a hearing on June 2, 2006, and issued a finding of probable cause on June 7, 2006, held a preliminary examination hearing to determine whether there was probable cause to detain Yusif Ahmed Rufied",
+    "Immigration and Customs Enforcement (ICE)": "presented Agent Bruce Henderson as its sole witness at the preliminary examination hearing and interviewed Martin Adaboh, investigated alien smuggling at Diesel Impact 2000, presented Agent Bruce Henderson as its sole witness",
+    "United States Border Patrol": "conducted a check point on Highway 59 where sixty undocumented aliens were found in a tractor trailer and stopped Yusif Ahmed Rufied, checked for loads and aliens, conducted a secondary inspection",
+    "Monterrey Inn": "location where Yusif Ahmed Rufied and Martin Adaboh stayed, and where Martin Adaboh was approached to smuggle aliens by Claudia",
+    "Diesel Impact 2000": "location where aliens were loaded into the tractor trailer, off of Highway 359 with a rough caliche road leading to it, area described by Martin Adaboh to Agent Bruce Henderson",
+    "United States": "country with a magistrate judge system and presented Immigration and Customs Enforcement (ICE) as part of its government at the preliminary examination hearing, has laws regarding undocumented aliens",
+    "Ghana": "country of origin for Yusif Ahmed Rufied and Martin Adaboh",
+    "Africa": "continent where Ghana is located",
+    "Quebec": "province in Canada where Yusif Ahmed Rufied and Martin Adaboh live",
+    "Montreal": "city in Quebec, Canada where Yusif Ahmed Rufied and Martin Adaboh reside",
+    "Canada": "country where Yusif Ahmed Rufied and Martin Adaboh live, destination for a load pickup"
+  }
+}

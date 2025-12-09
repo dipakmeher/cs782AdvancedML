@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["unrestrained aliens", "illegal aliens"],
+    "NOUN_PHRASE": ["the persons involved", "the bed of a pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "unrestrained aliens": "aliens being transported in the bed of a pickup truck",
+    "illegal aliens": "persons being smuggled"
+  }
+}

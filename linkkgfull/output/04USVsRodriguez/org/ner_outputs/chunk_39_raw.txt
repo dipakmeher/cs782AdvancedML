@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Fifth Circuit"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "a court that recently noted a principle regarding consensual encounters"
+  }
+}

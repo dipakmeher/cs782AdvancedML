@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the Report and Recommendation to the United States District Court for the Southern District of Texas": "Report and Recommendation to the United States District Court for the Southern District of Texas",
+    "the Order": "Order of the United States District Court for the Southern District of Texas",
+    "the presentence report": "Presentence Report prepared by the United States Probation Office",
+    "the PSR": "Presentence Report prepared by the United States Probation Office",
+    "the United States Probation Office": "United States Probation Office",
+    "the advisory United States Sentencing Commission imprisonment range": "70 to 87 months",
+    "the total offense level of 21 and a criminal history category of V": null,
+    "the statutory maximum term of imprisonment to be 20 years": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico",
+    "United States District Court for the Southern District of Texas": "Court responsible for imposing sentences in accordance with federal guidelines, considering factors such as the nature and circumstances of the offense and the history and characteristics of the defendant.",
+    "Report and Recommendation to the United States District Court for the Southern District of Texas": "Document recommending acceptance of guilty plea and entry of final judgment of guilt, based on Rogelio Valero-De La Rosa's understanding of the plea agreement",
+    "Order of the United States District Court for the Southern District of Texas": "Court order adopting the Report and Recommendation, entered on June 8, 2010, finalized Rogelio Valero-De La Rosa's sentence",
+    "Presentence Report prepared by the United States Probation Office": "Report calculating advisory imprisonment range based on total offense level and criminal history category, considered in sentencing Rogelio Valero-De La Rosa",
+    "United States Probation Office": "Agency that interviewed Rogelio Valero-De La Rosa and reported on his background and actions",
+    "70 to 87 months": "Advisory guideline range for Rogelio Valero-De La Rosa's sentence, considered in his sentencing"
+  }
+}

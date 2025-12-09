@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["his vehicle", "Carlos Martinez-Romero's truck", "the truck", "the door jamb", "the front door", "the crew-cab section of the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

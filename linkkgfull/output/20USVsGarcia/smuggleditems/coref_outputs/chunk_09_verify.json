@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal alien smugglers": "illegal alien smugglers",
+    "illegal aliens": "undocumented aliens",
+    "Maria De Jesus Garcia's pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "the occupants": "undocumented aliens",
+    "a sizable living cargo": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents near the location of the instant stop, involved in transporting illegal aliens",
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, attempting to hide from United States Border Patrol agents by ducking and scrambling around, potentially indicated by fogged windows of the pickup truck camper on a cold night, with unwashed and dirty clothes and hair, and making sudden attempts to evade detection",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle stopped by United States Border Patrol agents more than 100 miles from the United States-Mexican border, used for transporting illegal aliens, appearing heavily loaded with fogged windows",
+    "illegal alien smugglers and undocumented aliens": null,
+    "the occupants and a sizable living cargo": "undocumented aliens being transported in Maria De Jesus Garcia's pickup truck camper"
+  }
+}

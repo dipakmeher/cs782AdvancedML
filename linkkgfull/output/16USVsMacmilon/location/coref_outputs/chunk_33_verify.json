@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "an empty parking lot": null,
+    "a tractor": null,
+    "an immigration checkpoint": "Freer, Texas",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where aliens entered or remained in violation of the law",
+    "Freer, Texas": "location where an immigration checkpoint is situated and a stop occurred, also involved in a search of a tractor-trailer and prolonged stops, and where conflicting evidence about a Bluetooth was presented, discovered ten undocumented aliens hidden in a tractor-trailer, site of a Border Patrol checkpoint where Raymond McMillon and Zeba Williams were stopped, location of an immigration checkpoint near where Raymond McMillon and Zeba Williams arrived"
+  }
+}

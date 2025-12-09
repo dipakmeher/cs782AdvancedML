@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "district court in Maria De Jesus Garcia's case",
+    "the camper compartment": "camper compartment of Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "district court in Maria De Jesus Garcia's case": "court that handled Maria De Jesus Garcia's trial, made decisions on evidence suppression, and allowed presentation of evidence pertinent to the suppression motion",
+    "camper compartment of Maria De Jesus Garcia's vehicle": "part of the vehicle where occupants were suspected to be hiding, subject of a search by border patrol agents, and relevant to the suppression motion in Maria De Jesus Garcia's trial"
+  }
+}

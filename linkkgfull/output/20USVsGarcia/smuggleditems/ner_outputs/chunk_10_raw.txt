@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's pickup truck camper", "illegal aliens"],
+    "NOUN_PHRASE": ["the occupants", "the pickup truck camper"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle suspected of transporting illegal aliens",
+    "illegal aliens": "persons being smuggled"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexico border",
+    "the area": null,
+    "the road": "Farm-to-Market Road 2050",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico border": "International boundary where roving Border Patrol stops are conducted",
+    "Farm-to-Market Road 2050": "Road where Agent Trevino made observations of suspicious vehicles and location of the wind farm"
+  }
+}

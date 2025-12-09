@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "cocaine": "cocaine",
+    "the cocaine": "cocaine",
+    "the documents": null,
+    "the 1996 Mercury Cougar": null,
+    "the side panel": null,
+    "drug evidence": "cocaine",
+    "the drug evidence": "cocaine",
+    "the United States of America": "United States of America",
+    "the United States Court of Appeals": "United States Court of Appeals",
+    "the motion for a determination of excusable neglect or good cause": null,
+    "the appeal": null,
+    "the case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "cocaine": "evidence suppressed in a criminal case, subject of appeal regarding suppression order and related to a motion for reconsideration denied on August 12, smuggled substance, whose suppression is being appealed",
+    "United States of America": "party in the appeal, appellant regarding post-verdict suppression order",
+    "United States Court of Appeals": "court hearing the appeal"
+  }
+}

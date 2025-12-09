@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana": "Federico Saldana",
+    "the Government": "United States Government",
+    "the Court": "Court in the above-styled cause",
+    "the motion": null,
+    "the hearing": null,
+    "the documents": null,
+    "the evidence": null,
+    "the arguments of counsel": null,
+    "the governing law": null,
+    "Williamson County Sheriff's Office officials": null,
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "Defendant in the case",
+    "United States Government": "Party responding to Federico Saldana's motion",
+    "Court in the above-styled cause": "Court presiding over Federico Saldana's case",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana on the day in question",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer towed by the vehicle driven by Federico Saldana"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the United States Court of Appeals": "the United States Court of Appeals",
+    "a United States District Court": "a United States District Court",
+    "the defendant": null,
+    "the verdict": null,
+    "the appeal": null,
+    "the evidence": null,
+    "the proceeding": null,
+    "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)": "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)",
+    "the United States Government": "United States of America",
+    "the notice of appeal": null,
+    "the judgment or order being appealed": null,
+    "the United States District Court": "a United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "Plaintiff-Appellant in the case",
+    "the United States Court of Appeals": "Court with appellate jurisdiction over decisions of United States District Courts",
+    "a United States District Court": "Trial court where the case against Raul Rafael Arce-Jasso was heard",
+    "Federal Rule of Appellate Procedure 4(b)(1)(B)(i)": "Rule governing the timing and filing of appeals by the United States Government"
+  }
+}

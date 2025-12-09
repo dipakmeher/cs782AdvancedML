@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States Border Patrol",
+      "U.S. Highway 59",
+      "Freer immigration checkpoint"
+    ],
+    "NOUN_PHRASE": [
+      "the Freer immigration checkpoint building",
+      "the Border Patrol station parking lot"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "law enforcement agency",
+    "U.S. Highway 59": "highway where the incident occurred",
+    "Freer immigration checkpoint": "location of the incident"
+  }
+}

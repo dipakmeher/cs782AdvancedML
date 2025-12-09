@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "narcotics": "smuggled substances",
+    "dope": "smuggled substances",
+    "the dope": "smuggled substances",
+    "a load of dope": "smuggled substances",
+    "the drugs": "smuggled substances"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "smuggled substances": "suspected cargo, previously smuggled by Federico Saldana, including narcotics and dope"
+  }
+}

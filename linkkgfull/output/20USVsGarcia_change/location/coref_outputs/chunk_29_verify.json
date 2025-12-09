@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the area": "Cotulla, Texas area",
+    "the back seat": "back seat of the camper",
+    "the seat": "back seat of the camper",
+    "the vehicle": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas area": "region covered by the Cotulla, Texas border patrol station, with characteristics relevant to determining the legality of an investigatory stop, including proximity to the border and history of illegal alien traffic",
+    "back seat of the camper": "part of the vehicle where passengers were sitting and attempting to hide",
+    "Maria De Jesus Garcia's vehicle": "vehicle with occupants reacting to a flashlight by ducking and scrambling, attempting to hide from view"
+  }
+}

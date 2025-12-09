@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the jury": null,
+    "the district court": "United States District Court",
+    "federal courts": "United States federal courts"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where the trial of Maria De Jesus Garcia took place, the jury deliberated, and post-verdict discovery was denied, also made oral findings of fact regarding the constitutionality of the stop and search",
+    "United States federal courts": "courts that have historically not favored interrogations of jurors except in cases of illegal or prejudicial intrusion into the jury process"
+  }
+}

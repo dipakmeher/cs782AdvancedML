@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["six co-defendants", "five-count superseding indictment", "United States Federal Grand Jury", "supplemental verdict", "Presentence Report", "PSR", "United States Sentencing Guidelines Manual"],
+    "NOUN_PHRASE": ["the hostage-taking offense", "the ransom demand", "the dangerous weapon", "the firearm", "the aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "six co-defendants": "co-defendants of Jose Marlon Ibarra-Zelaya",
+    "five-count superseding indictment": "indictment against Jose Marlon Ibarra-Zelaya and co-defendants",
+    "United States Federal Grand Jury": "jury that found Jose Marlon Ibarra-Zelaya and co-defendants guilty",
+    "supplemental verdict": "verdict returned by the United States Federal Grand Jury",
+    "Presentence Report": "report prepared for determining punishment",
+    "PSR": "abbreviation for Presentence Report",
+    "United States Sentencing Guidelines Manual": "manual used for determining sentence"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the officers", "a police officer", "the driver", "the officer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

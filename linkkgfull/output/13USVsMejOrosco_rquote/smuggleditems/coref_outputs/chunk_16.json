@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Supreme Court of the United States": "Supreme Court of the United States",
+    "the venireman": null,
+    "cause": null,
+    "the defendant's status as a 'manager'": null,
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Supreme Court of the United States": "Highest federal court in the United States, responsible for interpreting laws and deciding appeals",
+    "Juventino Mejia-Orosco": "Individual involved in a human smuggling operation, with a previous conviction and status as an organizer or leader"
+  }
+}

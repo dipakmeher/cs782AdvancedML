@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America",
+      "District Court"
+    ],
+    "NOUN_PHRASE": [
+      "this United States of America"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "country making an argument",
+    "District Court": "court that denied a motion for reconsideration"
+  }
+}

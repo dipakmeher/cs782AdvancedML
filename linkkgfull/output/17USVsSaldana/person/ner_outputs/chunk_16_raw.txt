@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Saldana", "Haston", "Cox"],
+    "NOUN_PHRASE": ["the officers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "driver of the truck and trailer",
+    "Haston": "officer conducting questioning",
+    "Cox": "officer searching for registration papers"
+  }
+}

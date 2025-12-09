@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "South Texas"
+    ],
+    "NOUN_PHRASE": [
+      "the desert",
+      "the middle of summer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "South Texas": "location where undocumented aliens were led through the desert-like brush"
+  }
+}

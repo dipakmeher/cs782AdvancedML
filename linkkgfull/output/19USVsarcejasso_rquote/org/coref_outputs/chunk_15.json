@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the United States of America": "United States of America",
+    "border patrol": "U.S. Border Patrol",
+    "the border patrol checkpoint": "U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas",
+    "the primary inspection lane": null,
+    "the secondary inspection area": null,
+    "Laredo": "City of Laredo",
+    "the government": "United States Government",
+    "a court of appeals": "United States Court of Appeals",
+    "a district court": "United States District Court",
+    "Federal Rule of Appellate Procedure": "Federal Rule of Appellate Procedure",
+    "this court of appeals": "United States Court of Appeals",
+    "the district court": "United States District Court",
+    "FED. R. APP. P": "Federal Rule of Appellate Procedure",
+    "this Court": "United States Court of Appeals",
+    "the court of appeals": "United States Court of Appeals",
+    "Raul Rafael Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "the District Court": "United States District Court",
+    "the Government": "United States Government",
+    "the Court": "United States Court of Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "appellant in the case, arguing for excusable neglect due to untimely filing and a party in the legal proceedings, seeking appeal of suppressed evidence",
+    "U.S. Border Patrol": "law enforcement agency operating the checkpoint",
+    "U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas": "location where Raul Rafael Arce-Jasso was stopped and questioned by Agent Jesus Garcia",
+    "City of Laredo": "location of the federal grand jury and border patrol checkpoint",
+    "United States Government": "party entitled to appeal suppression of evidence in criminal cases",
+    "Federal Rule of Appellate Procedure": "governs appellate procedure, specifically the timing and certification requirements for appeals by the government, including rules for filing notice of appeal",
+    "United States Court of Appeals": "court that reviews appeals from district courts, including those related to excusable neglect and good cause for tardy filings",
+    "United States District Court": "trial court where the case is initially heard, makes findings on factual questions and rules on motions to suppress",
+    "Raul Rafael Arce-Jasso": "the defendant in the case"
+  }
+}

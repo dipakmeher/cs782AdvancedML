@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a load of narcotics",
+      "the scissor lift",
+      "the flatbed trailer",
+      "the 2008 Chevrolet truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

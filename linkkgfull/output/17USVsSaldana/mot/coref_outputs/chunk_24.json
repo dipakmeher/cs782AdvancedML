@@ -1,0 +1,37 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "2008 Chevrolet truck",
+    "the trailer": "flatbed trailer",
+    "the patrol car": null,
+    "a 2008 Chevrolet truck": "2008 Chevrolet truck",
+    "a flatbed trailer": "flatbed trailer",
+    "Chevrolet": null,
+    "the scissor lift": null,
+    "the car": null,
+    "a marked unit": null,
+    "the vehicle": "2008 Chevrolet truck",
+    "this sort of truck with a trailer attached": "2008 Chevrolet truck and flatbed trailer",
+    "the 18-wheeler": null,
+    "the vehicles": "2008 Chevrolet truck and flatbed trailer",
+    "trailer": "flatbed trailer",
+    "a K-9 unit": null,
+    "the cab of the truck": "2008 Chevrolet truck",
+    "the bed of the truck": "2008 Chevrolet truck",
+    "the passenger side of the truck": "2008 Chevrolet truck",
+    "his patrol car": null,
+    "vehicle": "2008 Chevrolet truck",
+    "truck and trailer": "2008 Chevrolet truck and flatbed trailer",
+    "his truck and trailer": "2008 Chevrolet truck and flatbed trailer",
+    "this sort of truck and trailer combination": "2008 Chevrolet truck and flatbed trailer",
+    "the truck or trailer": null,
+    "a truck and trailer combination": "2008 Chevrolet truck and flatbed trailer",
+    "his 18-wheeler": null,
+    "his truck": "2008 Chevrolet truck",
+    "the truck and trailer": "2008 Chevrolet truck and flatbed trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck": "Vehicle pulling a flatbed trailer, registered to Daniel A. Huerta, outfitted with over-sized tires and after-market rims, involved in unsafe driving maneuvers, driven by Federico Saldana, used to transport a scissor lift to Dallas for repairs, suspected of carrying drugs, searched by Jason Cox, Gary Haston, and a K-9 unit, had a dog alert to the presence of narcotics on the floorboard, found with twenty four bundles of cocaine after a search at a tire shop, subject of a suppression motion due to alleged lack of reasonable suspicion for the initial stop, involved in multiple traffic violations including failure to maintain a single lane and unsafe lane changes, stopped on Interstate 35, recently registered license plates, subject of a consent search by Federico Saldana, involved in a routine traffic encounter",
+    "flatbed trailer": "Trailer transporting a scissor lift, registered to Daniel Martin Huerta, attached to the 2008 Chevrolet truck, being taken to an unknown address in Dallas, suspected of carrying drugs, searched by Jason Cox, Gary Haston, and a K-9 unit, found with twenty four bundles of cocaine after a search at a tire shop, license plate registered in Laredo four days earlier",
+    "2008 Chevrolet truck and flatbed trailer": "Vehicle and trailer combination involved in a traffic stop on Interstate 35, subject of a warning and registration paperwork, searched at a rest area, transported to a tire shop for further investigation where twenty four bundles of cocaine were found, witnessed veering onto Interstate 35 before the stop, owner gave consent to search, driven by an individual unfamiliar with driving this sort of truck and trailer combination, involved in a routine traffic encounter, subject of a consent search by Federico Saldana"
+  }
+}

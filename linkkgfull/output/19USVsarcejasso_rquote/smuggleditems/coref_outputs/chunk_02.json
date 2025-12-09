@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "cocaine": "cocaine",
+    "the cocaine": "cocaine",
+    "the documents": null,
+    "the 1996 Mercury Cougar": null,
+    "the side panel": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "cocaine": "hidden in the side panel of the 1996 Mercury Cougar"
+  }
+}

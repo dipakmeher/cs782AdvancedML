@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Interstate Highway 35", "Interstate 35"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "a highway where Maria De Jesus Garcia's vehicle was traveling",
+    "Interstate 35": "a highway where vehicles were traveling at slow speed"
+  }
+}

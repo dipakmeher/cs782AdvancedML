@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Department of Homeland Security": "Department of Homeland Security",
+    "Immigration Services": "United States Citizenship and Immigration Services (USCIS)",
+    "the department": "Department of Homeland Security",
+    "Immigration authorities": "United States Citizenship and Immigration Services (USCIS)"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Department of Homeland Security": "handled application for derivative citizenship, oversees immigration services",
+    "United States Citizenship and Immigration Services (USCIS)": "part of the Department of Homeland Security that handled the application for derivative citizenship, denied Rogelio Valero-De La Rosa's application due to insufficient proof of paternal presence in the United States"
+  }
+}

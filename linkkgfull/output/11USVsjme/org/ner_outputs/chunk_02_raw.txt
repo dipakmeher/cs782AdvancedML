@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Judge Ricardo Garcia Regional Detention Center", "Texas Juvenile Justice Department", "Webb County Jail"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Judge Ricardo Garcia Regional Detention Center": "a detention center where J.M.E. was unsuccessfully discharged",
+    "Texas Juvenile Justice Department": "a department where J.M.E. was detained",
+    "Webb County Jail": "a jail where J.M.E. was transferred"
+  }
+}

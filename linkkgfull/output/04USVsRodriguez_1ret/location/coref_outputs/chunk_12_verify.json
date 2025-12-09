@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth, Texas": "Corinth, Texas",
+    "Laredo": "Laredo, Texas",
+    "San Antonio": "San Antonio",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the shoulder": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location where the vehicle's plate is registered, a suburb of Dallas, approximately twenty to twenty-five miles north of Dallas",
+    "Laredo, Texas": "reference location for distance, city located on the US-Mexico border with high smuggling activity",
+    "San Antonio": "reference location for direction, destination city for smuggled aliens",
+    "Farm-to-Market Road 2050": "road where the vehicles were followed, rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route"
+  }
+}

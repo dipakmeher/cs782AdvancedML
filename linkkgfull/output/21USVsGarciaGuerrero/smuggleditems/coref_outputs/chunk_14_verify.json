@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the aliens": "nineteen undocumented aliens",
+    "Inocencio Garcia-Guerrero": "Inocencio Garcia-Guerrero",
+    "Alma Delia Simon-Fernandez": "Alma Delia Simon-Fernandez",
+    "the Court of Appeals": null,
+    "the Ninth Circuit Court of Appeals": null,
+    "Herrera Court": null,
+    "Section (b)(5)": null,
+    "Section (b)(6)": null,
+    "the guideline": null,
+    "the enhancement": null,
+    "the offense level": null,
+    "the base offense level": null,
+    "bodily injury": null,
+    "the seriousness of the injury": null,
+    "the increase": null,
+    "the death of an individual": null,
+    "the person": null,
+    "an individual": null,
+    "the defendant": "Inocencio Garcia-Guerrero",
+    "intent": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented alien": "individual being smuggled, part of a group that included Alma Delia Simon-Fernandez, transported by Inocencio Garcia-Guerrero for financial gain",
+    "nine undocumented aliens": "group of nine undocumented immigrants being smuggled from Mexico to the United States, led by Inocencio Garcia-Guerrero",
+    "seven other undocumented aliens": "additional group of seven undocumented immigrants being smuggled from Mexico to the United States, part of the larger group of nineteen",
+    "nineteen undocumented aliens": "individuals being smuggled through South Texas, led by Inocencio Garcia-Guerrero, with inadequate water and food, subjected to substantial risk of death or serious bodily injury during the smuggling journey, transported unrestrained in the bed of a pickup truck",
+    "Alma Delia Simon-Fernandez": "person who died during the smuggling operation due to heat stroke caused by harsh conditions in the South Texas desert",
+    "Inocencio Garcia-Guerrero": "defendant, alien smuggler guide responsible for creating substantial risk of death or serious bodily injury to the undocumented aliens during the smuggling journey through South Texas",
+    "two undocumented aliens": "adult males found severely dehydrated and showing acute signs of heat stroke near the emergency call box"
+  }
+}

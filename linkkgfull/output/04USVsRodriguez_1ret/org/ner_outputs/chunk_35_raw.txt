@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Border Patrol", "Freer Police Department"],
+    "NOUN_PHRASE": ["the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "law enforcement agency involved in the stop of RICARDO RODRIGUEZ, JR.'s vehicle",
+    "Freer Police Department": "law enforcement agency involved in the traffic stop of IGNACIO RODRIGUEZ, JR."
+  }
+}

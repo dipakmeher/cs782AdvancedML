@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Freer": "Freer, Texas",
+    "the nearby gas station": null,
+    "the Border": "Mexico border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Freer, Texas": "location of a patrolman and Officer Reymundo Reyes",
+    "Mexico border": "country border relevant to the smuggling context"
+  }
+}

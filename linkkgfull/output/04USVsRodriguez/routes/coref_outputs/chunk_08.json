@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 59": "Highway 59",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "Highway 59",
+    "U.S. 359": "Highway 359",
+    "Highway 16": "Highway 16",
+    "the loop": null,
+    "the road": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Highway 59": "road where vehicles were inspected and headed towards Corpus, Houston, or Freer, Texas, intersecting with Farm-to-Market Road 2050 to the west of Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "rural road used by ranchers, oil field workers, and others for daily commute, with most vehicles being recognizable to Border Patrol agents, where Agent Jorge Luis Trevino followed suspicious vehicles",
+    "Highway 359": "road intersecting with Farm-to-Market Road 2050 to the east of the Hebbronville checkpoint",
+    "Highway 16": "route where picked-up aliens are taken after walking from Farm-to-Market Road 2050, leading to Houston or San Antonio"
+  }
+}

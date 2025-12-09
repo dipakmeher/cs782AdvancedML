@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "the Freer immigration checkpoint building": "Freer Immigration Checkpoint Building",
+    "the Border Patrol station parking lot": "Border Patrol Station Parking Lot"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "issued a report and recommendation",
+    "United States Border Patrol": "conducted vehicle inspections at the Freer immigration checkpoint",
+    "Freer Police Department": "conducted a traffic stop",
+    "United States District Court": "held a hearing on the pending motions to suppress",
+    "U.S. Highway 59": "highway where vehicles were inspected by United States Border Patrol",
+    "Freer Immigration Checkpoint": "location where Agent Trevino was stationed and conducted inspections",
+    "Freer Immigration Checkpoint Building": "building where Agent Trevino processed undocumented individuals",
+    "Border Patrol Station Parking Lot": "parking lot adjacent to the Freer immigration checkpoint"
+  }
+}

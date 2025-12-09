@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented aliens": "undocumented aliens",
+    "pickup truck camper": "pickup truck camper",
+    "the pickup truck camper": "pickup truck camper",
+    "living beings": null,
+    "people": "undocumented aliens",
+    "Mexican citizens": "undocumented aliens",
+    "illegal aliens": "undocumented aliens",
+    "the men": "undocumented aliens",
+    "the male passengers": "undocumented aliens",
+    "the passengers": "undocumented aliens",
+    "the individuals": "undocumented aliens",
+    "the driver": null,
+    "the pickup truck camper's occupants": "undocumented aliens",
+    "the camper compartment": "pickup truck camper",
+    "the suppression motion": null,
+    "evidence": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled, possibly hidden in a vehicle with fogged windows on a cold night, characterized by unwashed and unkempt appearance",
+    "pickup truck camper": "vehicle used for smuggling undocumented aliens on Interstate Highway 35, characterized by heavy loading and difficulty in handling, subject of a suppression motion regarding evidence obtained during its stop and search"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the jury": null,
+    "the trial": null,
+    "the Allen charge": null,
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "the right to a fair trial": null,
+    "the context of this case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered",
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, potentially hidden in a pickup truck camper with fogged windows, appearing unwashed and unkempt, including Mexican citizens and illegal aliens found during an immigration inspection on Interstate Highway 35, exhibiting efforts to avoid detection",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents",
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents near the location of the instant stop"
+  }
+}

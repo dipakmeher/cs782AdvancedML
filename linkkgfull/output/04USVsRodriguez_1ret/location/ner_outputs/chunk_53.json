@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the first car",
+      "the load car",
+      "the scout car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

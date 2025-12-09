@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "Agent Pena"],
+    "NOUN_PHRASE": ["the Supreme Court", "a Border Patrol agent", "the occupants"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "argues about the lawfulness of Agent Pena's immigration questions",
+    "Agent Pena": "asked immigration questions"
+  }
+}

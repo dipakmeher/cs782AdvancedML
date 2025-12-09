@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Henderson", "Codefendant", "Defendant", "Henderson"],
+    "NOUN_PHRASE": ["the trucking dispatcher", "his wife", "the officer", "the inspector", "the woman", "his assistant", "her supervisor"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Henderson": "testified about Codefendant's and Defendant's statements",
+    "Codefendant": "described the area surrounding Diesel 2000 and made statements about payments",
+    "Defendant": "claimed they were going to McAllen, Texas and received $1000 from Codefendant",
+    "Henderson": "same as Agent Henderson"
+  }
+}

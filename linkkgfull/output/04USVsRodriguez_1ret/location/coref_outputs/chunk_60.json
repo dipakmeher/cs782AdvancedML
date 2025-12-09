@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the checkpoint": "Freer immigration checkpoint",
+    "the Border Patrol station": "Border Patrol station",
+    "the white car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, relevant to the events' context",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was taken for questioning after a traffic stop, relevant to the context of arrests and probable cause"
+  }
+}

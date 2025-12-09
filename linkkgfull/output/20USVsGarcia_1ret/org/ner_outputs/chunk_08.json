@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States district court",
+      "United States Court of Appeals for the Fifth Circuit",
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States district court": "made unassailed findings",
+    "United States Court of Appeals for the Fifth Circuit": "relied upon an agent's observation",
+    "Border Patrol": "had agents who apprehended illegal alien smugglers"
+  }
+}

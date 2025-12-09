@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "Mexican border"
+    ],
+    "NOUN_PHRASE": [
+      "an Interstate Highway",
+      "the front seat of the truck cab",
+      "the back seat",
+      "this vehicle",
+      "the stop",
+      "the border"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas": "location where the pickup truck was stopped",
+    "Mexican border": "reference point for the location of the stop"
+  }
+}

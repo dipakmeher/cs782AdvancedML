@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the reasonableness requirement": null,
+    "checkpoint stops": "immigration checkpoints",
+    "suspicionless vehicle stops": "immigration checkpoints",
+    "the Supreme Court of the United States": "the Supreme Court of the United States",
+    "routine vehicle stops": "immigration checkpoints",
+    "immigration checkpoints": "immigration checkpoints",
+    "the permissible duration of a stop": null,
+    "the time reasonably necessary to determine citizenship status": null,
+    "citizenship status": null,
+    "identification or proof of citizenship": null,
+    "consent to extend detention": null,
+    "questions asked during a stop": null,
+    "the duration of the stop": null,
+    "a United States Border Patrol Agent": "United States Border Patrol Agent"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "immigration checkpoints": "Locations where routine vehicle stops are conducted to ascertain occupants' citizenship",
+    "the Supreme Court of the United States": "Highest court in the United States that has recognized the constitutionality of suspicionless vehicle stops at immigration checkpoints",
+    "United States Border Patrol Agent": "Agent responsible for conducting stops, detentions, and searches at immigration checkpoints"
+  }
+}

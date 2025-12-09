@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "United States District Court"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced in the context of a plea agreement and 'fast track' program",
+    "United States District Court": "mentioned as the body from which a downward departure could be requested"
+  }
+}

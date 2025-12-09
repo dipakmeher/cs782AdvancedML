@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the verdict": "United States v. Garcia",
+    "the jury in Maria De Jesus Garcia's trial": "United States v. Garcia",
+    "Maria De Jesus Garcia's trial": "United States v. Garcia",
+    "the United States District Court": "United States District Court",
+    "extraneous prejudicial information": null,
+    "outside influence": null,
+    "the appeal": "United States v. Garcia",
+    "post-trial questioning of jurors in Maria De Jesus Garcia's trial": null,
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation, and the jury returning its guilty verdict at about 4:45 p.m.",
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge, with her pickup truck camper being stopped by United States Border Patrol agents",
+    "United States District Court": "court that refused to conduct a post-verdict hearing on whether the jury was coerced by the Allen charge and instructed the jury to continue deliberation"
+  }
+}

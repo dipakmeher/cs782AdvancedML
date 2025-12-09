@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens",
+      "twenty-eight aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the load car",
+      "the scout car",
+      "the other vehicle",
+      "the defendant's vehicle",
+      "the black Dodge pickup truck",
+      "RICARDO RODRIGUEZ, JR.'s white Malibu sedan"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "persons being smuggled",
+    "twenty-eight aliens": "persons being smuggled"
+  }
+}

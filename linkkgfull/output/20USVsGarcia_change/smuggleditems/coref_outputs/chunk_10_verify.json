@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented aliens": "undocumented aliens",
+    "illegal aliens": "undocumented aliens",
+    "the passengers": "undocumented aliens",
+    "other individuals": "undocumented aliens",
+    "the camper compartment": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals admitted to being undocumented, found in Maria De Jesus Garcia's pickup truck camper during a stop on Interstate Highway 35",
+    "pickup truck camper": "vehicle stopped by United States Border Patrol on Interstate Highway 35, containing undocumented aliens and searched based on probable cause"
+  }
+}

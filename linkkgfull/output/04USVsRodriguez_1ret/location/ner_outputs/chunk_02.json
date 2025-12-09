@@ -1,0 +1,31 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "March",
+      "February",
+      "Court",
+      "Dkt. No. 35",
+      "Dkt. No. 39",
+      "Dkt. No. 21",
+      "May",
+      "Freer Police Department"
+    ],
+    "NOUN_PHRASE": [
+      "the Court",
+      "the stop",
+      "the scope of the stop",
+      "the nature of the interrogation",
+      "the traffic stop",
+      "the series of vehicle stops",
+      "the warrants",
+      "the arrest",
+      "the hearing"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens",
+    "Court": "legal body presiding over the case",
+    "Freer Police Department": "law enforcement agency involved in the traffic stop"
+  }
+}

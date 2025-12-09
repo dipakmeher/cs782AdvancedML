@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a tractor-trailer": "tractor-trailer",
+    "a rental car": null,
+    "the tractor-trailer": "tractor-trailer",
+    "the tractor": "tractor-trailer",
+    "the driver-side door": null,
+    "the engine": null,
+    "the steps": null,
+    "the door": null,
+    "the tractor's sleeper area": "tractor-trailer",
+    "the bed": null,
+    "the tractor's rear sleeper area": "tractor-trailer",
+    "the tractor's exterior steps": "tractor-trailer",
+    "the tractor's wall": "tractor-trailer",
+    "the tractor's closets": "tractor-trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tractor-trailer": "Vehicle used to transport undocumented aliens, also used for transporting commercial equipment and stopped at Freer, Texas on June 12, 2014; involved in an incident where contraband was detected by a dog and found to have ten undocumented aliens hidden in its closets and beds. On July 8, 2014, it was used by Raymond McMillon to transport Ramon De La Cruz and Jorge Miguel Hernandez-Gomez, who were discovered hidden in the tractor's sleeper area"
+  }
+}

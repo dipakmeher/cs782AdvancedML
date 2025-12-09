@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate 35": "Interstate 35",
+    "U.S.-Mexico border": null,
+    "Texas-Mexico border": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate 35": "the road where Carlos Martinez-Romero was traveling at a low speed and exhibited suspicious behavior",
+    "U.S.-Mexico border": "geographical boundary relevant to roving border patrol stops",
+    "Texas-Mexico border": "geographical boundary relevant to roving border patrol stops"
+  }
+}

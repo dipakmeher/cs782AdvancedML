@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Henderson", "Martin Adaboh", "Defendant", "Codefendant", "Claudia"],
+    "NOUN_PHRASE": ["the individual", "the woman", "material witnesses", "the courtroom", "the tractor trailer", "the cab", "the attorney"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Henderson": "testifying agent",
+    "Martin Adaboh": "Codefendant",
+    "Defendant": "individual on trial",
+    "Codefendant": "co-defendant of Defendant",
+    "Claudia": "woman met by Codefendant"
+  }
+}

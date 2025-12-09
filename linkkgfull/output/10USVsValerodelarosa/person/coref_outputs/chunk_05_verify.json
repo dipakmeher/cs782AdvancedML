@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Valero": "Rogelio Valero-De La Rosa",
+    "the Magistrate Judge": null,
+    "the Government": "United States",
+    "the Court": null,
+    "the district court": null,
+    "the defendant": "Rogelio Valero-De La Rosa"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico, signed the Plea Agreement and Plea Agreement Addendum, pleaded guilty before a United States Magistrate Judge",
+    "United States": "the government entity involved in the prosecution of Rogelio Valero-De La Rosa"
+  }
+}

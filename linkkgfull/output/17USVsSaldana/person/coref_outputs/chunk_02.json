@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana": "Federico Saldana",
+    "the defendant": "Federico Saldana",
+    "Defendant Federico Saldana": "Federico Saldana",
+    "Gary Haston": "Gary Haston",
+    "Heather Vargas": "Heather Vargas",
+    "Daniel Martin Huerta": "Daniel Martin Huerta",
+    "Daniel A. Huerta": "Daniel A. Huerta",
+    "a veteran narcotics investigator": "Gary Haston",
+    "a relative newcomer to the narcotics division": "Heather Vargas",
+    "the trailer's registered owner": "Daniel Martin Huerta",
+    "the truck's registered owner": "Daniel A. Huerta",
+    "the Court": null,
+    "counsel": null,
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "defendant in a case involving a motion to suppress",
+    "Gary Haston": "veteran narcotics investigator with 17 years of experience",
+    "Heather Vargas": "relative newcomer to the narcotics division",
+    "Daniel Martin Huerta": "registered owner of the trailer",
+    "Daniel A. Huerta": "registered owner of the truck"
+  }
+}

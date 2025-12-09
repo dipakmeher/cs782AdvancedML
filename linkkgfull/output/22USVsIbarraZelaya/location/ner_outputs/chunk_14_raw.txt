@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the record", "the base offense level", "the PSR", "the Probation Department", "the Guidelines Manual", "the offense", "the case", "the sentencing", "the transcript"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

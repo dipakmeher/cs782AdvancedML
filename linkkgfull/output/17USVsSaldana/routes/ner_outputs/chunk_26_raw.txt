@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a roadway", "a single lane"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

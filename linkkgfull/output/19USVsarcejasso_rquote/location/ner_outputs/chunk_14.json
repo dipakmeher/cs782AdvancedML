@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "this Court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "the party that considered evidence during the bench trial and did not appeal in time"
+  }
+}

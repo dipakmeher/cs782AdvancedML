@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the trial judge",
+      "the jury",
+      "any witness",
+      "any attorney"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

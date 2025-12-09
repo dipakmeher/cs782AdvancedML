@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Government": "United States Government"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "Conducted the initial stop of RICARDO RODRIGUEZ, JR.'s vehicle and had an agent present during interviews.",
+    "Freer Police Department": "Involved in the traffic stop of IGNACIO RODRIGUEZ, JR. and cooperated with United States Border Patrol.",
+    "United States Government": "Bears the burden of proving that stops were constitutional since Defendants were seized without a warrant."
+  }
+}

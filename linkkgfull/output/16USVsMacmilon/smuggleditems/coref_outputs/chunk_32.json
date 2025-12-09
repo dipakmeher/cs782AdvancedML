@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "aliens": "ten undocumented aliens",
+    "Zeba Williams": "Zeba Williams",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Jorge Miguel Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "Eric Camacho": "Eric Camacho",
+    "the offense": null,
+    "the conspiracy conviction": null,
+    "the indictment": null,
+    "the jury": null,
+    "the trial evidence": null,
+    "the smuggling network": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer, discovered at the immigration checkpoint stop and testified against Ramon De La Cruz",
+    "Zeba Williams": "alleged co-conspirator and defendant in the conspiracy case",
+    "Ramon De La Cruz": "defendant in the conspiracy case, accused of transporting aliens for commercial advantage or private financial gain",
+    "Jorge Miguel Hernandez-Gomez": "individual who arranged to pay thousands of dollars to be smuggled into the United States",
+    "Eric Camacho": "United States Border Patrol Agent testifying about smuggling practices and financial transactions involving smugglers",
+    "ten undocumented aliens and contraband": null
+  }
+}

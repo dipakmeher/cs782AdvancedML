@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "marijuana": "marijuana",
+    "the evidence": null,
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "alien smuggling cases": "alien smuggling cases",
+    "narcotics cases": "narcotics cases",
+    "alien": "alien",
+    "the aliens": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "marijuana": "substance for distribution, weighing between 100 and 1,000 kilograms",
+    "large white Ford pickup truck": "vehicle involved in the stop by United States/Mexican Border Patrol",
+    "alien smuggling cases": "cases involving the smuggling of aliens",
+    "narcotics cases": "cases involving narcotics",
+    "alien": "individuals being smuggled"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 59": "Highway 59",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "Highway 59",
+    "U.S. 359": "Highway 359",
+    "Highway 16": "Highway 16",
+    "the loop": "Highway 59 to Farm-to-Market Road 2050 to U.S. 359",
+    "Farm-to-Market Road 2895": "Farm-to-Market Road 2895",
+    "Mills Bennett Road": null,
+    "San Pablo Road": "San Pablo Road",
+    "Santo Nino Road": "Santo Nino Road",
+    "Dinn Ranch": "Santo Nino Road",
+    "RR 2523": "Ranch Road 2523",
+    "Highway 277": "Highway 277",
+    "Highway 377": "Highway 377",
+    "Highway 85": "Highway 85",
+    "U.S. Highway 385": "U.S. Highway 385",
+    "Interstate highway": "Interstate highway"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Highway 59": "road where vehicles were inspected and headed towards Corpus, Houston, or Freer, Texas, intersecting with Farm-to-Market Road 2050 to the west of Freer immigration checkpoint, location of a traffic stop, has checkpoints that smugglers try to avoid",
+    "Farm-to-Market Road 2050": "rural road used by ranchers, oil field workers, and others for daily commute, where Agent Jorge Luis Trevino followed suspicious vehicles, connection between U.S. 359 and Highway 59, a road where the white sedan was going on and off, has intersections with Mills Bennett Road, San Pablo Road, and Santo Nino Road",
+    "Highway 359": "road intersecting with Farm-to-Market Road 2050 to the east of the Hebbronville checkpoint, route the truck was traveling on, has checkpoints that smugglers try to avoid",
+    "Highway 16": "route where picked-up aliens are taken after walking from Farm-to-Market Road 2050, leading to Houston or San Antonio, provides vehicle access via San Pablo Road and Santo Nino Road",
+    "Highway 59 to Farm-to-Market Road 2050 to U.S. 359": "indirect route taken by defendants to avoid Hebbronville checkpoint on U.S. 359, also known as 'the loop', convenient route for smugglers",
+    "Farm-to-Market Road 2895": "an alternative farm-to-market road, more direct route to Bruni from outside Laredo, Texas",
+    "San Pablo Road": "location of the Moglia ranch house and the Stag trailer, south of the wind farm on FM 2050, extends to Highway 16 providing vehicle access",
+    "Santo Nino Road": "also known as Dinn Ranch, extends to the east from Farm-to-Market Road 2050 and provides vehicle access to Highway 16",
+    "Ranch Road 2523": "ranch road used by smugglers to avoid checkpoints on Highway 277",
+    "Highway 277": "highway with a checkpoint that smugglers try to avoid",
+    "Highway 377": "highway used by smugglers to avoid checkpoints",
+    "Highway 85": "a common smuggling route that avoids immigration checkpoints, located near the United States-Mexico border",
+    "U.S. Highway 385": "a known drug smuggling route in an area known for drug smuggling, specifically in the Big Bend area",
+    "Interstate highway": "location where vehicles were heading on a seldom-used remote road to avoid detection"
+  }
+}

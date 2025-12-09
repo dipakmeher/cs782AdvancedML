@@ -1,0 +1,34 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Dallas-Fort Worth",
+      "Corinth, Texas",
+      "San Angelo",
+      "Fifth Circuit",
+      "United States",
+      "Texas",
+      "Dallas",
+      "1-20",
+      "1-35"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "a faraway place",
+      "the most direct route",
+      "the ranch road",
+      "another part of Texas",
+      "the local ranches",
+      "that particular road",
+      "a well-traveled interstate highway",
+      "the checkpoint"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dallas-Fort Worth": "location of vehicle registration",
+    "Corinth, Texas": "location of vehicle registration",
+    "San Angelo": "location of vehicle registration and destination",
+    "Fifth Circuit": "judicial circuit",
+    "Texas": "state where events took place",
+    "Dallas": "location of vehicle registration and destination"
+  }
+}

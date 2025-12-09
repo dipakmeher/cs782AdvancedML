@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Magistrate Judge",
+      "District Judge"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Magistrate Judge": "makes recommendations on motions",
+    "District Judge": "conducts independent review"
+  }
+}

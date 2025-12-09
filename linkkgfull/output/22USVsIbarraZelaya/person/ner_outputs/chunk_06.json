@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a petitioner",
+      "a defendant",
+      "the defendant",
+      "counsel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

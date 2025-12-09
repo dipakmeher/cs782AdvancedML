@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the road": "Farm-to-Market Road 2050",
+    "the shoulder": null,
+    "the lane": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "paved road with only two lanes, one in each direction, and no shoulder"
+  }
+}

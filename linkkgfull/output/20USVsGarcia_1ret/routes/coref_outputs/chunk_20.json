@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": null,
+    "the border": "United States-Mexican border",
+    "common smuggling routes": null,
+    "this segment": "Interstate Highway 35",
+    "an interstate highway": null,
+    "the highways of this nation": null,
+    "a common smuggling route": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate Highway 35": "public highway leading from the border, passing through several towns including Laredo, Texas, and a common smuggling route with history of alien smuggling on this segment, location where the pickup truck was stopped, often used for transporting illegal aliens",
+    "United States-Mexican border": "geographical boundary relevant to the Brignoni-Ponce test"
+  }
+}

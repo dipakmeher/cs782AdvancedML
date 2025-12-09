@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States v. Garcia": "United States v. Garcia",
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "the Allen charge": null,
+    "the modified Allen charge": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Garcia": "a case related to the use of the Allen charge in trials, decided by the 5th Circuit Court of Appeals",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge"
+  }
+}

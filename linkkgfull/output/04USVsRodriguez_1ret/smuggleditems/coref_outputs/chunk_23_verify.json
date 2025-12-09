@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the second vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "rental cars": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "their own vehicles": null,
+    "a rental car": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "those two vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "two vehicles out of Dallas, Texas": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "two vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens, stopped by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., used by smugglers and observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint, lacked a wind farm sticker, rented from Hertz Rental Car Company",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and charged with transporting undocumented aliens",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent, also observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint, lacked a wind farm sticker",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens, both lacked wind farm stickers and were traveling in tandem on Farm-to-Market Road 2050",
+    "Jorge Luis Trevino": "United States Border Patrol agent who testified about his knowledge of traffic patterns on Farm-to-Market Road 2050 and his suspicions regarding the two out-of-town vehicles",
+    "United States Border Patrol": "Law enforcement agency involved in the incident, with agents familiar with local vehicles and traffic",
+    "Hertz Rental Car Company": "Rental car company with locations throughout the United States, including the Laredo International Airport, where RICARDO RODRIGUEZ, JR.'s white Malibu sedan was rented"
+  }
+}

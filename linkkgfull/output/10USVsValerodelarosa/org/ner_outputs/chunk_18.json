@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Fifth Circuit",
+      "United States District Court"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "affords great weight to the defendant's statements at the plea colloquy",
+    "United States District Court": "can find that the Plea Agreement and his waiver of rights contained therein are valid and enforceable"
+  }
+}

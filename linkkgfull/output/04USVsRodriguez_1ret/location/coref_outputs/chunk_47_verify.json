@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 359": "U.S. 359",
+    "Highway 16": "Highway 16",
+    "Corinth, Texas": "Corinth, Texas",
+    "Dallas": "Dallas, Texas",
+    "Texas": "Texas",
+    "the location of the traffic stop": "traffic stop on Farm-to-Market Road 2050",
+    "that type of a truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "location where Agent Trevino encountered illegals and initiated a stop, raising suspicions due to tandem driving with another vehicle",
+    "U.S. 359": "direction towards which the black truck was heading, potentially indicating involvement in smuggling activities",
+    "Highway 16": "location of Agent Benavides during the events, where he was informed about the suspicious vehicles and their potential connection to alien smuggling",
+    "Corinth, Texas": "origin of one of the vehicles involved in the suspected smuggling activity, with the vehicle's registration raising suspicions due to its out-of-town origin",
+    "Dallas, Texas": "destination of IGNACIO RODRIGUEZ, JR., and a potential endpoint for smuggled aliens, with the city being a known hub for such activities",
+    "Texas": "state where the events took place, with various locations and highways playing a role in the suspected smuggling route"
+  }
+}

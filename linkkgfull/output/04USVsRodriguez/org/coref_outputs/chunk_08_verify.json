@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Jorge Luis Trevino": "United States Border Patrol",
+    "the vehicles": null,
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "Corinth, Texas": null,
+    "Laredo, Texas": null,
+    "San Antonio": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency monitoring traffic on Farm-to-Market Road 2050, familiar with local vehicles and recognizing approximately 90-95% of them as belonging to farmers and oil field workers",
+    "Farm-to-Market Road 2050": "road frequently used for drop-offs of illegal aliens to avoid checkpoints and adjacent to the Border Patrol station parking lot",
+    "black Dodge pickup truck": "vehicle involved in a case where it was determined to be driving in tandem with a white Malibu sedan and exited off Highway 59 onto Farm-to-Market Road 2050",
+    "white Malibu sedan": "vehicle involved in a case where it was determined to be driving in tandem with a black Dodge truck and exited off Highway 59 onto Farm-to-Market Road 2050"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the vehicles", "a pickup", "two cars", "two vehicles", "the load car", "the lead car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

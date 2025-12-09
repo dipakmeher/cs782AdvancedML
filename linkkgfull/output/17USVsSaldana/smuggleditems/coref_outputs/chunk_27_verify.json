@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "drugs": "smuggled substances",
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "his luggage": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "smuggled substances": "illicit substances being searched for in the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires"
+  }
+}

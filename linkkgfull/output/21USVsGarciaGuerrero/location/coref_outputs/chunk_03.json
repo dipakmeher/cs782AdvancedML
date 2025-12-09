@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": null,
+    "San Luis, Potosi, Mexico": "San Luis, Potosi, Mexico",
+    "United States": "United States",
+    "San Antonio": "San Antonio",
+    "Nuevo Laredo": "Nuevo Laredo",
+    "Rio Grande River": "Rio Grande River",
+    "the brush": null,
+    "the group": null,
+    "the intervals": null,
+    "the trek": null,
+    "a nearby ranch": null,
+    "Laredo South Station": "Laredo South Station",
+    "La Moca Ranch": "La Moca Ranch",
+    "June": null,
+    "South Texas": "South Texas",
+    "the surrounding area": null,
+    "the hospital": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Luis, Potosi, Mexico": "starting point of the undocumented aliens' journey",
+    "United States": "destination country of the undocumented aliens",
+    "San Antonio": "intended destination within the United States and destination of the group",
+    "Nuevo Laredo": "location where the group purchased supplies and crossed the river",
+    "Rio Grande River": "border crossing point between Mexico and the United States",
+    "Laredo South Station": "location of border patrol agents",
+    "La Moca Ranch": "location where undocumented female alien was found",
+    "South Texas": "region where Inocencio Garcia-Guerrero transported aliens"
+  }
+}

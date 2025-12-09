@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the shoulder", "the lane", "the highway", "the right of the truck", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

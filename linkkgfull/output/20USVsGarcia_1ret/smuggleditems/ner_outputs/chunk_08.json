@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal alien smugglers",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "a sizable living cargo",
+      "pickup truck campers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents",
+    "illegal aliens": "individuals being transported"
+  }
+}

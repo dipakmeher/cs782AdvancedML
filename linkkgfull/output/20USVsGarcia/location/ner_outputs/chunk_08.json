@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate 35",
+      "February"
+    ],
+    "NOUN_PHRASE": [
+      "the location",
+      "the border",
+      "this segment",
+      "other highways",
+      "the district court",
+      "the truck",
+      "the vehicle",
+      "the area",
+      "the campers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "a common smuggling route"
+  }
+}

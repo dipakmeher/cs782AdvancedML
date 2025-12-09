@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "aliens",
+      "IIRIRA",
+      "House Conference Report No. 104-863",
+      "Inocencio Garcia-Guerrero",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the aliens",
+      "an alien smuggling offense"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being smuggled",
+    "IIRIRA": "Illegal Immigration Reform and Immigrant Responsibility Act of 1996",
+    "House Conference Report No. 104-863": "a report related to alien smuggling offense sentencing",
+    "Inocencio Garcia-Guerrero": "a defendant in an alien smuggling case",
+    "United States": "the country imposing sentencing enhancements"
+  }
+}

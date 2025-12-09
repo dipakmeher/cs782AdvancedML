@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "law enforcement": "United States Border Patrol",
+    "the agency": "United States Border Patrol",
+    "the department": "United States Department of Homeland Security",
+    "the officers": "United States Border Patrol",
+    "the officer": "Officer Reymundo Reyes",
+    "the Government": "United States Government"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "involved in the stop of RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; considered the behavior of vehicles' drivers in determining reasonable suspicion to stop; followed suspicious vehicles for approximately five minutes; conducted a roving stop; familiar with most vehicles on Farm-to-Market Road 2050; interacted with law enforcement during the traffic stop",
+    "United States Department of Homeland Security": "received information regarding attempted alien smuggling events; conducted interviews at the Freer immigration checkpoint; involved in the prosecution of individuals and bears the burden of proving that stops were constitutional",
+    "Officer Reymundo Reyes": "conducted a traffic stop, noticed IGNACIO RODRIGUEZ, JR. was extremely nervous; asked about contraband after searching for proof of insurance; questioned Defendant's travel plans and route taken from Laredo to Dallas via Interstate 35; informed Defendant that he wasn't going to allow the black Dodge pickup truck to continue to its destination",
+    "United States Government": "prohibits unreasonable searches and seizures, involved in the prosecution of individuals and bears the burden of proving that stops were constitutional; has a court system including the Fifth Circuit"
+  }
+}

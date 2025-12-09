@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the device": "a cellular phone"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication, potentially relevant to the case"
+  }
+}

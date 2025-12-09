@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "U.S. Highway 359": "U.S. Highway 359",
+    "Highway 16": "Highway 16",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the case, conducting traffic stops and investigating smuggling operations",
+    "U.S. Highway 359": "highway mentioned as a location where the black Dodge pickup truck was headed",
+    "Highway 16": "highway where Agent Benavides was located before responding to the call about the suspicious vehicles",
+    "Farm-to-Market Road 2050": "location of the traffic stop and area known for smuggling activity"
+  }
+}

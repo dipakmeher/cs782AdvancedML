@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Jorge Luis Trevino": "United States Border Patrol",
+    "the vehicles": null,
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.": null,
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "Agent Jorge Luis Trevino's patrol car": null,
+    "the defendant": null,
+    "the officers": "United States Border Patrol",
+    "the driver": null,
+    "the road": null,
+    "the patrol car": null,
+    "the license plate": null,
+    "the high-beams": null,
+    "the vehicle": null,
+    "the agents": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents having experience in evaluating circumstances related to reasonable suspicion",
+    "Farm-to-Market Road 2050": "road used by smugglers to circumvent checkpoints on Highway 59 and U.S. 359, with a recent surge in drop-offs where illegal aliens are picked up by vehicles heading north",
+    "black Dodge pickup truck": "vehicle driven by IGNACIO RODRIGUEZ, JR. and subject to a canine search, encountered by Agent Trevino within fifty miles of the United States-Mexico border",
+    "white Malibu sedan": "vehicle stopped by Agent Trevino on Farm-to-Market Road 2050, transporting illegals, and traveling in tandem with the black Dodge pickup truck"
+  }
+}

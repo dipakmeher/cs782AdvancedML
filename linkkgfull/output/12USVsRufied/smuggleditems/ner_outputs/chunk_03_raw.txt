@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Yusif Ahmed Rufied", "Martin Adaboh", "aliens"],
+    "NOUN_PHRASE": ["the individual", "the tractor trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Yusif Ahmed Rufied": "individual from Ghana, Africa, living in Quebec, Montreal, Canada",
+    "Martin Adaboh": "individual from Ghana, Africa, living in Quebec, Montreal, Canada, codefendant",
+    "aliens": "persons being transported"
+  }
+}

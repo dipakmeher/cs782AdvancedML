@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the stop": "traffic stop on Farm-to-Market Road 2050",
+    "the scope": null,
+    "the nature of the interrogation": null,
+    "the Government": null,
+    "the fact": null,
+    "the burden": null,
+    "the evidence": null,
+    "the search": null,
+    "the seizure": null,
+    "the instant case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of jurisdiction for the case involving IGNACIO RODRIGUEZ, JR.",
+    "traffic stop on Farm-to-Market Road 2050": "location of a traffic stop based on articulable factors indicating potential illegal activity, subject to scrutiny of its scope and duration under the totality of the circumstances."
+  }
+}

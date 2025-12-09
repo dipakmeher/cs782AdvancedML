@@ -1,0 +1,24 @@
+===== TXT FILE WORD COUNTS =====
+01USVsJaquez_singlequote.txt: 1941 words
+02USVsYusuf_singlequote.txt: 2358 words
+03USVsSilva_singlequote.txt: 2641 words
+04USVsRodriguez_singlequote.txt: 13932 words
+05USVsCanoTovar_singlequote.txt: 3627 words
+06USVsSoto_singlequote.txt: 2763 words
+07USVsGonzalezPerales_singlequote.txt: 4120 words
+08Santos-SanchezVSHolder_singlequote.txt: 1346 words
+09USVsHernandez-Lopez_singlequote.txt: 1237 words
+10USVsValeroDeLaRosa_singlequote.txt: 5318 words
+11JME_singlequote.txt: 1268 words
+12USVsRufied_singlequote.txt: 1367 words
+13USVsMejiaOrosco_singlequote.txt: 3164 words
+14USVsRomeroMartinez_singlequote.txt: 1072 words
+15USVsJacquinot_singlequote.txt: 3906 words
+16USVsMcMillon_singlequote.txt: 6252 words
+17USVsSaldana_singlequote.txt: 4660 words
+18USVsOrtegaChavez_singlequote.txt: 3023 words
+19USVsArceJasso_singlequote.txt: 2991 words
+20USVsGarcia_singlequote.txt: 7070 words
+log.txt: 0 words
+test.txt: 1941 words
+===== DONE =====

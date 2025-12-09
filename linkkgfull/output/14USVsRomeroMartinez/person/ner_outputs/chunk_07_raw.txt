@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Catherine Stone", "Woods"],
+    "NOUN_PHRASE": ["the agent", "the appellant", "the Justice"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Catherine Stone": "Justice",
+    "Woods": "reference to a court or legal standard"
+  }
+}

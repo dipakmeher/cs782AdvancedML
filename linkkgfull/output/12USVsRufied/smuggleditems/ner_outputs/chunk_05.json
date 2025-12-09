@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being smuggled"
+  }
+}

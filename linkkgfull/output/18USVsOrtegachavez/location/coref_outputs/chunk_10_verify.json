@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "United States": "United States",
+    "the courtroom": "courtroom"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico": "country where Alfredo Ortega-Chavez previously ventured to smuggle undocumented aliens",
+    "United States": "country into which Alfredo Ortega-Chavez attempted to smuggle undocumented aliens",
+    "courtroom": "location where trial of Alfredo Ortega-Chavez took place, conducted fairly and impartially by Judge Kazen"
+  }
+}

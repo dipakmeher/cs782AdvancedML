@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the phone", "the agent's phone", "the marked United States Border Patrol patrol car's radio"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

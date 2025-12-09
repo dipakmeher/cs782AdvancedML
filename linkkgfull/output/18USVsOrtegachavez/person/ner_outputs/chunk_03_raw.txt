@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Sanchez", "Alejandro Gonzalez Delgado", "Ortega-Chavez"],
+    "NOUN_PHRASE": ["the Customs officer", "the five undocumented aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sanchez": "involved in attempting to bring illegal aliens into the United States",
+    "Alejandro Gonzalez Delgado": "arrested for being an undocumented alien",
+    "Ortega-Chavez": "appellant charged with conspiracy and aiding and abetting"
+  }
+}

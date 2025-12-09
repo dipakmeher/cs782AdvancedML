@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a black truck": "black Dodge pickup truck",
+    "the sedan": "white Malibu sedan",
+    "the vehicle": "black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white, designed to hold five people, used for transporting illegal aliens, stopped by United States Border Patrol Agent Jorge Luis Trevino, searched after owner's consent, had five passengers, rented from Hertz Dallas-Fort Worth, observed riding low with half of its passengers wearing caps, followed by Agent Trevino on Farm-to-Market Road 2050, registered to Dallas-Fort Worth",
+    "black Dodge truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas, possibly equipped with a camper shell, drove behind the white car in tandem, raised suspicions due to out-of-town registration, stopped by Officer Reymundo Reyes for not using a turning signal, used by IGNACIO RODRIGUEZ, JR., described as a non-work truck, searched after owner's consent during a traffic stop",
+    "black Dodge pickup truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas, possibly equipped with a camper shell, drove behind the white car in tandem, raised suspicions due to out-of-town registration, stopped by Officer Reymundo Reyes for not using a turning signal, used by IGNACIO RODRIGUEZ, JR., described as a non-work truck, searched after owner's consent during a traffic stop"
+  }
+}

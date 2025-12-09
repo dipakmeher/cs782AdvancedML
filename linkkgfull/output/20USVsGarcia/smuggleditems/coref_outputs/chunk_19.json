@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "persons": null,
+    "travelers": null,
+    "residents": null,
+    "citizens": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, potentially hidden in a pickup truck camper with fogged windows, appearing unwashed and unkempt, including Mexican citizens and illegal aliens found during an immigration inspection on Interstate Highway 35, exhibiting efforts to avoid detection, described as dirty appearing Hispanic-descended workmen",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents",
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents near the location of the instant stop",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for transporting illegal aliens, with heavily loaded appearance and fogged windows, driven at an unusually slow speed, suspected to contain contraband and undocumented aliens, stopped by United States Border Patrol on Interstate Highway 35",
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge, arguing its coercive effect on the jury's decision",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, finding no abuse of discretion in this case",
+    "United States v. Garcia": "a case related to the use of the Allen charge in trials, decided by the 5th Circuit Court of Appeals, involving the smuggling of undocumented aliens",
+    "Judge TATE": "dissenting judge in the case of United States v. Garcia, questioning the lawfulness of the stop based on speculation about poor and dirty Hispanic appearing persons being Mexican aliens",
+    "United States Border Patrol": "law enforcement agency stopping Maria De Jesus Garcia's pickup truck camper"
+  }
+}

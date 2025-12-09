@@ -1,0 +1,5 @@
+"The stop occurred near the Freer Immigration Checkpoint, where United States Border Patrol Agent Jorge Luis Trevino observed the white Malibu sedan and the black Dodge pickup truck. The white Malibu sedan and black Dodge pickup truck were heading towards Highway 16, attempting to avoid the Hebbronville Checkpoint. Officer Reymundo Reyes had previously stopped IGNACIO RODRIGUEZ, JR. for a traffic violation on Farm-to-Market Road 2050."
+
+No additional replacements are needed as per the provided RESOLVED_ENTITIES dictionary. The resolved TEXT_CHUNK remains:
+
+"The stop occurred near the Freer Immigration Checkpoint, where United States Border Patrol Agent Jorge Luis Trevino observed the white Malibu sedan and the black Dodge pickup truck. The white Malibu sedan and black Dodge pickup truck were heading towards Highway 16, attempting to avoid the Hebbronville Checkpoint. Officer Reymundo Reyes had previously stopped IGNACIO RODRIGUEZ, JR. for a traffic violation on Farm-to-Market Road 2050."

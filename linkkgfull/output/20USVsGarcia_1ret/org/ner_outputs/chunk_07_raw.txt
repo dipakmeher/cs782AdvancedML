@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States-Mexican border", "Brignoni-Ponce"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexican border": "geographic location related to the case",
+    "Brignoni-Ponce": "legal standard or precedent"
+  }
+}

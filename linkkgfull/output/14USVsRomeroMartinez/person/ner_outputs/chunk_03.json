@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the United States",
+      "the Texas Court of Criminal Appeals",
+      "the State",
+      "appellant",
+      "the arresting officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["her firm", "government counsel"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

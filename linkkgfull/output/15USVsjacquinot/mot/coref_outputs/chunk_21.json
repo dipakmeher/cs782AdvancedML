@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "large white Ford pickup truck",
+    "a vehicle": null,
+    "two northbound vehicles": null,
+    "one vehicle": null,
+    "the other vehicle": null,
+    "a lead car": null,
+    "a load car": null,
+    "two vehicles": null,
+    "separate marked Border Patrol vehicles": null,
+    "a late model four-door sedan": "late model four-door sedan",
+    "the vehicle": "late model four-door sedan",
+    "the agents' location": null,
+    "Ford pickup truck": "large white Ford pickup truck",
+    "the second vehicle": "large white Ford pickup truck",
+    "a large white Ford pickup truck": "large white Ford pickup truck",
+    "a work truck": "large white Ford pickup truck",
+    "construction vehicles": null,
+    "a spare gas tank": null,
+    "an air tank": null,
+    "a car": null,
+    "Brignoni-Ponce Jacquinot's car": null,
+    "his truck": "large white Ford pickup truck",
+    "a work vehicle": "large white Ford pickup truck",
+    "truck": "large white Ford pickup truck",
+    "the car": null,
+    "a patrol car": null,
+    "a tourist-type vehicle": null,
+    "the truck's only passenger": null,
+    "the truck in which he was riding": "large white Ford pickup truck",
+    "the cab of the truck": "large white Ford pickup truck",
+    "the bed of the truck": "large white Ford pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "unknown vehicle": "Vehicle involved in a roving United States/Mexican border patrol stop",
+    "late model four-door sedan": "Tourist vehicle with Mississippi license plate and Big Bend National Park registration",
+    "large white Ford pickup truck": "a large white work truck with a Kansas license plate, suspected of being involved in narcotics smuggling, exhibited unusual driving behavior near Marathon, Texas, carrying tool boxes, a spare gas tank, an air tank, and containing two unloaded handguns. The vehicle was stopped approximately 75 miles from the United States/Mexican border and had recently traveled through an area very close to the United States/Mexico border prior to the stop. It was seen leaving Big Bend National Park early on a Sunday morning, which is unusual given the typical light traffic at that time. The truck was being followed by Agent Andrew P. Graham and did not have a park sticker on its windshield. The truck's occupant was stopped based on reasonable suspicion of engaging in illegal activity and was found with 286.44 pounds of marijuana in a toolbox in the bed of the truck."
+  }
+}

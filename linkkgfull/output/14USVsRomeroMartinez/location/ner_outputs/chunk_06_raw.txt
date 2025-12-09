@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Edna, Texas", "Edna", "Dallas", "Austin", "San Antonio", "Texas", "U.S.-Mexico border"],
+    "NOUN_PHRASE": ["the back seat area", "the stop", "the vehicle", "the crew-cab's backseat", "the suburb", "larger cities", "the border"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Edna, Texas": "vehicle registration location",
+    "Edna": "origin of alien-smuggling vehicles",
+    "Dallas": "larger city and registration location",
+    "Austin": "larger city",
+    "San Antonio": "larger city",
+    "Texas": "state where vehicle was registered",
+    "U.S.-Mexico border": "border region"
+  }
+}

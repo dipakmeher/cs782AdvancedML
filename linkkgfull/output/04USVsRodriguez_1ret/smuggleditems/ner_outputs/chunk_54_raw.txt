@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the canine", "the citation", "the back seat of the black Dodge pickup truck", "the open area at Freer Immigration Checkpoint", "the holding cell at Freer Immigration Checkpoint"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

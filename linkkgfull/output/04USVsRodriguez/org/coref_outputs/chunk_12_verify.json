@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court",
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Mills Bennett Road": "Mills Bennett Road",
+    "Freer immigration checkpoint": "United States Border Patrol",
+    "U.S. 59": null,
+    "the wind farm": null,
+    "San Pablo Road": "San Pablo Road",
+    "Moglia ranch house": null,
+    "Stag ranch trailer": null,
+    "Santo Nino Road": null,
+    "Dinn Ranch": null,
+    "Highway 16": "Highway 16"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "court official responsible for the report and recommendation",
+    "United States Border Patrol": "law enforcement agency monitoring traffic on Farm-to-Market Road 2050, familiar with local vehicles and recognizing approximately 90-95% of them as belonging to farmers and oil field workers. The agents are also aware that smaller cars seen in the area often belong to ranch owners or wind farm employees who try to avoid being followed by taking alternative routes.",
+    "Freer Police Department": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "United States District Court": "court where motions to suppress were filed and heard for Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "road frequently used for drop-offs of illegal aliens to avoid checkpoints and adjacent to the Border Patrol station parking lot. The road is also used by local ranchers and oil field workers.",
+    "Mills Bennett Road": "dirt road which intersects Farm-to-Market Road 2050 and travels eastward, approximately five miles south of the Freer immigration checkpoint",
+    "San Pablo Road": "road that goes to the east off of Farm-to-Market Road 2050, located south of but close to the wind farm on Farm-to-Market Road 2050",
+    "Highway 16": "highway used by smugglers after avoiding checkpoints, accessible via San Pablo Road and Santo Nino Road"
+  }
+}

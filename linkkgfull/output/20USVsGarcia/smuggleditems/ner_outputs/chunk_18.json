@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's pickup truck camper",
+      "United States Border Patrol",
+      "Mexican aliens"
+    ],
+    "NOUN_PHRASE": [
+      "three women",
+      "five or six men",
+      "Hispanic appearing persons",
+      "dirty appearing Hispanic-descended workmen",
+      "a crowded Maria De Jesus Garcia's pickup truck camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle stopped by United States Border Patrol",
+    "United States Border Patrol": "law enforcement agency",
+    "Mexican aliens": "individuals who may have crossed the border illegally"
+  }
+}

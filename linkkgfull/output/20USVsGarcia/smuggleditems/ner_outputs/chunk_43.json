@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens",
+      "Maria De Jesus Garcia's pickup truck camper"
+    ],
+    "NOUN_PHRASE": [
+      "the United States Border Patrol agents",
+      "particular highways",
+      "particular vehicles",
+      "the pickup truck camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "smuggled persons",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for smuggling"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo International Airport",
+      "Dallas-Fort Worth",
+      "Laredo",
+      "New York",
+      "Florida",
+      "Louisiana",
+      "Dallas, Texas",
+      "Laredo airport"
+    ],
+    "NOUN_PHRASE": [
+      "one location",
+      "another city or state",
+      "the location",
+      "the car",
+      "the Laredo airport location",
+      "the company",
+      "the rental car places",
+      "distant locations",
+      "the Dallas area"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo International Airport": "location where Defendant IGNACIO RODRIGUEZ, JR. rented the vehicle",
+    "Dallas-Fort Worth": "registration location of the white vehicle",
+    "Laredo": "city where the Laredo International Airport is located",
+    "New York": "state where some rental cars are registered",
+    "Florida": "state where some rental cars are registered",
+    "Louisiana": "state where some rental cars are registered",
+    "Dallas, Texas": "location mentioned by JORGE LUIS TREVI\u00d1O as the origin of the white sedan",
+    "Laredo airport": "alternative name for the Laredo International Airport"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the area": "Cotulla, Texas area",
+    "the border": "United States-Mexican border",
+    "the country": "United States",
+    "the vehicle": "Maria De Jesus Garcia's vehicle",
+    "border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas area": "region covered by the Cotulla, Texas border patrol station, with characteristics relevant to determining the legality of an investigatory stop, including proximity to the border and history of illegal alien traffic",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, 115 miles south of the stop in Texas, reference point for distance, where patrol agents operate",
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches, country of attempted illegal entry"
+  }
+}

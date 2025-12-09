@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the stop": "traffic stop",
+    "the scope": null,
+    "the nature of the interrogation": null,
+    "the Government": null,
+    "the fact": null,
+    "the burden": null,
+    "the evidence": null,
+    "the search": null,
+    "the seizure": null,
+    "the instant case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events took place, involved in the case of IGNACIO RODRIGUEZ, JR.",
+    "traffic stop": "law enforcement action taken based on reasonable suspicion of illegal activity, assessed in two parts: justification at inception and reasonableness of subsequent actions, with a scope that must be temporary and last no longer than necessary to effectuate the purpose of the stop"
+  }
+}

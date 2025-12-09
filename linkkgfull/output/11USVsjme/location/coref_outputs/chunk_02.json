@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "Center": "Judge Ricardo Garcia Regional Detention Center"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and also referred to as 'the Center', had issues with J.M.E. not participating in counseling sessions and initiating fights",
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile",
+    "Webb County Jail and Texas Juvenile Justice Department": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States v. Pena-Cantu", "United States v. Orona-Sanchez", "United States v. Maria De Jesus Garcia", "United States v. Pacheco", "United States Court of Appeals for the Fifth Circuit", "United States v. Brignoni-Ponce"],
+    "NOUN_PHRASE": ["the agents", "the pickup truck camper", "the marked border patrol sedan"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States v. Pena-Cantu": "a court case",
+    "United States v. Orona-Sanchez": "a court case",
+    "United States v. Maria De Jesus Garcia": "a court case",
+    "United States v. Pacheco": "a court case",
+    "United States Court of Appeals for the Fifth Circuit": "a court",
+    "United States v. Brignoni-Ponce": "a court case"
+  }
+}

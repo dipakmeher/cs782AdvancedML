@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States/Mexican border",
+    "United States/Mexico border": "United States/Mexican border",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States/Mexican border": "reference point for determining proximity and reasonable suspicion in the context of vehicle stops and smuggling activities"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ricardo Rodriguez", "Ignacio Rodriguez", "Terry"],
+    "NOUN_PHRASE": ["the Magistrate Judge", "the District Judge", "the officer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ricardo Rodriguez": "Defendant",
+    "Ignacio Rodriguez": "individual arrested in a traffic stop",
+    "Terry": "reference to a legal precedent"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "Highway 16",
+      "U.S. 59"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "location of traffic stop",
+    "Highway 16": "route Agent Benavides drove to",
+    "U.S. 59": "route Agent Benavides drove to"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Portillo-Aguirre",
+      "Machuca-Barrera"
+    ],
+    "NOUN_PHRASE": [
+      "the checkpoint",
+      "the stop"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of citizenship",
+    "Portillo-Aguirre": "legal case reference",
+    "Machuca-Barrera": "legal case reference"
+  }
+}

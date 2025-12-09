@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "interrogatories": null,
+    "depositions": null,
+    "flashlight": "the flashlight",
+    "the prepaid cellphone": null,
+    "the satellite phone": null,
+    "the burner phone": null,
+    "the handset": null,
+    "the device": null,
+    "the mobile": null,
+    "the messaging app": null,
+    "the chat application": null,
+    "the VoIP service": null,
+    "his phone": null,
+    "the smuggler's device": null,
+    "her messaging app": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the flashlight": "Flashlight used by United States Border Patrol to shine light into the pickup truck camper, causing passengers to attempt to conceal themselves",
+    "the prepaid cellphone": "",
+    "the satellite phone": "",
+    "the burner phone": "",
+    "the handset": "",
+    "the device": "",
+    "the mobile": "",
+    "the messaging app": "",
+    "the chat application": "",
+    "the VoIP service": "",
+    "his phone": "",
+    "the smuggler's device": "",
+    "her messaging app": ""
+  }
+}

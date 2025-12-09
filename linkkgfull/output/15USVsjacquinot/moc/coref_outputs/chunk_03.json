@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the large white Ford pickup truck": "the large white Ford pickup truck",
+    "Texas Highway 385": "Texas Highway 385",
+    "United States/Mexican Border Patrol": "United States/Mexican Border Patrol",
+    "Big Bend National Park": "Big Bend National Park",
+    "Alpine, Texas": "Alpine, Texas",
+    "Marfa Sector Area Operations Center": "Marfa Sector Area Operations Center",
+    "Laredo, Texas, border area": "Laredo, Texas, border area",
+    "vehicle sensors": null,
+    "the phone": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the large white Ford pickup truck": "Vehicle in which Michael Brett Jacquinot was a passenger during the United States/Mexican Border Patrol stop",
+    "Texas Highway 385": "Highway notorious for smuggling activities",
+    "United States/Mexican Border Patrol": "Law enforcement agency responsible for border control and patrol",
+    "Big Bend National Park": "Location along the United States/Mexican Border where vehicle sensors are located",
+    "Alpine, Texas": "Location where United States/Mexican Border Patrol Agents Andrew P. Graham and Jay Snodgrass were stationed",
+    "Marfa Sector Area Operations Center": "Previous work location of United States/Mexican Border Patrol Agent Jay Snodgrass",
+    "Laredo, Texas, border area": "Previous work location of United States/Mexican Border Patrol Agent Jay Snodgrass"
+  }
+}

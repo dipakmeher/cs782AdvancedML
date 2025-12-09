@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the course", "the stop", "the purpose", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

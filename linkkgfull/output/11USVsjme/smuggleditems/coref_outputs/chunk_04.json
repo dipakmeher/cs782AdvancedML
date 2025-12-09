@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "alien smuggling": "alien smuggling",
+    "J.M.E.": "J.M.E.",
+    "the State": "the State",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Webb County Jail": "Webb County Jail",
+    "Officer Pryscilla Castillo": "Officer Pryscilla Castillo",
+    "J.M.E.'s parents": "J.M.E.'s parents",
+    "the Juvenile Court": "the Juvenile Court",
+    "counseling sessions": null,
+    "court-ordered services": null,
+    "THC": "THC",
+    "cocaine": "cocaine",
+    "benzodiazepines": "benzodiazepines"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "alien smuggling": "a felony 3 offense",
+    "J.M.E.": "juvenile offender who pled true to being unsuccessfully discharged from the Judge Ricardo Garcia Regional Detention Center",
+    "the State": "government entity filing motion to modify disposition",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was unsuccessfully discharged due to non-participation in counseling and initiating fights",
+    "Texas Juvenile Justice Department": "department where J.M.E. was initially detained",
+    "Webb County Jail": "jail where J.M.E. was transferred after assaulting another juvenile",
+    "Officer Pryscilla Castillo": "J.M.E.'s probation officer who testified about J.M.E.'s behavior at the Judge Ricardo Garcia Regional Detention Center",
+    "J.M.E.'s parents": "parents who did not provide adequate supervision for J.M.E. after discharge",
+    "the Juvenile Court": "court that heard testimony from Officer Pryscilla Castillo regarding J.M.E.'s case",
+    "THC": "a substance J.M.E. tested positive for multiple times",
+    "cocaine": "a substance J.M.E. tested positive for once",
+    "benzodiazepines": "a substance J.M.E. tested positive for once"
+  }
+}

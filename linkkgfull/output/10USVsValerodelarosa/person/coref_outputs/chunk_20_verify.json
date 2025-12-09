@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the lawyer": "counsel",
+    "defense counsel": "counsel",
+    "attorneys": null,
+    "the Government": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico, signed the Plea Agreement and Plea Agreement Addendum, pleaded guilty before a United States Magistrate Judge, has a history of violating immigration laws, alleges counsel was constitutionally ineffective, claims he was factually innocent of Illegal Re-entry due to potential United States citizenship, waived the right to appeal the sentence imposed and the right to contest his conviction or sentence by means of any post-conviction proceeding, testified that he understood the rights he was giving up by pleading guilty, knowingly and voluntarily pleaded guilty and waived his right to file a motion, made claims in his affidavit that were directly contradicted by his own statement in his Plea Agreement Addendum, failed to make a credible showing of deficient performance on the part of his counsel, entered a knowing and voluntary plea, appellant",
+    "United States": "the government entity involved in the prosecution of Rogelio Valero-De La Rosa",
+    "United States Attorney General": "government official responsible for permission to re-enter the United States, authorized early disposition programs",
+    "Secretary of the Department of Homeland Security": "government official responsible for permission to re-enter the United States",
+    "Kazen": "Senior United States District Judge who entered an Order adopting the Report and Recommendation of the United States Magistrate Judge, presiding over Valero's case, sentenced Valero to 90 months of imprisonment",
+    "counsel": "Valero's lawyer, helped Valero understand the rights he was giving up by pleading guilty, rendered effective assistance according to Valero's express acknowledgment, subject to standards that consider the acuity of hindsight and the art of representation, allegedly failed to recognize benefits and errors in sentencing, including failure to request 'fast track' downward departure or investigate Valero's claim of United States citizenship",
+    "Petitioner": "Rogelio Valero-De La Rosa, filed a motion that was denied",
+    "Joseph M. Hood": "Senior U.S. District Judge who signed the order granting the government's motion for summary judgment/motion to dismiss Valero's motion, presiding over Valero's sentencing",
+    "Valero-De-La-Rosa": "defendant in the case",
+    "Rogelio Valero-De La Rosa, United States Attorney General, and Secretary of the Department of Homeland Security": null,
+    "Valero": "defendant with a history of immigration law violations, appellant"
+  }
+}

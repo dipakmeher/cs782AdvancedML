@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "the defendant": "Raymond McMillon",
+    "the jury": null,
+    "the district court": null,
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "Defendant who allegedly transported aliens with Williams, identified by De La Cruz and Hernandez-Gomez as the person motioning for them to hide, argued against the conspiracy conviction and had his transportation convictions affirmed",
+    "Ramon De La Cruz": "Unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Jorge Miguel Hernandez-Gomez": "Unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States"
+  }
+}

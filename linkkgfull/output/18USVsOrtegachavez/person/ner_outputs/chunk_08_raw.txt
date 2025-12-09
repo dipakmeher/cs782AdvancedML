@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ortega-Chavez", "Ms. Salinas", "Mrs. Guerrero"],
+    "NOUN_PHRASE": ["the trial judge", "the government's attorney", "defense counsel", "the district judge", "the juror", "another female lawyer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ortega-Chavez": "objecting party",
+    "Ms. Salinas": "defense counsel",
+    "Mrs. Guerrero": "juror"
+  }
+}

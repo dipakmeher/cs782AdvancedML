@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Jason Cox", "Haston", "Vargas", "Federico Saldana", "Daniel"],
+    "NOUN_PHRASE": ["the driver", "the owner"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jason Cox": "Deputy",
+    "Haston": "narcotics investigator",
+    "Vargas": "",
+    "Federico Saldana": "truck driver",
+    "Daniel": "owner of the truck and trailer"
+  }
+}

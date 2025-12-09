@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his wallet": "his wallet",
+    "the glove box": "the glove box",
+    "the passenger side": "the passenger side of the black Dodge pickup truck",
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "dispatch": "dispatch"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "his wallet": "Wallet of IGNACIO RODRIGUEZ, JR., from which he retrieved his driver's license during the traffic stop",
+    "the glove box": "Compartment in the black Dodge pickup truck where IGNACIO RODRIGUEZ, JR. searched for insurance papers",
+    "the passenger side of the black Dodge pickup truck": "Side of the vehicle accessed by IGNACIO RODRIGUEZ, JR. to search for insurance papers during the traffic stop",
+    "the black Dodge pickup truck": "Vehicle driven by IGNACIO RODRIGUEZ, JR., subject of a BOLO and stopped for a traffic violation",
+    "dispatch": "Police communication system for requesting assistance"
+  }
+}

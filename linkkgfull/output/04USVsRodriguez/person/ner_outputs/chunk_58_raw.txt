@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino", "Officer Reyes", "Agent Benavides", "Orona-Sanchez"],
+    "NOUN_PHRASE": ["the defendant", "the agents", "the undersigned"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "testified about the black truck and camper",
+    "Officer Reyes": "did not corroborate Agent Trevino's testimony",
+    "Agent Benavides": "did not corroborate Agent Trevino's testimony",
+    "Orona-Sanchez": "referenced in a court finding"
+  }
+}

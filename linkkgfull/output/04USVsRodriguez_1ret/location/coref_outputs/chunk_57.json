@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Laredo, Texas": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Moglia": "Moglia ranch house",
+    "San Pablo Road": "San Pablo Road",
+    "the ranch house": "Moglia ranch house",
+    "the trailer": "Stag ranch trailer",
+    "the land": null,
+    "the various houses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the event took place",
+    "Laredo, Texas": "location where the sun set at a specific time on February 4, 2013",
+    "Moglia ranch house": "ranch house near the wind farm, located on the west side of FM 2050, with unknown occupants",
+    "San Pablo Road": "road where houses are located, including the Moglia ranch house and Stag ranch trailer",
+    "Laredo, Texas and other locations": null
+  }
+}

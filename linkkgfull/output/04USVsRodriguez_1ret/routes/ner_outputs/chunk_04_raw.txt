@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S. 59", "Farm-to-Market Road 2050"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. 59": "a highway where Agent Trevino was inspecting vehicles",
+    "Farm-to-Market Road 2050": "a road adjacent to the Border Patrol station parking lot"
+  }
+}

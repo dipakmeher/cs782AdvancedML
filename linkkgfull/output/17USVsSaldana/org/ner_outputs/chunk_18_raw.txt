@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the owner's painting company"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

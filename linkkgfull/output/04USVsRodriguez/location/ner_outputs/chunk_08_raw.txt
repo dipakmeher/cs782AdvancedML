@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Corinth, Texas", "Laredo", "San Antonio", "FM 2050"],
+    "NOUN_PHRASE": ["the shoulder"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Corinth, Texas": "location where the vehicle's plate is registered",
+    "Laredo": "reference location for distance",
+    "San Antonio": "reference location for direction",
+    "FM 2050": "road where the vehicles were followed"
+  }
+}

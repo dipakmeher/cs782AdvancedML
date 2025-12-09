@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth, Texas": "Corinth, Texas",
+    "Laredo": "Laredo, Texas",
+    "San Antonio": "San Antonio",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the shoulder": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location where the vehicle's plate is registered, a suburb of Dallas, approximately twenty to twenty-five miles south of Dallas",
+    "Laredo, Texas": "origin of IGNACIO RODRIGUEZ, JR.'s travel, city located on the US-Mexico border with high smuggling activity",
+    "San Antonio": "reference location for direction, location used in a previous case as an example of adding to reasonable suspicion",
+    "Farm-to-Market Road 2050": "rural, two-lane road with sharp turns and no shoulder, where vehicles can be driven at high speeds, road adjacent to Border Patrol station, location of drop-offs for illegal aliens, mostly used by ranchers and oil trucks"
+  }
+}

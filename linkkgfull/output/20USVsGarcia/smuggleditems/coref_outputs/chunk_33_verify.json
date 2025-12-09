@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the passengers": "undocumented aliens",
+    "passengers in the back seat": "undocumented aliens",
+    "Maria De Jesus Garcia's pickup truck camper passengers": "undocumented aliens",
+    "Orona-Sanchez case": "Orona-Sanchez case",
+    "Lamas case": "Lamas case",
+    "Pacheco case": "Pacheco case",
+    "Pena-Cantu case": "Pena-Cantu case"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, attempting to hide from United States Border Patrol agents by ducking and scrambling around",
+    "Orona-Sanchez case": "legal case where passengers' behavior was deemed insufficient to justify an investigatory stop",
+    "Lamas case": "legal case where passengers' slouching down in the back seat was considered suspicious but not sufficient for an investigatory stop",
+    "Pacheco case": "legal case with similar testimony of passengers hunkering down, also deemed insufficient for an investigatory stop",
+    "Pena-Cantu case": "legal case used as a reference point for evaluating passenger behavior in the context of investigatory stops"
+  }
+}

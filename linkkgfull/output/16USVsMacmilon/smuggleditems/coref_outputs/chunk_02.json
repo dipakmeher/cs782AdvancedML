@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "ten undocumented aliens": "ten undocumented aliens",
+    "the tractor-trailer": null,
+    "Zeba Williams": "Zeba Williams",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Raymond McMillon": "Raymond McMillon"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer",
+    "Zeba Williams": "co-defendant of Raymond McMillon",
+    "Ramon De La Cruz": "accompanied Zeba Williams to Laredo",
+    "Raymond McMillon": "involved in a law case with Zeba Williams"
+  }
+}

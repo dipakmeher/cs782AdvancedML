@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the United States": "United States",
+    "San Luis": null,
+    "Potosi": null,
+    "Mexico": "Mexico",
+    "San Antonio": null,
+    "Nuevo Laredo": null,
+    "Rio Grande River": null,
+    "South Texas": null,
+    "Laredo South Station": "Laredo South Station",
+    "La Moca Ranch": "La Moca Ranch",
+    "border patrol": "United States Border Patrol",
+    "Ninth Circuit": "Ninth Circuit Court of Appeals",
+    "the commentary": null,
+    "the court": null,
+    "the court of appeals": "Court of Appeals",
+    "the Defendants": null,
+    "the United States in the context of the case": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "the country that enhanced Inocencio Garcia-Guerrero's base offense level, the sentencing and appealing party in the case of Inocencio Garcia-Guerrero, destination country for undocumented aliens, entity hearing oral argument in the case, referenced in a court case involving reckless endangerment enhancement",
+    "Mexico": "country of origin for undocumented aliens",
+    "Laredo South Station": "station where border patrol agents were from",
+    "La Moca Ranch": "location where undocumented female alien was found",
+    "United States Border Patrol": "agency whose agents were involved in the incident",
+    "Ninth Circuit Court of Appeals": "a court of appeals that upheld the application of enhancement to a factual scenario similar to that before the United States",
+    "Court of Appeals": "a court that heard the case"
+  }
+}

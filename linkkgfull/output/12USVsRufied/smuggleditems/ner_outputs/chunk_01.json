@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "sixty (60) illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "said aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "sixty (60) illegal aliens": "aliens being transported"
+  }
+}

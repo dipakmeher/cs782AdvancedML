@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Border Patrol stop of RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.'s vehicle stop",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "the United States Border Patrol": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of RICARDO RODRIGUEZ, JR.'s white Malibu sedan by United States Border Patrol Agent Jorge Luis Trevino on Farm-to-Market Road 2050",
+    "United States Border Patrol": "Law enforcement agency involved in the incident"
+  }
+}

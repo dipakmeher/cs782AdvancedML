@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the white Malibu sedan": "the white Malibu sedan",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "Laredo International Airport": "Laredo International Airport",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "SANTIAGO HINOJOSA": "SANTIAGO HINOJOSA",
+    "Hertz rental car company": "Hertz rental car company",
+    "JORGE LUIS TREVINO": "Agent Jorge Luis Trevino",
+    "United States Border Patrol": "the United States Border Patrol",
+    "Highway 35": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the white Malibu sedan": "Vehicle rented by IGNACIO RODRIGUEZ, JR. from Hertz at the Laredo International Airport, registered to Hertz Dallas-Fort Worth",
+    "Hertz Dallas-Fort Worth": "Rental car company location where the white Malibu sedan was registered",
+    "Laredo International Airport": "Location where IGNACIO RODRIGUEZ, JR. rented the white Malibu sedan",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who rented the white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": "Defendant and individual related to IGNACIO RODRIGUEZ, JR.",
+    "SANTIAGO HINOJOSA": "Manager with the Hertz rental car company at the Laredo International Airport",
+    "Hertz rental car company": "Company that rented the white Malibu sedan to IGNACIO RODRIGUEZ, JR.",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent who testified about his knowledge of Hertz rental cars",
+    "the United States Border Patrol": "Law enforcement agency involved in the case",
+    "Highway 35": "Location mentioned as a possible rental location for the white Malibu sedan"
+  }
+}

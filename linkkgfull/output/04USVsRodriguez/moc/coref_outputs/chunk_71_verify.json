@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the device": "a cellular phone",
+    "Agent Benavides' communication device": "the United States Border Patrol radio",
+    "IGNACIO RODRIGUEZ, JR.'s phone": null,
+    "Marco Montemayor's phone": null,
+    "Reymundo Reyes' phone": null,
+    "Hugo Benavides' phone": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication",
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations"
+  }
+}

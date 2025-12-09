@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The United States Court of Appeals for the Fifth Circuit": "The United States Court of Appeals for the Fifth Circuit",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Ex Post Facto clause": "ex post facto Law",
+    "USSG \u00a7 1B1.11": "United States Sentencing Guidelines Manual"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "The United States Court of Appeals for the Fifth Circuit": "court that hears appeals, including those related to illegal alien smuggling ventures, requiring a certificate of appealability before proceeding",
+    "Nancy F. Atlas": "judge who concludes that jurists of reason would not debate whether the movant has stated a valid claim or whether any procedural ruling in this case was correct, and orders the denial of Jose Marlon Ibarra-Zelaya's motion",
+    "Jose Marlon Ibarra-Zelaya": "defendant claiming ineffective assistance of counsel due to incorrect application of sentencing guidelines",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with different editions having distinct implications for base offense levels and overall sentencing severity",
+    "ex post facto Law": "law that prohibits applying a more onerous penalty than was in effect at the time of the offense"
+  }
+}

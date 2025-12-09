@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "U.S. 59"],
+    "NOUN_PHRASE": ["the checkpoint"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a road where ranches and oil fields are located, and where the wind farm is nearby",
+    "U.S. 59": "a highway with a checkpoint that vehicles pass through"
+  }
+}

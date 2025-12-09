@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's Vehicle"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's Vehicle": "Vehicle mentioned in the context of a stop"
+  }
+}

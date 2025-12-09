@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Highway 59",
+      "Farm-to-Market Road 2050",
+      "Highway 16",
+      "San Pablo Road"
+    ],
+    "NOUN_PHRASE": [
+      "the route"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 59": "a convenient route for smugglers",
+    "Farm-to-Market Road 2050": "part of a smuggling route",
+    "Highway 16": "a major highway going north with no checkpoints",
+    "San Pablo Road": "part of an alternative route"
+  }
+}

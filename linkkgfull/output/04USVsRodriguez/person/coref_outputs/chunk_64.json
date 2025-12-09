@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Officer Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Mr. Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Montemayor": "Marco Montemayor",
+    "the agent": "Hugo Benavides",
+    "the defendant": "RICARDO RODRIGUEZ, JR.",
+    "Defendant": "RICARDO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers, testified in a hearing about his vehicle not going off the road",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge, testified that he did not feel free to leave after being handed his citation because Officer Reyes said he didn't know what time buses would arrive and that Ignacio Rodriguez needed to wait for Border Patrol agents",
+    "Hugo Benavides": "United States Border Patrol Agent who questioned Defendant at the Border Patrol station and used bad language during the conversation, testifying agent in the case",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050, and explained vehicle encounters, noted an observation of Ricardo Rodriguez's vehicle, testified during cross examination, approached a car with five passengers which was riding low due to the number of people",
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security involved in investigating an attempted alien smuggling event, interviewed Ignacio Rodriguez around 11:30 p.m. after he was transported to the checkpoint, agent involved in the case",
+    "Reymundo Reyes": "Officer who conducted a traffic stop of Ignacio Rodriguez, issued a citation, informed him that the vehicle could not continue to its destination, present when Agent Benavides arrived at the scene, explained procedures and concerns, testified about his discretion in impounding vehicles for lack of proof of insurance"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "a family member": null,
+    "the Freer patrolman": "Reymundo Reyes"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez, issued a citation, and later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership. He testified that it was within his rights to impound the vehicle for lack of proof of insurance.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose arrest was justified due to sufficient evidence of involvement in drug-smuggling activity. He testified that he did not feel free to leave even after he was handed his citation because Officer Reyes said he didn't know what time the buses would arrive and that Ignacio Rodriguez needed to wait for the Border Patrol agents to arrive.",
+    "Reymundo Reyes and IGNACIO RODRIGUEZ, JR.": "Individuals involved in a traffic stop where Reymundo Reyes impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership, and Ignacio Rodriguez was the driver who felt he could not leave after being handed his citation."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "5th Cir.": "United States Court of Appeals for the Fifth Circuit",
+    "Maria De Jesus Garcia's vehicle": "camper",
+    "the vehicle": "camper",
+    "the camper compartment": "camper",
+    "the camper": "camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "federal court that has ruled on cases related to probable cause and searches",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence, often heavily loaded and with fogged windows, driven by Maria De Jesus Garcia"
+  }
+}

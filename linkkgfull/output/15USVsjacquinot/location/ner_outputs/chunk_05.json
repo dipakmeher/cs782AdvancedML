@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Kansas",
+      "Alpine"
+    ],
+    "NOUN_PHRASE": [
+      "the park",
+      "the local area"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Kansas": "state of origin for a suspicious vehicle's license plate and destination for narcotics",
+    "Alpine": "area where a recent narcotics smuggling operation was detected"
+  }
+}

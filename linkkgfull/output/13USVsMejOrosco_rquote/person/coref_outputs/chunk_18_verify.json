@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Juventino Mejia-Orosco",
+    "the judge": "CLARK",
+    "the district court": null,
+    "district judges": null,
+    "the sentencing judge": "CLARK",
+    "reviewing courts": null,
+    "the trial judge": "CLARK"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Juventino Mejia-Orosco": "defendant convicted of illegally transporting aliens into the United States, smuggler, sentenced to 10 months in prison and fined $4,000, pled guilty to one count of illegally transporting an alien, previously convicted of unlawful entry, potentially considered an organizer or leader in a criminal activity, found by the district court to be 'an organizer, leader, manager, or supervisor', status as a 'manager' is a question of fact for the jury, concluded by the district judge to be a manager, supervisor, organizer, or leader of a criminal activity, received $1,000 from Paz-Ortega's family and $1,700 from relatives of Cruz-Morales, received $850 from each of the transported aliens in exchange for his illegal services, contested the sentence imposed, previously charged with transporting four illegal aliens, played an aggravating role in the offense as an organizer or leader, found to be a factual determination of being 'an organizer, leader, manager, or supervisor', citizen of Guatemala, earns living trucking curios from Guatemala to the United States",
+    "CLARK": "Chief Judge presiding over the case, trial judge, district judge who made factual findings in Mejia-Orosco's case, responsible for determining manager status, sentencing judge who imposes sentences based on guidelines and factual findings"
+  }
+}

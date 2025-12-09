@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Agent Jorge Luis Trevino",
+    "the United States Border Patrol": "the United States Border Patrol",
+    "Highway 59": "Highway 59",
+    "Freer, Texas": "Freer, Texas",
+    "the white Malibu sedan": "the white Malibu sedan",
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the United States Border Patrol building": "the United States Border Patrol station",
+    "the primary United States Border Patrol agent": "United States Border Patrol Agent Hugo Benavides"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent who encountered Defendants' vehicles and testified about his knowledge of Hertz rental cars",
+    "the United States Border Patrol": "Law enforcement agency involved in the case, with agents conducting traffic stops and processing undocumented individuals",
+    "Highway 59": "Location where Agent Jorge Luis Trevino was stationed on the evening of February 4, 2013",
+    "Freer, Texas": "City near the location of the United States Border Patrol station",
+    "the white Malibu sedan": "Vehicle rented by IGNACIO RODRIGUEZ, JR. from Hertz at the Laredo International Airport, registered to Hertz Dallas-Fort Worth, and involved in the surveillance on Farm-to-Market Road 2050",
+    "the black Dodge pickup truck": "Vehicle driven by IGNACIO RODRIGUEZ, JR., searched and impounded due to lack of insurance information, and also involved in the surveillance on Farm-to-Market Road 2050",
+    "Farm-to-Market Road 2050": "Paved road with two lanes and no shoulder, where Agent Jorge Luis Trevino encountered the vehicles, located adjacent to the United States Border Patrol station parking lot",
+    "the United States Border Patrol building": "Location where Agent Jorge Luis Trevino was processing undocumented individuals on the evening of February 4, 2013",
+    "United States Border Patrol Agent Hugo Benavides": "Primary agent at the United States Border Patrol station who called out the two vehicles going southbound"
+  }
+}

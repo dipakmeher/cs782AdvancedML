@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the modified Allen charge": "modified Allen charge",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "the United States Court of Appeals for the Fifth Circuit": "United States v. Maria De Jesus Garcia",
+    "another trial of United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "this trial of United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "any future jury": null,
+    "the same manner and source from which any future jury must be selected": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "modified Allen charge": "a judicial instruction given to the jury in United States v. Maria De Jesus Garcia, emphasizing the importance of reaching a verdict",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, with a focus on the modified Allen charge and its potential coercive effect on the jury"
+  }
+}

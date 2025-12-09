@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Bureau of Prisons": "Bureau of Prisons",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Bureau of Prisons": "entity responsible for holding Rogelio Valero-De La Rosa in custody",
+    "United States": "party to the plea agreement with Rogelio Valero-De La Rosa"
+  }
+}

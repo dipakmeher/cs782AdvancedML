@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a vehicle",
+      "Maria De Jesus Garcia's pickup truck",
+      "the pickup truck",
+      "a border patrol agent's flashlight is not a means of transportation and should be excluded"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

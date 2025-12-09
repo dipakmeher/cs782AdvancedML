@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S.-Mexico border"
+    ],
+    "NOUN_PHRASE": [
+      "the highway",
+      "the border"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "reference point for distance"
+  }
+}

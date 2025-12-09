@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.'s phone": null,
+    "IGNACIO RODRIGUEZ, JR.'s phone": null,
+    "the phone": null,
+    "the vehicle": "the black Dodge pickup truck",
+    "the United States Border Patrol radio": "the United States Border Patrol radio",
+    "his hand": null,
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "the ticket": null,
+    "phone call": null,
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "the white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "the device": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the white Malibu sedan": "Vehicle observed by Agent Jorge Luis Trevino with five passengers, designed to hold that many people, and appeared to be riding low. It was a rental vehicle registered to Hertz Rental Car Company.",
+    "the United States Border Patrol radio": "Radio used by United States Border Patrol agents for communication and coordination.",
+    "the black Dodge pickup truck": "Vehicle subject of a BOLO, driven by IGNACIO RODRIGUEZ, JR., and stopped by Officer Reymundo Reyes for a traffic violation. Its ownership was claimed to be IGNACIO RODRIGUEZ, JR.'s aunt's and later his cousin's. Impounded during the incident. Located within fifty miles of the Mexico border. It was registered to Corinth, Texas.",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "Vehicle stopped by United States Border Patrol Agent Jorge Luis Trevino. It was a rental vehicle registered to Hertz Rental Car Company."
+  }
+}

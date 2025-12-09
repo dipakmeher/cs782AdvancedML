@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "evidence",
+      "Vehicle",
+      "suppression motion",
+      "pickup truck camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

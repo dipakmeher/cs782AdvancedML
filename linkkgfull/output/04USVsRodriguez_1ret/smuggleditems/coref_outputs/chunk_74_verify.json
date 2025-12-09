@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol Agent Hugo Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the Border Patrol station": "United States Border Patrol",
+    "United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.": "United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Hugo Benavides": "Agent who interacted with IGNACIO RODRIGUEZ, JR. en route to the Border Patrol station",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who testified about his conversation with United States Border Patrol Agent Hugo Benavides",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan mentioned in the conversation between United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol": "Law enforcement agency involved in the incident",
+    "United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.": "Individuals involved in a conversation en route to the Border Patrol station",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles mentioned in the conversation between United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR."
+  }
+}

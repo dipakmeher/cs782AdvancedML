@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Allen"],
+    "NOUN_PHRASE": ["the jury", "the trial judge", "the dissenting jurors"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "appellant",
+    "Allen": "reference to a court charge"
+  }
+}

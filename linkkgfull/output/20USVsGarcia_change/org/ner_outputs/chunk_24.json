@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States Court of Appeals for the Fifth Circuit"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Court of Appeals for the Fifth Circuit": "refers to the lateness of the hour as a relevant consideration adding to reasonable suspicion"
+  }
+}

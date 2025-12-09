@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court judge": "United States District Court",
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco",
+    "Hector Galvencio Paz-Ortega": "Hector Galvencio Paz-Ortega",
+    "Carlos Enrique Cruz-Morales": "Carlos Enrique Cruz-Morales",
+    "relatives of Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales": null,
+    "the criminal activity": "human smuggling operation",
+    "CLARK, District Judge of the Western District of Louisiana": "CLARK, District Judge of the Western District of Louisiana",
+    "the United States District Court": "United States District Court",
+    "the judgment and sentence of the United States District Court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales": "Two Guatemalan citizens transported illegally by Juventino Mejia-Orosco, considered smuggled aliens",
+    "Hector Galvencio Paz-Ortega": "Passenger, citizen of Guatemala, and relative of Juventino Mejia-Orosco",
+    "Carlos Enrique Cruz-Morales": "Passenger, citizen of Guatemala, and relative of Juventino Mejia-Orosco",
+    "Juventino Mejia-Orosco, Hector Galvencio Paz-Ortega, and Carlos Enrique Cruz-Morales": "Group involved in human smuggling operation",
+    "Juventino Mejia-Orosco's van": "vehicle used for transporting smuggled aliens from Guatemala, seized pending forfeiture proceedings",
+    "United States Court of Appeals": "Federal court reviewing sentences for legality and reasonableness, with authority to remand cases for further sentencing proceedings",
+    "United States Sentencing Commission Guidelines": "Guidelines for federal sentencing, providing a framework for evaluating the fairness and appropriateness of sentences for individual offenders",
+    "United States District Court": "Federal court imposing sentences, with judges considering all relevant factors in a case to impose a sentence outside the guidelines if necessary",
+    "Edward M. Kennedy": "United States Senator who described the sentencing guidelines as a comprehensive approach to reduce disparity in punishment",
+    "United States Congress": "Federal legislative body that enacted the sentencing guidelines to ensure fair and uniform sentences",
+    "Senate Report No. 225": "Report emphasizing the importance of thoughtful imposition of individualized sentences, highlighting the purpose of sentencing guidelines",
+    "robbery": "crime with a base offense level of 18, used as an example in sentencing guidelines",
+    "Juventino Mejia-Orosco's criminal history category": "category assigned based on prior convictions and other factors",
+    "CLARK, District Judge of the Western District of Louisiana": "District judge with discretion to fine tune sentences based on individual circumstances",
+    "four illegal aliens": "individuals being smuggled, mentioned in the context of Juventino Mejia-Orosco's previous conviction",
+    "Juventino Mejia-Orosco": "Individual involved in a human smuggling operation, with a previous conviction and status as an organizer or leader",
+    "human smuggling operation": "crime involving the transportation of smuggled aliens, with Juventino Mejia-Orosco as an organizer or leader",
+    "Supreme Court of the United States": "Highest federal court in the United States, responsible for interpreting laws and deciding appeals"
+  }
+}

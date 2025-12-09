@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Alma Delia Simon-Fernandez", "Inocencio Garcia-Guerrero", "Jaime Gomez-Arroyo", "seven other undocumented aliens"],
+    "NOUN_PHRASE": ["the group", "undocumented aliens", "the death of an individual"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alma Delia Simon-Fernandez": "individual who died during the smuggling operation",
+    "Inocencio Garcia-Guerrero": "smuggled individual who received medical treatment",
+    "Jaime Gomez-Arroyo": "smuggled individual",
+    "seven other undocumented aliens": "smuggled individuals"
+  }
+}

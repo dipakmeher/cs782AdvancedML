@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Mexico": "Mexico",
+    "Nuevo Laredo": "Nuevo Laredo",
+    "Sabinas Hidalgo": "Sabinas Hidalgo",
+    "the restaurant": "a restaurant in Sabinas Hidalgo",
+    "a restaurant": "a restaurant in Sabinas Hidalgo",
+    "the Nuevo Laredo bus terminal": "Nuevo Laredo bus terminal",
+    "a point close to the bridge": null,
+    "the bridge": null,
+    "a hidden compartment": null,
+    "the van": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where aliens were being smuggled into",
+    "Mexico": "country where smuggling operation originated",
+    "Nuevo Laredo": "city where permit was obtained and smuggling operation proceeded",
+    "Sabinas Hidalgo": "city where meeting with undocumented aliens took place",
+    "a restaurant in Sabinas Hidalgo": "location of meeting between smugglers and undocumented aliens"
+  }
+}

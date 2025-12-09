@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas, Texas": "Dallas, Texas",
+    "the vehicle": null,
+    "the route": "route from Laredo, Texas to Dallas, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "origin of travel for IGNACIO RODRIGUEZ, JR.",
+    "Dallas, Texas": "destination of travel for IGNACIO RODRIGUEZ, JR.",
+    "route from Laredo, Texas to Dallas, Texas": "travel route that raised Reymundo Reyes's suspicions"
+  }
+}

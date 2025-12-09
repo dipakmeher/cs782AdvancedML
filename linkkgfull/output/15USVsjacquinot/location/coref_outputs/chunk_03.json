@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 385": "Texas Highway 385",
+    "United States/Mexican border": "United States/Mexican border",
+    "Big Bend National Park": "Big Bend National Park",
+    "Marfa Sector": "Marfa Sector Area Operations Center",
+    "United States": "United States",
+    "the area": "United States/Mexican border",
+    "ranch roads": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alpine, Texas": "location where Border Patrol Agents were stationed",
+    "United States/Mexican border": "border area being patrolled by Border Patrol Agents where vehicle sensors were located",
+    "Big Bend National Park": "part of the area being patrolled by Border Patrol Agents where vehicle sensors detected northbound vehicles",
+    "Marfa Sector Area Operations Center": "previous work location of Jay Snodgrass and sector whose Communications notified the agents",
+    "Laredo, Texas": "previous work location of Jay Snodgrass",
+    "Texas": "state where smuggling activities are taking place",
+    "Texas Highway 385": "highway notorious for smuggling with increased alien and smuggling apprehensions where Agents Graham and Snodgrass were parked"
+  }
+}

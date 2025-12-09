@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Mexico", "Fifth Circuit"],
+    "NOUN_PHRASE": ["the border", "the checkpoint", "Echo 43", "rural, two-lane highway", "the towns"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mexico": "country of origin for illegal aliens",
+    "Fifth Circuit": "judicial circuit with relevant case law"
+  }
+}

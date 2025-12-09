@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["S.Rep", "U.S. Code Cong. & Admin.News"],
+    "NOUN_PHRASE": ["the sentencing guidelines", "the guidelines", "a district court", "the sentencing judge", "the universe of potential factors"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "S.Rep": "Senate Report",
+    "U.S. Code Cong. & Admin.News": "Official publication of US Congressional and Administrative materials"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": null,
+    "the same location": null,
+    "where drugs or drug paraphernalia are stored": null,
+    "where part of the transaction occurred": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alpine, Texas": "location where agents had experience and towards which the truck was traveling, destination of the truck after turning left onto Highway 90, location of recent narcotics smuggling",
+    "United States/Mexican border": "area where proximity is a factor in determining reasonable suspicion for temporary investigative stops, reference point for determining proximity and reasonable suspicion, area within which vehicle sensors are activated to track suspicious vehicles, relevant to the case of Brignoni-Ponce Jacquinot",
+    "Big Bend National Park": "area involved in marijuana transportation by a smuggling organization, location where the truck transited from west side to east side, has a major highway used by visitors, location where traffic patterns and visitor behavior are being observed, starting point of the truck's travel route",
+    "Marfa Sector Area Operations Center": "previous work location of Jay Snodgrass, prior to transfer to Alpine, Texas, whose Communications notified the agents",
+    "Laredo, Texas": "previous work location of Jay Snodgrass, border area patrolled before transfer to Alpine, Texas",
+    "Texas": "state where smuggling activities are taking place, including areas along the United States/Mexican border",
+    "Texas Highway 385": "route known for alien and narcotics smuggling, location where Agents Graham and Snodgrass were parked, approximately 75 miles north of the United States/Mexican border, has a reputation as a smuggling route",
+    "Mississippi": "state of origin for a vehicle's license plate, associated with a vehicle carrying an older Anglo couple and bearing a park registration receipt",
+    "Kansas": "state associated with the truck's license plate and a smuggling organization transporting marijuana to Kansas from the Big Bend area, state where the truck's license plate was from, destination of smuggled narcotics",
+    "Marathon, Texas": "location where the truck drove through at 20 miles per hour",
+    "Highway 90": "road with a posted speed limit of 20 miles per hour, road where the truck turned left after stopping at a stop sign in Marathon, Texas",
+    "Fort Stockton": "destination for most vehicles coming up Highway 385, not taken by the truck",
+    "Interstate 10": "highway toward which most vehicles would continue from Highway 385, not taken by the truck",
+    "Highway 118": "most direct and logical route of travel from Big Bend to Alpine, not taken by the truck",
+    "district court": "court that denied Brignoni-Ponce Jacquinot's motion to suppress evidence, sentenced him to 46 months' imprisonment, and overruled his objection to the two-level adjustment for possession of a dangerous weapon",
+    "United States": "country sharing a border with Mexico, country where this circuit is located",
+    "Highway 385": "location where Agents Graham and Snodgrass were parked, approximately 75 miles north of the United States/Mexican border"
+  }
+}

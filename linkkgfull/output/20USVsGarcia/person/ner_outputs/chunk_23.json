@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Pena-Cantu"
+    ],
+    "NOUN_PHRASE": [
+      "border patrol agents",
+      "the occupants",
+      "the agent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Pena-Cantu": "reference in a legal case"
+  }
+}

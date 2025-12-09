@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "guns",
+      "firearm",
+      "drug"
+    ],
+    "NOUN_PHRASE": [
+      "the guns",
+      "the weapon",
+      "a dangerous weapon"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "guns": "firearms connected to a drug trafficking offense",
+    "firearm": "weapon possessed in furtherance of a drug trafficking offense",
+    "drug": "substance involved in the trafficking offense"
+  }
+}

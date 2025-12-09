@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the phone",
+      "the vehicle's device",
+      "the United States Border Patrol agents' communication devices",
+      "the law enforcement officer's communication equipment",
+      "the vehicle's communication system"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

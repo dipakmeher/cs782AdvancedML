@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["5th Circuit Court of Appeals", "United States-Mexican border"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "a court whose precedents are being considered",
+    "United States-Mexican border": "a geographical location relevant to the case"
+  }
+}

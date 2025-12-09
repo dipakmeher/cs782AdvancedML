@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Hugo Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "the citation": null,
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who received a citation and was involved in a traffic stop on Farm-to-Market Road 2050",
+    "United States Border Patrol Agent Hugo Benavides": "Agent who arrived at the scene of IGNACIO RODRIGUEZ, JR.'s traffic stop",
+    "Officer Reymundo Reyes": "Freer Police Department officer who issued a citation to IGNACIO RODRIGUEZ, JR. and recalled United States Border Patrol Agent Hugo Benavides arriving during the process"
+  }
+}

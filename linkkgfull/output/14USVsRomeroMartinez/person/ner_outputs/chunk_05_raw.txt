@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Fitzgerald", "Fitzgerald"],
+    "NOUN_PHRASE": ["the appellant", "his assistant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Fitzgerald": "law enforcement officer",
+    "Fitzgerald": "law enforcement officer"
+  }
+}

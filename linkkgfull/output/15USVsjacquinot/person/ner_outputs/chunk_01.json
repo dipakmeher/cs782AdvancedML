@@ -1,0 +1,24 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Michael Brett Jacquinot",
+      "Michael",
+      "Michael Brett Jacquinot",
+      "Jacquinot"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "he",
+      "the district court",
+      "the truck",
+      "a passenger",
+      "the border patrol agents",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Michael Brett Jacquinot": "defendant",
+    "Michael": "defendant, referring to Michael Brett Jacquinot",
+    "Jacquinot": "defendant, referring to Michael Brett Jacquinot"
+  }
+}

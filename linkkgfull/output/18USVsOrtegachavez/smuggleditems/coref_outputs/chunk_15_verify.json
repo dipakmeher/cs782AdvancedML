@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ms. Salinas' law firm": "Ms. Salinas' law firm",
+    "the witnesses": "U.S. Government Attorney rebuttal witnesses",
+    "Ramon Gonzalez Sanchez's father": "Ramon Gonzalez Sanchez's father",
+    "Ramon Gonzalez Sanchez's mother": "Ramon Gonzalez Sanchez's mother",
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "Juan Gonzalez Torres": "Juan Gonzalez Torres",
+    "Josefina Contreras de Gonzalez": "Josefina Contreras de Gonzalez",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "the district court": "district court",
+    "Ms. Salinas": null,
+    "the restaurant in Sabinas Hidalgo": null,
+    "November 21, 1980": null,
+    "November 22, 1980": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ms. Salinas' law firm": "law firm representing Alfredo Ortega-Chavez, conducted cross-examination of rebuttal witnesses",
+    "U.S. Government Attorney rebuttal witnesses": "witnesses testifying against Alfredo Ortega-Chavez's alibi, including Ramon Gonzalez Sanchez's father and mother, Juan Gonzalez Torres, and Josefina Contreras de Gonzalez",
+    "Ramon Gonzalez Sanchez's father": "rebuttal witness testifying against Alfredo Ortega-Chavez's alibi, had previously talked to another U.S. Government Attorney",
+    "Ramon Gonzalez Sanchez's mother": "rebuttal witness testifying against Alfredo Ortega-Chavez's alibi",
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, responsible for disclosing information and witnesses",
+    "Juan Gonzalez Torres": "witness who testified seeing Alfredo Ortega-Chavez in Sabinas Hidalgo on November 21 and 22, 1980",
+    "Josefina Contreras de Gonzalez": "witness who testified seeing Alfredo Ortega-Chavez in Sabinas Hidalgo on the evening of November 21, 1980",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses"
+  }
+}

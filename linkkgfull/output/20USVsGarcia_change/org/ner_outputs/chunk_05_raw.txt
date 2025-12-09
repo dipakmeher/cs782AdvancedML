@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States v. Maria De Jesus Garcia", "United States Court of Appeals for the Fifth Circuit", "United States-Mexican border", "Interstate Highway 35", "United States v. Pena-Cantu", "United States v. Pacheco", "United States v. Orona-Sanchez"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States v. Maria De Jesus Garcia": "a legal case",
+    "United States Court of Appeals for the Fifth Circuit": "a court",
+    "United States-Mexican border": "an international border",
+    "Interstate Highway 35": "a highway",
+    "United States v. Pena-Cantu": "a legal case",
+    "United States v. Pacheco": "a legal case",
+    "United States v. Orona-Sanchez": "a legal case"
+  }
+}

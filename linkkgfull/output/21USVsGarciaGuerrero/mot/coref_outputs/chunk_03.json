@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicle": null,
+    "the cars": null,
+    "the trucks": null,
+    "a bus": "bus",
+    "canoes": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "bus": "Used to transport undocumented aliens from San Luis, Potosi, Mexico to Nuevo Laredo"
+  }
+}

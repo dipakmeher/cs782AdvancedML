@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Interstate 35", "Maria De Jesus Garcia's pickup camper", "the border"],
+    "NOUN_PHRASE": ["this segment", "these other connecting roads", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "location where alien smuggling history is relevant",
+    "the border": "destination or origin of illegal aliens"
+  }
+}

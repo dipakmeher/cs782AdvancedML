@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "United States": "United States",
+    "Freer checkpoint": "Freer immigration checkpoint",
+    "Border Patrol station": "Border Patrol station",
+    "the primary Border Patrol agent": null,
+    "a holding cell": null,
+    "a locked sliding door": null,
+    "a fairly large room": null,
+    "a separate area": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "location where Agent Montemayor received a phone call regarding an attempted alien smuggling event",
+    "United States": "country of the Department of Homeland Security, involved in the case of IGNACIO RODRIGUEZ, JR.",
+    "Freer immigration checkpoint": "location where Agent Montemayor arrived to conduct interviews with RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was held in a holding cell before being interviewed by Agent Montemayor"
+  }
+}

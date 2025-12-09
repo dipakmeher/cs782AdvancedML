@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia",
+      "Alma Delia Simon-Fernandez",
+      "Jaime Gomez-Arroyo"
+    ],
+    "NOUN_PHRASE": [
+      "a group of nine undocumented aliens",
+      "the group",
+      "a member of the group",
+      "her uncle",
+      "the other members of the group",
+      "a nearby ranch hand"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "guide into the United States",
+    "Alma Delia Simon-Fernandez": "member of the group who became ill",
+    "Jaime Gomez-Arroyo": "uncle of Alma Delia Simon-Fernandez"
+  }
+}

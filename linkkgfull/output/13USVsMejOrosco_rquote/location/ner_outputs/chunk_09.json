@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "district court"
+    ],
+    "NOUN_PHRASE": [
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "court with fact-finding power"
+  }
+}

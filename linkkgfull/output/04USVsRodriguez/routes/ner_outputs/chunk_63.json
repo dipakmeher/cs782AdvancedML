@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050"
+    ],
+    "NOUN_PHRASE": [
+      "this road",
+      "the road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a narrow road with sharp turns where the incident occurred"
+  }
+}

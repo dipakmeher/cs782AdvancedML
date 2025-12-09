@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "Congress",
+      "the Sentencing Commission",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "defendant in an alien smuggling case"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "the indictment": "Indictment against Rogelio Valero-De La Rosa",
+    "the charges": "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa",
+    "the Plea Agreement": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the facts": null,
+    "the law": null,
+    "the punishment": null,
+    "the Indictment": "Indictment against Rogelio Valero-De La Rosa",
+    "the jury": null,
+    "the United States Probation Office": "United States Probation Office",
+    "the Immigration and Customs Enforcement (ICE) agents": "Immigration and Customs Enforcement (ICE) agents",
+    "United States citizen": null,
+    "alien": null,
+    "illegal alien": null,
+    "native and citizen of Mexico": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico, made statements under oath during plea colloquy",
+    "Indictment against Rogelio Valero-De La Rosa": "Formal charges of illegal re-entry after deportation against the defendant, led to his rearraignment and plea agreement",
+    "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa": "Criminal charges pending against the defendant, includes violation of supervised release by committing additional offenses, considered in sentencing",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence, signed by Rogelio Valero-De La Rosa. The agreement includes concessions made by the United States in exchange for the defendant's guilty plea.",
+    "United States Probation Office": "Agency that interviewed Rogelio Valero-De La Rosa and reported on his background and actions",
+    "Immigration and Customs Enforcement (ICE) agents": "Agents who interviewed Rogelio Valero-De La Rosa, determining his status as an illegal alien"
+  }
+}

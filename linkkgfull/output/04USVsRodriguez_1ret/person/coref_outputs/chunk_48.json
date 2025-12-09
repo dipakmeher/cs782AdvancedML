@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "the scout car": null,
+    "the load car": null,
+    "the owners of the drugs": null,
+    "the police": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants whose motions to suppress were recommended for denial by the Magistrate Judge",
+    "Jorge Luis Trevino and Rodriguez": "Border Patrol agents involved in the investigation of suspicious vehicles on FM 2050",
+    "Mills Bennett": "Involved in the case, mentioned during the cross examination of Agent Trevino",
+    "Reymundo Reyes": "Officer who conducted a traffic stop of Ignacio Rodriguez, issued a citation, informed him that the vehicle could not continue to its destination, present when Agent Benavides arrived at the scene",
+    "IGNACIO RODRIGUEZ, JR. and Jorge Luis Trevino": "Individuals involved in the case, with Ignacio Rodriguez as a defendant and Jorge Luis Trevino as a United States Border Patrol Agent",
+    "Hugo Benavides": "United States Border Patrol Agent who had probable cause to arrest Ignacio Rodriguez upon contact with him",
+    "Mr. Rodriguez": "Defendant stopped by Officer Reyes, driver of the vehicle, transported to a checkpoint for further questioning",
+    "Agent Benavides": "United States Border Patrol Agent who conducted questioning and transported Ignacio Rodriguez to a checkpoint",
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security involved in investigating an attempted alien smuggling event, interviewed Ignacio Rodriguez around 11:30 p.m. after he was transported to the checkpoint",
+    "Marco Montemayor and his partner": "Agents who interviewed Ignacio Rodriguez after he waived his Miranda rights",
+    "Ricardo Rodriguez": "Defendant stopped near the Mexico border, driver of a white sedan, who appeared to concede that the route taken would be convenient for smugglers",
+    "Ignacio Rodriguez": "Defendant stopped near the Mexico border, driver of a black truck",
+    "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.": "Border Patrol agents involved in the investigation of suspicious vehicles on FM 2050, with sufficient evidence to conclude that the two vehicles were driving in tandem",
+    "Hugo Benavides in CHUNK_TEXT": "United States Border Patrol Agent who questioned Defendant at the Border Patrol station",
+    "IGNACIO RODRIGUEZ, JR. in CHUNK_TEXT": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause",
+    "J. Scott Hacker": "United States Magistrate Judge who signed the document",
+    "RICARDO RODRIGUEZ, JR. in CHUNK_TEXT": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause"
+  }
+}

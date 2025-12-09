@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Marco Montemayor",
+      "Ricardo Rodriguez",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the primary Border Patrol agent",
+      "his partner",
+      "another HSI agent",
+      "a Border Patrol intel officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security",
+    "Ricardo Rodriguez": "",
+    "Ignacio Rodriguez": ""
+  }
+}

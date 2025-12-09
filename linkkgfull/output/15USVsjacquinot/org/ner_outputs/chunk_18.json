@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S. Government"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. Government": "the governing body"
+  }
+}

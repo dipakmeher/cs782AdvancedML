@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Malibu",
+      "Dodge truck"
+    ],
+    "NOUN_PHRASE": [
+      "the vehicles",
+      "a white one",
+      "a black one",
+      "a white Malibu sedan",
+      "a black Dodge truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Malibu": "a vehicle mentioned as a white sedan",
+    "Dodge truck": "a vehicle mentioned as a black truck"
+  }
+}

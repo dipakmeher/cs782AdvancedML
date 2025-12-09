@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "Orona-Sanchez case": "Orona-Sanchez case",
+    "Pacheco case": "Pacheco case",
+    "Lamas case": "Lamas case",
+    "Pena-Cantu case": "Pena-Cantu case",
+    "Maria De Jesus Garcia's pickup truck camper": null,
+    "the passengers": null,
+    "Interstate Highway 35": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "5th Circuit Court of Appeals": "a court that considers the totality of particular circumstances in cases, including the reasonableness of stops based on suspicious passenger behavior",
+    "Orona-Sanchez case": "court case referenced for its distinction from the current case due to differences in vehicle behavior and cargo indications, where static conditions like passengers sitting low were held insufficient to justify a stop",
+    "Pacheco case": "court case referenced for its distinction from the current case due to differences in vehicle behavior and cargo indications, where passengers 'hunkering down' was not sufficient on its own to justify a stop",
+    "Lamas case": "court case where passenger conduct like slouching down was considered suspicious but not sufficient alone to justify a stop",
+    "Pena-Cantu case": "court case referenced for its relevance to the reasonableness of a stop based on suspicious behavior, including the importance of considering the totality of circumstances"
+  }
+}

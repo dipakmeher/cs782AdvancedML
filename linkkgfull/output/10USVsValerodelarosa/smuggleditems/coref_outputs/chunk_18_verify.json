@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa's sworn statements": "Rogelio Valero-De La Rosa",
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "The United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "Rogelio Valero-De La Rosa's plea colloquy": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "Rogelio Valero-De La Rosa's sworn statements in open court": "Rogelio Valero-De La Rosa",
+    "the potential punishment he faced": "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa",
+    "his plea": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "Rogelio Valero-De La Rosa's testimony": "Rogelio Valero-De La Rosa",
+    "the bargain to which he agreed": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "his right to file a motion": null,
+    "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel": "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel",
+    "the Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the waiver contained therein": "Plea Agreement between Rogelio Valero-De La Rosa and the United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico",
+    "United States District Court for the Southern District of Texas": "Court responsible for imposing sentences in accordance with federal guidelines, considering factors such as the nature and circumstances of the offense and the history and characteristics of the defendant.",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence",
+    "United States Court of Appeals for the Fifth Circuit": "Court that reviews appeals from the United States District Court for the Southern District of Texas, providing guidance on the interpretation of fast track programs",
+    "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel": "Motion filed by Rogelio Valero-De La Rosa claiming his counsel was ineffective, denied by the court",
+    "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa": "Criminal charges pending against the defendant, includes violation of supervised release by committing additional offenses, considered in sentencing"
+  }
+}

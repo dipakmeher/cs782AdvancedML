@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Supreme Court"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Supreme Court": "recognized findings as factual and held that certain questions are factual"
+  }
+}

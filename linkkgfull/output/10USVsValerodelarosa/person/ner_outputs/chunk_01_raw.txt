@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Rogelio Valero-De La Rosa", "Valero", "Rogelio Valero-De La Rosa"],
+    "NOUN_PHRASE": ["Defendant", "the Court", "the district court", "the government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Rogelio Valero-De La Rosa": "defendant",
+    "Valero": "defendant"
+  }
+}

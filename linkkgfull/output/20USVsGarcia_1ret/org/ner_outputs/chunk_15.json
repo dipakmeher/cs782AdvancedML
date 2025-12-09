@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Garcia",
+      "Anglo-American"
+    ],
+    "NOUN_PHRASE": [
+      "the Court",
+      "the federal district court",
+      "the federal district court jury",
+      "the United States district court",
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced as part of a legal case",
+    "Garcia": "name of the defendant in the case",
+    "Anglo-American": "reference to a legal tradition"
+  }
+}

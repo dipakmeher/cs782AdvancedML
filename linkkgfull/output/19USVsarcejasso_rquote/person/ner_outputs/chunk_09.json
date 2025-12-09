@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Smith"
+    ],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the district court",
+      "the defendant",
+      "the person"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Smith": "a case reference"
+  }
+}

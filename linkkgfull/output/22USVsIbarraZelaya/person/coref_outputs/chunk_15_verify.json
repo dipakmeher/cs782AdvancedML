@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "his counsel": "Adrian Almaguer",
+    "the jury": null,
+    "the government": null,
+    "the defendants": "Jose Marlon Ibarra-Zelaya and six co-defendants"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant charged with conspiracy and assorted offenses related to an illegal alien smuggling venture, found guilty on all counts, sentenced to 292 months in prison, seeking relief from his sentence under Section 2255, and arguing for relief due to sentencing error, alleging ineffective assistance of counsel. Fails to establish Ex Post Facto violation and claim for ineffective assistance of counsel regarding sentencing.",
+    "Jose Marlon Ibarra-Zelaya and six co-defendants": "individuals jointly accused of conspiracy to conceal, harbor, shield, and transport illegal aliens for commercial advantage and private financial gain, including hostage taking by seizing, detaining, and threatening the illegal aliens in order to compel others to pay a sum of money as an explicit and implicit condition for their release",
+    "Adrian Almaguer": "affidavit provider and defense counsel for Jose Marlon Ibarra-Zelaya, whose performance is being challenged by Ibarra-Zelaya for alleged ineffectiveness during sentencing, specifically for failing to object to the use of the 2004 Sentencing Guidelines Manual. Also failed to object to sentencing enhancements based on jury findings of ransom demand and dangerous weapon use."
+  }
+}

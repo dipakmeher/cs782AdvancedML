@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Border Patrol station"],
+    "NOUN_PHRASE": ["the checkpoint", "the way", "the white car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol station": "location where Agent Benavides and Defendant were headed"
+  }
+}

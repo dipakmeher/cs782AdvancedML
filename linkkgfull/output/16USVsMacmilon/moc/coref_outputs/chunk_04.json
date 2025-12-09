@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon's rental car": "the rental car",
+    "Zeba Williams' tractor-trailer": "the tractor-trailer",
+    "the rental car": "the rental car",
+    "the tractor-trailer": "the tractor-trailer",
+    "Raymond McMillon and Zeba Williams' vehicle": null,
+    "Luis Pena's canine": "Aroxa",
+    "the driver-side door": null,
+    "the engine": null,
+    "the steps of the tractor-trailer": null,
+    "Agent Manuel Hernandez's dog": "Aroxa"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the rental car": "Vehicle used by Raymond McMillon and Zeba Williams to travel from Houston to San Antonio",
+    "the tractor-trailer": "Vehicle used by Zeba Williams and accompanied by Raymond McMillon to travel from San Antonio to Laredo, stopped at Freer, Texas",
+    "Aroxa": "Canine used by Agent Manuel Hernandez for detecting contraband"
+  }
+}

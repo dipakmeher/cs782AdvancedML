@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon",
+      "Agent Pena",
+      "Agent Hernandez",
+      "De La Cruz",
+      "Hernandez-Gomez"
+    ],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the district court",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "defendant",
+    "Agent Pena": "government witness",
+    "Agent Hernandez": "government witness",
+    "De La Cruz": "government witness",
+    "Hernandez-Gomez": "government witness"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States/Mexican border patrol": "United States/Mexican Border Patrol",
+    "Border Patrol": "United States/Mexican Border Patrol",
+    "Big Bend National Park": "Big Bend National Park",
+    "Marfa Sector Area Operations Center": "Marfa Sector Area Operations Center",
+    "United States": "United States",
+    "Marfa Sector Area Operations Center Communications": "Marfa Sector Area Operations Center",
+    "Texas Highway 385": null,
+    "the large white Ford pickup truck": null,
+    "Agent Andrew P. Graham": null,
+    "Highway 90": null,
+    "Marathon, Texas": null,
+    "Fort Stockton": null,
+    "Interstate 10": null,
+    "Alpine, Texas": null,
+    "Roving Border Patrol": "United States/Mexican Border Patrol",
+    "district court": "District Court",
+    "U.S.": "United States",
+    "the agent": "United States/Mexican Border Patrol",
+    "the court": "District Court",
+    "the vehicle's occupant": null,
+    "5th Cir": "5th Circuit Court",
+    "the district court": "District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States/Mexican Border Patrol": "conducted a roving stop of the large white Ford pickup truck and patrols a 140-mile area of the United States/Mexican border, involved in surveillance and pursuit of suspicious vehicles, conducted a stop, makes temporary investigative stops based on reasonable suspicion",
+    "Big Bend National Park": "national park located on the United States/Mexican border where vehicle sensors are located, source of tourist traffic, location where a suspicious work vehicle was seen, possible transit point for smugglers",
+    "Marfa Sector Area Operations Center": "operations center for Border Patrol activities that notified agents about vehicle sensor activations",
+    "United States": "country with shared border with Mexico",
+    "District Court": "court that denied the motion to suppress, analyzes reasonable suspicion in border patrol stops, found that the totality of the circumstances provided Andrew P. Graham and Jay Snodgrass with reasonable suspicion to warrant the stop of the large white Ford pickup truck, determined proximity-to-the-border element supported reasonable suspicion",
+    "United States/Mexican border": "geographic location relevant to the case, proximity to which may contribute to reasonable suspicion",
+    "5th Circuit Court": "court that established guidelines for reasonable suspicion in border patrol stops"
+  }
+}

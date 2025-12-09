@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Corinth, Texas": null,
+    "Dallas, Texas": null,
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050, searched after IGNACIO RODRIGUEZ, JR. gave consent, and had conflicting ownership claims",
+    "Jorge Luis Trevino": "United States Border Patrol agent who testified about the characteristics of Farm-to-Market Road 2050 and his experience with vehicles in the area",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino",
+    "Farm-to-Market Road 2050": "Paved road with two lanes, one in each direction, and no shoulder, where United States Border Patrol Agent Jorge Luis Trevino encountered the defendants' vehicles"
+  }
+}

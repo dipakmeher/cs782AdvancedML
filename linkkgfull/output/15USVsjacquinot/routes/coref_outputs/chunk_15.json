@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas Highway 385": "Texas Highway 385",
+    "Highway 90": "Highway 90",
+    "Interstate 10": "Interstate 10",
+    "Highway 118": "Highway 118",
+    "the most direct and logical route of travel": "Highway 118",
+    "a smuggling route": null,
+    "the road": null,
+    "a road frequently used for illegal activity": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas Highway 385": "location where Agents Andrew P. Graham and Jay Snodgrass were parked, notorious for smuggling and with increased alien and smuggling apprehensions, road from which the truck turned onto Highway 90, reputation for the smuggling of aliens and narcotics, near the United States/Mexican border, a major highway used by thousands of visitors to Big Bend National Park, a route known for alien and narcotics smuggling",
+    "Highway 90": "road where the truck turned left",
+    "Interstate 10": "highway toward which most vehicles would continue straight",
+    "Highway 118": "most direct and logical route of travel from Big Bend National Park to Alpine, Texas"
+  }
+}

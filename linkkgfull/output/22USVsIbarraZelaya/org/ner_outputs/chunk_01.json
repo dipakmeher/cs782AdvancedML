@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Nancy F. Atlas",
+      "Jose Marlon Ibarra-Zelaya"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Nancy F. Atlas": "Judge",
+    "Jose Marlon Ibarra-Zelaya": "Defendant"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "the aliens": "undocumented aliens",
+    "drop-offs": null,
+    "the loop": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, often dropped off near Farm-to-Market Road 2050 to avoid checkpoints and walk to Highway 16 for further transportation to cities like Houston or San Antonio"
+  }
+}

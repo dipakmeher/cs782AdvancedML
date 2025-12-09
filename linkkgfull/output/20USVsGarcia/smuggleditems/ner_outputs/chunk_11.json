@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's pickup truck camper",
+      "undocumented aliens",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the passengers",
+      "other individuals",
+      "contraband"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle suspected to contain contraband and undocumented aliens",
+    "undocumented aliens": "individuals being smuggled",
+    "illegal aliens": "individuals being smuggled"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "the patrol car": "marked United States/Mexican Border Patrol vehicles",
+    "the stop sign": null,
+    "the school zone": null,
+    "the large white Ford pickup truck": "the large white Ford pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the large white Ford pickup truck": "Vehicle in which Michael Brett Jacquinot was a passenger during the United States/Mexican Border Patrol stop, bearing a Kansas license plate and appearing suspicious due to its presence in Big Bend National Park on a Sunday morning. It was stopped 70 or 80 miles from the United States/Mexican Border after being followed for approximately fifteen minutes. Contained 286.44 pounds of marijuana in a toolbox and two unloaded handguns in the cab.",
+    "marked United States/Mexican Border Patrol vehicles": "Vehicles used by United States/Mexican Border Patrol agents for patrol and surveillance"
+  }
+}

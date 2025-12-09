@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the device": "a cellular phone",
+    "his phone": null,
+    "the United States Border Patrol radio": "the United States Border Patrol radio",
+    "the communication device": null,
+    "the radio": "the United States Border Patrol radio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication, mentioned in the context of a call from United States Border Patrol Agent Hugo Benavides' supervisor",
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations, including details about traffic stops and encounters with vehicles"
+  }
+}

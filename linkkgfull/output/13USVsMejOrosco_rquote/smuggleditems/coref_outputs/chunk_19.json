@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States Sentencing Commission Guidelines": "United States Sentencing Commission Guidelines",
+    "the sentencing judge": "United States District Court",
+    "the standard of review": null,
+    "the guideline range": null,
+    "the policies underlying the United States Sentencing Commission Guidelines": null,
+    "the defendant": null,
+    "a 'manager' or 'leader'": null,
+    "the judge's factual findings": null,
+    "the evidentiary basis for sentencing judgments": null,
+    "the United States Court of Appeals": "United States Court of Appeals",
+    "the application of the United States Sentencing Commission Guidelines": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Federal court imposing sentences, with judges considering all relevant factors in a case to impose a sentence outside the guidelines if necessary",
+    "United States Sentencing Commission Guidelines": "Guidelines for federal sentencing, providing a framework for evaluating the fairness and appropriateness of sentences for individual offenders",
+    "United States Court of Appeals": "Federal court reviewing sentences for legality and reasonableness, with authority to remand cases for further sentencing proceedings"
+  }
+}

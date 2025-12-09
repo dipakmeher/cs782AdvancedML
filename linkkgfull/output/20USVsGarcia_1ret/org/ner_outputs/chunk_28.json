@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States-Mexican border",
+      "United States Court of Appeals for the Fifth Circuit"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexican border": "geographical boundary",
+    "United States Court of Appeals for the Fifth Circuit": "federal court"
+  }
+}

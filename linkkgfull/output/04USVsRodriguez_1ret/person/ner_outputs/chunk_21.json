@@ -1,0 +1,26 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ricardo Rodriguez",
+      "Agent Trevino",
+      "Ignacio Rodriguez",
+      "Officer Reyes",
+      "Luis Trevino"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "Defendant",
+      "the Government",
+      "agents of the Government",
+      "the officer",
+      "the undersigned"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ricardo Rodriguez": "Defendant",
+    "Agent Trevino": "United States Border Patrol Agent",
+    "Ignacio Rodriguez": "Defendant",
+    "Officer Reyes": "Freer Police Department officer",
+    "Luis Trevino": "United States Border Patrol Agent"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Pablo Road": "San Pablo Road",
+    "United States": "United States",
+    "Mexico": "Mexico",
+    "Dallas": "Dallas, Texas",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the wind farm": "wind farm",
+    "the road": "Farm-to-Market Road 2050",
+    "the vehicle": null,
+    "the trunk": null,
+    "the country": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Pablo Road": "location where Agent Trevino initiated a stop, south of the wind farm",
+    "United States": "country of citizenship for Ricardo Rodriguez, Jr.",
+    "Mexico": "country of origin for the passengers",
+    "Dallas, Texas": "origin of rental cars used by smugglers, and city where the two vehicles originated",
+    "Farm-to-Market Road 2050": "a two-lane road where Agent Jorge Luis Trevino made observations of suspicious vehicles, including a white sedan with multiple passengers, and location of the wind farm, where vehicles were traveling southbound",
+    "wind farm": "location near FM 2050 with windmills extending out to the west across various ranches, approximately a mile and a half north of where Agent Trevino initiated a stop"
+  }
+}

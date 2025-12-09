@@ -1,0 +1,42 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the Government": "United States of America",
+    "district court": "district court",
+    "Laredo, Texas": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "U.S.": "United States of America",
+    "San Antonio": "San Antonio",
+    "the border patrol checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "the primary inspection lane": "primary inspection lane at the border patrol checkpoint on I-35 near Laredo, Texas",
+    "the secondary inspection area": "secondary inspection area at the border patrol checkpoint on I-35 near Laredo, Texas",
+    "I-35": "I-35",
+    "the border checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "a court of appeals": "court of appeals",
+    "a district court": "district court",
+    "this Court": "court of appeals",
+    "the district court": "district court",
+    "the District Court": "district court",
+    "Article III": "Article III",
+    "certain cities": null,
+    "the docket": "docket",
+    "the quarter panels": null,
+    "this United States of America": "United States of America",
+    "District Court": "district court",
+    "the checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "the side panel of the car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country filing notice to appeal and reinstating its original appeal, appellant in a criminal case, examining the basis of its appellate jurisdiction, involved in a legal dispute regarding timely appeal of a decision to suppress evidence, and conceding to a deadline failure while arguing the materiality requirement, also acting as prosecutor",
+    "district court": "court that made a decision or order suppressing or excluding evidence, which the United States of America appeals from",
+    "Laredo, Texas": "location where a federal grand jury returned an indictment, where Raul Rafael Arce-Jasso was stopped by a border patrol checkpoint, and 15 miles south of which the checkpoint is located on I-35, also a location related to a federal grand jury indictment against Raul Rafael Arce-Jasso",
+    "San Antonio": "destination Raul Rafael Arce-Jasso claimed to be heading to",
+    "border patrol checkpoint on I-35 near Laredo, Texas": "checkpoint where Raul Rafael Arce-Jasso's detention was argued to be unconstitutionally lengthy and the stop was found illegal by the United States of America, located 15 miles north of Laredo, Texas",
+    "primary inspection lane at the border patrol checkpoint on I-35 near Laredo, Texas": "lane where Agent Jesus Garcia was manning when Raul Rafael Arce-Jasso pulled up and questioned about his citizenship",
+    "secondary inspection area at the border patrol checkpoint on I-35 near Laredo, Texas": "area where a canine alerted and agents discovered cocaine hidden in the side panel of the car during Raul Rafael Arce-Jasso's secondary inspection",
+    "I-35": "highway where the border patrol checkpoint is located, 15 miles north of Laredo, Texas",
+    "court of appeals": "court that the United States of America appeals to from a decision or order of a district court suppressing or excluding evidence",
+    "Article III": "part of the legal framework relevant to the case, related to the law of the case doctrine, restricting the United States of America from presenting an adequate case or controversy",
+    "docket": "official record of proceedings in a court where judgments or orders are entered"
+  }
+}

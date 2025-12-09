@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Court": "Court",
+    "the traffic stop": null,
+    "the record": null,
+    "this paragraph": null,
+    "the events in question": null,
+    "the DVD": null,
+    "the form": null,
+    "the 24-hour clock": null,
+    "the 12-hour clock notation": null,
+    "the timing of events": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Court": "The court where Federico Saldana's hearing was held, using both 24-hour and 12-hour clock notations for citations and event descriptions"
+  }
+}

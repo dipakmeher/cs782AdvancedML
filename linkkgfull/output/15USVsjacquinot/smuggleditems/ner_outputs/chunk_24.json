@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the large white Ford pickup truck",
+      "two vehicles",
+      "the defendants",
+      "the Kansas license plate"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

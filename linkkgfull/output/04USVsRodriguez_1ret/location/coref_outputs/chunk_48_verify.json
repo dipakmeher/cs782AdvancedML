@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "Fifth Circuit",
+    "Arizona": "Arizona",
+    "a highway": null,
+    "the morning": null,
+    "the officer's range of vision": null,
+    "the floor": null,
+    "a remote road": null,
+    "an Interstate highway": "Interstate highway"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Fifth Circuit": "court that has addressed similar cases regarding probable cause and tandem vehicle stops",
+    "Arizona": "state where vehicles were heading, potentially indicating a smuggling route or destination",
+    "Interstate highway": "type of road where vehicles may be traveling in tandem, potentially raising suspicions of smuggling activity"
+  }
+}

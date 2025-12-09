@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "the scout vehicle",
+      "the unit",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a pickup truck",
+      "Maria De Jesus Garcia's truck cab",
+      "Maria De Jesus Garcia's vehicle",
+      "Maria De Jesus Garcia's pickup truck",
+      "a heavily loaded pickup truck camper",
+      "the stop of Maria De Jesus Garcia's vehicle",
+      "a crowded pickup truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

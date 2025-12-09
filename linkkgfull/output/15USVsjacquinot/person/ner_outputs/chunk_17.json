@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Graham",
+      "Jacquinot"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the officer",
+      "the agents",
+      "the border patrol agents",
+      "the truck's occupants",
+      "the passenger",
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "border patrol agent who testified about recent narcotics smuggling",
+    "Jacquinot": "truck's only passenger"
+  }
+}

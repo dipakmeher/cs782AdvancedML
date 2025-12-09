@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "the agent": "Jorge Luis Trevino",
+    "a smuggler": null,
+    "the Defendant": "RICARDO RODRIGUEZ, JR.",
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers, testified in a hearing about his vehicle not going off the road",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050, and explained vehicle encounters, noted an observation of Ricardo Rodriguez's vehicle, testified during cross examination, approached a car with five passengers which was riding low due to the number of people, followed the black truck for around five minutes noticing it going often off the shoulder, initiated the stop of Ricardo Rodriguez",
+    "J. Scott Hacker": "United States Magistrate Judge who signed the document, took judicial notice of the fact that the sun set at 6:22 p.m. on February 4, 2013 in Laredo, Texas, does not consider the vehicle's low ride height as contributing to reasonable suspicion for a stop"
+  }
+}

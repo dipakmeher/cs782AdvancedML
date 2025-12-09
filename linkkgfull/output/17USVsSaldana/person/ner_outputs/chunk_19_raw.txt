@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Haston", "Saldana", "Cox"],
+    "NOUN_PHRASE": ["the officers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "narcotics investigator",
+    "Saldana": "suspect transporting drugs and aliens",
+    "Cox": "officer who stopped Saldana for traffic violations"
+  }
+}

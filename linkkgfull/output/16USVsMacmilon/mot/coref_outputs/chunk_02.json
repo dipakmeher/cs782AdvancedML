@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a tractor-trailer": "tractor-trailer",
+    "a rental car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tractor-trailer": "Vehicle used to transport undocumented aliens, also used for transporting commercial equipment",
+    "rental car": null
+  }
+}

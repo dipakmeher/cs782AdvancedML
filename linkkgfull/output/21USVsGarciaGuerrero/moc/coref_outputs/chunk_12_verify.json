@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Inocencio Garcia-Guerrero's phone": null,
+    "Alma Delia Simon-Fernandez's phone": null,
+    "Jaime Gomez-Arroyo's phone": null,
+    "emergency call box": "the emergency call box",
+    "Inocencio Garcia-Guerrero's sentence": null,
+    "United States District Court": "the United States District Court",
+    "the Defendants in Rodriguez case": "the alien smuggler guides",
+    "the mountains": null,
+    "the terrain": null,
+    "the canyons": null,
+    "the streams": null,
+    "the obstacles": null,
+    "the temperature": null,
+    "the weather": null,
+    "the journey": null,
+    "the food": null,
+    "the water": null,
+    "the injury": null,
+    "the parasites": null,
+    "the disease": null,
+    "pickup truck": "the extended cab pickup truck",
+    "the extended cab pickup truck": "the extended cab pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the emergency call box": "Device used by the Defendants in Rodriguez case to request emergency assistance during a human smuggling operation",
+    "the United States District Court": "Court that handled Inocencio Garcia-Guerrero's sentencing and appeal for alien smuggling charges",
+    "the alien smuggler guides": "Guides employed by alien smugglers who used an emergency call box to request help during a smuggling operation and were responsible for transporting undocumented aliens through the mountains between Mexico and San Diego",
+    "the extended cab pickup truck": "Vehicle used for transporting undocumented aliens, with seven aliens riding in the cab and four aliens lying down in the bed"
+  }
+}

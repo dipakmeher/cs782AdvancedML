@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "the agent": "Jorge Luis Trevino",
+    "a smuggler": null,
+    "the Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the stop of his white sedan by United States Border Patrol Agent Trevino, arguing that the factors known to Agent Trevino at the time of the stop fall short of reasonable suspicion",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by Officer Reyes of the Freer Police Department, claiming that the stop was illegal or a pretextual stop and that Officer Reyes overstepped the scope of the stop",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who stopped Ricardo Rodriguez's vehicle, arguing that he had reasonable suspicion to do so"
+  }
+}

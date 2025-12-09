@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "RICARDO RODRIGUEZ, JR.",
+    "Agent Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Brignoni-Ponce": null,
+    "the vehicles' drivers": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Border Patrol agents": "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.",
+    "the agent": "Jorge Luis Trevino"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers, testified in a hearing about his vehicle not going off the road",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "Jorge Luis Trevino": "United States Border Patrol Agent with nearly seven years of experience, stationed at the Freer checkpoint, who has been working there two or three days a week since August 2011 and recognizes ninety to ninety-five percent of the vehicles passing down FM 2050, pursued the defendants and conducted registration checks",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants whose motions to suppress were recommended for denial by the Magistrate Judge, drove in tandem on FM 2050",
+    "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.": "Border Patrol agents involved in the investigation of suspicious vehicles on FM 2050"
+  }
+}

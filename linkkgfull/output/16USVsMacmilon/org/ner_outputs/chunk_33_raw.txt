@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Government", "United States"],
+    "NOUN_PHRASE": ["the jury", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Government": "The entity responsible for prosecuting the case",
+    "United States": "The country where the events took place"
+  }
+}

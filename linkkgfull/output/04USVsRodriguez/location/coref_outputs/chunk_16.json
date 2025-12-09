@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo",
+    "Dallas, Texas": "Dallas, Texas",
+    "San Antonio": "San Antonio",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo": "origin of IGNACIO RODRIGUEZ, JR.'s travel",
+    "Dallas, Texas": "destination of IGNACIO RODRIGUEZ, JR.'s travel",
+    "San Antonio": "alternative route location"
+  }
+}

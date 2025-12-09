@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States-Mexico border"
+    ],
+    "NOUN_PHRASE": [
+      "the United States-Mexico border",
+      "a rural, two-lane highway"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexico border": "international border and reference point for determining proximity and reasonable suspicion"
+  }
+}

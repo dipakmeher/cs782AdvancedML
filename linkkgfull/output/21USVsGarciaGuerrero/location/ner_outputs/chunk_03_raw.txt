@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo South Station", "La Moca Ranch", "June", "San Antonio", "South Texas"],
+    "NOUN_PHRASE": ["the surrounding area", "the hospital"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo South Station": "location of border patrol agents",
+    "La Moca Ranch": "location where undocumented female alien was found",
+    "San Antonio": "destination of the group",
+    "South Texas": "region where Inocencio Garcia-Guerrero transported aliens"
+  }
+}

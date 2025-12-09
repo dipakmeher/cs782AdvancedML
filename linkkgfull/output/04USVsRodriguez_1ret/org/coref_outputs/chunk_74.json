@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": "United States Border Patrol",
+    "Hertz": "Hertz Rental Car Company",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "the Hertz rental car company": "Hertz Rental Car Company",
+    "the company": "Hertz Rental Car Company"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "involved in the stop of RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; considered the behavior of vehicles' drivers in determining reasonable suspicion to stop; followed suspicious vehicles for approximately five minutes; conducted a roving stop; familiar with most vehicles on Farm-to-Market Road 2050; interacted with law enforcement during the traffic stop; involved in the arrest and questioning of IGNACIO RODRIGUEZ, JR.; location of questioning; had sufficient evidence to conclude that two vehicles were driving in tandem; agents were expected to arrive at the scene; involved in an incident where Agent Benavides asked IGNACIO RODRIGUEZ, JR. questions en route to the Border Patrol station",
+    "Hertz Rental Car Company": "rental car company with locations across the United States, including Laredo International Airport and Dallas-Fort Worth; registered owner of the white Malibu sedan involved in the incident",
+    "Hertz Dallas-Fort Worth": "specific location of Hertz rental car company where vehicles are registered"
+  }
+}

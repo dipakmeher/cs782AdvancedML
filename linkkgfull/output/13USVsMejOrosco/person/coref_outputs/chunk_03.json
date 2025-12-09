@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco",
+    "CLARK": "CLARK",
+    "Juventino": "Juventino Mejia-Orosco",
+    "Mejia-Orosco": "Juventino Mejia-Orosco",
+    "Hector Galvencio Paz-Ortega": "Hector Galvencio Paz-Ortega",
+    "Carlos Enrique Cruz-Morales": "Carlos Enrique Cruz-Morales",
+    "the defendant": "Juventino Mejia-Orosco",
+    "the district court": null,
+    "the Chief Judge": "CLARK",
+    "Paz-Ortega": "Hector Galvencio Paz-Ortega",
+    "Cruz-Morales": "Carlos Enrique Cruz-Morales",
+    "the aliens": null,
+    "relatives of the aliens": null,
+    "family members": null,
+    "immigration officials": null,
+    "law enforcement officials": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Juventino Mejia-Orosco": "defendant convicted of illegally transporting aliens into the United States, smuggler, sentenced to 10 months in prison and fined $4,000",
+    "CLARK": "Chief Judge presiding over the case",
+    "Hector Galvencio Paz-Ortega": "passenger and citizen of Guatemala, related to Juventino Mejia-Orosco, alien being smuggled",
+    "Carlos Enrique Cruz-Morales": "passenger and citizen of Guatemala, related to Juventino Mejia-Orosco, alien being smuggled"
+  }
+}

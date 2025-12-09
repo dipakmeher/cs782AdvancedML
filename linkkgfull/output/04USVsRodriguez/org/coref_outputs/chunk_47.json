@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "District Judge": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the court proceedings are taking place",
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, signed the document",
+    "United States District Court": "court where motions to suppress were filed and heard, has a District Judge with authority to review and decide on motions"
+  }
+}

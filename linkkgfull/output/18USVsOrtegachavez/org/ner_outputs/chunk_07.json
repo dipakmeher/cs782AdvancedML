@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Court",
+      "Alfredo Ortega-Chavez"
+    ],
+    "NOUN_PHRASE": [
+      "the government",
+      "the trial court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Court": "the judicial body hearing the case",
+    "Alfredo Ortega-Chavez": "the defendant"
+  }
+}

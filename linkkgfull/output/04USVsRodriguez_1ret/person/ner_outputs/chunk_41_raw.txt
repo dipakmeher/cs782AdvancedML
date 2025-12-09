@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a police officer", "the suspect", "an arresting officer", "the defendant", "the agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

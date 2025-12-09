@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Dodge truck", "white sedan"],
+    "NOUN_PHRASE": ["the white vehicle", "the vehicle", "the trunk", "the black Dodge truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dodge truck": "a suspected vehicle connected to the white sedan",
+    "white sedan": "the vehicle stopped by Agent Trevino"
+  }
+}

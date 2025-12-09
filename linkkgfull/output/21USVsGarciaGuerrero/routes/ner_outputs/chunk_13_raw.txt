@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the South Texas desert", "this trek through the South Texas"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

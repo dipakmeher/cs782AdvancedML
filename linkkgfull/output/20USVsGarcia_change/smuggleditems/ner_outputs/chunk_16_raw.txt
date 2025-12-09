@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Mexican aliens", "United States-Mexican border"],
+    "NOUN_PHRASE": ["three women", "five or six men", "poor and dirty Hispanic appearing persons", "dirty appearing Hispanic-descended workmen", "a crowded pickup truck camper"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mexican aliens": "individuals suspected of crossing the border illegally",
+    "United States-Mexican border": "border crossed by potential illegal aliens"
+  }
+}

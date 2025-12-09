@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the phone": null,
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "the white Malibu sedan": "the white Malibu sedan",
+    "the vehicle": "the white Malibu sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant",
+    "the black Dodge pickup truck": "Vehicle involved in the surveillance",
+    "the white Malibu sedan": "Vehicle being followed by Agent Trevino with five passengers",
+    "the vehicle": "Refers to the white Malibu sedan in this context"
+  }
+}

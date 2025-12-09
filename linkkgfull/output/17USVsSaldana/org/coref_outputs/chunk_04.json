@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the Government": "United States",
+    "Court": "Court",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "Gary Haston": null,
+    "the scissor lift": null,
+    "the battery charger area": null,
+    "the 2008 Chevrolet truck": null,
+    "Def. Ex. 2": null,
+    "Def. Ex. 1": null,
+    "a patrol": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "referred to as the Government, party in the legal case",
+    "Court": "held a hearing and entered an opinion and order in Federico Saldana's case",
+    "Williamson County Sheriff's Office": "Employer of detectives Gary Haston and Heather Vargas, involved in drug interdiction cases"
+  }
+}

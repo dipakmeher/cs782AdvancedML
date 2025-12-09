@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the tractor",
+      "the passenger seat",
+      "the sleeper area",
+      "the checkpoint video"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

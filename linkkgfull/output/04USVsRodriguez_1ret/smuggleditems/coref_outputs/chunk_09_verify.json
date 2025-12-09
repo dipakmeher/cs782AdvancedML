@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Highway 16": null,
+    "the Hebbronville Checkpoint": null,
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "Farm-to-Market Road 2050": null,
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the Freer Immigration Checkpoint": null,
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., used by smugglers and observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent, also observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who stopped RICARDO RODRIGUEZ, JR.'s white Malibu sedan and testified about his knowledge of rental car companies and his observations of the defendants' driving",
+    "Officer Reymundo Reyes": "Freer Police Department officer who issued a citation to IGNACIO RODRIGUEZ, JR. and decided to impound the black Dodge pickup truck due to lack of insurance information",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stops of RICARDO RODRIGUEZ, JR.'s white Malibu sedan and IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Farm-to-Market Road 2050, observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens, stopped by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose arrest was determined to be warranted by probable cause, stopped by Officer Reymundo Reyes for a traffic violation on Farm-to-Market Road 2050"
+  }
+}

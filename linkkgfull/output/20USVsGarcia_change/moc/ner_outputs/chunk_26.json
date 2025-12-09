@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the phone",
+      "the prepaid cellphone",
+      "the satellite phone",
+      "the burner phone",
+      "the handset",
+      "the device",
+      "the mobile",
+      "the messaging app",
+      "the chat application",
+      "the VoIP service",
+      "his phone",
+      "the smuggler's device",
+      "her messaging app"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

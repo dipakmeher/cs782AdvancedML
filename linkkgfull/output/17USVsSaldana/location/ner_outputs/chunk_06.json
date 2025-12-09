@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo",
+      "Dallas"
+    ],
+    "NOUN_PHRASE": [
+      "the scene",
+      "the checkpoint"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "residence of Federico Saldana and location of a checkpoint",
+    "Dallas": "destination for repairs"
+  }
+}

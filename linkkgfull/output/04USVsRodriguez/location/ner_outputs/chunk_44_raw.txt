@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Fifth Circuit", "Arizona"],
+    "NOUN_PHRASE": ["a highway", "the morning", "the officer's range of vision", "the floor", "a remote road", "an Interstate highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "court that has addressed similar cases",
+    "Arizona": "state where vehicles were heading"
+  }
+}

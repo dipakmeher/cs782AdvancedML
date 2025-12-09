@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. Highway 59",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 16": "Highway 16",
+    "U.S. 359": "U.S. Highway 359",
+    "the loop": null,
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the route": "U.S. Highway 59 and Farm-to-Market Road 2050 and U.S. Highway 359",
+    "the road": "Farm-to-Market Road 2050",
+    "the checkpoint": null,
+    "that same road": "Farm-to-Market Road 2050",
+    "that road": "Farm-to-Market Road 2050",
+    "Highway 35": "Highway 35",
+    "Mills Bennett Road": "Mills Bennett Road",
+    "San Pablo Road": "San Pablo Road",
+    "Santo Nino Road": "Santo Nino Road",
+    "Dinn Ranch": "Santo Nino Road",
+    "the dirt road": "Mills Bennett Road"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. Highway 59": "a highway where Agent Trevino was inspecting vehicles, near the Freer immigration checkpoint, intersecting with Farm-to-Market Road 2050 to the west of Freer immigration checkpoint, used to avoid checkpoints, has a checkpoint that vehicles pass through",
+    "Farm-to-Market Road 2050": "a road adjacent to the Border Patrol station parking lot, connected to U.S. 59, where vehicles drop off illegal aliens between the Freer immigration checkpoint and Bruni, and a point where aliens walk east to Highway 16, part of a route avoiding checkpoints via FM 2050, U.S. 59, and U.S. 359, used by ranchers, oilfield trucks, and utility trucks, and where Agent Jorge Luis Trevino followed the vehicles, has nearby ranches and oil fields, a connection between U.S. 359 and U.S. 59, a road where the white vehicle was going on and off, near the wind farm and various ranches, location where Agent Trevino initiated a stop of the white vehicle",
+    "Highway 16": "route where picked-up aliens are taken after walking from Farm-to-Market Road 2050, allowing access to Houston or San Antonio to the north, provides vehicle access from San Pablo Road and Santo Nino Road",
+    "U.S. Highway 359": "road intersecting with Farm-to-Market Road 2050 to the east of the Hebbronville checkpoint, used to avoid checkpoints, one of the roads connected by Farm-to-Market Road 2050",
+    "U.S. Highway 59 and Farm-to-Market Road 2050 and U.S. Highway 359": "routes used to avoid checkpoints via FM 2050, U.S. 59, and U.S. 359",
+    "Highway 35": "the most direct route to Dallas, Texas or San Antonio",
+    "Mills Bennett Road": "a dirt road intersecting Farm-to-Market Road 2050, approximately five miles south of the Freer immigration checkpoint",
+    "San Pablo Road": "a road south of the wind farm, extending to the east off Farm-to-Market Road 2050, provides vehicle access to Highway 16, nearby location to where the stop was initiated",
+    "Santo Nino Road": "also known as Dinn Ranch, extends to the east and provides vehicle access to Highway 16"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Herrera", "Garcia", "Simon-Fernandez"],
+    "NOUN_PHRASE": ["the court", "the defendant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Herrera": "court in the Ninth Circuit",
+    "Garcia": "defendant",
+    "Simon-Fernandez": "victim"
+  }
+}

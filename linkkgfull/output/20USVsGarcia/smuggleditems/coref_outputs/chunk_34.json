@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the cargo": "twenty-two people",
+    "twenty-two people": "twenty-two undocumented aliens",
+    "Maria De Jesus Garcia's pickup truck camper": "Maria De Jesus Garcia's pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "twenty-two undocumented aliens": "smuggled individuals carried by Maria De Jesus Garcia's pickup truck camper, causing obvious overloading and weaving of the vehicle",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for smuggling twenty-two people, with heavily loaded appearance, fogged windows, and unusual slow speed on Interstate Highway 35"
+  }
+}

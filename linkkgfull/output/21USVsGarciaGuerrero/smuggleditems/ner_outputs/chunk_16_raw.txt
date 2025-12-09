@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Inocencio Garcia-Guerrero", "Alma Delia Simon-Fernandez", "South Texas Journey"],
+    "NOUN_PHRASE": ["the group", "the aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Inocencio Garcia-Guerrero": "defendant",
+    "Alma Delia Simon-Fernandez": "adult female mentioned in autopsy report",
+    "South Texas Journey": "route taken by the smuggled individuals"
+  }
+}

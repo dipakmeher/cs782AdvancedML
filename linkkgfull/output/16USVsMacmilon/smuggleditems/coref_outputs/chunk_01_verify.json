@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "ten undocumented aliens": "ten undocumented aliens",
+    "the tractor-trailer": null,
+    "Raymond McMillon": "Raymond McMillon",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "United States Border Patrol Agent": "Luis Pena and Manuel Hernandez",
+    "immigration checkpoint stop": "immigration checkpoint stop",
+    "the indictment": "Ramon De La Cruz's indictment",
+    "the motion to dismiss the indictment": "Ramon De La Cruz's motion to dismiss the indictment",
+    "the Speedy Trial Act grounds": "Speedy Trial Act"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer, discovered at immigration checkpoint stop",
+    "Raymond McMillon": "defendant who transported the aliens",
+    "Ramon De La Cruz": "appellant, convicted of alien transportation offenses and sentenced to 41 months' imprisonment",
+    "Luis Pena and Manuel Hernandez": "United States Border Patrol Agents involved in the immigration checkpoint stop",
+    "immigration checkpoint stop": "location where ten undocumented aliens were discovered hidden in the tractor-trailer",
+    "Ramon De La Cruz's indictment": "indictment against Ramon De La Cruz for alien transportation offenses",
+    "Ramon De La Cruz's motion to dismiss the indictment": "pretrial motion filed by Ramon De La Cruz, denied by the United States District Court",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods"
+  }
+}

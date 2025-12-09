@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "this Court": "court of appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "the party that considered evidence during the bench trial and did not appeal in time, also the appellant in the case against Raul Rafael Arce-Jasso",
+    "court of appeals": "court reviewing the United States of America's appeal from a district court decision regarding the suppression of evidence"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Houston, Texas", "United States", "Texas"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Houston, Texas": "location where the order was signed",
+    "United States": "country where the court is located",
+    "Texas": "state where the court is located"
+  }
+}

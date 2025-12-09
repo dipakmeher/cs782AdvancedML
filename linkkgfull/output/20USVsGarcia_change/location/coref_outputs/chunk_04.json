@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the camper compartment": "camper",
+    "the district": null,
+    "her vehicle": null,
+    "United States": "United States",
+    "Moore, Texas": "Moore, Texas",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "Mexican border": "Mexican border",
+    "the northbound lanes": "northbound lanes of Interstate Highway 35",
+    "their marked border patrol sedan": null,
+    "the camper": "camper",
+    "the bumper": null,
+    "the tires": null,
+    "the wheel wells": null,
+    "the rear": null,
+    "the vehicle": null,
+    "the window": null,
+    "the truck": null,
+    "the front end": null,
+    "the cab": null,
+    "the back seat": null,
+    "the brush": null,
+    "the floor": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of the border patrol agents",
+    "Moore, Texas": "location where the border patrol agents were sitting",
+    "Interstate Highway 35": "highway where the incident occurred",
+    "Mexican border": "border near the location of the incident",
+    "northbound lanes of Interstate Highway 35": "part of the highway where the border patrol agents observed the pickup truck",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence",
+    "United States District Court": "court where the suppression motion was filed and considered"
+  }
+}

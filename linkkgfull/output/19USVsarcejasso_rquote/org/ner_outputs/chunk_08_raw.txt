@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America", "FED. R. APP. P"],
+    "NOUN_PHRASE": ["the district court", "this court of appeals"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "prosecutor",
+    "FED. R. APP. P": "federal rule of appellate procedure"
+  }
+}

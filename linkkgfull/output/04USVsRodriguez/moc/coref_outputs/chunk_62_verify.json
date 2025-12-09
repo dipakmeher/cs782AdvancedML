@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "United States Border Patrol Agent Benavides' communication device": "the United States Border Patrol radio",
+    "United States Border Patrol Agent Benavides' phone": null,
+    "the white Malibu sedan's occupants' phones": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal and potentially illicit communication, including by individuals involved in smuggling activities",
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "the citation": null,
+    "the hearing": null,
+    "United States District Court No. 39": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who acknowledged consenting to a search of his vehicle during the hearing",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent",
+    "Officer Reymundo Reyes": "Freer Police Department officer who issued a citation to IGNACIO RODRIGUEZ, JR. and decided to impound the black Dodge pickup truck due to lack of insurance information",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident"
+  }
+}

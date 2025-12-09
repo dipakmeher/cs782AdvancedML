@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the patrol car": "the United States Border Patrol vehicle",
+    "the license plate": null,
+    "the high-beams": null,
+    "the vehicle": "RICARDO RODRIGUEZ, JR.'s white Malibu sedan and the black Dodge pickup truck",
+    "his rear-view mirror": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan and the black Dodge pickup truck": "Vehicles driving in tandem, with the white Malibu sedan containing contraband, providing probable cause for arresting the driver of the other vehicle. They exited off U.S. Highway 59 to the right and turned southbound onto Farm-to-Market Road 2050.",
+    "the United States Border Patrol vehicle": "Vehicle used by United States Border Patrol agents for patrol and surveillance."
+  }
+}

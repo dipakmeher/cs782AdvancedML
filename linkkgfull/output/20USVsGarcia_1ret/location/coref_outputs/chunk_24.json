@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "the highway": "Interstate Highway 35",
+    "the point": null,
+    "Mexico": "Mexico",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches",
+    "Moore, Texas": "location near the border, approximately 115 miles from the Mexican border, and a point through which Interstate Highway 35 passes before reaching the United States-Mexican border, also a common location for apprehending illegal alien smugglers",
+    "Interstate Highway 35": "highway where the stop occurred",
+    "Mexican border": "reference point for the location of the stop, 115 miles south of where the pickup truck was stopped",
+    "United States-Mexican border": "geographical boundary between the United States and Mexico, relevant to the case and the Brignoni-Ponce test",
+    "Laredo, Texas": "city located on Interstate Highway 35, leading directly to the Mexican border, and a point of reference for determining distance from the border",
+    "Mexico": "country of origin for illegal migrants"
+  }
+}

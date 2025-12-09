@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the floorboard of the front seat": null,
+    "the floorboard of the back seat": null,
+    "the passenger side": null,
+    "the truck": null,
+    "the trailer": null,
+    "the patrol car": null,
+    "the tire shop": null,
+    "the bed of the truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Court": "The court where Federico Saldana's hearing was held",
+    "Williamson County": "location of the Sheriff's Office",
+    "IH-35": "highway where detectives were traveling",
+    "Laredo": "place where trailer's license plate was issued and residence of Federico Saldana",
+    "San Antonio": "place where truck's license plate was registered",
+    "Laredo checkpoint": "checkpoint where Federico Saldana was found transporting drugs",
+    "Dallas": "destination for repairs"
+  }
+}

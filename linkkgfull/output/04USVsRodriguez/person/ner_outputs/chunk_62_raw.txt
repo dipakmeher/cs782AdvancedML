@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ignacio Rodriguez", "Officer Reyes", "Agent Benavides"],
+    "NOUN_PHRASE": ["the undersigned", "Defendant", "Officer Reyes's account", "Border Patrol agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ignacio Rodriguez": "testified about his interaction with Officer Reyes",
+    "Officer Reyes": "conducted a search and testified about the events",
+    "Agent Benavides": "arrived at the scene"
+  }
+}

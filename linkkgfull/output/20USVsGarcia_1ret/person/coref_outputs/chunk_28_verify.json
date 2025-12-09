@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Maria De Jesus Garcia",
+    "Garcia": "Maria De Jesus Garcia",
+    "the district judge": null,
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "Pacheco": "Pacheco"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "Defendant convicted of aiding and abetting the transportation of undocumented aliens, whose vehicle was stopped and searched, and appellant in the case, requesting post-verdict discovery through juror depositions, owner of the truck and camper. The majority notes that a relevant consideration in its analysis was the apparent heavy load carried by Garcia's truck.",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation, observed the suspicious vehicle, and had reason to suspect the presence of illegal aliens in Garcia's vehicle based on various factors including the occupants' appearance and behavior. Conducted a traffic stop of a pickup truck camper on Interstate Highway 35",
+    "Pacheco": "Involved in a comparison of passenger conduct during stops, distinguishable from Garcia's case due to differences in vehicle loading and occupant behavior"
+  }
+}

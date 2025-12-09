@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the sentence": null,
+    "the record": null,
+    "the United States Court of Appeals": "United States Court of Appeals",
+    "the United States Sentencing Commission Guidelines": "United States Sentencing Commission Guidelines",
+    "the factors to be considered in imposing a sentence": null,
+    "chapter 227 of this title": null,
+    "the reasons for the imposition of the particular sentence": null,
+    "the United States District Court": "United States District Court",
+    "the provisions of": null,
+    "the offense": null,
+    "the applicable sentencing guideline": null,
+    "the witnesses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals": "Federal court reviewing sentences for legality and reasonableness",
+    "United States Sentencing Commission Guidelines": "Guidelines for federal sentencing",
+    "United States District Court": "Federal court imposing sentences"
+  }
+}

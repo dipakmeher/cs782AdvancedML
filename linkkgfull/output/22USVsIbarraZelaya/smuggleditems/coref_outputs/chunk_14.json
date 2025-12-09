@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The United States Court of Appeals for the Fifth Circuit": "The United States Court of Appeals for the Fifth Circuit",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Ex Post Facto clause": "ex post facto Law"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "The United States Court of Appeals for the Fifth Circuit": "court that established the principle for applying sentencing guidelines",
+    "Nancy F. Atlas": "judge who must apply the correct version of the sentencing guidelines",
+    "Jose Marlon Ibarra-Zelaya": "defendant whose punishment is being determined",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with versions applicable at different times",
+    "ex post facto Law": "law that prohibits applying a more onerous penalty than was in effect at the time of the offense"
+  }
+}

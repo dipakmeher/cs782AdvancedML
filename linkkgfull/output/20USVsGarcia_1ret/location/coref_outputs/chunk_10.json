@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "5th Cir.": "United States Court of Appeals for the Fifth Circuit",
+    "Maria De Jesus Garcia's vehicle": "pickup truck",
+    "the vehicle": "pickup truck",
+    "the camper compartment": "pickup truck camper",
+    "the camper": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "federal court that issued a ruling on probable cause for searching vehicles",
+    "pickup truck": "vehicle searched for undocumented aliens, containing a camper compartment",
+    "pickup truck camper": "compartment of the vehicle where evidence was found and is relevant to the suppression motion, often used for transporting illegal aliens"
+  }
+}

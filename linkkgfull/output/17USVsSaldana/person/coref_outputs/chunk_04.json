@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Vargas": "Heather Vargas",
+    "the truck": null,
+    "the trailer": null,
+    "a patrol deputy": null,
+    "the trailing car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "defendant in a case involving a motion to suppress",
+    "Gary Haston": "veteran narcotics investigator with 17 years of experience, testified to observations about the truck and scissor lift, witnessed two near-collisions, and contacted a patrol deputy for a traffic stop",
+    "Heather Vargas": "relative newcomer to the narcotics division, involved in contacting a patrol deputy",
+    "Daniel Martin Huerta": "registered owner of the trailer",
+    "Daniel A. Huerta": "registered owner of the truck"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the person",
+      "Border Patrol agents",
+      "the agent",
+      "the officer",
+      "the driver",
+      "the passengers",
+      "officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

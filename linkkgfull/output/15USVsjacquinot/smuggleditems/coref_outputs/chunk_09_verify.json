@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Brignoni-Ponce Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the U.S. District Court": "U.S. District Court",
+    "United States/Mexican Border Patrol": "United States/Mexican Border Patrol",
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "a motion to suppress": null,
+    "the evidence": null,
+    "the circumstances": null,
+    "a pre-trial hearing": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Brignoni-Ponce Jacquinot": "defendant who pleaded guilty to possession with intent to distribute marijuana, arguing that the stop of his vehicle was unjustified",
+    "U.S. District Court": "court that denied Brignoni-Ponce Jacquinot's motion to suppress and upheld the two-level adjustment for possession of a dangerous weapon",
+    "United States/Mexican Border Patrol": "agency whose agents followed the large white Ford pickup truck and observed its suspicious behavior, including a five-second pause at a stop sign",
+    "large white Ford pickup truck": "vehicle stopped by United States/Mexican Border Patrol agents due to suspicious behavior, containing marijuana and two unloaded handguns"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Marco Montemayor": "Marco Montemayor",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the primary Border Patrol agent": "Jorge Luis Trevino",
+    "his partner": null,
+    "another HSI agent": null,
+    "a Border Patrol intel officer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security involved in investigating an attempted alien smuggling event, interviewed Ricardo Rodriguez and Ignacio Rodriguez",
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers, testified in a hearing about his vehicle not going off the road",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050, and explained vehicle encounters, noted an observation of Ricardo Rodriguez's vehicle, testified during cross examination, approached a car with five passengers which was riding low due to the number of people, followed the black truck for around five minutes noticing it going often off the shoulder"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Williams": "Zeba Williams",
+    "Agent Pena": "Luis Pena"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant, appellant, and passenger in a tractor-trailer with undocumented aliens, convicted of alien transportation offenses, traveled with co-defendant to Laredo, questioned by Agent Pena at an immigration checkpoint, filed a motion to dismiss the indictment on speedy trial grounds, sentenced to 41 months' imprisonment, argues about the lawfulness of Agent Pena's immigration questions, claimed to have a possessory interest in the tractor-trailer due to a commercial purpose",
+    "Zeba Williams": "co-defendant, driver of the tractor-trailer, asked McMillon to accompany him to pick up commercial equipment, questioned by Agent Pena at an immigration checkpoint, gave consent for search of tractor's sleeper area",
+    "Luis Pena": "Border Patrol Agent who approached the driver-side door at an immigration checkpoint near Freer, Texas, questioned Williams and McMillon, discovered a person hidden in the tractor's sleeper area, testified as a government witness during the jury trial, asked immigration questions, conducted a checkpoint stop within permissible duration, initiated the search of the tractor-trailer"
+  }
+}

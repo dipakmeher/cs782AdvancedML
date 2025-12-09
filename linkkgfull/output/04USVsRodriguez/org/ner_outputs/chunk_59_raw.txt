@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Freer Police Department", "United States Border Patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Freer Police Department": "issued a citation",
+    "United States Border Patrol": "agents were to arrive"
+  }
+}

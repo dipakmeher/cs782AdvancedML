@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "marijuana"
+    ],
+    "NOUN_PHRASE": [
+      "the evidence",
+      "the large white Ford pickup truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "marijuana": "substance for distribution"
+  }
+}

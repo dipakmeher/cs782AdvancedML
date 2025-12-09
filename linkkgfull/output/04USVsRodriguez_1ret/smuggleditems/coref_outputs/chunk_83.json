@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "a white passenger vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, including five passengers found in RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent, with IGNACIO RODRIGUEZ, JR. exhibiting extreme nervousness during the stop",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., rented from Hertz Rental Car Company at the Laredo International Airport, and registered to a location other than where it was rented, used by smugglers"
+  }
+}

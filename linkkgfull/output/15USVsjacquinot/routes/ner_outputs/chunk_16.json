@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas Highway 385",
+      "Highway 90"
+    ],
+    "NOUN_PHRASE": [
+      "an indirect route"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Highway 385": "intersection point",
+    "Highway 90": "route to Alpine, Texas"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the patrol car": "the United States Border Patrol vehicle",
+    "the license plate": "the license plate of the black Dodge pickup truck",
+    "the high-beams": null,
+    "the vehicle": "the black Dodge pickup truck",
+    "his rear-view mirror": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol vehicle": "Vehicle used by Agent Jorge Luis Trevino for surveillance and stop, equipped with high-beams",
+    "the license plate of the black Dodge pickup truck": "License plate number of the vehicle driven by IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "Vehicle registered to Corinth, Texas, driven by IGNACIO RODRIGUEZ, JR."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Alpine, Texas": "Alpine, Texas",
+    "United States/Mexican border": "United States/Mexican border",
+    "Big Bend National Park": "Big Bend National Park",
+    "Marfa Sector Area Operations Center": "Marfa Sector Area Operations Center",
+    "Laredo, Texas": "Laredo, Texas",
+    "Texas": "Texas",
+    "Texas Highway 385": "Texas Highway 385",
+    "a 140-mile area": "United States/Mexican border",
+    "the Alpine, Texas, area": "Alpine, Texas",
+    "the border area": "United States/Mexican border",
+    "that highway": "Texas Highway 385",
+    "other nearby highways": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alpine, Texas": "location where Border Patrol Agents were stationed, area of patrol for Agent Andrew P. Graham",
+    "United States/Mexican border": "border area being patrolled by Border Patrol Agents, including the Big Bend National Park",
+    "Big Bend National Park": "part of the area being patrolled by Border Patrol Agents, included in the 140-mile area of the United States/Mexican border",
+    "Marfa Sector Area Operations Center": "previous work location of Jay Snodgrass, prior to transfer to Alpine, Texas",
+    "Laredo, Texas": "previous work location of Jay Snodgrass, border area patrolled before transfer to Alpine, Texas",
+    "Texas": "state where smuggling activities are taking place, including areas along the United States/Mexican border",
+    "Texas Highway 385": "highway notorious for smuggling, with increased alien and narcotics apprehensions in recent months"
+  }
+}

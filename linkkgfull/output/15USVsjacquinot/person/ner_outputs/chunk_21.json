@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "ROBERT M. PARKER",
+      "Judge Wiener"
+    ],
+    "NOUN_PHRASE": [
+      "the officer",
+      "the officers",
+      "the defendants",
+      "the Circuit Judge"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "ROBERT M. PARKER": "Circuit Judge",
+    "Judge Wiener": "author of a dissent"
+  }
+}

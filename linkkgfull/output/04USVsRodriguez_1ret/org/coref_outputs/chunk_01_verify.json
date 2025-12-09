@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the white Malibu sedan": null,
+    "the black Dodge pickup truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge who issued a report and recommendation",
+    "RICARDO RODRIGUEZ, JR.": "defendant associated with the white Malibu sedan",
+    "IGNACIO RODRIGUEZ, JR.": "defendant associated with the black Dodge pickup truck"
+  }
+}

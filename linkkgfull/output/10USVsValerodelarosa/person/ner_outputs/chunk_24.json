@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Attorney General",
+      "United States Attorney"
+    ],
+    "NOUN_PHRASE": [
+      "counsel",
+      "the government",
+      "defendants",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Attorney General": "Authorized early disposition programs",
+    "United States Attorney": "Authorized early disposition programs"
+  }
+}

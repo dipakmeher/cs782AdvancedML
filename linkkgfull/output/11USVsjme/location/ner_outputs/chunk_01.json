@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "Texas Juvenile Justice Department",
+      "Judge Ricardo Garcia Regional Detention Center"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed"
+  }
+}

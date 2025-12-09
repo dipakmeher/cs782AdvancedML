@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "this Court": "District Court",
+    "the district court": "district court",
+    "Article III": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "party presenting a case in the appeal and subject to the law of the case doctrine for judicial efficiency",
+    "District Court": "court reviewing the appeal, bound by the law of the case doctrine",
+    "district court": "trial court whose decision is under appeal and subject to the law of the case doctrine",
+    "Article III": null
+  }
+}

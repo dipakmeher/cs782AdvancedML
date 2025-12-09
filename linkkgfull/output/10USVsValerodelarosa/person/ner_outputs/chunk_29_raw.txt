@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Valero"],
+    "NOUN_PHRASE": ["the defendant", "his paternal grandmother", "the defendant's father", "Immigration authorities", "the Valero's wife", "defense counsel"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "individual who re-entered the United States illegally"
+  }
+}

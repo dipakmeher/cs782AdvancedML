@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "a canine handler": null,
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Law enforcement officer who performed the traffic stop on Ignacio Rodriguez's vehicle and issued a citation",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who was stopped by Officer Reyes for not using a turning signal and whose vehicle was searched after he consented to the search",
+    "J. Scott Hacker": "United States Magistrate Judge who is addressing the motions to suppress filed by the Defendants"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "the majority",
+      "the border patrol agent",
+      "the occupants of the truck",
+      "the panel majority"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "driver of a truck"
+  }
+}

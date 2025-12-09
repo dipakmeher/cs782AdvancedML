@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Pena", "Williams", "McMillon"],
+    "NOUN_PHRASE": ["the district court", "Defendant", "Border Patrol agents", "Agent"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Pena": "border patrol agent",
+    "Williams": "individual stopped at checkpoint",
+    "McMillon": "individual present at checkpoint"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "undocumented aliens": "undocumented aliens",
+    "the stop": null,
+    "the fruits": null,
+    "the interrogation": null,
+    "the arrest": null,
+    "the statements": null,
+    "the evidence": null,
+    "the warrantless arrest": null,
+    "undocumented illegals": "undocumented aliens",
+    "the vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "a white one": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "a black one": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the Freer Immigration Checkpoint": null,
+    "Highway 16": null,
+    "the Hebbronville Checkpoint": null,
+    "Farm-to-Market Road 2050": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped at the Freer Immigration Checkpoint, also referred to as \"a white one\", heading towards Highway 59 and then turning southbound onto Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and charged with transporting undocumented aliens",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck associated with IGNACIO RODRIGUEZ, JR., stopped at the Freer Immigration Checkpoint, also referred to as \"a black one\", heading towards Highway 59 and then turning southbound onto Farm-to-Market Road 2050",
+    "undocumented aliens": "individuals being transported by the defendants, also referred to as undocumented illegals, processed at the Freer Immigration Checkpoint",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, attempting to avoid the Hebbronville Checkpoint"
+  }
+}

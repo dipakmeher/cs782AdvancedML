@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Court"
+    ],
+    "NOUN_PHRASE": [
+      "the officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Court": "judicial body"
+  }
+}

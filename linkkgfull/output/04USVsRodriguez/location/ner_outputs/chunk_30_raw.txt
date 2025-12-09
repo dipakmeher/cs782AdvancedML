@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["San Antonio", "Corinth", "Dallas-Fort Worth", "FM 2050"],
+    "NOUN_PHRASE": ["the checkpoint", "the roadway", "the border", "a high crime area", "a rarely traveled road", "a smuggling route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Antonio": "location used for comparative direction",
+    "Corinth": "registration location of one of the vehicles",
+    "Dallas-Fort Worth": "registration location of one of the vehicles",
+    "FM 2050": "road where the vehicles were traveling"
+  }
+}

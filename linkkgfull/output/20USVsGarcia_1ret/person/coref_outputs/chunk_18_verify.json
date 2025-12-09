@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Maria De Jesus Garcia",
+    "Garcia": "Maria De Jesus Garcia",
+    "the majority": null,
+    "my brethren": null,
+    "the officers": "Stanley Pruszenski and Alfred Baron",
+    "the agent": "Stanley Pruszenski and Alfred Baron"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "Defendant convicted of aiding and abetting the transportation of undocumented aliens, whose vehicle was stopped and searched, and appellant in the case, requesting post-verdict discovery through juror depositions, owner of the truck and camper",
+    "Stanley Pruszenski": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper, driving the patrol car, did not testify to having reason to believe the vehicle came from the border, observed the truck and its occupants, had specialized experience and training, testified about passengers' behavior, received training in Spanish, and spoke and understood it to a limited extent. Observed a pickup truck camper traveling northbound unusually slowly on Interstate Highway 35",
+    "Alfred Baron": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper, testified without contradiction about recent apprehensions of illegal alien smugglers near the location, observed the truck and its passengers, had specialized experience and training, shined flashlight into the truck cab, noted unusual speed, native Spanish speaker, participated in approximately 150 separate incidents in which arrests were made for transporting illegal aliens. Participated in the traffic stop on Interstate Highway 35",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation, observed the suspicious vehicle, and had reason to suspect the presence of illegal aliens in Garcia's vehicle based on various factors including the occupants' appearance and behavior. Conducted a traffic stop of a pickup truck camper on Interstate Highway 35"
+  }
+}

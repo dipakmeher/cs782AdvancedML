@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the Government": "United States Government"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where motions to suppress evidence are reviewed and decided, with factual findings reviewed for clear error and legal conclusions reviewed de novo, and where standing to challenge searches is determined. The court's credibility determinations are given due deference.",
+    "United States Government": "prevailing party at the suppression hearing, with the right to request consent for extending checkpoint stop duration or to proceed based on probable cause. The government's interests are protected by the court's review of factual findings and legal conclusions."
+  }
+}

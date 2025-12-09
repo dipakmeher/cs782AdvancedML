@@ -1,0 +1,39 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the two vehicles": "the white Malibu sedan and the black Dodge pickup truck",
+    "the small passenger-style vehicle": "the white Malibu sedan",
+    "the 'non-work' truck": "the black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "United States Border Patrol": "the United States Border Patrol",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "Corinth, Texas": "Corinth, Texas",
+    "the Fifth Circuit Court of Appeals": "the Fifth Circuit Court of Appeals",
+    "San Angelo": "San Angelo",
+    "Highway 359": "Highway 359",
+    "Dallas-Fort Worth metroplex": "Dallas-Fort Worth metroplex",
+    "a vehicle's registration": "a vehicle's registration",
+    "the ranch road": "Farm-to-Market Road 2050",
+    "the local ranches": "local ranches near Farm-to-Market Road 2050",
+    "Highway 35": "Highway 35",
+    "Dallas, Texas": "Dallas, Texas",
+    "a well-traveled interstate highway": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the white Malibu sedan and the black Dodge pickup truck": "Vehicles that raised United States Border Patrol's suspicions due to their atypical presence on Farm-to-Market Road 2050 and out-of-town registrations",
+    "the white Malibu sedan": "Rental vehicle registered to Hertz Dallas-Fort Worth, driven by IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "Vehicle registered to Corinth, Texas, driven by IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "Road where United States Border Patrol encountered the two vehicles, known for its rural and ranching activities",
+    "United States Border Patrol": "Law enforcement agency responsible for monitoring and enforcing immigration laws near the United States-Mexico border",
+    "Hertz Dallas-Fort Worth": "Rental car company that registered the white Malibu sedan",
+    "Corinth, Texas": "Location where the black Dodge pickup truck was registered",
+    "the Fifth Circuit Court of Appeals": "Court that has previously ruled on cases related to reasonable suspicion and vehicle registrations",
+    "San Angelo": "Location mentioned in a previous case as a point of origin for a suspicious vehicle",
+    "Highway 359": "Route taken by the black Dodge pickup truck, considered the most direct route",
+    "Dallas-Fort Worth metroplex": "Region where Corinth, Texas is located, and where the black Dodge pickup truck was registered",
+    "a vehicle's registration": "Information that can contribute to reasonable suspicion, especially if the vehicle is registered out-of-town or has an unusual registration history",
+    "the ranch road": "Farm-to-Market Road 2050, a rural road with limited traffic and known connections to local ranches",
+    "the local ranches": "Ranches near Farm-to-Market Road 2050, familiar to United States Border Patrol agents",
+    "Highway 35": "Well-traveled interstate highway that connects Dallas, Texas to other major cities",
+    "Dallas, Texas": "City mentioned as a destination for the black Dodge pickup truck, and a point of origin for vehicles that may raise suspicion if traveling on less direct routes"
+  }
+}

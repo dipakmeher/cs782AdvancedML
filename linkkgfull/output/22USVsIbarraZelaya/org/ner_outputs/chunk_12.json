@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States Sentencing Guidelines Manual",
+      "Congress",
+      "United States"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Sentencing Guidelines Manual": "a manual used for calculating sentences",
+    "Congress": "the legislative branch of the United States government",
+    "United States": "the country where the legal case is taking place"
+  }
+}

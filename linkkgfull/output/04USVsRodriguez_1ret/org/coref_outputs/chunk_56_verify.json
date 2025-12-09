@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "an arrest": null,
+    "a warrant": null,
+    "the Constitution": "United States Constitution",
+    "a police officer": null,
+    "the suspect": null,
+    "the defendant": null,
+    "the offense": null,
+    "the arresting officer": null,
+    "the agents": "United States Border Patrol",
+    "the events": null,
+    "the collective knowledge doctrine": null,
+    "the necessary facts": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Constitution": "governing document that outlines the framework for lawful arrests and searches",
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law"
+  }
+}

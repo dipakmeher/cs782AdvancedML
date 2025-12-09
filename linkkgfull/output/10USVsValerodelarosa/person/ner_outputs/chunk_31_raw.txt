@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Joseph M. Hood", "Valero-De-La-Rosa"],
+    "NOUN_PHRASE": ["the government", "the defendant", "the court", "a Senior U.S. District Judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Joseph M. Hood": "Senior U.S. District Judge",
+    "Valero-De-La-Rosa": "defendant"
+  }
+}

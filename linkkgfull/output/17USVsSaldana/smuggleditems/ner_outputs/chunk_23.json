@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "a load of dope",
+      "aliens",
+      "drugs"
+    ],
+    "NOUN_PHRASE": [
+      "the drugs"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "a load of dope": "suspected cargo",
+    "aliens": "previously smuggled individuals",
+    "drugs": "suspected and previously smuggled substances"
+  }
+}

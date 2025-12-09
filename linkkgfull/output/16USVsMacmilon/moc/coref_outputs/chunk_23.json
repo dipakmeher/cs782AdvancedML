@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court": "the United States District Court",
+    "Raymond McMillon and Zeba Williams": null,
+    "the proposed orders": null,
+    "the ends of justice": null,
+    "the continuances": null,
+    "the Speedy Trial Act": "the Speedy Trial Act",
+    "the speedy trial case": null,
+    "the Defendants": null,
+    "counsel for the respective Defendants": null,
+    "pretrial motions": null,
+    "the deadlines": null,
+    "the public and Raymond McMillon and Zeba Williams": null,
+    "a speedy trial": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States District Court": "Court responsible for making ends-of-justice findings on the record and for ruling on motions related to speedy trial determinations",
+    "the Speedy Trial Act": "Federal law governing the timing of trials, which excludes certain periods of delay from its calculations"
+  }
+}

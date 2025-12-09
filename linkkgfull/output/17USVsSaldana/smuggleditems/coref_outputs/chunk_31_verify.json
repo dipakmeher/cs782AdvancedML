@@ -1,0 +1,38 @@
+{
+  "RESOLVED_ENTITIES": {
+    "SIGNED this the 27th day of February 2015": null,
+    "Sam Sparks": "Sam Sparks",
+    "United States District Court JUDGE": "United States District Court JUDGE",
+    "Gary Haston": "Gary Haston",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "Deputy Jason Cox's patrol video recording": "Deputy Jason Cox's patrol video recording",
+    "the traffic stop": "traffic stop on Interstate 35",
+    "Federico Saldana": "Federico Saldana",
+    "Miguel": null,
+    "Daniel Martin Huerta": "Daniel Martin Huerta",
+    "the United States": "United States Government",
+    "Exhibit 1": null,
+    "the DVD containing Deputy Jason Cox's patrol video recording": "Deputy Jason Cox's patrol video recording",
+    "the events in question": null,
+    "the 24-hour clock": null,
+    "the 12-hour clock notation": null,
+    "the audio from Deputy Jason Cox's patrol video": "Deputy Jason Cox's patrol video recording",
+    "the name \"Miguel\"": null,
+    "the name \"Daniel Martin Huerta\"": "Daniel Martin Huerta",
+    "the operator on a roadway divided into two or more clearly marked lanes for traffic": null,
+    "the lane": null,
+    "the movement": null,
+    "the roadway": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Sam Sparks": "United States District Court Judge who signed the document on February 27, 2015",
+    "United States District Court JUDGE": "Judge presiding over Federico Saldana's case",
+    "Gary Haston": "Veteran narcotics investigator with Williamson County Sheriff's Office, testified about atypical features of the 2008 Chevrolet truck and flatbed trailer",
+    "Williamson County Sheriff's Office": "Law enforcement agency conducting the search and requesting consent from Federico Saldana",
+    "Deputy Jason Cox's patrol video recording": "Video recording of the traffic stop, with audio that is not entirely clear, captured the interaction between Federico Saldana and Williamson County Sheriff's Office during the traffic stop",
+    "traffic stop on Interstate 35": "Traffic stop initiated by Williamson County Sheriff's Office due to unsafe lane changes and near-collisions, resulted in the detention of Federico Saldana",
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, gave consent to Williamson County Sheriff's Office to search the vehicle and trailer",
+    "Daniel Martin Huerta": "Registered owner of the flatbed trailer, first name mentioned by Federico Saldana as the owner",
+    "United States Government": "Party responding to Federico Saldana's motion, arguing that consent to search was voluntary"
+  }
+}

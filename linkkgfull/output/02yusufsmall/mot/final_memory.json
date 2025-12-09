@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a trailer": "flatbed trailer",
+    "a flatbed trailer": "flatbed trailer",
+    "Abdullah Yusuf's vehicle": "flatbed trailer",
+    "his vehicle": "flatbed trailer",
+    "his tractor": null,
+    "the trailer": "flatbed trailer",
+    "the loading dock": null,
+    "Abdullah Yusuf's vehicle's trailer": "flatbed trailer",
+    "several wooden crates arranged in a rectangle and covered by a tarp": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "flatbed trailer": "Vehicle used by Abdullah Yusuf to transport 84 illegal aliens near Laredo, Texas, hauling a load from the Auburn Road lot to Dallas, with a forged BOL found in the vehicle and carrying several wooden crates arranged in a rectangle and covered by a tarp. Loaded at the Auburn Road lot, which has no warehouse or loading equipment. A logbook was not found in the vehicle, but a forged BOL was discovered. Stopped by Border Patrol on March 19, 2021, while smuggling aliens. Abdullah Yusuf claimed he was paid $2,700 to haul the load. The BOL for the load identified United States Trucking as the carrier and contained a trailer number that didn't match Abdullah Yusuf's vehicle's trailer."
+  }
+}

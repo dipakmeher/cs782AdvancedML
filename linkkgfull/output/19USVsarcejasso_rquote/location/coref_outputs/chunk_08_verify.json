@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "court of appeals",
+    "the district court": "district court",
+    "United States of America": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "appellant in a criminal case, examining the basis of its appellate jurisdiction, involved in a legal dispute regarding timely appeal of a decision to suppress evidence, and conceding to a deadline failure while arguing the materiality requirement, also acting as prosecutor",
+    "district court": "court that made a decision or order suppressing or excluding evidence, which the United States of America appeals from",
+    "court of appeals": "court that the United States of America appeals to from a decision or order of a district court suppressing or excluding evidence"
+  }
+}

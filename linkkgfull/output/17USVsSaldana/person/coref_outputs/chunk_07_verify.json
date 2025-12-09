@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Saldana": "Federico Saldana",
+    "the officers": "Gary Haston and Jason Cox"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "truck driver who was stopped by Deputy Cox, identified himself and stated he was not used to driving a truck with a trailer attached, has a history of arrests including drug smuggling, denied presence of dope during questioning",
+    "Gary Haston": "narcotics investigator who provided traffic violation information to Deputy Cox, gathered information from Saldana during the stop, strongly encouraged Saldana to cooperate and disclose any drugs",
+    "Gary Haston and Jason Cox": "officers involved in the traffic stop and investigation of Saldana, received consent to search the truck and trailer, temporarily detained Saldana due to increasing suspicions of drug trafficking"
+  }
+}

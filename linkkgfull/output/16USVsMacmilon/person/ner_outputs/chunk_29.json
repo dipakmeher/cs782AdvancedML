@@ -1,0 +1,27 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "De La Cruz",
+      "Hernandez-Gomez",
+      "McMillon",
+      "Agent Pena",
+      "Agent Hernandez",
+      "Williams"
+    ],
+    "NOUN_PHRASE": [
+      "the man",
+      "the aliens",
+      "the person",
+      "the defendant",
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "De La Cruz": "unlawful alien testifying at trial",
+    "Hernandez-Gomez": "unlawful alien testifying at trial",
+    "McMillon": "defendant identified as the person motioning for aliens to hide",
+    "Agent Pena": "Government agent narrating the checkpoint stop",
+    "Agent Hernandez": "Government agent narrating the checkpoint stop",
+    "Williams": "individual allegedly transporting aliens with McMillon"
+  }
+}

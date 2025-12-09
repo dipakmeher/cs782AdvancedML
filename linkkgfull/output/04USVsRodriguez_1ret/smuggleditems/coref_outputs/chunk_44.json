@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented persons": "undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped by United States Border Patrol Agent Jorge Luis Trevino near Farm-to-Market Road 2050, transporting undocumented aliens, including five passengers and two in the trunk, driven on a road primarily used by local residents and oil company employees, registered to Hertz Rental Car Company, exhibiting suspicious behavior such as driving in tandem with another vehicle and repeatedly going on and off Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck recognized by United States Border Patrol Agent Jorge Luis Trevino as not belonging to a local resident, stopped at the Freer Immigration Checkpoint, traveling in tandem with RICARDO RODRIGUEZ, JR.'s vehicle, exhibiting suspicious behavior such as driving in tandem and repeatedly going on and off Farm-to-Market Road 2050",
+    "undocumented aliens": "individuals being transported and dropped off along Farm-to-Market Road 2050, walking east towards Highway 16 to be picked up by another vehicle heading north, referred to as undocumented persons in the context of the transportation operation"
+  }
+}

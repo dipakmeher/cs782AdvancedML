@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Highway 385",
+      "United States/Mexican border",
+      "Big Bend National Park",
+      "Marfa Sector",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "ranch roads"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 385": "location where Agents Graham and Snodgrass were parked",
+    "United States/Mexican border": "border near which vehicle sensors were located",
+    "Big Bend National Park": "area where vehicle sensors detected northbound vehicles",
+    "Marfa Sector": "sector whose Communications notified the agents",
+    "United States": "country sharing a border with Mexico"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenged the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino and testified during cross-examination",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., described as having a dark blue or black camper",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants who took an indirect route to avoid the Hebbronville Checkpoint",
+    "Jorge Luis Trevino": "United States Border Patrol agent who conducted the initial stop and testified about his observations",
+    "Farm-to-Market Road 2050": "Road taken by the defendants, which is not the most direct route to their destination"
+  }
+}

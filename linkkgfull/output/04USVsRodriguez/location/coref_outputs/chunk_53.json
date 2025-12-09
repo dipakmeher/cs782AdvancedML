@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Texas": "Texas",
+    "Moglia": "Moglia ranch house",
+    "San Pablo Road": "San Pablo Road",
+    "the ranch house": "Moglia ranch house",
+    "the trailer": "Stag ranch trailer",
+    "the land": null,
+    "the various houses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "location where the sun set at a specific time on February 4, 2013",
+    "Texas": "state where Laredo is located",
+    "Moglia ranch house": "ranch house on San Pablo Road, ownership and residents unknown",
+    "San Pablo Road": "road where houses are located, including the Moglia ranch house",
+    "Stag ranch trailer": "trailer on San Pablo Road, ownership and residents unknown"
+  }
+}

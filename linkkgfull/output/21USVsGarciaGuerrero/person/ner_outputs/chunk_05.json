@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "he",
+      "counsel for Garcia",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "defendant in the case"
+  }
+}

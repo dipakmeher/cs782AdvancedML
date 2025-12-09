@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States-Mexico border",
+      "Fifth Circuit",
+      "United States Border Patrol",
+      "Echo 43"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexico border": "geographical boundary",
+    "Fifth Circuit": "court jurisdiction",
+    "United States Border Patrol": "law enforcement agency",
+    "Echo 43": "checkpoint"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Arce-Jasso"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the Government",
+      "the parties",
+      "the Supreme Court",
+      "counsel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Arce-Jasso": "defendant in a criminal case"
+  }
+}

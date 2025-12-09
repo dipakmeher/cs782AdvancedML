@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Government": "United States Government",
+    "the Government": "United States Government"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law.",
+    "United States Government": "Prohibits unreasonable searches and seizures, with protections extending to brief investigatory stops of persons or vehicles that fall short of traditional arrest."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Freer Police Department": "Freer Police Department",
+    "Highway 16": "Highway 16",
+    "U.S. 59": "U.S. 59",
+    "the intersection": "Highway 16 and U.S. 59",
+    "the traffic light": null,
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Freer Police Department": "Employer of Officer Reymundo Reyes, involved in the traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "Highway 16": "Location where Officer Reymundo Reyes noticed the black truck, route for picked up aliens, potential destination or route for smugglers",
+    "U.S. 59": "Connecting highway and location of a checkpoint, intersection location with Highway 16",
+    "Highway 16 and U.S. 59": "Location of the intersection where the traffic stop took place"
+  }
+}

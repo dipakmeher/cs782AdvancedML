@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "Brignoni-Ponce": "Brignoni-Ponce standard"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, reference point for distance",
+    "Brignoni-Ponce standard": "standard for reasonably warranting suspicion in stopping vehicles near the border, requiring articulable facts"
+  }
+}

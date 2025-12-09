@@ -1,0 +1,687 @@
+[2025-06-19 04:04:50] Starting Chunking Step...
+[2025-06-19 04:04:50] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 04:04:52] Loading GPT-2 tokenizer...
+[2025-06-19 04:04:52] Saved chunk 01 (132 words)
+[2025-06-19 04:04:52] Saved chunk 02 (260 words)
+[2025-06-19 04:04:52] Saved chunk 03 (166 words)
+[2025-06-19 04:04:52] Saved chunk 04 (203 words)
+[2025-06-19 04:04:52] Saved chunk 05 (179 words)
+[2025-06-19 04:04:52] Saved chunk 06 (134 words)
+[2025-06-19 04:04:52] Saved chunk 07 (130 words)
+[2025-06-19 04:04:52] Saved chunk 08 (142 words)
+[2025-06-19 04:04:52] Saved chunk 09 (172 words)
+[2025-06-19 04:04:52] Saved chunk 10 (171 words)
+[2025-06-19 04:04:52] Saved chunk 11 (142 words)
+[2025-06-19 04:04:52] Saved chunk 12 (173 words)
+[2025-06-19 04:04:52] Saved chunk 13 (105 words)
+[2025-06-19 04:04:52] Saved chunk 14 (211 words)
+[2025-06-19 04:04:52] Saved chunk 15 (157 words)
+[2025-06-19 04:04:52] Saved chunk 16 (126 words)
+[2025-06-19 04:04:52] Saved chunk 17 (197 words)
+[2025-06-19 04:04:52] Saved chunk 18 (252 words)
+[2025-06-19 04:04:52] Saved chunk 19 (207 words)
+[2025-06-19 04:04:52] Saved chunk 20 (72 words)
+[2025-06-19 04:04:52] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 04:04:52] Total time taken: 2.79 seconds.
+[2025-06-19 04:04:52] Chunking completed in 2.87 seconds.
+[2025-06-19 04:04:52] Cumulative time after Chunking: 2.87 seconds.
+[2025-06-19 04:04:52] Starting NER Step...
+[2025-06-19 04:04:53] Found 20 chunk files.
+[2025-06-19 04:04:53] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 04:04:56] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_01.json
+[2025-06-19 04:04:56] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-19 04:04:59] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_02.json
+[2025-06-19 04:04:59] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-19 04:05:01] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_03.json
+[2025-06-19 04:05:01] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-19 04:05:04] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_04.json
+[2025-06-19 04:05:04] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-19 04:05:06] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_05.json
+[2025-06-19 04:05:06] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-19 04:05:08] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_06.json
+[2025-06-19 04:05:08] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-19 04:05:09] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_07.json
+[2025-06-19 04:05:09] Running NER on chunk_08.txt (attempt 1)...
+[2025-06-19 04:05:11] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_08.json
+[2025-06-19 04:05:11] Running NER on chunk_09.txt (attempt 1)...
+[2025-06-19 04:05:13] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_09.json
+[2025-06-19 04:05:13] Running NER on chunk_10.txt (attempt 1)...
+[2025-06-19 04:05:15] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_10.json
+[2025-06-19 04:05:15] Running NER on chunk_11.txt (attempt 1)...
+[2025-06-19 04:05:17] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_11.json
+[2025-06-19 04:05:17] Running NER on chunk_12.txt (attempt 1)...
+[2025-06-19 04:05:19] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_12.json
+[2025-06-19 04:05:19] Running NER on chunk_13.txt (attempt 1)...
+[2025-06-19 04:05:21] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_13.json
+[2025-06-19 04:05:21] Running NER on chunk_14.txt (attempt 1)...
+[2025-06-19 04:05:23] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_14.json
+[2025-06-19 04:05:23] Running NER on chunk_15.txt (attempt 1)...
+[2025-06-19 04:05:25] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_15.json
+[2025-06-19 04:05:25] Running NER on chunk_16.txt (attempt 1)...
+[2025-06-19 04:05:27] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_16.json
+[2025-06-19 04:05:27] Running NER on chunk_17.txt (attempt 1)...
+[2025-06-19 04:05:29] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_17.json
+[2025-06-19 04:05:29] Running NER on chunk_18.txt (attempt 1)...
+[2025-06-19 04:05:33] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 04:05:33] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 04:05:33] Running NER on chunk_18.txt (attempt 2)...
+[2025-06-19 04:05:39] Format issue on attempt 2: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 04:05:39] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 04:05:39] Running NER on chunk_18.txt (attempt 3)...
+[2025-06-19 04:05:42] Format issue on attempt 3: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 04:05:42] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 04:05:42] Running NER on chunk_18.txt (attempt 4)...
+[2025-06-19 04:05:45] Format issue on attempt 4: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 04:05:45] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 04:05:45] NER failed.
+[2025-06-19 05:25:31] Starting Chunking Step...
+[2025-06-19 05:25:31] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 05:25:35] Loading GPT-2 tokenizer...
+[2025-06-19 05:25:36] Saved chunk 01 (132 words)
+[2025-06-19 05:25:36] Saved chunk 02 (260 words)
+[2025-06-19 05:25:36] Saved chunk 03 (166 words)
+[2025-06-19 05:25:36] Saved chunk 04 (203 words)
+[2025-06-19 05:25:36] Saved chunk 05 (179 words)
+[2025-06-19 05:25:36] Saved chunk 06 (134 words)
+[2025-06-19 05:25:36] Saved chunk 07 (130 words)
+[2025-06-19 05:25:36] Saved chunk 08 (142 words)
+[2025-06-19 05:25:36] Saved chunk 09 (172 words)
+[2025-06-19 05:25:36] Saved chunk 10 (171 words)
+[2025-06-19 05:25:36] Saved chunk 11 (142 words)
+[2025-06-19 05:25:36] Saved chunk 12 (173 words)
+[2025-06-19 05:25:36] Saved chunk 13 (105 words)
+[2025-06-19 05:25:36] Saved chunk 14 (211 words)
+[2025-06-19 05:25:36] Saved chunk 15 (157 words)
+[2025-06-19 05:25:36] Saved chunk 16 (126 words)
+[2025-06-19 05:25:36] Saved chunk 17 (197 words)
+[2025-06-19 05:25:36] Saved chunk 18 (252 words)
+[2025-06-19 05:25:36] Saved chunk 19 (207 words)
+[2025-06-19 05:25:36] Saved chunk 20 (72 words)
+[2025-06-19 05:25:36] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 05:25:36] Total time taken: 5.61 seconds.
+[2025-06-19 05:25:36] Chunking completed in 5.71 seconds.
+[2025-06-19 05:25:36] Cumulative time after Chunking: 5.72 seconds.
+[2025-06-19 05:25:36] Starting NER Step...
+[2025-06-19 05:25:36] Found 20 chunk files.
+[2025-06-19 05:25:37] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 05:26:49] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_01.json
+[2025-06-19 05:26:49] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-19 05:26:52] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_02.json
+[2025-06-19 05:26:52] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-19 05:26:55] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_03.json
+[2025-06-19 05:26:55] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-19 05:26:57] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_04.json
+[2025-06-19 05:26:57] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-19 05:26:59] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_05.json
+[2025-06-19 05:26:59] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-19 05:27:01] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_06.json
+[2025-06-19 05:27:01] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-19 05:27:03] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_07.json
+[2025-06-19 05:27:03] Running NER on chunk_08.txt (attempt 1)...
+[2025-06-19 05:27:05] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_08.json
+[2025-06-19 05:27:05] Running NER on chunk_09.txt (attempt 1)...
+[2025-06-19 05:27:07] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_09.json
+[2025-06-19 05:27:07] Running NER on chunk_10.txt (attempt 1)...
+[2025-06-19 05:27:09] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_10.json
+[2025-06-19 05:27:09] Running NER on chunk_11.txt (attempt 1)...
+[2025-06-19 05:27:11] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_11.json
+[2025-06-19 05:27:11] Running NER on chunk_12.txt (attempt 1)...
+[2025-06-19 05:27:13] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_12.json
+[2025-06-19 05:27:13] Running NER on chunk_13.txt (attempt 1)...
+[2025-06-19 05:27:14] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_13.json
+[2025-06-19 05:27:14] Running NER on chunk_14.txt (attempt 1)...
+[2025-06-19 05:27:17] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_14.json
+[2025-06-19 05:27:17] Running NER on chunk_15.txt (attempt 1)...
+[2025-06-19 05:27:19] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_15.json
+[2025-06-19 05:27:19] Running NER on chunk_16.txt (attempt 1)...
+[2025-06-19 05:27:21] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_16.json
+[2025-06-19 05:27:21] Running NER on chunk_17.txt (attempt 1)...
+[2025-06-19 05:27:23] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_17.json
+[2025-06-19 05:27:23] Running NER on chunk_18.txt (attempt 1)...
+[2025-06-19 05:27:27] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 05:27:27] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 05:27:27] Running NER on chunk_18.txt (attempt 2)...
+[2025-06-19 05:27:32] Format issue on attempt 2: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 05:27:32] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 05:27:32] Running NER on chunk_18.txt (attempt 3)...
+[2025-06-19 05:27:36] Format issue on attempt 3: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 05:27:36] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 05:27:36] Running NER on chunk_18.txt (attempt 4)...
+[2025-06-19 05:27:39] Format issue on attempt 4: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 05:27:39] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 05:27:39] NER failed.
+[2025-06-19 06:06:03] Starting Chunking Step...
+[2025-06-19 06:06:03] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 06:06:08] Loading GPT-2 tokenizer...
+[2025-06-19 06:06:08] Saved chunk 01 (132 words)
+[2025-06-19 06:06:08] Saved chunk 02 (260 words)
+[2025-06-19 06:06:08] Saved chunk 03 (166 words)
+[2025-06-19 06:06:08] Saved chunk 04 (203 words)
+[2025-06-19 06:06:08] Saved chunk 05 (179 words)
+[2025-06-19 06:06:08] Saved chunk 06 (134 words)
+[2025-06-19 06:06:08] Saved chunk 07 (130 words)
+[2025-06-19 06:06:08] Saved chunk 08 (142 words)
+[2025-06-19 06:06:08] Saved chunk 09 (172 words)
+[2025-06-19 06:06:08] Saved chunk 10 (171 words)
+[2025-06-19 06:06:08] Saved chunk 11 (142 words)
+[2025-06-19 06:06:08] Saved chunk 12 (173 words)
+[2025-06-19 06:06:08] Saved chunk 13 (105 words)
+[2025-06-19 06:06:08] Saved chunk 14 (211 words)
+[2025-06-19 06:06:08] Saved chunk 15 (157 words)
+[2025-06-19 06:06:08] Saved chunk 16 (126 words)
+[2025-06-19 06:06:08] Saved chunk 17 (197 words)
+[2025-06-19 06:06:08] Saved chunk 18 (252 words)
+[2025-06-19 06:06:08] Saved chunk 19 (207 words)
+[2025-06-19 06:06:08] Saved chunk 20 (72 words)
+[2025-06-19 06:06:08] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 06:06:08] Total time taken: 5.62 seconds.
+[2025-06-19 06:06:08] Chunking completed in 5.72 seconds.
+[2025-06-19 06:06:08] Cumulative time after Chunking: 5.72 seconds.
+[2025-06-19 06:06:08] Starting NER Step...
+[2025-06-19 06:06:08] Found 20 chunk files.
+[2025-06-19 06:06:08] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 06:07:11] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_01.json
+[2025-06-19 06:07:11] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-19 06:07:15] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_02.json
+[2025-06-19 06:07:15] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-19 06:07:17] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_03.json
+[2025-06-19 06:07:17] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-19 06:07:19] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_04.json
+[2025-06-19 06:07:19] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-19 06:07:21] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_05.json
+[2025-06-19 06:07:21] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-19 06:07:23] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_06.json
+[2025-06-19 06:07:23] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-19 06:07:25] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_07.json
+[2025-06-19 06:07:25] Running NER on chunk_08.txt (attempt 1)...
+[2025-06-19 06:07:27] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_08.json
+[2025-06-19 06:07:27] Running NER on chunk_09.txt (attempt 1)...
+[2025-06-19 06:07:29] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_09.json
+[2025-06-19 06:07:29] Running NER on chunk_10.txt (attempt 1)...
+[2025-06-19 06:07:31] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_10.json
+[2025-06-19 06:07:31] Running NER on chunk_11.txt (attempt 1)...
+[2025-06-19 06:07:33] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_11.json
+[2025-06-19 06:07:33] Running NER on chunk_12.txt (attempt 1)...
+[2025-06-19 06:07:35] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_12.json
+[2025-06-19 06:07:35] Running NER on chunk_13.txt (attempt 1)...
+[2025-06-19 06:07:37] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_13.json
+[2025-06-19 06:07:37] Running NER on chunk_14.txt (attempt 1)...
+[2025-06-19 06:07:39] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_14.json
+[2025-06-19 06:07:39] Running NER on chunk_15.txt (attempt 1)...
+[2025-06-19 06:07:41] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_15.json
+[2025-06-19 06:07:41] Running NER on chunk_16.txt (attempt 1)...
+[2025-06-19 06:07:43] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_16.json
+[2025-06-19 06:07:43] Running NER on chunk_17.txt (attempt 1)...
+[2025-06-19 06:07:45] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_17.json
+[2025-06-19 06:07:45] Running NER on chunk_18.txt (attempt 1)...
+[2025-06-19 06:07:49] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:07:49] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:07:49] Running NER on chunk_18.txt (attempt 2)...
+[2025-06-19 06:07:54] Format issue on attempt 2: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:07:54] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:07:54] Running NER on chunk_18.txt (attempt 3)...
+[2025-06-19 06:07:58] Format issue on attempt 3: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:07:58] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:07:58] Running NER on chunk_18.txt (attempt 4)...
+[2025-06-19 06:08:01] Format issue on attempt 4: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:08:01] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:08:01] NER failed.
+[2025-06-19 06:19:02] Starting Chunking Step...
+[2025-06-19 06:19:02] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 06:19:04] Loading GPT-2 tokenizer...
+[2025-06-19 06:19:04] Saved chunk 01 (132 words)
+[2025-06-19 06:19:04] Saved chunk 02 (260 words)
+[2025-06-19 06:19:04] Saved chunk 03 (166 words)
+[2025-06-19 06:19:04] Saved chunk 04 (203 words)
+[2025-06-19 06:19:04] Saved chunk 05 (179 words)
+[2025-06-19 06:19:04] Saved chunk 06 (134 words)
+[2025-06-19 06:19:04] Saved chunk 07 (130 words)
+[2025-06-19 06:19:04] Saved chunk 08 (142 words)
+[2025-06-19 06:19:04] Saved chunk 09 (172 words)
+[2025-06-19 06:19:04] Saved chunk 10 (171 words)
+[2025-06-19 06:19:04] Saved chunk 11 (142 words)
+[2025-06-19 06:19:04] Saved chunk 12 (173 words)
+[2025-06-19 06:19:04] Saved chunk 13 (105 words)
+[2025-06-19 06:19:04] Saved chunk 14 (211 words)
+[2025-06-19 06:19:04] Saved chunk 15 (157 words)
+[2025-06-19 06:19:04] Saved chunk 16 (126 words)
+[2025-06-19 06:19:05] Saved chunk 17 (197 words)
+[2025-06-19 06:19:05] Saved chunk 18 (252 words)
+[2025-06-19 06:19:05] Saved chunk 19 (207 words)
+[2025-06-19 06:19:05] Saved chunk 20 (72 words)
+[2025-06-19 06:19:05] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 06:19:05] Total time taken: 2.70 seconds.
+[2025-06-19 06:19:05] Chunking completed in 2.78 seconds.
+[2025-06-19 06:19:05] Cumulative time after Chunking: 2.78 seconds.
+[2025-06-19 06:19:05] Starting NER Step...
+[2025-06-19 06:19:05] Found 20 chunk files.
+[2025-06-19 06:19:05] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 06:19:16] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_01.json
+[2025-06-19 06:19:16] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-19 06:19:20] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_02.json
+[2025-06-19 06:19:20] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-19 06:19:22] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_03.json
+[2025-06-19 06:19:22] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-19 06:19:24] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_04.json
+[2025-06-19 06:19:24] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-19 06:19:26] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_05.json
+[2025-06-19 06:19:26] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-19 06:19:28] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_06.json
+[2025-06-19 06:19:28] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-19 06:19:30] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_07.json
+[2025-06-19 06:19:30] Running NER on chunk_08.txt (attempt 1)...
+[2025-06-19 06:19:32] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_08.json
+[2025-06-19 06:19:32] Running NER on chunk_09.txt (attempt 1)...
+[2025-06-19 06:19:34] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_09.json
+[2025-06-19 06:19:34] Running NER on chunk_10.txt (attempt 1)...
+[2025-06-19 06:19:36] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_10.json
+[2025-06-19 06:19:36] Running NER on chunk_11.txt (attempt 1)...
+[2025-06-19 06:19:38] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_11.json
+[2025-06-19 06:19:38] Running NER on chunk_12.txt (attempt 1)...
+[2025-06-19 06:19:40] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_12.json
+[2025-06-19 06:19:40] Running NER on chunk_13.txt (attempt 1)...
+[2025-06-19 06:19:42] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_13.json
+[2025-06-19 06:19:42] Running NER on chunk_14.txt (attempt 1)...
+[2025-06-19 06:19:44] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_14.json
+[2025-06-19 06:19:44] Running NER on chunk_15.txt (attempt 1)...
+[2025-06-19 06:19:46] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_15.json
+[2025-06-19 06:19:46] Running NER on chunk_16.txt (attempt 1)...
+[2025-06-19 06:19:48] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_16.json
+[2025-06-19 06:19:48] Running NER on chunk_17.txt (attempt 1)...
+[2025-06-19 06:19:50] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_17.json
+[2025-06-19 06:19:50] Running NER on chunk_18.txt (attempt 1)...
+[2025-06-19 06:19:54] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:19:54] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:19:54] Running NER on chunk_18.txt (attempt 2)...
+[2025-06-19 06:19:59] Format issue on attempt 2: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:19:59] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:19:59] Running NER on chunk_18.txt (attempt 3)...
+[2025-06-19 06:20:03] Format issue on attempt 3: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:20:03] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:20:03] Running NER on chunk_18.txt (attempt 4)...
+[2025-06-19 06:20:06] Format issue on attempt 4: Invalid JSON format. Expecting ',' delimiter: line 4 column 34 (char 82)
+[2025-06-19 06:20:06] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 06:20:06] NER failed.
+[2025-06-19 08:36:18] Starting Chunking Step...
+[2025-06-19 08:36:18] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 08:36:23] Loading GPT-2 tokenizer...
+[2025-06-19 08:36:23] Saved chunk 01 (132 words)
+[2025-06-19 08:36:23] Saved chunk 02 (260 words)
+[2025-06-19 08:36:23] Saved chunk 03 (166 words)
+[2025-06-19 08:36:23] Saved chunk 04 (203 words)
+[2025-06-19 08:36:23] Saved chunk 05 (179 words)
+[2025-06-19 08:36:23] Saved chunk 06 (134 words)
+[2025-06-19 08:36:23] Saved chunk 07 (130 words)
+[2025-06-19 08:36:23] Saved chunk 08 (142 words)
+[2025-06-19 08:36:23] Saved chunk 09 (172 words)
+[2025-06-19 08:36:23] Saved chunk 10 (171 words)
+[2025-06-19 08:36:23] Saved chunk 11 (142 words)
+[2025-06-19 08:36:23] Saved chunk 12 (173 words)
+[2025-06-19 08:36:23] Saved chunk 13 (105 words)
+[2025-06-19 08:36:23] Saved chunk 14 (211 words)
+[2025-06-19 08:36:23] Saved chunk 15 (157 words)
+[2025-06-19 08:36:23] Saved chunk 16 (126 words)
+[2025-06-19 08:36:23] Saved chunk 17 (197 words)
+[2025-06-19 08:36:23] Saved chunk 18 (252 words)
+[2025-06-19 08:36:23] Saved chunk 19 (207 words)
+[2025-06-19 08:36:23] Saved chunk 20 (72 words)
+[2025-06-19 08:36:23] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 08:36:23] Total time taken: 4.94 seconds.
+[2025-06-19 08:36:23] Chunking completed in 5.04 seconds.
+[2025-06-19 08:36:23] Cumulative time after Chunking: 5.04 seconds.
+[2025-06-19 08:36:23] Starting NER Step...
+[2025-06-19 08:36:23] Found 20 chunk files.
+[2025-06-19 08:36:23] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 08:37:41] Format issue on attempt 1: name 'log_file' is not defined
+[2025-06-19 08:37:41] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": []   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-06-19 08:37:41] Running NER on chunk_01.txt (attempt 2)...
+[2025-06-19 08:37:45] Format issue on attempt 2: name 'log_file' is not defined
+[2025-06-19 08:37:45] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": []   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-06-19 08:37:45] Running NER on chunk_01.txt (attempt 3)...
+[2025-06-19 08:37:46] Format issue on attempt 3: name 'log_file' is not defined
+[2025-06-19 08:37:46] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": []   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-06-19 08:37:46] Running NER on chunk_01.txt (attempt 4)...
+[2025-06-19 08:37:48] Format issue on attempt 4: name 'log_file' is not defined
+[2025-06-19 08:37:48] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": []   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-06-19 08:37:48] NER failed.
+[2025-06-19 08:41:27] Starting Chunking Step...
+[2025-06-19 08:41:27] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 08:41:29] Loading GPT-2 tokenizer...
+[2025-06-19 08:41:30] Saved chunk 01 (132 words)
+[2025-06-19 08:41:30] Saved chunk 02 (260 words)
+[2025-06-19 08:41:30] Saved chunk 03 (166 words)
+[2025-06-19 08:41:30] Saved chunk 04 (203 words)
+[2025-06-19 08:41:30] Saved chunk 05 (179 words)
+[2025-06-19 08:41:30] Saved chunk 06 (134 words)
+[2025-06-19 08:41:30] Saved chunk 07 (130 words)
+[2025-06-19 08:41:30] Saved chunk 08 (142 words)
+[2025-06-19 08:41:30] Saved chunk 09 (172 words)
+[2025-06-19 08:41:30] Saved chunk 10 (171 words)
+[2025-06-19 08:41:30] Saved chunk 11 (142 words)
+[2025-06-19 08:41:30] Saved chunk 12 (173 words)
+[2025-06-19 08:41:30] Saved chunk 13 (105 words)
+[2025-06-19 08:41:30] Saved chunk 14 (211 words)
+[2025-06-19 08:41:30] Saved chunk 15 (157 words)
+[2025-06-19 08:41:30] Saved chunk 16 (126 words)
+[2025-06-19 08:41:30] Saved chunk 17 (197 words)
+[2025-06-19 08:41:30] Saved chunk 18 (252 words)
+[2025-06-19 08:41:30] Saved chunk 19 (207 words)
+[2025-06-19 08:41:30] Saved chunk 20 (72 words)
+[2025-06-19 08:41:30] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 08:41:30] Total time taken: 2.50 seconds.
+[2025-06-19 08:41:30] Chunking completed in 2.60 seconds.
+[2025-06-19 08:41:30] Cumulative time after Chunking: 2.61 seconds.
+[2025-06-19 08:41:30] Starting NER Step...
+[2025-06-19 08:41:30] NER failed.
+[2025-06-19 08:43:31] Starting Chunking Step...
+[2025-06-19 08:43:31] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 08:43:36] Loading GPT-2 tokenizer...
+[2025-06-19 08:43:36] Saved chunk 01 (132 words)
+[2025-06-19 08:43:36] Saved chunk 02 (260 words)
+[2025-06-19 08:43:36] Saved chunk 03 (166 words)
+[2025-06-19 08:43:36] Saved chunk 04 (203 words)
+[2025-06-19 08:43:36] Saved chunk 05 (179 words)
+[2025-06-19 08:43:36] Saved chunk 06 (134 words)
+[2025-06-19 08:43:36] Saved chunk 07 (130 words)
+[2025-06-19 08:43:36] Saved chunk 08 (142 words)
+[2025-06-19 08:43:36] Saved chunk 09 (172 words)
+[2025-06-19 08:43:36] Saved chunk 10 (171 words)
+[2025-06-19 08:43:36] Saved chunk 11 (142 words)
+[2025-06-19 08:43:36] Saved chunk 12 (173 words)
+[2025-06-19 08:43:36] Saved chunk 13 (105 words)
+[2025-06-19 08:43:36] Saved chunk 14 (211 words)
+[2025-06-19 08:43:36] Saved chunk 15 (157 words)
+[2025-06-19 08:43:36] Saved chunk 16 (126 words)
+[2025-06-19 08:43:36] Saved chunk 17 (197 words)
+[2025-06-19 08:43:36] Saved chunk 18 (252 words)
+[2025-06-19 08:43:36] Saved chunk 19 (207 words)
+[2025-06-19 08:43:36] Saved chunk 20 (72 words)
+[2025-06-19 08:43:36] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 08:43:36] Total time taken: 5.32 seconds.
+[2025-06-19 08:43:36] Chunking completed in 5.41 seconds.
+[2025-06-19 08:43:36] Cumulative time after Chunking: 5.42 seconds.
+[2025-06-19 08:43:36] Starting NER Step...
+[2025-06-19 08:43:36] Found 20 chunk files.
+[2025-06-19 08:43:36] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 08:45:28] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_01.json
+[2025-06-19 08:45:28] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-19 08:45:32] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_02.json
+[2025-06-19 08:45:32] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-19 08:45:34] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_03.json
+[2025-06-19 08:45:34] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-19 08:45:36] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_04.json
+[2025-06-19 08:45:36] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-19 08:45:38] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_05.json
+[2025-06-19 08:45:38] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-19 08:45:40] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_06.json
+[2025-06-19 08:45:40] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-19 08:45:42] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_07.json
+[2025-06-19 08:45:42] Running NER on chunk_08.txt (attempt 1)...
+[2025-06-19 08:45:44] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_08.json
+[2025-06-19 08:45:44] Running NER on chunk_09.txt (attempt 1)...
+[2025-06-19 08:45:46] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_09.json
+[2025-06-19 08:45:46] Running NER on chunk_10.txt (attempt 1)...
+[2025-06-19 08:45:48] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_10.json
+[2025-06-19 08:45:48] Running NER on chunk_11.txt (attempt 1)...
+[2025-06-19 08:45:50] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_11.json
+[2025-06-19 08:45:50] Running NER on chunk_12.txt (attempt 1)...
+[2025-06-19 08:45:52] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_12.json
+[2025-06-19 08:45:52] Running NER on chunk_13.txt (attempt 1)...
+[2025-06-19 08:45:54] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_13.json
+[2025-06-19 08:45:54] Running NER on chunk_14.txt (attempt 1)...
+[2025-06-19 08:45:56] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_14.json
+[2025-06-19 08:45:56] Running NER on chunk_15.txt (attempt 1)...
+[2025-06-19 08:45:58] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_15.json
+[2025-06-19 08:45:58] Running NER on chunk_16.txt (attempt 1)...
+[2025-06-19 08:46:00] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_16.json
+[2025-06-19 08:46:00] Running NER on chunk_17.txt (attempt 1)...
+[2025-06-19 08:46:02] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_17.json
+[2025-06-19 08:46:02] Running NER on chunk_18.txt (attempt 1)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting value: line 4 column 21 (char 69)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": [disposable vehicles", "cars", "Raul Rafael Arce-Jasso"s"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 08:46:06] Format issue on attempt 1: Parsed JSON is empty.
+[2025-06-19 08:46:06] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 08:46:06] Running NER on chunk_18.txt (attempt 2)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting value: line 4 column 21 (char 69)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": [disposable vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 08:46:11] Format issue on attempt 2: Parsed JSON is empty.
+[2025-06-19 08:46:11] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 08:46:11] Running NER on chunk_18.txt (attempt 3)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting value: line 4 column 21 (char 69)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": [disposable vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 08:46:15] Format issue on attempt 3: Parsed JSON is empty.
+[2025-06-19 08:46:15] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 08:46:15] Running NER on chunk_18.txt (attempt 4)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting value: line 4 column 21 (char 69)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": [disposable vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 08:46:18] Format issue on attempt 4: Parsed JSON is empty.
+[2025-06-19 08:46:18] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 08:46:18] NER failed.
+[2025-06-19 09:28:58] Starting Chunking Step...
+[2025-06-19 09:28:58] Starting chunking for ./output/19USVsarcejasso/routes/routes_resolved_19USVsarcejasso.txt...
+[2025-06-19 09:29:02] Loading GPT-2 tokenizer...
+[2025-06-19 09:29:03] Saved chunk 01 (132 words)
+[2025-06-19 09:29:03] Saved chunk 02 (260 words)
+[2025-06-19 09:29:03] Saved chunk 03 (166 words)
+[2025-06-19 09:29:03] Saved chunk 04 (203 words)
+[2025-06-19 09:29:03] Saved chunk 05 (179 words)
+[2025-06-19 09:29:03] Saved chunk 06 (134 words)
+[2025-06-19 09:29:03] Saved chunk 07 (130 words)
+[2025-06-19 09:29:03] Saved chunk 08 (142 words)
+[2025-06-19 09:29:03] Saved chunk 09 (172 words)
+[2025-06-19 09:29:03] Saved chunk 10 (171 words)
+[2025-06-19 09:29:03] Saved chunk 11 (142 words)
+[2025-06-19 09:29:03] Saved chunk 12 (173 words)
+[2025-06-19 09:29:03] Saved chunk 13 (105 words)
+[2025-06-19 09:29:03] Saved chunk 14 (211 words)
+[2025-06-19 09:29:03] Saved chunk 15 (157 words)
+[2025-06-19 09:29:03] Saved chunk 16 (126 words)
+[2025-06-19 09:29:03] Saved chunk 17 (197 words)
+[2025-06-19 09:29:03] Saved chunk 18 (252 words)
+[2025-06-19 09:29:03] Saved chunk 19 (207 words)
+[2025-06-19 09:29:03] Saved chunk 20 (72 words)
+[2025-06-19 09:29:03] Successfully created 20 chunks in 'output/19USVsarcejasso/mot/chunk_outputs'.
+[2025-06-19 09:29:03] Total time taken: 5.09 seconds.
+[2025-06-19 09:29:03] Chunking completed in 5.18 seconds.
+[2025-06-19 09:29:03] Cumulative time after Chunking: 5.19 seconds.
+[2025-06-19 09:29:03] Starting NER Step...
+[2025-06-19 09:29:03] Found 20 chunk files.
+[2025-06-19 09:29:03] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-19 09:30:16] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_01.json
+[2025-06-19 09:30:16] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-19 09:30:20] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_02.json
+[2025-06-19 09:30:20] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-19 09:30:22] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_03.json
+[2025-06-19 09:30:22] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-19 09:30:24] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_04.json
+[2025-06-19 09:30:24] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-19 09:30:26] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_05.json
+[2025-06-19 09:30:26] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-19 09:30:28] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_06.json
+[2025-06-19 09:30:28] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-19 09:30:30] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_07.json
+[2025-06-19 09:30:30] Running NER on chunk_08.txt (attempt 1)...
+[2025-06-19 09:30:32] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_08.json
+[2025-06-19 09:30:32] Running NER on chunk_09.txt (attempt 1)...
+[2025-06-19 09:30:34] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_09.json
+[2025-06-19 09:30:34] Running NER on chunk_10.txt (attempt 1)...
+[2025-06-19 09:30:36] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_10.json
+[2025-06-19 09:30:36] Running NER on chunk_11.txt (attempt 1)...
+[2025-06-19 09:30:38] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_11.json
+[2025-06-19 09:30:38] Running NER on chunk_12.txt (attempt 1)...
+[2025-06-19 09:30:40] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_12.json
+[2025-06-19 09:30:40] Running NER on chunk_13.txt (attempt 1)...
+[2025-06-19 09:30:42] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_13.json
+[2025-06-19 09:30:42] Running NER on chunk_14.txt (attempt 1)...
+[2025-06-19 09:30:44] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_14.json
+[2025-06-19 09:30:44] Running NER on chunk_15.txt (attempt 1)...
+[2025-06-19 09:30:46] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_15.json
+[2025-06-19 09:30:46] Running NER on chunk_16.txt (attempt 1)...
+[2025-06-19 09:30:48] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_16.json
+[2025-06-19 09:30:48] Running NER on chunk_17.txt (attempt 1)...
+[2025-06-19 09:30:50] Saved: output/19USVsarcejasso/mot/ner_outputs/chunk_17.json
+[2025-06-19 09:30:50] Running NER on chunk_18.txt (attempt 1)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting ',' delimiter: line 4 column 34 (char 82)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso"s"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 09:30:54] Format issue on attempt 1: Parsed JSON is empty.
+[2025-06-19 09:30:54] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "cars", "Raul Rafael Arce-Jasso's"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 09:30:54] Running NER on chunk_18.txt (attempt 2)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting ',' delimiter: line 4 column 34 (char 82)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 09:30:59] Format issue on attempt 2: Parsed JSON is empty.
+[2025-06-19 09:30:59] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 09:30:59] Running NER on chunk_18.txt (attempt 3)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting ',' delimiter: line 4 column 34 (char 82)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 09:31:03] Format issue on attempt 3: Parsed JSON is empty.
+[2025-06-19 09:31:03] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 09:31:03] Running NER on chunk_18.txt (attempt 4)...
+[JSON ERROR] Expecting ',' delimiter: line 4 column 34 (char 82)
+[Raw]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[SECOND JSON ERROR]: Expecting ',' delimiter: line 4 column 34 (char 82)
+[Fixed Attempt]: {
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cougar"],
+    "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"
+  }
+}...
+[2025-06-19 09:31:06] Format issue on attempt 4: Parsed JSON is empty.
+[2025-06-19 09:31:06] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": ["Cougar"],     "NOUN_PHRASE": ["disposable" vehicles", "freshly cleaned cars", "the Cougar"]   },   "PROPER_NOUN_DESCRIPTION": {     "Cougar": "used for alien smuggling due to its large trunk and a void in the quarter panels"   } }
+[2025-06-19 09:31:06] NER failed.

@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Congress", "Sentencing Commission", "House Conference Report", "United States"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Congress": "directed the Sentencing Commission",
+    "Sentencing Commission": "to allow for the imposition of sentencing enhancement",
+    "House Conference Report": "compared with the final version",
+    "United States": "involved in the case"
+  }
+}

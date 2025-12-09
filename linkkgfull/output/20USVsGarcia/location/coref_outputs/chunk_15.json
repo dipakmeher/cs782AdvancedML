@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this court": "5th Circuit Court of Appeals",
+    "this nation": "United States",
+    "the highways": "highways of the United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the legal case is taking place, with a Constitution that protects residents from unreasonable searches and seizures",
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit reviewing the case regarding roving border patrol stops and the Brignoni-Ponce standard"
+  }
+}

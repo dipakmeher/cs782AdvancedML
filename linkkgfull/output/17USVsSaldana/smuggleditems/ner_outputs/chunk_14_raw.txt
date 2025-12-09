@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["twenty four bundles of a compressed white powder", "cocaine"],
+    "NOUN_PHRASE": ["the batteries", "the 2008 Chevrolet truck", "the flatbed trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "twenty four bundles of a compressed white powder": "bundles that field-tested positive for cocaine",
+    "cocaine": "a compressed white powder"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States"],
+    "NOUN_PHRASE": ["an empty parking lot", "a tractor", "an immigration checkpoint"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where aliens entered or remained in violation of the law"
+  }
+}

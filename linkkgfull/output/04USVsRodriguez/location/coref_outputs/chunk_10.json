@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas, Texas": "Dallas, Texas",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "Dallas": "Dallas, Texas",
+    "San Antonio": "San Antonio",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Highway 359": "U.S. 359",
+    "Highway 59": "U.S. 59",
+    "Highway 35": "Highway 35",
+    "the road": "Farm-to-Market Road 2050",
+    "out of town": null,
+    "that same road": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas, Texas": "origin of the rental car used by smugglers",
+    "Hertz Dallas-Fort Worth": "rental car company used by smugglers to obtain vehicles",
+    "San Antonio": "reference city for directional context, located north of the events' location",
+    "Farm-to-Market Road 2050": "road where suspicious vehicles were spotted and where smugglers attempt to avoid checkpoints",
+    "U.S. 359": "connecting highway near Hebbronville checkpoint",
+    "U.S. 59": "highway where Freer immigration checkpoint is located",
+    "Highway 35": "alternative route to Dallas or San Antonio, potentially used by smugglers"
+  }
+}

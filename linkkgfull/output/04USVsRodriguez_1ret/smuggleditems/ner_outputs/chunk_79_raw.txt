@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["rental cars used by smugglers", "rental car used by smugglers", "rental vehicles used by smugglers", "illegal aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,24 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon",
+      "Williams",
+      "Luis Pena",
+      "Agent Pena",
+      "Manuel Hernandez",
+      "Agent Hernandez"
+    ],
+    "NOUN_PHRASE": [
+      "the driver",
+      "the passenger"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "passenger in the tractor-trailer",
+    "Williams": "driver of the tractor-trailer",
+    "Luis Pena": "Border Patrol Agent",
+    "Agent Pena": "Border Patrol Agent who approached the driver-side door",
+    "Manuel Hernandez": "Border Patrol Agent",
+    "Agent Hernandez": "Border Patrol Agent who prepared to have his canine perform a sniff"
+  }
+}

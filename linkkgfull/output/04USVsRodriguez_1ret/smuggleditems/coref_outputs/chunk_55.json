@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the Supreme Court of the United States": "United States Department of Homeland Security",
+    "United States Border Patrol Agent Hugo Benavides": null,
+    "the traffic stop on Farm-to-Market Road 2050": "IGNACIO RODRIGUEZ, JR.'s vehicle stop"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and involved in a traffic stop on Farm-to-Market Road 2050, transported to the United States Border Patrol station for questioning",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with agents conducting interviews and ensuring defendants understand their rights",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Farm-to-Market Road 2050 for failing to use a turn signal, where IGNACIO RODRIGUEZ, JR. exhibited extreme nervousness and gave consent for a search"
+  }
+}

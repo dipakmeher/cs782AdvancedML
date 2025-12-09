@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Michael Brett Jacquinot": "Michael Brett Jacquinot",
+    "Michael": "Michael Brett Jacquinot",
+    "Jacquinot": "Michael Brett Jacquinot",
+    "the defendant": "Michael Brett Jacquinot",
+    "he": "Michael Brett Jacquinot",
+    "a passenger": "Michael Brett Jacquinot",
+    "Andrew P. Graham": "Andrew P. Graham",
+    "Jay Snodgrass": "Jay Snodgrass",
+    "Agent Andrew P. Graham": "Andrew P. Graham",
+    "Agent Jay Snodgrass": "Jay Snodgrass",
+    "the district court": null,
+    "the truck": null,
+    "the border patrol agents": "Andrew P. Graham and Jay Snodgrass",
+    "the vehicle": null,
+    "the Border Patrol": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Michael Brett Jacquinot": "Defendant convicted for possession with intent to distribute marijuana",
+    "Andrew P. Graham": "Border Patrol Agent with three years of experience, involved in at least 30 narcotics cases and 15 to 20 alien smuggling cases",
+    "Jay Snodgrass": "Border Patrol Agent with eleven years of experience, previously served at the Marfa Sector Area Operations Center and the Laredo, Texas, border area",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents who testified in the evidentiary hearing"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the bridge",
+      "the van"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where undocumented aliens were attempted to be brought into"
+  }
+}

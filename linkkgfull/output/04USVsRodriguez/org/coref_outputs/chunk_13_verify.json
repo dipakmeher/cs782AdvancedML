@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Agent Trevino": "United States Border Patrol",
+    "white Malibu sedan": "white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": null,
+    "Jorge Luis Trevino": "United States Border Patrol",
+    "United States Border Patrol Agent": "United States Border Patrol",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "black Dodge truck": "black Dodge truck",
+    "Dallas, Texas": null,
+    "the wind farm": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the stop of the white Malibu sedan and monitoring traffic on Farm-to-Market Road 2050",
+    "white Malibu sedan": "vehicle stopped by Agent Trevino on Farm-to-Market Road 2050, transporting illegals",
+    "Farm-to-Market Road 2050": "road where Agent Trevino initiated a stop of the white Malibu sedan and where the black Dodge truck was also spotted",
+    "San Pablo Road": "road located near the wind farm on Farm-to-Market Road 2050",
+    "black Dodge truck": "vehicle believed to be connected to the white Malibu sedan, as both were riding in tandem south on Farm-to-Market Road 2050 and had passed through Dallas, Texas"
+  }
+}

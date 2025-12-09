@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Saldana": "Federico Saldana",
+    "Haston": "Gary Haston",
+    "the officers": "Gary Haston and Jason Cox",
+    "defendants": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "driver of the truck and trailer, answered questions from Haston and Cox, showed signs of nervousness but denied presence of drugs, gave consent to search the truck and trailer without hesitation, a previously convicted felon experienced with the criminal justice system",
+    "Gary Haston": "narcotics investigator who asked Saldana many questions, became more aggressive as suspicions grew, applied pressure to elicit cooperation, obtained consent to search from Saldana, an officer who asked questions regarding consent",
+    "Gary Haston and Jason Cox": "officers involved in the traffic stop and investigation of Saldana, received consent to search the truck and trailer, temporarily detained Saldana due to increasing suspicions of drug trafficking"
+  }
+}

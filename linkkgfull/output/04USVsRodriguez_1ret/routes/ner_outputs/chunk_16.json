@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "Mills Bennett Road",
+      "U.S. 59",
+      "San Pablo Road",
+      "Santo Nino Road",
+      "Dinn Ranch",
+      "Highway 16"
+    ],
+    "NOUN_PHRASE": [
+      "the dirt road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a road near the wind farm and various ranches",
+    "Mills Bennett Road": "a dirt road intersecting Farm-to-Market Road 2050",
+    "U.S. 59": "a highway with a checkpoint",
+    "San Pablo Road": "a road south of the wind farm, extending to the east off Farm-to-Market Road 2050",
+    "Santo Nino Road": "also known as Dinn Ranch, extends to the east and provides vehicle access to Highway 16",
+    "Dinn Ranch": "also known as Santo Nino Road, extends to the east and provides vehicle access to Highway 16",
+    "Highway 16": "a highway providing vehicle access from San Pablo Road and Santo Nino Road"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the defendant's black Dodge pickup truck", "two vehicles", "the two vehicles", "the marked United States Border Patrol patrol car", "a drug cache"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

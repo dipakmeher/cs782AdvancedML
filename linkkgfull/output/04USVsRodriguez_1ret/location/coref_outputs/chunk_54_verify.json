@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the road": "Farm-to-Market Road 2050",
+    "the shoulder": null,
+    "the lane": "lane on Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "paved road with two lanes, one in each direction, and no shoulder",
+    "lane on Farm-to-Market Road 2050": "part of Farm-to-Market Road 2050 where vehicles are expected to stay"
+  }
+}

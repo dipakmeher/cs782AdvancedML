@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the court": "courtroom",
+    "the place": null,
+    "the scene of the alleged offense": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country into which Alfredo Ortega-Chavez attempted to smuggle undocumented aliens",
+    "Mexico": "country where Alfredo Ortega-Chavez previously ventured to smuggle undocumented aliens",
+    "Nuevo Laredo": "city where permit was obtained and smuggling operation proceeded, also a point of re-entry for the van with hidden compartment",
+    "Sabinas Hidalgo": "location where witnesses saw Alfredo Ortega-Chavez on November 21 and 22, 1980, and where meeting with undocumented aliens took place, also location where Ramon Gonzalez Sanchez's parents claimed to have seen Alfredo Ortega-Chavez, and where Alfredo Ortega-Chavez was on November 22, 1980",
+    "a restaurant in Sabinas Hidalgo": "location of meeting between smugglers and undocumented aliens before proceeding to Nuevo Laredo",
+    "San Antonio, Texas": "location where Graciela Castaneda and her husband had brunch with Alfredo Ortega-Chavez on November 22, 1980, also location relevant to Graciela Castaneda's testimony, and location where Alfredo Ortega-Chavez had been on the day in question",
+    "Laredo": "location where a juror's friend, another female lawyer, is from, mentioned during voir dire of the jury panel",
+    "courtroom": "location where trial of Alfredo Ortega-Chavez took place, conducted fairly and impartially by Judge Kazen, with thorough examination of the entire record and proceedings",
+    "a bus from Sabinas Hidalgo to Nuevo Laredo": "transport used by smugglers and undocumented aliens from Sabinas Hidalgo to Nuevo Laredo",
+    "a taxi from Nuevo Laredo bus terminal to the bridge": "transport used by undocumented aliens from the Nuevo Laredo bus terminal to a point close to the bridge leading into the United States",
+    "the bridge": "location where Customs officer inspected the van and discovered hidden compartment with undocumented aliens, also point of attempted re-entry into the United States",
+    "the van": "vehicle used for smuggling operation, containing hidden compartment"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ramon De La Cruz's Speedy Trial Act case clock": "Speedy Trial Act",
+    "the United States District Court": "United States District Court",
+    "Ramon De La Cruz's motion to suppress": "Ramon De La Cruz's motion to suppress",
+    "canine records": null,
+    "United States Border Patrol Agent": "Luis Pena and Manuel Hernandez",
+    "the suppression hearing": "suppression hearing",
+    "post-hearing briefs": "post-hearing briefs",
+    "the discovery order": null,
+    "the United States Government": null,
+    "Ramon De La Cruz's request": "Ramon De La Cruz",
+    "the papers necessary to dispose of the motion": "papers necessary to dispose of the motion",
+    "thirty-day exclusion period": "thirty-day exclusion period",
+    "the Speedy Trial Act case clock": "Speedy Trial Act"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz's Speedy Trial Act case clock": "mechanism for tracking time under the Speedy Trial Act, including start and stop times, tolled during the period of motions and hearings",
+    "United States District Court": "court that rules on pretrial motions and applies the Speedy Trial Act, held a hearing on Ramon De La Cruz's motion to suppress",
+    "Ramon De La Cruz's motion to suppress": "motion filed by Ramon De La Cruz to suppress evidence seized from the immigration checkpoint stop, challenged the lawfulness of the stop and search",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods, such as the thirty-day exclusion period",
+    "suppression hearing": "hearing where evidence was presented regarding the immigration checkpoint stop and the search of the tractor-trailer, reconvened to explore further Ramon De La Cruz's arguments",
+    "post-hearing briefs": "submissions made after the hearing on the motion, necessary for the court's disposition, filed by the parties after the suppression hearing",
+    "thirty-day exclusion period": "exclusion period under the Speedy Trial Act, during which the clock is stopped, implicitly extends to the time after a hearing needed to allow the trial court to assemble all papers reasonably necessary to dispose of the motion",
+    "papers necessary to dispose of the motion": "documents required for the court to rule on the pretrial motion, gathered by the United States District Court to adjudicate the suppression motion"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Abdullah Yusuf",
+      "Andrew S. Oldham",
+      "Yusuf"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "a jury",
+      "a police dog",
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Abdullah Yusuf": "defendant",
+    "Andrew S. Oldham": "Circuit Judge",
+    "Yusuf": "defendant"
+  }
+}

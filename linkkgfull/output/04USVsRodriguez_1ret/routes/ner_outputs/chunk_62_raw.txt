@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "U.S. 59"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "road with average daily traffic data discussed in court",
+    "U.S. 59": "highway with traffic flow data mentioned in the context"
+  }
+}

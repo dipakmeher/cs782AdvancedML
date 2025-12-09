@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Rodriguez", "Agent Trevino"],
+    "NOUN_PHRASE": ["the Border Patrol agents", "a person"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Rodriguez": "alerted to the two vehicles",
+    "Agent Trevino": "decided to go look into the vehicles"
+  }
+}

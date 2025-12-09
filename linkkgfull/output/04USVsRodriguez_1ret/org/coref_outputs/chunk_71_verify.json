@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Border Patrol": "United States Border Patrol",
+    "the agency": "United States Border Patrol",
+    "Agent Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the white Malibu sedan": "white Malibu sedan",
+    "the black Dodge pickup truck": "black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the arrest and investigation of human smuggling cases, with agents conducting patrols and stops on highways",
+    "United States Border Patrol Agent Hugo Benavides": "agent who arrested IGNACIO RODRIGUEZ, JR. based on probable cause that he was participating in a smuggling operation with RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "defendant associated with the black Dodge pickup truck, arrested for suspected involvement in human smuggling; felt not free to leave after being handed his citation and was waiting for the United States Border Patrol agents to arrive",
+    "white Malibu sedan": "vehicle involved in the smuggling operation, driven by RICARDO RODRIGUEZ, JR. and exhibiting suspicious behavior such as driving in tandem with another vehicle",
+    "black Dodge pickup truck": "vehicle involved in the smuggling operation, driven by IGNACIO RODRIGUEZ, JR."
+  }
+}

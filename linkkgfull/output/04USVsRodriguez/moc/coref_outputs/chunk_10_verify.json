@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the second vehicle": "the white Malibu sedan",
+    "dispatch": "dispatch",
+    "the license plate": "the license plate of the white Malibu sedan",
+    "Hertz": "Hertz rental car company",
+    "Dallas, Texas": "Dallas, Texas",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Agent Jorge Luis Trevino",
+    "the rental cars": "rental cars from Hertz",
+    "the vehicles": "the white Malibu sedan and the black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 359": "Highway 359",
+    "Highway 59": "Highway 59",
+    "San Antonio": "San Antonio",
+    "Highway 35": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication",
+    "the white Malibu sedan": "Vehicle rented by IGNACIO RODRIGUEZ, JR. from Hertz at the Laredo International Airport, registered to Hertz Dallas-Fort Worth, and involved in the surveillance on Farm-to-Market Road 2050",
+    "dispatch": "Police communication system for requesting assistance",
+    "the license plate of the white Malibu sedan": "License plate number of the vehicle rented by IGNACIO RODRIGUEZ, JR.",
+    "Hertz rental car company": "Company that rented the white Malibu sedan to IGNACIO RODRIGUEZ, JR.",
+    "Dallas, Texas": "City mentioned as part of IGNACIO RODRIGUEZ, JR.'s travel plans",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent who encountered Defendants' vehicles and testified about his knowledge of Hertz rental cars",
+    "rental cars from Hertz": "Vehicles rented by individuals, often used by smugglers to avoid losing personal vehicles",
+    "the white Malibu sedan and the black Dodge pickup truck": "Vehicles involved in the surveillance and suspected of being connected due to their tandem movement on Farm-to-Market Road 2050",
+    "Farm-to-Market Road 2050": "Paved road with two lanes and no shoulder, where Agent Jorge Luis Trevino encountered the vehicles, located adjacent to the United States Border Patrol station parking lot",
+    "Highway 359": "Location mentioned as a possible route for travel",
+    "Highway 59": "Highway near the area where the vehicle was encountered",
+    "San Antonio": "City mentioned as part of IGNACIO RODRIGUEZ, JR.'s travel plans",
+    "Highway 35": "Location mentioned as a possible rental location for the white Malibu sedan"
+  }
+}

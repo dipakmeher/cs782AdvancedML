@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "border patrol agents conducting checkpoint stops and asking citizenship and travel questions"
+  }
+}

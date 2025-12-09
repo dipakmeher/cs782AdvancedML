@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Court of Appeals for the Fifth Circuit", "Antiterrorism and Effective Death Penalty Act of 1996"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Court of Appeals for the Fifth Circuit": "court that an appeal may be taken to",
+    "Antiterrorism and Effective Death Penalty Act of 1996": "governing act for Jose Marlon Ibarra-Zelaya's motion"
+  }
+}

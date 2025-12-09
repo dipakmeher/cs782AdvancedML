@@ -1,0 +1,90 @@
+ 
+
+ 
+ 
+ 
+
+
+  Hermilo  Cantu Silva is a Defendant.
+
+      Kurt  D. Engelhardt ,  Circuit Judge. 
+
+ Hermilo  Cantu Silva sustained a gunshot wound when a Border Patrol Agent  attempted to apprehend him for suspected illegal entry into the  United States. Cantu Silva sued the United States under the ,  asserting several intentional tort claims and negligence. The matter  went to a bench trial solely on the claim of negligence. At the  close of evidence, the trial court sua  sponte raised the potential applicability of the discretionary function  exception. The parties briefed the issue, and the trial court  determined that the discretionary    function exception deprived the court of jurisdiction. We AFFIRM. 
+
+
+ I . 
+
+ In  January 2012, Cantu Silva entered the United States without legal  documentation with a group of about ten individuals. On the day in  question, Border Patrol Agents Ruben Mendoza and Eduardo Enrique De  La Garza were on patrol and observed a truck pass, which they  suspected of ' alien  smuggling .'  Cantu Silva was riding in the bed of the truck. Shortly    thereafter, the truck stopped, and the driver of the truck yelled at  Cantu Silva and the occupants to run. 
+
+ Cantu  Silva ran from the agents and passed a dilapidated barb wire fence.  Agent Mendoza yelled at the individuals to stop in Spanish.  Meanwhile, Agent De La Garza testified that he stayed behind the  barb wire fence line to secure the still-running truck. Cantu Silva  then encountered a clearing with a high cyclone fence. He testified  he saw 'two people in green' with 'guns in their  hands' running towards him. At that point, Agent Mendoza claims  that two individuals, including Cantu Silva, turned around and took  what was perceived to be an aggressive or 'fighting stance.'  He claims he feared for his life, drew his service weapon, and  maintained it in a 'low-ready' position.    After he drew his firearm, the individuals turned and ran to the  fence. Cantu Silva disputes the circumstances under which Agent  Mendoza decided to draw his firearm. 
+
+ Cantu  Silva attempted to climb the fence. He made it approximately two  feet up the fence when he felt someone grab his left shoulder. It  was Agent Mendoza. Cantu Silva testified that he threw himself to  the ground and when he landed on his knees lifted his hands up to  his head in a surrendering posture. The firearm in Agent Mendoza's  right hand discharged and Agent Mendoza let go of Cantu Silva. Cantu  Silva had been shot in the right buttock. He received first aid for  his wound and was subsequently transported to a hospital via  ambulance. After some time, Border Patrol apprehended other  individuals who fled and identified ten total undocumented aliens,  including Cantu Silva. 
+
+ In  January 2014, Cantu Silva timely submitted his administrative claim  to the U.S. Department of Homeland Security ('DHS'). DHS  denied the claim in May 2019. After exhausting his administrative  remedies, Cantu Silva filed his complaint in the Southern District  of Texas, Laredo Division, pursuant to the FTCA. He brought claims  for assault, battery, intentional    infliction of emotional distress, and negligence based on the  shooting. The parties litigated the case for over two years and  filed no pretrial dispositive motions. 
+
+ In  October 2021, the parties filed their joint pretrial order, in which  Cantu Silva solely argued negligence. In April 2022, the trial court  held a bench trial. At the close of evidence, the trial court sua  sponte raised the potential applicability of the discretionary function  exception to the FTCA's waiver of sovereign immunity and ordered the  parties to brief the issue. The Government then filed a motion. Cantu Silva filed a response. The trial court issued its  opinion and order determining that the discretionary function  exception deprived the court of jurisdiction. This appeal followed. 
+
+
+ II . 
+
+   The district court's dismissal of a case for a lack of subject  matter jurisdiction is a question of law reviewed de  novo ,  applying the same standard as the district court.  .  In deciding such a motion, courts may consider: '(1) the  complaint alone; (2) the complaint supplemented by undisputed facts  evidenced in the record; or (3) the complaint supplemented by  undisputed facts plus the court's resolution of disputed facts.' (quoting     ).  'In evaluating jurisdiction, the district court must resolve  disputed facts without giving a presumption of truthfulness to the  plaintiff's allegations.'     (citing ).  The party asserting jurisdiction bears the burden of proving its  existence. . 
+
+
+ III.  A . 
+
+ As  an initial matter, Cantu Silva claims that the trial court erred by  failing to consider Agent Mendoza's unconstitutional conduct as  barring the discretionary function exception of the FTCA's waiver of  sovereign immunity. Cantu Silva notes on appeal, and reiterated at  oral argument, that he only waived his intentional tort claims, not  the claim of negligence or the constitutional claims. Oral Argument  at 2:39-3:33, 14:11-24. The Government argues that Cantu Silva has  abandoned all his claims, except negligence. We agree with the  Government. 
+
+ Cantu  Silva waived his constitutional claims, as indicated on at least two  separate occasions: in the joint pretrial order and in his response  to the Government's motion to dismiss. In the joint pretrial order,  Cantu Silva's sole contention was that of negligence. And, in Cantu  Silva's response to the 12(b)(1) motion, he failed to argue that  Agent Mendoza's conduct violated the or any other constitutional    provision. The trial court likewise determined that Cantu Silva  abandoned his constitutional claims by failing to offer arguments in  support.   In this court, failure to pursue a claim may constitute abandonment. See   ; see  also .  The record reflects that Cantu Silva has abandoned his  constitutional claims. 
+
+
+ B . 
+
+   'The FTCA waives sovereign immunity and permits suit against  the United States for claims sounding in state tort law for money  damages.' Spotts,  613 F.3d at 567 (citing ).  It provides trial courts with jurisdiction over monetary claims  against the Government for the negligent or wrongful acts of its  employees 'where the United States, if a private person, would  be liable to the claimant in accordance with the law of the place  where the act or omission occurred.' .  Under the FTCA, however, the liability of the United States is  subject to various exceptions, see  id.  ,  including the discretionary function exception. See .  The exception preserves the Government's sovereign immunity when the  plaintiff's claim is based on an act by a government employee that  falls within the employee's discretionary authority. . 
+
+   The Supreme Court has developed a two-part test, known as the test, to determine when the exception    applies. First, the court considers whether the relevant conduct is  'discretionary in nature,' and involves 'an element  of judgment or choice.' (quoting ).  Second, the court determines whether the judgment is 'of the  kind that the discretionary function exception was designed to  shield.' (quoting ).  The exception 'protects only governmental actions and decisions  based on considerations of public policy.' Spotts,  613 F.3d at 568 (cleaned up). 'If a regulation allows the employee  discretion, the very existence of the regulation creates a    strong presumption that a discretionary act authorized by the  regulation involves consideration of the same policies which led to  the promulgation of the regulations.' .  Both prongs must be met for the exception to apply. .  The plaintiff carries the burden of establishing that the  discretionary function exception does not apply. Spotts,  613 F.3d at 568 . 
+
+
+ 1 . 
+
+ Cantu  Silva primarily challenges the first prong of the test, arguing that the trial court erred in not focusing on Agent  Mendoza's use of deadly force. In response, the Government argues that whether Agent Mendoza shot  Cantu Silva is of no consequence because Cantu Silva has repeatedly  asserted that Agent Mendoza's conduct was an 'unintentional    act of negligence.' 
+
+   Caselaw dictates that 'it is the nature of the conduct, rather  than the status of the actor, that governs whether the discretionary  function exception applies in a given case.' (citation omitted). The requirement of judgment or choice is not  satisfied if a 'federal statute, regulation, or policy  specifically prescribes a course of action for an employee to  follow,' because 'the employee has no rightful option but  to adhere to the directive.' Id. 'If the employee violates the mandatory regulation, there will  be no shelter from liability because there is no room for choice and  the action will be contrary to policy.' .  'The exception fails to protect officers only when the  statute governing the action 'gives specific direction as to any of these functions in a way that would make the  acts nondiscretionary.'' (quoting (emphasis in original)). In other words, 'officers are  unprotected only when they use their discretion to act in violation  of a statute or policy that specifically directs them to act  otherwise.' (citing ). 
+
+ The  focus is on the nature of Agent Mendoza's conduct and the text of  the U.S. Customs and Border Protection Use of Force Policy Handbook  (the    'Handbook'). The relevant conduct at issue is Agent  Mendoza's decision to draw his firearm and not re-holster it during  the arrest. The trial court focused on the same. 
+
+ As  previously noted, the only issue before the trial court was that of  negligence. To frame it in other words, Cantu Silva claims that  Agent Mendoza 'negligently shot Cantu Silva and caused  damages.' The trial court determined that Agent Mendoza's  negligence was 'irrelevant to the application of the  discretionary function exception.' ROA.1681 (citing ;  and then citing (explaining that the discretionary function exception 'applies  regardless of whether the government official has exercised due  care')).   This court has held that the relevant question 'is not whether  the Government acted with due care but whether the Government's  conduct    was the result of the performance of a discretionary function.' .  Other circuits have stated the same. See,  e.g., (citation omitted) ('Negligence, however, is irrelevant to our  inquiry at this point.'); ('The FTCA expressly provides that the exception applies to  policy judgments, even to those constituting abuse of discretion.')  (collection of cases). It is the Handbook, not Agent  Mendoza's    duty of due care, 'that determines whether certain conduct is  mandatory for purposes of the discretionary function exception.' ; see  also .  The relevant inquiry is whether the relevant policy mandated that  Agent Mendoza conduct an arrest in a specific manner. . 
+
+ Agent  Mendoza testified that he was effectuating an arrest and was  confronted by two individuals who took what was perceived as an  aggressive power or 'fighting stance' towards him. Fearing  for his life, he drew his service weapon and maintained it in a 'low  ready' position. The individuals then turned and ran to the  fence. He accidentally discharged his firearm while attempting to  grab one of the men (Cantu Silva) from the fence. The trial court  found Agent Mendoza's version of events as to what prompted him to  withdraw his weapon credible. The Handbook states 'only that  force which is both reasonable and necessary may be used in any  given situation' and what constitutes reasonableness is to be  judged by the individual agent. The Handbook continues that 'its  calculus must embody an allowance for the fact that law enforcement  officers/agents are often forced to make split-second decisions  about the amount of force necessary    in a particular situation. Necessary means that some force is  required to carry out one's duties as a law enforcement  officer/agent.' Moreover, the agents are to act in a  'professional manner' and thus 'shall not carelessly  or unnecessarily display firearms and/or intermediate force devices.  The authority to carry this equipment carries with it an obligation  and responsibility to exercise discipline, restraint and good  judgment.' Applied here, Agent Mendoza perceived a  life-threatening situation that caused him to make a split-second  decision to draw his firearm in a low-ready position. He also had  his firearm drawn when he pursued the individuals once they turned  to run towards the fence. The relevant portions of the Handbook  granted Agent Mendoza discretion to draw his firearm and not  re-holster it under the circumstances. Agent Mendoza neither  'carelessly' nor 'unnecessarily' displayed his  firearm when confronted by the two individuals. And, as determined  by the trial court, the Handbook does not directly require an agent  to re-holster his gun while pursuing fleeing subjects. 
+
+ Notably,  the Handbook differentiates 'intermediate force' from  'deadly force.' Cantu Silva argues that Agent    Mendoza used 'deadly force,' i.e. ,  the discharge of the firearm. He also claims that the trial court  erred in charactering Agent Mendoza's drawing his gun as  'intermediate force' under Cantu Silva's version of the  facts. The Handbook permits 'intermediate force' for  handling resisting subjects 'when the use of deadly force is  not appropriate.' 'Intermediate force' is force 'that  is neither likely nor intended to cause death or serious physical  injury.' The Handbook expressly states that 'the act of  establishing a grip, drawing a weapon or pointing a weapon does not  constitute the use of deadly force.' The trial court likened  Agent Mendoza's decision to draw his gun under Cantu Silva's version  of the    facts as 'intermediate force.' The trial court did not err  in its findings. See .  As to Cantu Silva's contention regarding 'deadly force,'  Agent Mendoza did not intentionally discharge his firearm. Cantu  Silva concedes this. Oral Argument at 2:30-55. Negligent discharge  of a firearm does not constitute deadly force. Without the intent to  discharge the firearm, Cantu Silva's claim fails. 
+
+ Thus,  in light of the foregoing, Agent Mendoza's conduct—his decision to  draw his gun and not re-holster—was    discretionary. Cantu Silva has not pointed to any nondiscretionary  duties that were violated by the exercise of this discretion.  Accordingly, Agent Mendoza's conduct meets the first prong of the test. 
+
+
+ 2 . 
+
+ Under  the second prong, we agree with the trial court that Agent Mendoza's  conduct was based on considerations of public policy, and thus was  the kind of conduct the exception was designed to shield. . 
+
+   'The proper inquiry under prong two is not whether the agent  in fact engaged in a policy analysis when reaching his decision but  instead whether his decision was susceptible to policy analysis.' Spotts,  613 F.3d at 572 (emphasis removed) (internal quotation marks and citation omitted).  Decisions about when, why, and under what circumstances to draw a  firearm when confronted with aggression are susceptible to policy  analysis. See (collection of cases). And in the context of border security, courts  recognize that 'law enforcement decisions regarding immigration  and criminal investigations and arrests are clothed in public policy  considerations.' , aff'd , .  'When established governmental policy, as expressed or implied  by statute, regulation, or agency guidelines, allows a Government  agent to exercise discretion,    it must be presumed that the agent's acts are grounded in policy  when exercising that discretion.' . 
+
+ Here,  the relevant conduct was Agent Mendoza's decision of how to use  force in the course of investigating a potential crime and  effectuating an arrest. Because the governing policies, as reflected  in the Handbook, granted discretion, there is a 'strong  presumption' that it is grounded in policies that led to its  enactment. Id. Cantu Silva's argument that Agent Mendoza's lack of firearm safety  removed it from public policy consideration is without merit. The  focus is not on whether Agent Mendoza exercised due care, but  whether his conduct was the result of the performance of a  discretionary function. See .  As discussed supra ,  we hold it is. We thus conclude that Agent Mendoza's decision was  the type of policy decision protected by the discretionary function  exception and therefore meets the second prong of the test. 
+
+ Because  both prongs of the test are met, we conclude that the discretionary function exception  precludes subject matter jurisdiction over Cantu Silva's FTCA claim. 
+
+
+ IV . 
+
+ For  the reasons stated above, we AFFIRM. 
+
+
+ 
+
+
+ E nd  of Document   
+
+ 1  Oral  Argument at 2:27-41, 2:54-3:53, 4:10-34, 5:25-55, 8:56-9:17,  10:30-38.   
+
+ 2  Cantu  Silva conceded at oral argument that the 'decision to chase the  immigrants,' the 'decision to attempt to apprehend those  suspects,' and the 'decision whether to use force at all'  were all discretionary. Oral Argument at 6:53-7:10.          
+   
+   
+        

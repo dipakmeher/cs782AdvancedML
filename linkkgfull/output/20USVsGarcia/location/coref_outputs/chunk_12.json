@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the jury": "jury in Maria De Jesus Garcia's trial",
+    "this case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "Moore, Texas": "location where the incident occurred, approximately 115 miles from the United States-Mexican border, and where border patrol agents had recently apprehended a number of illegal alien smugglers",
+    "Interstate Highway 35": "highway where the incident took place, with northbound lanes, leading directly to the United States-Mexican border and passing through Laredo, Texas, known as a common smuggling route with a history of alien smuggling",
+    "Mexican border": "geographical reference point, approximately 115 miles from Moore, Texas, relevant for roving border patrol stops",
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and the Brignoni-Ponce test",
+    "Laredo, Texas": "location through which Interstate 35 passes, one of the towns before reaching Moore",
+    "Brignoni-Ponce standard": "a standard for reasonably warranting suspicion in border patrol stops",
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit that issued a ruling on probable cause for searching vehicles and has upheld the use of the modified Allen charge",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens and subject of a court case",
+    "camper compartment of Maria De Jesus Garcia's vehicle": "part of the vehicle where additional undocumented aliens were suspected to be hiding",
+    "jury in Maria De Jesus Garcia's trial": "jury that received a modified Allen charge during deliberations"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Saldana": "Federico Saldana",
+    "the officers": "Gary Haston and Jason Cox",
+    "the police": null,
+    "the subject": "Federico Saldana",
+    "the defendant": "Federico Saldana",
+    "law enforcement": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "defendant in a case involving a motion to suppress, truck driver, has a history of arrests including smuggling of illegal aliens and drugs, exhibited signs of nervousness during questioning, served 9 years in federal prison, completed probation 3 years prior, drove the truck and trailer to a tire shop, gave consent to search the truck and trailer, was placed under arrest, moved to suppress cocaine under his rights, individual disputing the basis for the traffic stop, driver of the vehicle and trailer, made troubling statements during questioning, gave consent to Haston to search the truck and trailer, temporarily detained by officers, showed signs of nervousness during conversation with Haston, remained cooperative throughout the process",
+    "Gary Haston": "veteran narcotics investigator with 17 years of experience, testified to observations about the truck and scissor lift, witnessed two near-collisions, and contacted a patrol deputy for a traffic stop, gathered information from Saldana during the stop, strongly encouraged Saldana to cooperate regarding potential drug trafficking, conducted search and interviewed Saldana, received consent from Saldana to search the truck and trailer, testified about Saldana's driving, individual being questioned, had suspicions regarding potential drug trafficking, suspected Saldana of transporting drugs based on his history, conducted the search, applied pressure to elicit Saldana's cooperation during questioning, asked for consent to search",
+    "Jason Cox": "Deputy who initiated the traffic stop, handled paperwork and searched for registration documents, officer who pulled Saldana over, conducted a traffic stop, attempted to locate registration papers indicating ownership of the truck and trailer, officer gathering information, engaged in cooperative conversation with Saldana",
+    "Gary Haston and Jason Cox": "officers involved in the traffic stop and investigation of Saldana, temporarily detained Saldana"
+  }
+}

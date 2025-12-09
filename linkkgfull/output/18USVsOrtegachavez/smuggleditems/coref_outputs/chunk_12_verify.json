@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the evidence against Alfredo Ortega-Chavez": "evidence against Alfredo Ortega-Chavez",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "the district court": "district court",
+    "the judgment": null,
+    "reversible error": null,
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "the defendant": "Alfredo Ortega-Chavez",
+    "the alleged offense": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "evidence against Alfredo Ortega-Chavez": "testimony and statements used to convict Alfredo Ortega-Chavez, found strong by the court",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States, objected to juror questioning, fairly tried and convicted",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses, affirmed the judgment due to lack of reversible error"
+  }
+}

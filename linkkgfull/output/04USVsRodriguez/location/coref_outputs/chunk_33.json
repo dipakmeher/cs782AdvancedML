@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 85": "Highway 85",
+    "Dallas": "Dallas",
+    "U.S. Highway 385": "U.S. Highway 385",
+    "Big Bend": "Big Bend",
+    "United States": "United States",
+    "the area": "Big Bend area",
+    "the district court": null,
+    "the border": "United States-Mexico border",
+    "a common smuggling route": "Highway 85",
+    "immigration checkpoints": null,
+    "the marked patrol car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens, and country of citizenship claimed by the driver",
+    "Highway 85": "common smuggling route that avoids immigration checkpoints, located in the Big Bend area",
+    "Dallas": "vehicle registration location",
+    "U.S. Highway 385": "known drug smuggling route in the Big Bend area",
+    "Big Bend": "area known for drug smuggling, located near the United States-Mexico border"
+  }
+}

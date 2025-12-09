@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the District Court": "District Court",
+    "the Court": "District Court",
+    "United States of America": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country where the appeal proceedings would take place, involved in a case regarding appeals from judgments of acquittal and suppression decisions",
+    "District Court": "court handling suppression decisions, judgments of acquittal, and reinstatement of guilty verdicts"
+  }
+}

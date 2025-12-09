@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexico border": "U.S.-Mexico border",
+    "Texas Court of Criminal Appeals": "Texas Court of Criminal Appeals",
+    "Border Patrol": "United States Border Patrol",
+    "United States": "United States",
+    "Texas": "Texas",
+    "David Fitzgerald": "David Fitzgerald",
+    "Carlos Martinez-Romero": "Carlos Martinez-Romero",
+    "Woods court": "Texas Court of Criminal Appeals",
+    "Texas-Mexico border": "U.S.-Mexico border",
+    "Interstate 35": "Interstate 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S.-Mexico border": "location relevant to border patrol stops and geographical context for reasonable suspicion determinations, specifically within fifty miles where federal and state guidelines limit a reasonable proximity to stops",
+    "Texas Court of Criminal Appeals": "court that reviews mixed questions of law and fact in the context of evolving standards for roving border patrol stops, established a new reasonableness standard in evaluating roving patrol stops, agreed on the justification for the stop of Carlos Martinez-Romero, considering factors such as proximity to the border, and applied the Woods totality of the circumstances test",
+    "United States Border Patrol": "conducted an investigatory stop of Carlos Martinez-Romero, with guidelines limiting reasonable proximity to stops within fifty miles of the U.S.-Mexico border, has agents like David Fitzgerald who testify based on experience about vehicle modifications indicating potential smuggling, and involved in detaining vehicles registered in areas known for alien-smuggling activity",
+    "United States": "referenced in the context of its constitution protecting individuals from unreasonable searches and seizures, particularly relevant to roving border patrol stops near international borders",
+    "Texas": "referenced in the context of its constitution and court decisions regarding border patrol stops; has cities like Dallas with suburbs where smugglers' vehicles are often registered, and shares an international border relevant to these stops",
+    "David Fitzgerald": "Border Patrol agent who conducted the stop and testified about suspicious behavior, including vehicle modifications and registration history indicating potential smuggling activity; discovered marijuana in Carlos Martinez-Romero's truck, providing critical evidence for the case, with experience-based testimony on crew-cab trucks and their common use in smuggling; observed Carlos Martinez-Romero's behavior, including low speed, tension, and evasive actions",
+    "Carlos Martinez-Romero": "individual stopped by Border Patrol agent David Fitzgerald due to suspicious behavior; owner of a crew-cab truck with modifications consistent with smuggling, convicted of possession of marijuana, with his case influencing legal standards on reasonable suspicion for border patrol stops; exhibited suspicious behavior during the stop, including attempting to hide from view",
+    "Interstate 35": "location where Carlos Martinez-Romero was stopped by David Fitzgerald"
+  }
+}

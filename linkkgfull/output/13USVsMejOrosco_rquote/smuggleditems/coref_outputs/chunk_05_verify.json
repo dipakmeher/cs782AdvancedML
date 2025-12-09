@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the sentence": "sentence imposed for human smuggling operation",
+    "the United States Court of Appeals": "United States Court of Appeals",
+    "the case": "human smuggling operation case",
+    "the United States Sentencing Commission Guidelines": "United States Sentencing Commission Guidelines",
+    "the applicable sentencing guideline": "applicable sentencing guideline for human smuggling operation",
+    "the sentence imposed": "sentence imposed for human smuggling operation",
+    "the alleged sentencing error": "alleged sentencing error in human smuggling operation case",
+    "the United States District Court's sentence": "United States District Court's sentence for human smuggling operation",
+    "the clearly erroneous standard": "clearly erroneous standard"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "sentence imposed for human smuggling operation": "Punishment given for the crime of human smuggling operation, subject to review and potential reversal by the United States Court of Appeals",
+    "United States Court of Appeals": "Federal court reviewing sentences for legality and reasonableness, with authority to remand cases for further sentencing proceedings",
+    "human smuggling operation case": "Legal proceeding involving the transportation of smuggled aliens, with the United States District Court imposing a sentence",
+    "United States Sentencing Commission Guidelines": "Guidelines providing a framework for federal sentencing, allowing for consideration of various factors in imposing a sentence, including the offense level, criminal history category, and other relevant factors",
+    "applicable sentencing guideline for human smuggling operation": "Specific guideline used to determine the sentence for the crime of human smuggling operation",
+    "alleged sentencing error in human smuggling operation case": "Claimed mistake in the sentencing process for the human smuggling operation case, subject to review by the United States Court of Appeals",
+    "United States District Court's sentence for human smuggling operation": "Sentence imposed by the United States District Court for the crime of human smuggling operation, based on the court's evaluation of the case",
+    "clearly erroneous standard": "Standard of review used by appellate courts to evaluate factual findings made by lower courts, requiring a high level of deference to the lower court's decision"
+  }
+}

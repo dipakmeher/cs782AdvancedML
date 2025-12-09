@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Inocencio Garcia-Guerrero", "aliens", "Illegal Aliens"],
+    "NOUN_PHRASE": ["the group", "the journey"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Inocencio Garcia-Guerrero": "defendant",
+    "aliens": "smuggled individuals",
+    "Illegal Aliens": "type of smuggled individuals"
+  }
+}

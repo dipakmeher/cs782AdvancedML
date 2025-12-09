@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "FM 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the road",
+      "the vehicle",
+      "the intersection",
+      "the ranch roads",
+      "the checkpoint",
+      "the wind farm"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a road with limited traffic, mostly used by local residents and workers",
+    "FM 2050": "an abbreviation for Farm-to-Market Road 2050"
+  }
+}

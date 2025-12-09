@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Agent Pena": "Luis Pena",
+    "the Supreme Court": null,
+    "a Border Patrol agent": null,
+    "the occupants": "Raymond McMillon and Zeba Williams"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed, charged with conspiracy to transport aliens within the United States, filed a motion to dismiss the indictment on speedy trial grounds, sentenced to 41 months' imprisonment, argues about the lawfulness of Agent Pena's immigration questions",
+    "Luis Pena": "Government agent who questioned Williams and McMillon, asked for consent to search the tractor's sleeper area, testified at the jury trial, asked immigration questions",
+    "Raymond McMillon and Zeba Williams": "pair being questioned by Agent Pena about their travel plans and citizenship"
+  }
+}

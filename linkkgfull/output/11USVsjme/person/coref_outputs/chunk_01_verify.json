@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "J.M.E.": "J.M.E.",
+    "Ricardo Garcia": "Ricardo Garcia",
+    "Texas Juvenile Justice Department": null,
+    "the defendant": "J.M.E.",
+    "the juvenile court": "the juvenile court",
+    "Officer Pryscilla Castillo": "Officer Pryscilla Castillo",
+    "his parents": null,
+    "the juvenile": "J.M.E.",
+    "the probation officer": "Officer Pryscilla Castillo",
+    "Officer Castillo": "Officer Pryscilla Castillo",
+    "Castillo": "Officer Pryscilla Castillo",
+    "the officer": "Officer Pryscilla Castillo",
+    "he": "J.M.E.",
+    "the woman": null,
+    "his assistant": null,
+    "her supervisor": null,
+    "the inspector": null,
+    "the court": "the court",
+    "a trial court": "a trial court",
+    "Officer Castillo's": "Officer Pryscilla Castillo",
+    "Beth Watkins": "Beth Watkins",
+    "the appellant": "J.M.E.",
+    "the trial court": "a trial court",
+    "Judge Ricardo Garcia": "Ricardo Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J.M.E.": "Defendant involved in a case of alien smuggling as a juvenile, unsuccessfully discharged from the Center for not complying with requirements, with a history of delinquent conduct and substance abuse, attending school and receiving services while at the Webb County Jail, pled true to violating a condition of probation, argued that the juvenile court abused its discretion, appealed the juvenile court's order committing him to the TJJD, was transferred to the Webb County Jail after assaulting another juvenile, had been referred to the juvenile court ten times and placed on probation twice for nonviolent offenses, pled true to violating a condition of his probation related to completing counseling and programs, currently complying with the juvenile court's order by attending CAPS counseling and SCAN services at the Webb County Jail",
+    "Ricardo Garcia": "Judge presiding over the case, associated with the Judge Ricardo Garcia Regional Detention Center",
+    "Officer Pryscilla Castillo": "Probation officer who testified against J.M.E. regarding his unsuccessful discharge, failure to complete court-ordered services, and history of substance abuse, recommending placement at the TJJD for rehabilitation, provided testimony on less restrictive alternatives, stated that J.M.E.'s parents did not provide adequate supervision, also testified about J.M.E.'s history of delinquent conduct and substance abuse, believed it was in J.M.E.'s best interest to be placed at the TJJD rather than a boot camp",
+    "Beth Watkins": "Justice presiding over the appeal of J.M.E.'s case"
+  }
+}

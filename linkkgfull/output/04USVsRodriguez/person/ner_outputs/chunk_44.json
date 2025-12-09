@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Benavides",
+      "Ignacio Rodriguez",
+      "Ricardo Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the Border Patrol agents",
+      "the defendant",
+      "the driver of the other vehicle",
+      "the registered owner"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "Border Patrol agent",
+    "Ignacio Rodriguez": "arrested individual",
+    "Ricardo Rodriguez": "driver of the white sedan"
+  }
+}

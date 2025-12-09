@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a vehicle": null,
+    "a crew-cab truck": "crew-cab truck",
+    "the vehicle": "crew-cab truck",
+    "the truck": "crew-cab truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "crew-cab truck": "Vehicle used by Carlos Martinez-Romero to transport marijuana"
+  }
+}

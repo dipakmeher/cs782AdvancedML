@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Government": null,
+    "the officer": "Gary Haston",
+    "the defendant": "Federico Saldana",
+    "the police": null,
+    "Saldana": "Federico Saldana",
+    "Haston": "Gary Haston"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "driver of the truck and trailer, made troubling statements during questioning, previously smuggled aliens and drugs using his 18-wheeler, gave consent to search",
+    "Gary Haston": "narcotics investigator with 17 years of experience, strongly suspected Saldana was transporting a load of dope, conducted the search"
+  }
+}

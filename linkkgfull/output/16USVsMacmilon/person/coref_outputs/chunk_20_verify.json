@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Pena": "Luis Pena",
+    "Hernandez": "Manuel Hernandez",
+    "the court": null,
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed, charged with conspiracy to transport aliens within the United States, filed a motion to dismiss the indictment on speedy trial grounds, sentenced to 41 months' imprisonment, argues about the lawfulness of Agent Pena's immigration questions, claimed to have a possessory interest in the tractor-trailer, appellant in the case, had his speedy trial clock begin on July 8, 2014, filed motions to suppress and for discovery",
+    "Luis Pena": "Government agent who questioned Williams and McMillon, asked for consent to search the tractor's sleeper area, testified at the jury trial, asked immigration questions, conducted a checkpoint stop within a permissible duration, initiated the search of the tractor-trailer, testified regarding suppression",
+    "Manuel Hernandez": "Government agent working with a dog during the checkpoint stop, alerted Agent Pena to check the back of the tractor, testified at the jury trial, testified regarding suppression"
+  }
+}

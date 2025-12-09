@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "United States Border Patrol",
+      "Freer checkpoint",
+      "FM 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the circumstances",
+      "the road",
+      "the highway",
+      "the particular area"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of employment for the Border Patrol",
+    "United States Border Patrol": "employer of Jorge Luis Trevino",
+    "Freer checkpoint": "location where Jorge Luis Trevino works",
+    "FM 2050": "highway where vehicles pass"
+  }
+}

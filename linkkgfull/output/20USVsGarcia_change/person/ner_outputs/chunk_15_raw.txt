@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the agents", "the border patrolmen", "the women", "the men", "the majority"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

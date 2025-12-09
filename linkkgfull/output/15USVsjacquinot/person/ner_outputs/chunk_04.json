@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Graham",
+      "Agent Snodgrass"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "an older Anglo couple"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "Border Patrol agent",
+    "Agent Snodgrass": "Border Patrol agent"
+  }
+}

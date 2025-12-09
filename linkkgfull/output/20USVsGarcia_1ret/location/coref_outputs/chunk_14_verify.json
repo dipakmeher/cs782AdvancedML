@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this Court": "United States Court of Appeals for the Fifth Circuit",
+    "district court": "United States district court",
+    "Anglo-American": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located and whose Constitution protects residents from unreasonable searches",
+    "United States Court of Appeals for the Fifth Circuit": "federal court that reviews cases related to border patrol stops and provides guidance to jurors on their duties and responsibilities, also responsible for giving instructions to the jury",
+    "United States district court": "federal court that made the original judgment in the case, allowed the defendant to present evidence pertinent to the suppression motion, and made oral findings of fact regarding the constitutionality of the stop and search"
+  }
+}

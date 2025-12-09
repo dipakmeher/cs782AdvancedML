@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["illegal aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

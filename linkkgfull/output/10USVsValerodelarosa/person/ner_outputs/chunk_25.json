@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Valero"
+    ],
+    "NOUN_PHRASE": [
+      "his counsel",
+      "an attorney",
+      "the defendant",
+      "counsel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "defendant"
+  }
+}

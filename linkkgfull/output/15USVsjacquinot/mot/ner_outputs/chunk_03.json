@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "two northbound vehicles",
+      "one vehicle",
+      "the other vehicle",
+      "a lead car",
+      "a load car",
+      "two vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

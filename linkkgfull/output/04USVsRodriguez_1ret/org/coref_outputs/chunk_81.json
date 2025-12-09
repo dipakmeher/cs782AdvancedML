@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agent": "United States Border Patrol Agent Hugo Benavides",
+    "the court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Hugo Benavides": "conducted an interrogation of IGNACIO RODRIGUEZ, JR. and had sufficient information to arrest him on the spot once he arrived at the traffic stop on Farm-to-Market Road 2050",
+    "United States District Court": "addressed the issue of reasonable suspicion for the stop and considered factors including vehicle registration and route taken"
+  }
+}

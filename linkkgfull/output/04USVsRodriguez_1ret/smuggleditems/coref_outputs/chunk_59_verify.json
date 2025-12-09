@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "twenty-eight aliens": "undocumented aliens",
+    "the load car": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the scout car": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the other vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the defendant's vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles, displaying suspicious behavior such as sitting stiff and not communicating with each other",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050, searched after IGNACIO RODRIGUEZ, JR. gave consent, and had conflicting ownership claims",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States v. Pena-Cantu": "United States v. Pena-Cantu",
+    "United States v. Orona-Sanchez": "United States v. Orona-Sanchez",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "United States v. Pacheco": "United States v. Pacheco",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States v. Brignoni-Ponce": "United States v. Brignoni-Ponce",
+    "the agents": "United States Border Patrol",
+    "the pickup truck camper": null,
+    "the marked border patrol sedan": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Pena-Cantu": "a court case where the stop was deemed insufficient due to passengers sitting low, cited in the context of determining reasonable suspicion for investigatory stops near the border",
+    "United States v. Orona-Sanchez": "a court case where the circumstance of passengers slouching down was not considered sufficient for a stop, cited in the context of determining reasonable suspicion for investigatory stops near the border",
+    "United States v. Maria De Jesus Garcia": "a court case involving a pickup truck camper and suspicious passenger behavior, resulting in a guilty verdict and an appeal regarding the stop's constitutionality, with the stop being made by roving border patrol agents near the United States-Mexican border, and evidence supporting the agents' suspicion of illegal aliens",
+    "United States v. Pacheco": "a court case with similar testimony regarding passenger conduct, cited in the context of determining reasonable suspicion for investigatory stops near the border",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court reviewing cases related to border patrol stops and reasonable suspicion, considering suppression motions on their merits, providing guidance on factors to consider in determining whether a stop is justified, including an agent's observation of occupants' appearance and behavior",
+    "United States v. Brignoni-Ponce": "a court case referenced for distinguishing suspicious behavior in the context of border patrol stops, establishing the standard for reasonable suspicion near the border",
+    "United States Border Patrol": "border patrol agents involved in stops and searches, with expertise in distinguishing between characteristics of travelers who are illegal aliens and those lawfully present in the United States, considering factors such as vehicle appearance and passenger behavior, with knowledge of common smuggling routes and methods"
+  }
+}

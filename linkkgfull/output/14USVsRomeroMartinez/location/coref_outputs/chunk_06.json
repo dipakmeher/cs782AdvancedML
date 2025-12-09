@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Edna, Texas": "Edna, Texas",
+    "Edna": "Edna, Texas",
+    "Dallas": "Dallas",
+    "Austin": "Austin",
+    "San Antonio": "San Antonio",
+    "Texas": "Texas",
+    "U.S.-Mexico border": "U.S.-Mexico border",
+    "the back seat area": null,
+    "the stop": null,
+    "the vehicle": null,
+    "the crew-cab's backseat": null,
+    "the suburb": "Edna, Texas",
+    "larger cities": "Dallas and Austin and San Antonio",
+    "the border": "U.S.-Mexico border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Edna, Texas": "vehicle registration location and origin of alien-smuggling vehicles",
+    "Dallas": "larger city and registration location for some alien-smuggling vehicles",
+    "Austin": "larger city that smugglers may travel to",
+    "San Antonio": "larger city that smugglers may travel to",
+    "Texas": "state where vehicle was registered and where smuggling activities occur",
+    "U.S.-Mexico border": "border region relevant to smuggling activities",
+    "Dallas and Austin and San Antonio": "cities that smugglers often travel to"
+  }
+}

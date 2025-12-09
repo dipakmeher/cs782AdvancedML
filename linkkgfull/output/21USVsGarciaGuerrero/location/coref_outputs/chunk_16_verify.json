@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Nuevo Laredo": "Nuevo Laredo",
+    "Laredo": "Laredo",
+    "the brush": "South Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nuevo Laredo": "location where aliens could have purchased provisions before crossing into the United States",
+    "Laredo": "location of the hospital where dehydrated aliens were transported and received medical attention",
+    "South Texas": "region where undocumented aliens were led through the desert-like brush, resulting in severe dehydration and heat stroke"
+  }
+}

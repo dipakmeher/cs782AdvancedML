@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Valero": "Rogelio Valero-De La Rosa",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "his paternal grandmother": null,
+    "the defendant's father": null,
+    "Immigration authorities": null,
+    "the Valero's wife": null,
+    "defense counsel": "counsel"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico, signed the Plea Agreement and Plea Agreement Addendum, pleaded guilty before a United States Magistrate Judge, has a history of violating immigration laws including aiding and abetting the illegal reentry of undocumented aliens and transportation of undocumented aliens for private financial gain, claims his counsel was ineffective, waived the right to appeal the sentence imposed, knowingly and voluntarily pleaded guilty, made a credible showing of deficient performance on the part of his counsel, understood the rights he was giving up by pleading guilty, confirmed under oath that his plea was knowing and voluntary, appellant, has a family situation and is a member of a gang, complained about counsel's effectiveness at sentencing, has a criminal history, claims to be a United States citizen, admitted to illegally re-entering the United States to reunite with his family in Laredo, Texas, applied for derivative citizenship with the Department of Homeland Security/citizenship and Immigration Services",
+    "United States": "the government entity involved in the prosecution of Rogelio Valero-De La Rosa",
+    "United States Attorney General": "government official responsible for permission to re-enter the United States, authorized early disposition programs",
+    "Secretary of the Department of Homeland Security": "government official responsible for permission to re-enter the United States",
+    "Kazen": "Senior United States District Judge who entered an Order adopting the Report and Recommendation of the United States Magistrate Judge, presiding over Valero's case",
+    "counsel": "Valero's lawyer, helped Valero understand the rights he was giving up by pleading guilty, rendered effective assistance according to Valero's express acknowledgment, subject to standards that consider the acuity of hindsight and the art of representation, failed to rely on Guidelines Amendment 742 for calculation of criminal history points at sentencing, allegedly made an error in Ground Three which is not an attack on the validity of the waiver or the plea, did not provide deficient performance by failing to ask for early disposition program benefits, assisted the defendant with his application for derivative citizenship"
+  }
+}

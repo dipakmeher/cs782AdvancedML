@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "my counsel": "Rogelio Valero-De La Rosa's counsel",
+    "the charges pending against me": "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa",
+    "the provisions of the United States Sentencing Commission's Guidelines Manual": "United States Sentencing Commission's Guidelines Manual",
+    "this Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Plea Agreement between Rogelio Valero-De La Rosa and the United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa's counsel": "Defendant's legal representative who assisted in negotiating Plea Agreement, did not render constitutionally ineffective assistance",
+    "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa": "Criminal charges pending against the defendant, includes violation of supervised release by committing additional offenses, considered in sentencing",
+    "United States Sentencing Commission's Guidelines Manual": "Federal guidelines for sentencing, including considerations under fast track programs, applied to Rogelio Valero-De La Rosa's case",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence"
+  }
+}

@@ -1,0 +1,3 @@
+17  Officer Reymundo Reyes further testified that it was within his rights to impound the black Dodge pickup truck for lack of proof of insurance, and that it was a decision within an "officer's discretion." (May 2nd Hr'g at 3:44,  3:57 p.m.). He has impounded between "eight to ten" vehicles since the beginning of the year because of "no driver's license, no insurance, . . . or expired registration." ( Id. at 3:58 p.m.).
+
+However, according to the provided RESOLVED_ENTITIES dictionary, "Officer Reymundo Reyes" should be replaced with "Officer Reymundo Reyes", "black Dodge pickup truck" should be replaced with "the black Dodge pickup truck", and no other replacements are needed in this text chunk.

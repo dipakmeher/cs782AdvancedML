@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the off the record period": null,
+    "Ramon De La Cruz's argument": "Ramon De La Cruz's argument",
+    "the thirty-day exclusion period": "thirty-day exclusion period",
+    "the United States District Court's receipt of canine records": "United States District Court",
+    "November 20": null,
+    "January 5": null,
+    "the United States District Court's ruling on Ramon De La Cruz's motion to suppress": "United States District Court's ruling on Ramon De La Cruz's motion to suppress",
+    "seventeen non-excludable days": null,
+    "six non-excludable days": null,
+    "sixty-eight non-excludable days": null,
+    "the Speedy Trial Act": "Speedy Trial Act",
+    "Ramon De La Cruz's motion to dismiss": "Ramon De La Cruz's motion to dismiss",
+    "the United States District Court's denial of Ramon De La Cruz's motion to dismiss": "United States District Court's denial of Ramon De La Cruz's motion to dismiss"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz's argument": "argument regarding the thirty-day exclusion period and its impact on the Speedy Trial Act violation",
+    "thirty-day exclusion period": "exclusion period under the Speedy Trial Act that began to run after December 17 submissions and ended on January 5",
+    "United States District Court's ruling on Ramon De La Cruz's motion to suppress": "ruling made by the United States District Court on Ramon De La Cruz's motion to suppress, on January 5",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods, with requirements for ends-of-justice findings",
+    "Ramon De La Cruz's motion to dismiss": "pretrial motion filed by Ramon De La Cruz, denied by the United States District Court",
+    "United States District Court's denial of Ramon De La Cruz's motion to dismiss": "denial of Ramon De La Cruz's motion to dismiss, based on the calculation of non-excludable days under the Speedy Trial Act"
+  }
+}

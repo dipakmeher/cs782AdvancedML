@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "the checkpoint"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "country involved in the legal case"
+  }
+}

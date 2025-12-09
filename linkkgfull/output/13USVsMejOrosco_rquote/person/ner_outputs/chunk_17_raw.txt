@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the sentencing commission", "the district court", "appellate modification", "district courts"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

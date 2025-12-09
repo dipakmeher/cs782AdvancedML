@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. 59",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "Highway 16": "Highway 16",
+    "this turn": null,
+    "that point": null,
+    "a roving": null,
+    "a major highway going north": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. 59": "route for smugglers, highway with checkpoints that smugglers try to avoid by taking alternative routes like FM 2050",
+    "Farm-to-Market Road 2050": "location where Agent Trevino encountered illegals and initiated a stop, raising suspicions due to tandem driving with another vehicle, turn for smugglers",
+    "San Pablo Road": "alternative route, road extending to the east off of FM 2050",
+    "Highway 16": "desired route for smugglers to avoid checkpoints, location where Agent Benavides was informed about suspicious vehicles and their potential connection to alien smuggling",
+    "Highway 35": "major highway going north, alternative route and common smuggling route that avoids immigration checkpoints"
+  }
+}

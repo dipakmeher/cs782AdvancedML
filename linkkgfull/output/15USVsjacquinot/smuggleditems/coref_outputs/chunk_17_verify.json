@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "United States/Mexican Border Patrol vehicles": "United States/Mexican Border Patrol vehicles",
+    "Big Bend National Park": "Big Bend National Park",
+    "Alpine, Texas": null,
+    "the stop sign": null,
+    "the school zone speed limit": null,
+    "the indirect travel route": null,
+    "the driver's behavior": null,
+    "the vehicle": "large white Ford pickup truck",
+    "marked United States/Mexican Border Patrol vehicles": "United States/Mexican Border Patrol vehicles",
+    "the U.S. District Court": "U.S. District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "large white Ford pickup truck": "vehicle driven by Brignoni-Ponce Jacquinot, stopped by United States/Mexican Border Patrol due to suspicious behavior and proximity to the United States/Mexican Border, deviating from typical traffic patterns on Texas Highway 385 early on a Sunday morning, with an indirect travel route from Big Bend National Park to Alpine, Texas",
+    "United States/Mexican Border Patrol vehicles": "vehicles used by United States/Mexican Border Patrol agents to follow and stop suspicious vehicles, potentially triggering suspicion when encountered",
+    "Big Bend National Park": "location where the large white Ford pickup truck was seen leaving early on a Sunday morning, deviating from typical traffic patterns, with thousands of visitors using Texas Highway 385",
+    "U.S. District Court": "court that considered an indirect route as a factor supporting reasonable suspicion"
+  }
+}

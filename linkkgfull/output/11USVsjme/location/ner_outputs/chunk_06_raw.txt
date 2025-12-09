@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Webb County Jail", "TJJD"],
+    "NOUN_PHRASE": ["the Center", "a boot camp", "a structured facility"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "TJJD": "facility recommended for J.M.E.'s rehabilitation"
+  }
+}

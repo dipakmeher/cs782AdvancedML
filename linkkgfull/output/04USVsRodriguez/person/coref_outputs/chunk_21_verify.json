@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Reymundo Reyes",
+    "Luis Trevino": "Jorge Luis Trevino",
+    "the defendant": "RICARDO RODRIGUEZ, JR.",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the Government": null,
+    "agents of the Government": null,
+    "the officer": "Reymundo Reyes",
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the stop of his white sedan by United States Border Patrol Agent Trevino, arguing that the factors known to Agent Trevino at the time of the stop fall short of reasonable suspicion",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by Officer Reyes of the Freer Police Department, claiming that the stop was illegal or a pretextual stop and that Officer Reyes overstepped the scope of the stop",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who stopped Ricardo Rodriguez's vehicle, arguing that he had reasonable suspicion to do so",
+    "Reymundo Reyes": "Freer Police Department officer who performed the traffic stop on Ignacio Rodriguez's vehicle",
+    "J. Scott Hacker": "United States Magistrate Judge who is addressing the motions to suppress filed by the Defendants"
+  }
+}

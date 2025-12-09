@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["undocumented aliens", "illegal aliens"],
+    "NOUN_PHRASE": ["the passengers", "other individuals", "the camper compartment"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "individuals admitted to being undocumented",
+    "illegal aliens": "additional individuals suspected to be in the pickup truck camper"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas, Texas": "Dallas, Texas",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "Dallas": "Dallas, Texas",
+    "San Antonio": "San Antonio",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Highway 359": "U.S. 359",
+    "Highway 59": "Highway 59",
+    "Highway 35": "Highway 35",
+    "the road": "Farm-to-Market Road 2050",
+    "out of town": null,
+    "that same road": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas, Texas": "origin of the rental car and city located north of San Antonio",
+    "Hertz Dallas-Fort Worth": "rental car company used by smugglers to obtain vehicles",
+    "San Antonio": "reference city for directional context, located south of Dallas",
+    "Farm-to-Market Road 2050": "rural, two-lane road with sharp turns and no shoulder, where vehicles can be driven at high speeds, road adjacent to Border Patrol station, location of drop-offs for illegal aliens, mostly used by ranchers and oil trucks, connection between Highway 359 and Highway 59",
+    "U.S. 359": "connecting highway with a checkpoint in Hebbronville, intersects with FM 2050 to the east of the Hebbronville checkpoint",
+    "Highway 59": "connecting highway that could be used by smugglers to transport undocumented aliens, location where Agent Benavides drove to meet Officer Reyes",
+    "Highway 35": "well-traveled interstate highway that could be used by smugglers to transport undocumented aliens, most direct route to Dallas or San Antonio"
+  }
+}

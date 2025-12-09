@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "South Texas": "South Texas",
+    "Cuyler": "Cuyler",
+    "the plate": null,
+    "the hot South Texas desert": "South Texas",
+    "the dead of summer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "South Texas": "location where individuals were guided through the desert, posing a high risk due to extreme heat",
+    "Cuyler": "location of a referenced court case, similar to the case of Inocencio Garcia-Guerrero, involving reckless endangerment in alien smuggling"
+  }
+}

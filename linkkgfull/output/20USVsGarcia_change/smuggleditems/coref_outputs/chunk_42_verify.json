@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "United States Border Patrol sedan": "marked United States Border Patrol sedan",
+    "pickup truck camper": "pickup truck camper",
+    "the car": "marked United States Border Patrol sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals suspected of crossing the border illegally, potentially traveling and being stopped based on appearance and other slight circumstances, found in a pickup truck camper with unwashed and unkempt occupants, attempting to hide from view when approached by United States Border Patrol, reacting physically to the beam of a flashlight, including ducking and scrambling in response to a bright light, carried in large numbers such as twenty-two people",
+    "pickup truck camper": "vehicle stopped by United States Border Patrol on Interstate Highway 35, containing undocumented aliens and searched based on probable cause, with fogged windows suggesting living cargo, and noted to be carrying an apparent heavy load, where occupants were observed reacting to a flashlight and scrambling in the interior to avoid detection, exhibiting signs of overloading such as weaving and angled headlights, with squashed tires and improperly aligned headlights",
+    "marked United States Border Patrol sedan": "law enforcement vehicle used for stopping and searching vehicles near the United States-Mexican border"
+  }
+}

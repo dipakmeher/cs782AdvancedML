@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "lawful residents"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "individuals being distinguished from lawful residents"
+  }
+}

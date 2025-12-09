@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "U.S. 359", "U.S. 59", "Highway 35"],
+    "NOUN_PHRASE": ["that same road", "that road"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a connection between U.S. 359 and U.S. 59 where the suspicious vehicles were spotted",
+    "U.S. 359": "one of the roads connected by Farm-to-Market Road 2050",
+    "U.S. 59": "one of the roads connected by Farm-to-Market Road 2050",
+    "Highway 35": "the most direct route to Dallas, Texas or San Antonio"
+  }
+}

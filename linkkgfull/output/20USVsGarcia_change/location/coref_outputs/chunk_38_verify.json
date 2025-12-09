@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexico border": "United States-Mexico border",
+    "particular highways": null,
+    "smuggling routes": null,
+    "the vehicle": "Maria De Jesus Garcia's vehicle",
+    "the car": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico border": "geographical boundary relevant to the case and location of the incident, reference point for distance",
+    "Maria De Jesus Garcia's vehicle": "vehicle with occupants reacting to a flashlight by ducking and scrambling, attempting to hide from view, carrying an unusually heavy cargo that was breathing, traveling at slow speed late at night on Interstate 35"
+  }
+}

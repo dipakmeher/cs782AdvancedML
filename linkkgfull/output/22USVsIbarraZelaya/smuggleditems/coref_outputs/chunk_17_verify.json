@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal alien smuggling venture": "illegal alien smuggling venture",
+    "the hostage-taking offense": null,
+    "the ransom demand": null,
+    "the dangerous weapon": null,
+    "Adrian Almaguer": "Adrian Almaguer",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "United States Federal Grand Jury": "United States Federal Grand Jury",
+    "Presentence Report": "Presentence Report"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "illegal alien smuggling venture": "a smuggling operation involving illegal aliens, subject to specific sentencing guidelines and laws",
+    "Adrian Almaguer": "attorney for Jose Marlon Ibarra-Zelaya, who raised an objection to the base offense level in the Presentence Report but later acknowledged using an incorrect version of the United States Sentencing Guidelines Manual",
+    "Jose Marlon Ibarra-Zelaya": "defendant claiming ineffective assistance of counsel due to incorrect application of sentencing guidelines, with a base offense level calculated under the United States Sentencing Guidelines Manual",
+    "United States Federal Grand Jury": "grand jury that found Jose Marlon Ibarra-Zelaya and co-defendants guilty as charged on all counts of the superseding indictment and returned a supplemental verdict",
+    "Presentence Report": "report prepared for determining punishment under the United States Sentencing Guidelines Manual, including calculations of total offense level based on the most serious count among the group, with objections raised by counsel"
+  }
+}

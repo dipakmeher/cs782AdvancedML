@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a bus": "bus",
+    "a taxi": "taxi",
+    "a van": "van",
+    "the van": "van"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "bus": "Used to transport undocumented aliens from Sabinas Hidalgo to Nuevo Laredo on November 22, 1980",
+    "taxi": "Used to transport undocumented aliens from the Nuevo Laredo bus terminal to a point close to the bridge leading into the United States on November 22, 1980",
+    "van": "Used to smuggle undocumented aliens across the border with a hidden compartment, driven by Ramon Gonzalez Sanchez, and employed in multiple trips including November 22, 1980; inspected at the bridge with a discovered hidden compartment and resulted in the arrest of Ramon Gonzalez Sanchez, Alejandro Gonzalez Delgado, and five undocumented aliens; used in prior trips earlier in November 1980"
+  }
+}

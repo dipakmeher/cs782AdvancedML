@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States": "United States Government",
+    "Federico Saldana": "Federico Saldana",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "the 2008 Chevrolet truck driven by Federico Saldana": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "consent to search": null,
+    "the events after the moment of consent": null,
+    "the burden of proving": null,
+    "the preponderance of the evidence": null,
+    "the voluntariness of consent": null,
+    "a question of fact to be determined from the totality of all the circumstances": null,
+    "the appropriate inquiry in determining the voluntariness of a consent": null,
+    "a reasonable person in Federico Saldana's position": null,
+    "Federico Saldana's custodial status": null,
+    "coercive law enforcement procedures": null,
+    "Federico Saldana's cooperation with the police": null,
+    "Federico Saldana's awareness of his right to refuse to consent": null,
+    "Federico Saldana's education and intelligence": null,
+    "Federico Saldana's belief that no incriminating evidence will be found": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Government": "Party responding to Federico Saldana's motion, arguing that consent to search was voluntary",
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, gave consent to Williamson County Sheriff's Office to search the vehicle and trailer, identified himself during the traffic stop, served 9 years in federal prison, contended that officers' prolonged detention exceeded the scope of the reason for the traffic stop",
+    "Williamson County Sheriff's Office": "Law enforcement agency conducting the search and requesting consent from Federico Saldana",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, had oversized tires and after-market rims",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires"
+  }
+}

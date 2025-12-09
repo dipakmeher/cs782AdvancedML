@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "the aliens",
+      "Maria De Jesus Garcia's Vehicle"
+    ],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the front seat",
+      "the cab",
+      "the vehicle",
+      "the men",
+      "the window",
+      "the crew cab"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "the aliens": "individuals being smuggled",
+    "Maria De Jesus Garcia's Vehicle": "vehicle carrying smuggled individuals"
+  }
+}

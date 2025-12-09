@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mejia-Orosco"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "an organizer",
+      "a leader",
+      "a manager",
+      "a supervisor",
+      "the government",
+      "the aliens",
+      "participants"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mejia-Orosco": "defendant"
+  }
+}

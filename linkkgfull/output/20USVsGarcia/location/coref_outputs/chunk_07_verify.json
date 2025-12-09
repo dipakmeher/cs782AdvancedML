@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "Brignoni-Ponce": "Brignoni-Ponce standard"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to determining distance from the border and a key factor in the Brignoni-Ponce test for reasonably warranting suspicion in border patrol stops",
+    "Brignoni-Ponce standard": "a standard for reasonably warranting suspicion in border patrol stops, considering articulable facts such as proximity to the border, unusual behavior of occupants, and other relevant factors"
+  }
+}

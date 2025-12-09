@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a roundabout route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

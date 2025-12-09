@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the alien": "ten undocumented aliens",
+    "the aliens": "ten undocumented aliens",
+    "the tractor-trailer": null,
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Jorge Miguel Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "Raymond McMillon": "Raymond McMillon"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "undocumented immigrants discovered at the immigration checkpoint stop, hidden in the tractor-trailer's sleeper area, testified against Ramon De La Cruz and were transported by Raymond McMillon",
+    "Ramon De La Cruz": "defendant arguing about the thirty-day exclusion period and its impact on the Speedy Trial Act violation, wore a blinking cellular Bluetooth Device and white clothing during the incident, had aliens hidden in his tractor-trailer",
+    "Jorge Miguel Hernandez-Gomez": "individual who arranged to pay for smuggling, testified at Ramon De La Cruz's trial, was an alien transported by Raymond McMillon",
+    "Raymond McMillon": "defendant who challenges the search of the tractor-trailer and argues about the Speedy Trial Act, transported aliens including Jorge Miguel Hernandez-Gomez",
+    "Ramon De La Cruz and Jorge Miguel Hernandez-Gomez": null,
+    "Raymond McMillon and Ramon De La Cruz": null
+  }
+}

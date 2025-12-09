@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Dodge"
+    ],
+    "NOUN_PHRASE": [
+      "a white sedan",
+      "the car",
+      "a black truck",
+      "the sedan",
+      "that type of a truck",
+      "the two vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dodge": "make of the black truck"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "two vehicles",
+      "separate marked Border Patrol vehicles",
+      "a late model four-door sedan",
+      "the vehicle",
+      "the agents' location"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

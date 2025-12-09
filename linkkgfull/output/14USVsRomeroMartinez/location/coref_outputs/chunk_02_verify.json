@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Cotulla, Texas": "Cotulla, Texas",
+    "Interstate 35": "Interstate 35",
+    "Texas-Mexico border": "Texas-Mexico border",
+    "Texas": "Texas",
+    "Mexico": "Mexico",
+    "the vehicle": null,
+    "the floorboard of the truck": null,
+    "the back of the truck": null,
+    "the toolbox": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location where Carlos Martinez-Romero's investigatory stop took place, approximately sixty-eight miles from the Texas-Mexico border",
+    "Interstate 35": "road where Carlos Martinez-Romero was traveling when stopped by Border Patrol Agent David Fitzgerald",
+    "Texas-Mexico border": "border near where the stop of Carlos Martinez-Romero occurred",
+    "Texas": "state where the trial court is located and has a constitution protecting individuals from unreasonable searches and seizures",
+    "Mexico": "country of Carlos Martinez-Romero's citizenship, from which he crossed with a valid border-crosser card"
+  }
+}

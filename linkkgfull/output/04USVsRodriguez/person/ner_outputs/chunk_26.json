@@ -1,0 +1,26 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Trevino",
+      "Dallas-Fort Worth",
+      "Corinth",
+      "Texas",
+      "San Angelo",
+      "Arvizu"
+    ],
+    "NOUN_PHRASE": [
+      "the agent",
+      "the defendant",
+      "the vehicle's registration",
+      "the Fifth Circuit"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "Border patrol agent",
+    "Dallas-Fort Worth": "Location of vehicle registration",
+    "Corinth": "Location of vehicle registration",
+    "Texas": "State where events took place",
+    "San Angelo": "Location mentioned in a previous case",
+    "Arvizu": "Defendant in a previous case"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "TJJD",
+      "Southwest Keys",
+      "Youth Village"
+    ],
+    "NOUN_PHRASE": [
+      "a TJJD facility"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "TJJD": "facility for juvenile confinement",
+    "Southwest Keys": "program for counseling",
+    "Youth Village": "location for Cognitive Life Skills"
+  }
+}

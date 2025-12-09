@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Garcia": "Inocencio Garcia-Guerrero",
+    "Simon-Fernandez": "Alma Delia Simon-Fernandez",
+    "Herrera": "Herrera",
+    "the appellant": null,
+    "the individual": null,
+    "the group members": null,
+    "the district court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Inocencio Garcia-Guerrero": "Defendant who pled guilty to transporting undocumented aliens for financial gain and acted as a guide into the United States, guiding a group of nine aliens including Alma Delia Simon-Fernandez, and had his base offense level enhanced due to recklessly creating a substantial risk of death or serious bodily injury. He is argued to not have engaged in reckless conduct similar to that listed in the guideline commentary. Garcia also provided inaccurate advice on journey length and was found by the district court to have placed individuals in a substantially risky situation. The district court found that he recklessly created a substantial risk of death.",
+    "Alma Delia Simon-Fernandez": "undocumented female alien who died from probable heat stroke during the journey, caused by trudging through the hot South Texas desert in June",
+    "Herrera": "court in the Ninth Circuit that addressed whether intent is required for an enhancement under a specific subsection, finding no intent requirement necessary and making a statement in a footnote about assuming a causal connection between the offense conduct and the death of an individual"
+  }
+}

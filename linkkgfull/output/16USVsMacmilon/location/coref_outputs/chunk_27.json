@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the court": "district court",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "district court": "court that handles motions to continue and grants extensions for pretrial motions, also involved in speedy trial cases and reviews of non-excludable days, and holds hearings on suppression motions and motions to dismiss, makes findings regarding the ends of justice for granting continuances, rules on motions to suppress and denies motions to dismiss"
+  }
+}

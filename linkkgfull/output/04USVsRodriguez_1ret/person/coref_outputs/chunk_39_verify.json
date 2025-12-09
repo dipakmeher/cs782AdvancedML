@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Montemayor": "Marco Montemayor",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Benavides": "Hugo Benavides",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Montemayor": "Marco Montemayor",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Officer": "Reymundo Reyes",
+    "the Border Patrol agent": "Hugo Benavides",
+    "his assistant": null,
+    "the canine": null,
+    "other agents": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who transported Ignacio Rodriguez to the checkpoint for further questioning and did not inform him that he was under arrest",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez, issued a citation, and later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "Marco Montemayor": "Special Agent who conducted an interview with Ignacio Rodriguez after he waived his Miranda rights, described the beginning of the interview, and ensured that Ignacio Rodriguez understood his rights"
+  }
+}

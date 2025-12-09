@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Dodge pickup truck"
+    ],
+    "NOUN_PHRASE": [
+      "a black in color, Dodge pickup truck",
+      "the black truck",
+      "a vehicle",
+      "the vehicle",
+      "the black vehicle",
+      "the BOLO vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dodge pickup truck": "subject of a BOLO"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Act": "the Speedy Trial Act",
+    "a continuance": null,
+    "the judge": "United States District Court",
+    "the ends of justice": null,
+    "the public and the defendant": null,
+    "a speedy trial": null,
+    "the record": null,
+    "the case": null,
+    "the court's legal conclusions": null,
+    "the court's factual findings": null,
+    "clear error": null,
+    "United States District Court's speedy trial determinations": "the United States District Court's speedy trial determinations",
+    "the district court": "the United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the Speedy Trial Act": "Federal law governing the timing of trials, which excludes certain periods of delay from its calculations",
+    "United States District Court": "Court responsible for making ends-of-justice findings on the record and for ruling on motions related to speedy trial determinations"
+  }
+}

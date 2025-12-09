@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "border patrol",
+      "border patrol agents",
+      "border patrol sedan",
+      "border patrol agent"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border patrol": "law enforcement agency",
+    "border patrol agents": "agents working for the border patrol",
+    "border patrol sedan": "vehicle used by border patrol",
+    "border patrol agent": "individual working for the border patrol"
+  }
+}

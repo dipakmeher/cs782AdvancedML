@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a vehicle": "crew-cab truck",
+    "a crew-cab truck": "crew-cab truck",
+    "the vehicle": "crew-cab truck",
+    "the truck": "crew-cab truck",
+    "crew-cab trucks": null,
+    "his vehicle": "crew-cab truck",
+    "Carlos Martinez-Romero's truck": "crew-cab truck",
+    "the door jamb": null,
+    "the front door": null,
+    "the crew-cab section of the truck": "crew-cab truck",
+    "the crew-cab": "crew-cab truck",
+    "the back seat": null,
+    "alien-smuggling vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "crew-cab truck": "Vehicle used by Carlos Martinez-Romero to transport marijuana, possibly modified for stowage of illegal aliens or narcotics, exhibited suspicious behavior during a traffic stop at the U.S.-Mexico border, and had its back seat area modified which is often used as a stow-away location. Involved in a case where the trial court determined that reasonable suspicion existed to justify the stop based on the Woods totality of the circumstances test. Stopped by Border Patrol Agent David Fitzgerald on Interstate 35 in Cotulla, Texas, where six bundles of marijuana totaling one hundred and sixty-nine pounds were found in a toolbox located in the back of the truck. Stop conducted approximately sixty-eight miles from the Texas-Mexico border. Described as similar to other crew-cab trucks that are often used for transporting illegal aliens or narcotics due to modifications such as missing backseats. Driver exhibited suspicious behavior, including traveling at low speed, appearing tense and rigid, consistently looking in the rear-view mirror, weaving within the lane, and attempting to hide from view. Registered in Edna, Texas. Used to transport six bundles of marijuana."
+  }
+}

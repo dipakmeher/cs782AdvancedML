@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ortega-Chavez", "Graciela Castaneda", "Ramon Gonzalez Sanchez"],
+    "NOUN_PHRASE": ["the district court", "the government", "the appellant", "the defense", "the court", "government counsel", "defense counsel", "Sanchez's parents", "his father", "his mother", "the jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ortega-Chavez": "appellant",
+    "Graciela Castaneda": "witness for the appellant",
+    "Ramon Gonzalez Sanchez": "individual related to rebuttal witnesses"
+  }
+}

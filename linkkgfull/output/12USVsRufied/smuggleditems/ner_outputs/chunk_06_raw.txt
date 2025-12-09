@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["the aliens"],
+    "NOUN_PHRASE": ["a load", "the tractor trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "the aliens": "smuggled individuals"
+  }
+}

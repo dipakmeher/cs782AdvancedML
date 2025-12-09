@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "Williams", "Agent Pena"],
+    "NOUN_PHRASE": ["the passenger", "the driver"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "passenger in the tractor",
+    "Williams": "driver of the tractor-trailer",
+    "Agent Pena": "initiated the search"
+  }
+}

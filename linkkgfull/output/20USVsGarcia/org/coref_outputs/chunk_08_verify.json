@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the agents": "United States Border Patrol",
+    "5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "U.S.-Mexican border": "United States-Mexican border",
+    "Border Patrol": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court handling post-trial procedures, determining the relevance and propriety of juror questioning, and making decisions on stops by immigration agents. This Court has repeatedly stated that a vital element of the Brignoni-Ponce standard is whether the agent had reason to believe that the pickup truck camper in question had come from the United States-Mexican border.",
+    "United States Border Patrol": "law enforcement agency involved in immigration inspections",
+    "5th Circuit Court of Appeals": "a court that considers the totality of particular circumstances in cases involving stops by roving border patrol agents near the U.S.-Mexican border, emphasizing the importance of reasonable suspicion based on factors such as passenger behavior. Additionally, it emphasizes the importance of jurors performing their duties conscientiously and honestly according to the law and evidence.",
+    "United States-Mexican border": "international border where a pickup truck camper's origin is considered relevant for determining reasonable suspicion"
+  }
+}

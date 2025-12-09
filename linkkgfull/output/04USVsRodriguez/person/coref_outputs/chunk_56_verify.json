@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Alberto Ramirez": "Alberto Ramirez",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "the Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the Director": "Alberto Ramirez",
+    "the Court": null,
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alberto Ramirez": "Director of Transportation, Planning and Development for the Texas Department of Transportation, Laredo Division, who testified about traffic flow data on FM 2050",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who focused his testimony on the type of vehicles traveling on FM 2050 and has worked at the Freer checkpoint since August of 2011",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, waived his Miranda rights during an interview with Agent Montemayor, testified that he did not feel free to leave even after being handed his citation",
+    "J. Scott Hacker": "United States Magistrate Judge who presided over a hearing where facts about a vehicle stop were discussed and considered the testimony of Agent Trevino regarding traffic patterns on FM 2050"
+  }
+}

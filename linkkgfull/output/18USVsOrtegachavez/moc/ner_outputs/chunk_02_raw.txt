@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the phone", "the bus", "the taxi", "the van", "the bridge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Court": "Court",
+    "the truck and trailer": null,
+    "Williamson County": "Williamson County",
+    "IH-35": "IH-35",
+    "Laredo": "Laredo",
+    "San Antonio": "San Antonio",
+    "the narcotics division": null,
+    "the battery charger area": null,
+    "the truck": null,
+    "the trailer": null,
+    "the lane": null,
+    "the shoulder": null,
+    "the highway": null,
+    "the right of the truck": null,
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Court": "The court where Federico Saldana's hearing was held",
+    "Williamson County": "location of the Sheriff's Office",
+    "IH-35": "highway where detectives were traveling",
+    "Laredo": "place where trailer's license plate was issued",
+    "San Antonio": "place where truck's license plate was registered"
+  }
+}

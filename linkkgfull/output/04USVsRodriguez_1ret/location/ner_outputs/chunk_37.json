@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Highway 85",
+      "Dallas",
+      "U.S. Highway 385",
+      "Big Bend",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the district court",
+      "the border",
+      "a common smuggling route",
+      "immigration checkpoints",
+      "the marked patrol car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 85": "common smuggling route",
+    "Dallas": "vehicle registration location",
+    "U.S. Highway 385": "known drug smuggling route",
+    "Big Bend": "area known for drug smuggling"
+  }
+}

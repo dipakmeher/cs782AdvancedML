@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "the agent": "Jorge Luis Trevino",
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino and testified about his experience during the stop",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company, and did not go off the road according to RICARDO RODRIGUEZ, JR.'s testimony",
+    "Jorge Luis Trevino": "United States Border Patrol agent who conducted the initial stop and testified about his observations"
+  }
+}

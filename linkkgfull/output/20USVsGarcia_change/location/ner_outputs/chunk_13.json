@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the jury",
+      "the district court",
+      "federal courts"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

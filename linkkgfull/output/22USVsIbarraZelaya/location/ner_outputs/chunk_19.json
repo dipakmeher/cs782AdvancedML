@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "district court"
+    ],
+    "NOUN_PHRASE": [
+      "this case",
+      "the entire record"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "court that may deny a certificate of appealability"
+  }
+}

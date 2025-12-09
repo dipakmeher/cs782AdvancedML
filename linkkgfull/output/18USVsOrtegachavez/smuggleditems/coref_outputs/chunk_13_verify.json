@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "Alfredo Ortega-Chavez's trial": "Alfredo Ortega-Chavez",
+    "the defendant": "Alfredo Ortega-Chavez",
+    "the district court": "district court",
+    "the scene of the alleged offense": null,
+    "the additional witness": null,
+    "the other party": null,
+    "undisclosed witness": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, responsible for disclosing information and witnesses",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses"
+  }
+}

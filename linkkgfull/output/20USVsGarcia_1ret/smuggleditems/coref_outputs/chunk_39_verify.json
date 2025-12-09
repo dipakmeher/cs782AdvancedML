@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court Jury": "United States District Court Jury",
+    "Maria De Jesus Garcia's defense counsel": "Maria De Jesus Garcia's defense counsel",
+    "the United States District Court Judge": "the United States District Court Judge",
+    "the modified Allen Charge": null,
+    "the note": null,
+    "the deliberation": null,
+    "the terms \"reasonable doubt\" and \"common sense\"": null,
+    "the original instructions": null,
+    "the guilty verdict": null,
+    "Maria De Jesus Garcia's motion for post-verdict discovery": null,
+    "the United States District Court": "the United States District Court",
+    "interrogatories": null,
+    "depositions": null,
+    "post-verdict discovery": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court Jury": "trial court jury responsible for deciding cases based on evidence and law, consisting of jurors who deliberate to reach a verdict, experienced deadlock during deliberation",
+    "Maria De Jesus Garcia's defense counsel": "legal representative of Maria De Jesus Garcia, seeking to interview jurors about their deliberation process, objected to the modified Allen Charge",
+    "the United States District Court Judge": "judge presiding over the trial, providing guidance and instructions to the jury during deliberation, repeated original instructions to clarify terms for the jury",
+    "the United States District Court": "trial court that refused to conduct a post-verdict hearing on juror coercion, relied on inadmissible information in denying Maria De Jesus Garcia's motion"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Saldana",
+      "Cox"
+    ],
+    "NOUN_PHRASE": [
+      "the officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "individual disputing the basis for the traffic stop",
+    "Cox": "officer who pulled Saldana over"
+  }
+}

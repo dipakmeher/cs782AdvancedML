@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "San Pablo Road"
+    ],
+    "NOUN_PHRASE": [
+      "the road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "location where Agent Trevino initiated a stop of the white vehicle",
+    "San Pablo Road": "nearby location to where the stop was initiated"
+  }
+}

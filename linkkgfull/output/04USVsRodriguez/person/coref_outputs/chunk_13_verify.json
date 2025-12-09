@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Reymundo Reyes": "Reymundo Reyes",
+    "Officer Reymundo Reyes, Jr.": "Reymundo Reyes",
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "Ignacio Rodriguez",
+    "the previous officer": null,
+    "the driver of the black truck": "Ignacio Rodriguez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Officer of the Freer Police Department who conducted a traffic stop on Ignacio Rodriguez's vehicle",
+    "Ignacio Rodriguez": "Driver of the black truck stopped by Officer Reymundo Reyes, Jr. for not using a turning signal"
+  }
+}

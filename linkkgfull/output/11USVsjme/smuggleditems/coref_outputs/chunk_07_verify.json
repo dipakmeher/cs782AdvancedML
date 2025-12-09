@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "J.M.E.": "J.M.E.",
+    "the Juvenile Court": "the Juvenile Court",
+    "Officer Pryscilla Castillo": "Officer Pryscilla Castillo",
+    "the Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Webb County Jail": "Webb County Jail",
+    "CAPS counseling": null,
+    "SCAN services": null,
+    "boot camp": null,
+    "less restrictive alternatives": null,
+    "behavioral services": null,
+    "family counseling": null,
+    "anger management": null,
+    "responsibility programs": null,
+    "substance abuse programs": null,
+    "mental health programs": null,
+    "educational programs": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J.M.E.": "juvenile offender who pled true to being unsuccessfully discharged from the Judge Ricardo Garcia Regional Detention Center and attended school at Webb County Jail, with a history of delinquent conduct and substance abuse issues, committed to Texas Juvenile Justice Department for an indeterminate term not to exceed his nineteenth birthday",
+    "the Juvenile Court": "court that heard testimony from Officer Pryscilla Castillo regarding J.M.E.'s case, considered less restrictive alternatives, and found him in violation of probation terms, committing him to the Texas Juvenile Justice Department for rehabilitation",
+    "Officer Pryscilla Castillo": "J.M.E.'s probation officer who testified about J.M.E.'s behavior at the Judge Ricardo Garcia Regional Detention Center and recommended commitment to Texas Juvenile Justice Department due to J.M.E.'s history of delinquent conduct and failure to comply with probation terms",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was unsuccessfully discharged due to non-participation in counseling and initiating fights",
+    "Texas Juvenile Justice Department": "department where J.M.E. was initially detained and later committed by the Juvenile Court for rehabilitation, offering a variety of services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Webb County Jail": "jail where J.M.E. was transferred after assaulting another juvenile and attended school, and where he received CAPS counseling and SCAN services"
+  }
+}

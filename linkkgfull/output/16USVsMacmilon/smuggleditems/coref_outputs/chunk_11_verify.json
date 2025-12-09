@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol Agent": "Luis Pena and Manuel Hernandez",
+    "the United States District Court's factual findings": "United States District Court",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Zeba Williams": "Zeba Williams",
+    "the immigration checkpoint stop": "immigration checkpoint stop",
+    "the countable duration of the stop": null,
+    "the suppression testimony": null,
+    "United States Border Patrol Agent's questioning of Ramon De La Cruz": null,
+    "Ramon De La Cruz's consent to a search of his tractor-trailer": "Zeba Williams' consent",
+    "the encounter": null,
+    "citizenship and travel plans questions": null,
+    "United States Border Patrol Agent's request for consent to a search": null,
+    "the immigration checkpoint stop lasting approximately thirty to forty seconds": "immigration checkpoint stop",
+    "our precedent": null,
+    "Machuca-Barrera": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Luis Pena and Manuel Hernandez": "United States Border Patrol Agents involved in the immigration checkpoint stop, testified at Ramon De La Cruz's trial",
+    "United States District Court": "court that denied Ramon De La Cruz's motion to suppress and his motion to dismiss the indictment on Speedy Trial Act grounds",
+    "Ramon De La Cruz": "defendant arguing about the lawfulness of the immigration checkpoint stop's duration",
+    "Zeba Williams": "driver of the tractor-trailer at the immigration checkpoint stop, interacted with Luis Pena",
+    "immigration checkpoint stop": "location where Ramon De La Cruz and others were stopped by United States Border Patrol Agents, with questions asked to determine citizenship status"
+  }
+}

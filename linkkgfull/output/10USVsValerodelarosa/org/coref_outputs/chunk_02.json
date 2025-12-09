@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States": "United States",
+    "Bureau of Prisons": "Bureau of Prisons"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that imposed judgment of conviction and sentence",
+    "United States": "party to a plea agreement and prosecutor in the case",
+    "Bureau of Prisons": "custody provider for Rogelio Valero-De La Rosa's imprisonment"
+  }
+}

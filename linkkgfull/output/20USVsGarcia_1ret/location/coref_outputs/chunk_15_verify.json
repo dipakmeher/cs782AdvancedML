@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Mexican border": "United States-Mexican border",
+    "an Interstate Highway": "Interstate Highway 35",
+    "the front seat of the truck cab": "front seat of the truck cab",
+    "the back seat": "back seat of the truck",
+    "this vehicle": "pickup truck",
+    "the stop": null,
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "location where the pickup truck was stopped, approximately 115 miles north of the Mexican border",
+    "Interstate Highway 35": "highway where stops by border patrol agents may occur, commonly used for smuggling of aliens, and known for its reputation as a common smuggling route, with other highways intersecting it near the border",
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it",
+    "front seat of the truck cab": "part of the truck where three women were seated",
+    "back seat of the truck": "rear part of the truck cab where passengers were seated and attempting to conceal themselves, also referred to as the back seat or the seat in this context",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment, with occupants attempting to evade detection, searched by border patrol agents Stanley Pruszenski and Alfred Baron"
+  }
+}

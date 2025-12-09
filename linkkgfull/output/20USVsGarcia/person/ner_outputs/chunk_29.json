@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Orona-Sanchez",
+      "Pacheco",
+      "Lamas",
+      "Pena-Cantu",
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "the passengers",
+      "the vehicle passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Orona-Sanchez": "involved in a previous ruling",
+    "Pacheco": "involved in a previous case",
+    "Lamas": "involved in a comparison of passenger conduct",
+    "Pena-Cantu": "involved in a comparison of passenger conduct",
+    "Garcia": "owner of the camper"
+  }
+}

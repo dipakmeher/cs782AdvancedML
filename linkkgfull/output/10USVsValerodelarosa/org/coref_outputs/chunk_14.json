@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States District Court",
+    "United States District Judge": "United States District Court",
+    "United States District Court": "United States District Court",
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where Rogelio Valero-De La Rosa entered a plea of guilty, presided over by United States Magistrate Judge and United States District Judge",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court that gives great weight to defendant's statements at the plea colloquy"
+  }
+}

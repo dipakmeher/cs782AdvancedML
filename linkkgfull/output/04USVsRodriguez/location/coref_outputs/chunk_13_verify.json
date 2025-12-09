@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Pablo Road": "San Pablo Road",
+    "United States": "United States",
+    "Mexico": "Mexico",
+    "Dallas": "Dallas, Texas",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the wind farm": "wind farm on FM 2050",
+    "the road": "Farm-to-Market Road 2050",
+    "the vehicle": null,
+    "the trunk": null,
+    "the country": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Pablo Road": "location where Agent Trevino initiated a stop, extends east off of FM 2050",
+    "United States": "Country where the legal proceedings are taking place, country of citizenship claimed by the driver",
+    "Mexico": "country of origin of the passengers",
+    "Dallas, Texas": "city from which the vehicles were traveling, location mentioned in relation to distance from Corinth",
+    "Farm-to-Market Road 2050": "a two-lane road where observations were made, with sharp turns and no shoulder, used by ranchers and oil trucks, location of drop-offs for illegal aliens, has a wind farm with an office and entrance on the west side",
+    "wind farm on FM 2050": "location of windmills and wind farm office, between twelve and fifteen miles from the checkpoint on U.S. 59, with employees who regularly drive through the checkpoint, has an entrance and office on the west side of FM 2050"
+  }
+}

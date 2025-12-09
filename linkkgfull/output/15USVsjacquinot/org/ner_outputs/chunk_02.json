@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Border Patrol",
+      "United States",
+      "Big Bend National Park",
+      "Marfa Sector Area Operations Center"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "law enforcement agency",
+    "United States": "country",
+    "Big Bend National Park": "national park",
+    "Marfa Sector Area Operations Center": "operations center"
+  }
+}

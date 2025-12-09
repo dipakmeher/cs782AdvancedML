@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the scene",
+      "the cab",
+      "the bunk",
+      "the truck",
+      "the trailer",
+      "the rear of the trailer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

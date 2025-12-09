@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the crew-cab's backseat": "the modified backseat of the crew-cab truck used by Carlos Martinez-Romero",
+    "the back seat": "the missing back seat of the crew-cab truck used by Carlos Martinez-Romero",
+    "the back seat area": "the back seat area of the crew-cab truck used by Carlos Martinez-Romero",
+    "Carlos Martinez-Romero's truck": "the crew-cab truck used by Carlos Martinez-Romero",
+    "the crew-cab truck": "the crew-cab truck used by Carlos Martinez-Romero",
+    "David Fitzgerald": "United States Border Patrol Agent David Fitzgerald",
+    "the vehicle registration": null,
+    "the license": null,
+    "the vehicle registration check": null,
+    "Edna, Texas": null,
+    "Dallas": null,
+    "Austin": null,
+    "San Antonio": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the modified backseat of the crew-cab truck used by Carlos Martinez-Romero": "Backseat area that was missing, raising suspicion for smuggling",
+    "the missing back seat of the crew-cab truck used by Carlos Martinez-Romero": "Back seat area that was not present in the vehicle, consistent with smuggling modifications",
+    "the back seat area of the crew-cab truck used by Carlos Martinez-Romero": "Area where smugglers often hide, according to Agent David Fitzgerald's experience",
+    "the crew-cab truck used by Carlos Martinez-Romero": "Vehicle stopped by United States Border Patrol Agent David Fitzgerald during an investigatory stop, modified with no backseat",
+    "United States Border Patrol Agent David Fitzgerald": "Agent who conducted the investigatory stop of Carlos Martinez-Romero and testified as a witness"
+  }
+}

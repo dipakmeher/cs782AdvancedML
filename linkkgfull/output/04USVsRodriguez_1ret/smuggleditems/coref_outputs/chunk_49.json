@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the traffic stop on Farm-to-Market Road 2050": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "Farm-to-Market Road 2050": null,
+    "the Supreme Court of the United States": "United States Department of Homeland Security",
+    "the United States Constitution": null,
+    "the United States Court": "United States Department of Homeland Security",
+    "contraband": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped on Farm-to-Market Road 2050 for failing to use a turn signal, involved in a pretextual traffic stop argument",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Farm-to-Market Road 2050 for failing to use a turn signal"
+  }
+}

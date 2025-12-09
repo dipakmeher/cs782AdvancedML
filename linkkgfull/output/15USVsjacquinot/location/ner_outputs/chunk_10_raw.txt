@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.-Mexico border"],
+    "NOUN_PHRASE": ["the area", "the border"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "relevant to determining reasonable suspicion"
+  }
+}

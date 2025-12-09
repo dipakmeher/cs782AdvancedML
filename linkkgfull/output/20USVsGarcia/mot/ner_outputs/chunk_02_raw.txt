@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["marked border patrol sedan", "pickup truck camper", "the camper", "the vehicle", "the car", "the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

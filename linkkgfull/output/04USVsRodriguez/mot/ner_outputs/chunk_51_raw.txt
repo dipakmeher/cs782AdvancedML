@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the black truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Zeba Williams": "Zeba Williams",
+    "Luis Pena": "Luis Pena",
+    "Manuel Hernandez": "Manuel Hernandez",
+    "Aroxa": "Aroxa",
+    "the tractor-trailer": null,
+    "the immigration checkpoint stop": "immigration checkpoint stop",
+    "the driver-side door": null,
+    "the exterior steps": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz": "passenger in the tractor-trailer at the immigration checkpoint stop",
+    "Zeba Williams": "driver of the tractor-trailer at the immigration checkpoint stop, interacted with Luis Pena",
+    "Luis Pena": "United States Border Patrol Agent who approached the driver-side door and asked Zeba Williams to open it",
+    "Manuel Hernandez": "United States Border Patrol Agent who prepared to have his canine, Aroxa, perform a sniff of the tractor-trailer's exterior steps",
+    "Aroxa": "canine used by Manuel Hernandez for inspection at the immigration checkpoint stop",
+    "immigration checkpoint stop": "location where Ramon De La Cruz and Zeba Williams were stopped by United States Border Patrol Agents"
+  }
+}

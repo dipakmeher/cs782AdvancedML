@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Williamson County", "IH-35", "Laredo", "San Antonio"],
+    "NOUN_PHRASE": ["the narcotics division"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Williamson County": "location of the Sheriff's Office",
+    "IH-35": "highway where detectives were traveling",
+    "Laredo": "place where trailer's license plate was issued",
+    "San Antonio": "place where truck's license plate was registered"
+  }
+}

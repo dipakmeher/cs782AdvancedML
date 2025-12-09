@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "You Brokerage",
+      "Steel on Steel Transportation",
+      "United States Trucking",
+      "BOL"
+    ],
+    "NOUN_PHRASE": [
+      "the load",
+      "the flatbed trailer",
+      "the carrier",
+      "the trailer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "You Brokerage": "company under investigation",
+    "Steel on Steel Transportation": "Abdullah Yusuf's company",
+    "United States Trucking": "carrier listed on the BOL",
+    "BOL": "document related to the smuggling operation"
+  }
+}

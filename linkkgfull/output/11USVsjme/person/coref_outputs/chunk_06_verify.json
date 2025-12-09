@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "J.M.E.": "J.M.E.",
+    "Officer Castillo": "Officer Pryscilla Castillo",
+    "the juvenile court": "the juvenile court",
+    "his parents": null,
+    "Officer Castillo's": "Officer Pryscilla Castillo"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J.M.E.": "Defendant involved in a case of alien smuggling as a juvenile, unsuccessfully discharged from the Center for not complying with requirements, with a history of delinquent conduct and substance abuse, attending school and receiving services while at the Webb County Jail, pled true to violating a condition of probation, argued that the juvenile court abused its discretion, appealed the juvenile court's order committing him to the TJJD, was transferred to the Webb County Jail after assaulting another juvenile, had been referred to the juvenile court ten times and placed on probation twice for nonviolent offenses, pled true to violating a condition of his probation related to completing counseling and programs, currently complying with the juvenile court's order by attending CAPS counseling and SCAN services at the Webb County Jail, has a history of reoffending and testing positive for substances including THC, cocaine, and benzodiazepines",
+    "Officer Pryscilla Castillo": "Probation officer who testified against J.M.E. regarding his unsuccessful discharge, failure to complete court-ordered services, and history of substance abuse, recommending placement at the TJJD for rehabilitation, provided testimony on less restrictive alternatives, stated that J.M.E.'s parents did not provide adequate supervision, also testified about J.M.E.'s history of delinquent conduct and substance abuse, believed it was in J.M.E.'s best interest to be placed at the TJJD rather than a boot camp, testified about J.M.E.'s previous probations including his positive drug tests, testified that while at the Webb County Jail, J.M.E. attended school and received good grades"
+  }
+}

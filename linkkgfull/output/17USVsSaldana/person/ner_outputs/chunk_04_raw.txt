@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Haston", "Vargas"],
+    "NOUN_PHRASE": ["the truck", "the trailer", "a patrol deputy", "the trailing car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "witness and observer of the truck's behavior",
+    "Vargas": "involved in contacting a patrol deputy"
+  }
+}

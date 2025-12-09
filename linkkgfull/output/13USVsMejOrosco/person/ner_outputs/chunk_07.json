@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Senator Edward M. Kennedy",
+      "Edward M. Kennedy"
+    ],
+    "NOUN_PHRASE": [
+      "the senator",
+      "Congress",
+      "district judges",
+      "offenders",
+      "victims",
+      "society"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Senator Edward M. Kennedy": "Described the sentencing guidelines",
+    "Edward M. Kennedy": "Same as Senator Edward M. Kennedy"
+  }
+}

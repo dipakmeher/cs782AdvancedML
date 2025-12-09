@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Judge Ricardo Garcia Regional Detention Center"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Judge Ricardo Garcia Regional Detention Center": "a detention center where J.M.E. was discharged from"
+  }
+}

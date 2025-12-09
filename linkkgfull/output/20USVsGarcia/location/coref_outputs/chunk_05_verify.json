@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "border": "United States-Mexican border",
+    "the area": "area covered by the Cotulla, Texas station",
+    "the border": "United States-Mexican border",
+    "the country": "United States",
+    "the vehicle": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the context of illegal alien traffic and border patrol stops",
+    "area covered by the Cotulla, Texas station": "region served by border patrol agents with a history of illegal alien traffic",
+    "United States": "country where the incident occurred and the federal district court is located",
+    "pickup truck": "vehicle type involved in the incident, appeared heavily loaded with fogged-over windows and exhibited unusual behavior"
+  }
+}

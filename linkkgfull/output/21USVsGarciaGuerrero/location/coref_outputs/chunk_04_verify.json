@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "South Texas": "South Texas",
+    "the desert": "South Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where unlawful aliens were being transported",
+    "South Texas": "region where trafficking of illegal aliens occurred, characterized by desert-like conditions posing a substantial risk to the aliens' lives"
+  }
+}

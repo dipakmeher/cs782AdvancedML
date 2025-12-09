@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this circuit": "5th Circuit Court of Appeals",
+    "this Court": "5th Circuit Court of Appeals",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit that issued a ruling on probable cause for searching vehicles and has upheld the use of the modified Allen charge"
+  }
+}

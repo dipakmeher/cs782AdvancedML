@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the area": null,
+    "the border": "Mexican border",
+    "the country": "United States",
+    "the vehicle": null,
+    "border": "Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of the border patrol agents",
+    "Moore, Texas": "location where the border patrol agents were sitting",
+    "Interstate Highway 35": "highway where the incident occurred",
+    "Mexican border": "physical boundary relevant to legality of investigatory stop and location near the incident",
+    "northbound lanes of Interstate Highway 35": "part of the highway where the border patrol agents observed the pickup truck",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence",
+    "United States District Court": "court where the suppression motion was filed and considered"
+  }
+}

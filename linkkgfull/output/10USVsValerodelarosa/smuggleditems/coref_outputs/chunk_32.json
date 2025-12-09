@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the fast track programs": "fast track programs",
+    "the United States Department of Justice": "United States Department of Justice",
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "the United States Attorney General": null,
+    "the southwestern border of the United States": null,
+    "the Rio Grande": null,
+    "the Laredo, Texas division": null,
+    "the United States Sentencing Commission": "United States Sentencing Commission",
+    "the United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "fast track programs": "Programs allowing defendants to plead guilty and waive certain rights in exchange for a motion by the United States Department of Justice for downward departure",
+    "United States Department of Justice": "Agency responsible for overseeing the enforcement of fast track programs and ensuring compliance with federal sentencing guidelines",
+    "United States District Court for the Southern District of Texas": "Court where fast track programs were initially implemented, allowing for efficient handling of immigration cases",
+    "United States Sentencing Commission": "Agency responsible for establishing federal sentencing guidelines, including considerations under fast track programs",
+    "United States Court of Appeals for the Fifth Circuit": "Court that reviews appeals from the United States District Court for the Southern District of Texas and interprets the United States Sentencing Commission's guidelines"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the black truck", "a truck with a camper shell", "a pickup with a camper shell", "rental cars", "the vehicle", "the camper"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

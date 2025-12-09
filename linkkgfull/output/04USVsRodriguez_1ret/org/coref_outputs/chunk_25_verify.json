@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": "United States Border Patrol",
+    "Agent Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "Mills Bennett Road": "Mills Bennett Road",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "the wind farm near Farm-to-Market Road 2050": null,
+    "San Pablo Road": "San Pablo Road",
+    "Moglia ranch house": "Moglia Ranch House",
+    "Stag ranch trailer": "Stag Ranch Trailer",
+    "Santo Nino Road": "Santo Nino Road",
+    "Dinn Ranch": "Dinn Ranch",
+    "Highway 16": "Highway 16"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "border patrol agency with agents working near Farm-to-Market Road 2050, noticing drop-offs and recognizing most vehicles on the road; aware of local traffic patterns and vehicle characteristics",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who followed the vehicles and made observations, noting suspicious behavior of passengers in the white Malibu sedan",
+    "Mills Bennett Road": "dirt road intersecting Farm-to-Market Road 2050, approximately five to six miles south of the Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "road where Agent Trevino encountered suspicious vehicles and raised his suspicions due to its unusual route for out-of-town vehicles, noting that the white Malibu sedan was going on and off this road multiple times",
+    "Freer Immigration Checkpoint": "location where Agent Trevino was stationed and conducted inspections; checkpoint avoided by smugglers",
+    "U.S. Highway 59": "highway connected by Farm-to-Market Road 2050, part of a common smuggling route",
+    "San Pablo Road": "road where the Moglia ranch house and Stag ranch trailer are located, with unknown land ownership",
+    "Moglia Ranch House": "ranch house located near San Pablo Road, ownership unknown to Agent Trevino",
+    "Stag Ranch Trailer": "trailer located near San Pablo Road, ownership unknown to Agent Trevino",
+    "Santo Nino Road": "also known as Dinn Ranch, extends east from Farm-to-Market Road 2050; provides access to Highway 16",
+    "Dinn Ranch": "also known as Santo Nino Road, extends east from Farm-to-Market Road 2050; provides access to Highway 16",
+    "Highway 16": "highway connecting to Houston or San Antonio, used by smugglers after avoiding checkpoints; accessible via San Pablo Road and Santo Nino Road"
+  }
+}

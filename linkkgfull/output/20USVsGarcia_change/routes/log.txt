@@ -1,0 +1,767 @@
+[2025-08-24 23:14:20] Starting Chunking Step...
+[2025-08-24 23:14:20] Starting chunking for ./output/20USVsGarcia_change/location/location_resolved_20USVsGarcia_change.txt...
+[2025-08-24 23:14:26] Loading GPT-2 tokenizer...
+[2025-08-24 23:14:26] Saved chunk 01 (134 words)
+[2025-08-24 23:14:26] Saved chunk 02 (193 words)
+[2025-08-24 23:14:26] Saved chunk 03 (213 words)
+[2025-08-24 23:14:26] Saved chunk 04 (176 words)
+[2025-08-24 23:14:26] Saved chunk 05 (297 words)
+[2025-08-24 23:14:26] Saved chunk 06 (197 words)
+[2025-08-24 23:14:26] Saved chunk 07 (84 words)
+[2025-08-24 23:14:26] Saved chunk 08 (253 words)
+[2025-08-24 23:14:26] Saved chunk 09 (176 words)
+[2025-08-24 23:14:26] Saved chunk 10 (179 words)
+[2025-08-24 23:14:26] Saved chunk 11 (218 words)
+[2025-08-24 23:14:26] Saved chunk 12 (104 words)
+[2025-08-24 23:14:26] Saved chunk 13 (184 words)
+[2025-08-24 23:14:26] Saved chunk 14 (243 words)
+[2025-08-24 23:14:26] Saved chunk 15 (220 words)
+[2025-08-24 23:14:26] Saved chunk 16 (172 words)
+[2025-08-24 23:14:26] Saved chunk 17 (202 words)
+[2025-08-24 23:14:26] Saved chunk 18 (215 words)
+[2025-08-24 23:14:26] Saved chunk 19 (302 words)
+[2025-08-24 23:14:26] Saved chunk 20 (177 words)
+[2025-08-24 23:14:26] Saved chunk 21 (189 words)
+[2025-08-24 23:14:26] Saved chunk 22 (202 words)
+[2025-08-24 23:14:26] Saved chunk 23 (180 words)
+[2025-08-24 23:14:26] Saved chunk 24 (229 words)
+[2025-08-24 23:14:26] Saved chunk 25 (188 words)
+[2025-08-24 23:14:26] Saved chunk 26 (83 words)
+[2025-08-24 23:14:26] Saved chunk 27 (201 words)
+[2025-08-24 23:14:26] Saved chunk 28 (230 words)
+[2025-08-24 23:14:26] Saved chunk 29 (179 words)
+[2025-08-24 23:14:26] Saved chunk 30 (358 words)
+[2025-08-24 23:14:26] Saved chunk 31 (186 words)
+[2025-08-24 23:14:26] Saved chunk 32 (242 words)
+[2025-08-24 23:14:26] Saved chunk 33 (141 words)
+[2025-08-24 23:14:26] Saved chunk 34 (277 words)
+[2025-08-24 23:14:26] Saved chunk 35 (159 words)
+[2025-08-24 23:14:26] Saved chunk 36 (119 words)
+[2025-08-24 23:14:26] Saved chunk 37 (170 words)
+[2025-08-24 23:14:26] Saved chunk 38 (203 words)
+[2025-08-24 23:14:26] Saved chunk 39 (233 words)
+[2025-08-24 23:14:26] Saved chunk 40 (215 words)
+[2025-08-24 23:14:26] Saved chunk 41 (96 words)
+[2025-08-24 23:14:26] Successfully created 41 chunks in 'output/20USVsGarcia_change/routes/chunk_outputs'.
+[2025-08-24 23:14:26] Total time taken: 6.45 seconds.
+[2025-08-24 23:14:26] Chunking completed in 6.58 seconds.
+[2025-08-24 23:14:26] Cumulative time after Chunking: 6.60 seconds.
+[2025-08-24 23:14:26] Starting NER Step...
+[2025-08-24 23:14:27] Found 41 chunk files.
+[2025-08-24 23:14:27] Running NER on chunk_01.txt (attempt 1)...
+[2025-08-24 23:14:27] Prompt length (chars): 3776
+[2025-08-24 23:14:30] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_01.json
+[2025-08-24 23:14:30] Running NER on chunk_02.txt (attempt 1)...
+[2025-08-24 23:14:30] Prompt length (chars): 4147
+[2025-08-24 23:14:33] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_02.json
+[2025-08-24 23:14:33] Running NER on chunk_03.txt (attempt 1)...
+[2025-08-24 23:14:33] Prompt length (chars): 4291
+[2025-08-24 23:14:35] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_03.json
+[2025-08-24 23:14:35] Running NER on chunk_04.txt (attempt 1)...
+[2025-08-24 23:14:35] Prompt length (chars): 4057
+[2025-08-24 23:14:37] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_04.json
+[2025-08-24 23:14:37] Running NER on chunk_05.txt (attempt 1)...
+[2025-08-24 23:14:37] Prompt length (chars): 4900
+[2025-08-24 23:14:43] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_05.json
+[2025-08-24 23:14:43] Running NER on chunk_06.txt (attempt 1)...
+[2025-08-24 23:14:43] Prompt length (chars): 4230
+[2025-08-24 23:14:47] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_06.json
+[2025-08-24 23:14:47] Running NER on chunk_07.txt (attempt 1)...
+[2025-08-24 23:14:47] Prompt length (chars): 3511
+[2025-08-24 23:14:49] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_07.json
+[2025-08-24 23:14:49] Running NER on chunk_08.txt (attempt 1)...
+[2025-08-24 23:14:49] Prompt length (chars): 4600
+[2025-08-24 23:14:54] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_08.json
+[2025-08-24 23:14:54] Running NER on chunk_09.txt (attempt 1)...
+[2025-08-24 23:14:54] Prompt length (chars): 4105
+[2025-08-24 23:14:58] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_09.json
+[2025-08-24 23:14:58] Running NER on chunk_10.txt (attempt 1)...
+[2025-08-24 23:14:58] Prompt length (chars): 4104
+[2025-08-24 23:15:00] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_10.json
+[2025-08-24 23:15:00] Running NER on chunk_11.txt (attempt 1)...
+[2025-08-24 23:15:00] Prompt length (chars): 4229
+[2025-08-24 23:15:02] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_11.json
+[2025-08-24 23:15:02] Running NER on chunk_12.txt (attempt 1)...
+[2025-08-24 23:15:02] Prompt length (chars): 3576
+[2025-08-24 23:15:04] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_12.json
+[2025-08-24 23:15:04] Running NER on chunk_13.txt (attempt 1)...
+[2025-08-24 23:15:04] Prompt length (chars): 4174
+[2025-08-24 23:15:06] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_13.json
+[2025-08-24 23:15:06] Running NER on chunk_14.txt (attempt 1)...
+[2025-08-24 23:15:06] Prompt length (chars): 4454
+[2025-08-24 23:15:09] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_14.json
+[2025-08-24 23:15:09] Running NER on chunk_15.txt (attempt 1)...
+[2025-08-24 23:15:09] Prompt length (chars): 4305
+[2025-08-24 23:15:12] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_15.json
+[2025-08-24 23:15:12] Running NER on chunk_16.txt (attempt 1)...
+[2025-08-24 23:15:12] Prompt length (chars): 4074
+[2025-08-24 23:15:14] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_16.json
+[2025-08-24 23:15:14] Running NER on chunk_17.txt (attempt 1)...
+[2025-08-24 23:15:14] Prompt length (chars): 4295
+[2025-08-24 23:15:17] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_17.json
+[2025-08-24 23:15:17] Running NER on chunk_18.txt (attempt 1)...
+[2025-08-24 23:15:17] Prompt length (chars): 4249
+[2025-08-24 23:15:20] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_18.json
+[2025-08-24 23:15:20] Running NER on chunk_19.txt (attempt 1)...
+[2025-08-24 23:15:20] Prompt length (chars): 4829
+[2025-08-24 23:15:24] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_19.json
+[2025-08-24 23:15:24] Running NER on chunk_20.txt (attempt 1)...
+[2025-08-24 23:15:24] Prompt length (chars): 4035
+[2025-08-24 23:15:26] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_20.json
+[2025-08-24 23:15:26] Running NER on chunk_21.txt (attempt 1)...
+[2025-08-24 23:15:26] Prompt length (chars): 4080
+[2025-08-24 23:15:28] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_21.json
+[2025-08-24 23:15:28] Running NER on chunk_22.txt (attempt 1)...
+[2025-08-24 23:15:28] Prompt length (chars): 4250
+[2025-08-24 23:15:30] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_22.json
+[2025-08-24 23:15:30] Running NER on chunk_23.txt (attempt 1)...
+[2025-08-24 23:15:30] Prompt length (chars): 4079
+[2025-08-24 23:15:32] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_23.json
+[2025-08-24 23:15:32] Running NER on chunk_24.txt (attempt 1)...
+[2025-08-24 23:15:32] Prompt length (chars): 4426
+[2025-08-24 23:15:37] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_24.json
+[2025-08-24 23:15:37] Running NER on chunk_25.txt (attempt 1)...
+[2025-08-24 23:15:37] Prompt length (chars): 4073
+[2025-08-24 23:15:41] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_25.json
+[2025-08-24 23:15:41] Running NER on chunk_26.txt (attempt 1)...
+[2025-08-24 23:15:41] Prompt length (chars): 3495
+[2025-08-24 23:15:43] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_26.json
+[2025-08-24 23:15:43] Running NER on chunk_27.txt (attempt 1)...
+[2025-08-24 23:15:43] Prompt length (chars): 4188
+[2025-08-24 23:15:47] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_27.json
+[2025-08-24 23:15:47] Running NER on chunk_28.txt (attempt 1)...
+[2025-08-24 23:15:47] Prompt length (chars): 4265
+[2025-08-24 23:15:49] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_28.json
+[2025-08-24 23:15:49] Running NER on chunk_29.txt (attempt 1)...
+[2025-08-24 23:15:49] Prompt length (chars): 4053
+[2025-08-24 23:15:51] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_29.json
+[2025-08-24 23:15:51] Running NER on chunk_30.txt (attempt 1)...
+[2025-08-24 23:15:51] Prompt length (chars): 5151
+[2025-08-24 23:15:55] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_30.json
+[2025-08-24 23:15:55] Running NER on chunk_31.txt (attempt 1)...
+[2025-08-24 23:15:55] Prompt length (chars): 4038
+[2025-08-24 23:15:59] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_31.json
+[2025-08-24 23:15:59] Running NER on chunk_32.txt (attempt 1)...
+[2025-08-24 23:15:59] Prompt length (chars): 4435
+[2025-08-24 23:16:02] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_32.json
+[2025-08-24 23:16:02] Running NER on chunk_33.txt (attempt 1)...
+[2025-08-24 23:16:02] Prompt length (chars): 3732
+[2025-08-24 23:16:04] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_33.json
+[2025-08-24 23:16:04] Running NER on chunk_34.txt (attempt 1)...
+[2025-08-24 23:16:04] Prompt length (chars): 4595
+[2025-08-24 23:16:06] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_34.json
+[2025-08-24 23:16:06] Running NER on chunk_35.txt (attempt 1)...
+[2025-08-24 23:16:06] Prompt length (chars): 3919
+[2025-08-24 23:16:08] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_35.json
+[2025-08-24 23:16:08] Running NER on chunk_36.txt (attempt 1)...
+[2025-08-24 23:16:08] Prompt length (chars): 3687
+[2025-08-24 23:16:10] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_36.json
+[2025-08-24 23:16:10] Running NER on chunk_37.txt (attempt 1)...
+[2025-08-24 23:16:10] Prompt length (chars): 4039
+[2025-08-24 23:16:12] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_37.json
+[2025-08-24 23:16:12] Running NER on chunk_38.txt (attempt 1)...
+[2025-08-24 23:16:12] Prompt length (chars): 4150
+[2025-08-24 23:16:14] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_38.json
+[2025-08-24 23:16:14] Running NER on chunk_39.txt (attempt 1)...
+[2025-08-24 23:16:14] Prompt length (chars): 4339
+[2025-08-24 23:16:16] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_39.json
+[2025-08-24 23:16:16] Running NER on chunk_40.txt (attempt 1)...
+[2025-08-24 23:16:16] Prompt length (chars): 4306
+[2025-08-24 23:16:19] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_40.json
+[2025-08-24 23:16:19] Running NER on chunk_41.txt (attempt 1)...
+[2025-08-24 23:16:19] Prompt length (chars): 3538
+[2025-08-24 23:16:21] Saved: output/20USVsGarcia_change/routes/ner_outputs/chunk_41.json
+[2025-08-24 23:16:21] NER completed in 114.68 seconds.
+[2025-08-24 23:16:21] Cumulative time after NER: 121.27 seconds.
+[2025-08-24 23:16:21] Starting Coreference Resolution Step...
+[2025-08-24 23:16:21] Processing chunk_01 (verification=False)...
+[2025-08-24 23:16:21] Prompt length (chars): 6514
+[2025-08-24 23:16:25] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_01.json
+[2025-08-24 23:16:25] Processing chunk_02 (verification=False)...
+[2025-08-24 23:16:25] Prompt length (chars): 7039
+[2025-08-24 23:16:29] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_02.json
+[2025-08-24 23:16:29] Processing chunk_03 (verification=False)...
+[2025-08-24 23:16:29] Prompt length (chars): 7194
+[2025-08-24 23:16:32] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_03.json
+[2025-08-24 23:16:32] Processing chunk_04 (verification=False)...
+[2025-08-24 23:16:32] Prompt length (chars): 6958
+[2025-08-24 23:16:35] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_04.json
+[2025-08-24 23:16:35] Processing chunk_05 (verification=False)...
+[2025-08-24 23:16:35] Prompt length (chars): 8164
+[2025-08-24 23:16:40] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_05.json
+[2025-08-24 23:16:40] Processing chunk_06 (verification=False)...
+[2025-08-24 23:16:40] Prompt length (chars): 7579
+[2025-08-24 23:16:46] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_06.json
+[2025-08-24 23:16:46] Processing chunk_07 (verification=False)...
+[2025-08-24 23:16:46] Prompt length (chars): 6673
+[2025-08-24 23:16:52] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_07.json
+[2025-08-24 23:16:52] Processing chunk_08 (verification=False)...
+[2025-08-24 23:16:52] Prompt length (chars): 8048
+[2025-08-24 23:17:01] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_08.json
+[2025-08-24 23:17:01] Processing chunk_09 (verification=False)...
+[2025-08-24 23:17:01] Prompt length (chars): 7779
+[2025-08-24 23:17:10] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_09.json
+[2025-08-24 23:17:10] Processing chunk_10 (verification=False)...
+[2025-08-24 23:17:10] Prompt length (chars): 7747
+[2025-08-24 23:17:21] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_10.json
+[2025-08-24 23:17:21] Processing chunk_11 (verification=False)...
+[2025-08-24 23:17:21] Prompt length (chars): 7876
+[2025-08-24 23:17:32] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_11.json
+[2025-08-24 23:17:32] Processing chunk_12 (verification=False)...
+[2025-08-24 23:17:32] Prompt length (chars): 7215
+[2025-08-24 23:17:42] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_12.json
+[2025-08-24 23:17:42] Processing chunk_13 (verification=False)...
+[2025-08-24 23:17:42] Prompt length (chars): 7817
+[2025-08-24 23:17:53] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_13.json
+[2025-08-24 23:17:53] Processing chunk_14 (verification=False)...
+[2025-08-24 23:17:53] Prompt length (chars): 8105
+[2025-08-24 23:18:03] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_14.json
+[2025-08-24 23:18:03] Processing chunk_15 (verification=False)...
+[2025-08-24 23:18:03] Prompt length (chars): 8071
+[2025-08-24 23:18:14] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_15.json
+[2025-08-24 23:18:14] Processing chunk_16 (verification=False)...
+[2025-08-24 23:18:14] Prompt length (chars): 7801
+[2025-08-24 23:18:26] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_16.json
+[2025-08-24 23:18:26] Processing chunk_17 (verification=False)...
+[2025-08-24 23:18:26] Prompt length (chars): 8126
+[2025-08-24 23:18:38] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_17.json
+[2025-08-24 23:18:38] Processing chunk_18 (verification=False)...
+[2025-08-24 23:18:38] Prompt length (chars): 8214
+[2025-08-24 23:18:50] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_18.json
+[2025-08-24 23:18:50] Processing chunk_19 (verification=False)...
+[2025-08-24 23:18:50] Prompt length (chars): 8918
+[2025-08-24 23:19:04] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_19.json
+[2025-08-24 23:19:04] Processing chunk_20 (verification=False)...
+[2025-08-24 23:19:04] Prompt length (chars): 8050
+[2025-08-24 23:19:18] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_20.json
+[2025-08-24 23:19:18] Processing chunk_21 (verification=False)...
+[2025-08-24 23:19:18] Prompt length (chars): 8089
+[2025-08-24 23:19:32] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_21.json
+[2025-08-24 23:19:32] Processing chunk_22 (verification=False)...
+[2025-08-24 23:19:32] Prompt length (chars): 8261
+[2025-08-24 23:19:46] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_22.json
+[2025-08-24 23:19:46] Processing chunk_23 (verification=False)...
+[2025-08-24 23:19:46] Prompt length (chars): 8086
+[2025-08-24 23:20:00] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_23.json
+[2025-08-24 23:20:00] Processing chunk_24 (verification=False)...
+[2025-08-24 23:20:00] Prompt length (chars): 8772
+[2025-08-24 23:20:14] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_24.json
+[2025-08-24 23:20:14] Processing chunk_25 (verification=False)...
+[2025-08-24 23:20:14] Prompt length (chars): 8415
+[2025-08-24 23:20:30] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_25.json
+[2025-08-24 23:20:30] Processing chunk_26 (verification=False)...
+[2025-08-24 23:20:30] Prompt length (chars): 7729
+[2025-08-24 23:20:47] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_26.json
+[2025-08-24 23:20:47] Processing chunk_27 (verification=False)...
+[2025-08-24 23:20:47] Prompt length (chars): 8687
+[2025-08-24 23:21:03] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_27.json
+[2025-08-24 23:21:03] Processing chunk_28 (verification=False)...
+[2025-08-24 23:21:03] Prompt length (chars): 8561
+[2025-08-24 23:21:20] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_28.json
+[2025-08-24 23:21:20] Processing chunk_29 (verification=False)...
+[2025-08-24 23:21:20] Prompt length (chars): 8347
+[2025-08-24 23:21:37] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_29.json
+[2025-08-24 23:21:37] Processing chunk_30 (verification=False)...
+[2025-08-24 23:21:37] Prompt length (chars): 9531
+[2025-08-24 23:21:54] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_30.json
+[2025-08-24 23:21:54] Processing chunk_31 (verification=False)...
+[2025-08-24 23:21:54] Prompt length (chars): 8612
+[2025-08-24 23:22:11] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_31.json
+[2025-08-24 23:22:11] Processing chunk_32 (verification=False)...
+[2025-08-24 23:22:11] Prompt length (chars): 8915
+[2025-08-24 23:22:28] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_32.json
+[2025-08-24 23:22:28] Processing chunk_33 (verification=False)...
+[2025-08-24 23:22:28] Prompt length (chars): 8155
+[2025-08-24 23:22:46] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_33.json
+[2025-08-24 23:22:46] Processing chunk_34 (verification=False)...
+[2025-08-24 23:22:46] Prompt length (chars): 9018
+[2025-08-24 23:23:04] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_34.json
+[2025-08-24 23:23:04] Processing chunk_35 (verification=False)...
+[2025-08-24 23:23:04] Prompt length (chars): 8346
+[2025-08-24 23:23:21] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_35.json
+[2025-08-24 23:23:21] Processing chunk_36 (verification=False)...
+[2025-08-24 23:23:21] Prompt length (chars): 8112
+[2025-08-24 23:23:39] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_36.json
+[2025-08-24 23:23:39] Processing chunk_37 (verification=False)...
+[2025-08-24 23:23:39] Prompt length (chars): 8468
+[2025-08-24 23:23:57] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_37.json
+[2025-08-24 23:23:57] Processing chunk_38 (verification=False)...
+[2025-08-24 23:23:57] Prompt length (chars): 8577
+[2025-08-24 23:24:14] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_38.json
+[2025-08-24 23:24:14] Processing chunk_39 (verification=False)...
+[2025-08-24 23:24:14] Prompt length (chars): 8764
+[2025-08-24 23:24:32] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_39.json
+[2025-08-24 23:24:32] Processing chunk_40 (verification=False)...
+[2025-08-24 23:24:32] Prompt length (chars): 8763
+[2025-08-24 23:24:50] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_40.json
+[2025-08-24 23:24:50] Processing chunk_41 (verification=False)...
+[2025-08-24 23:24:50] Prompt length (chars): 8069
+[2025-08-24 23:25:08] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_41.json
+[2025-08-24 23:25:08] Final memory saved to: output/20USVsGarcia_change/routes/final_memory.json
+[2025-08-24 23:25:08] Starting verification pass 1...
+[2025-08-24 23:25:08] Processing chunk_01 (verification=True)...
+[2025-08-24 23:25:08] Prompt length (chars): 8253
+[2025-08-24 23:25:27] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_01_verify.json
+[2025-08-24 23:25:27] Processing chunk_02 (verification=True)...
+[2025-08-24 23:25:27] Prompt length (chars): 8778
+[2025-08-24 23:25:46] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_02_verify.json
+[2025-08-24 23:25:46] Processing chunk_03 (verification=True)...
+[2025-08-24 23:25:46] Prompt length (chars): 8871
+[2025-08-24 23:26:05] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_03_verify.json
+[2025-08-24 23:26:05] Processing chunk_04 (verification=True)...
+[2025-08-24 23:26:05] Prompt length (chars): 8635
+[2025-08-24 23:26:24] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_04_verify.json
+[2025-08-24 23:26:24] Processing chunk_05 (verification=True)...
+[2025-08-24 23:26:24] Prompt length (chars): 9841
+[2025-08-24 23:26:44] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_05_verify.json
+[2025-08-24 23:26:45] Processing chunk_06 (verification=True)...
+[2025-08-24 23:26:45] Prompt length (chars): 9177
+[2025-08-24 23:27:05] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_06_verify.json
+[2025-08-24 23:27:05] Processing chunk_07 (verification=True)...
+[2025-08-24 23:27:05] Prompt length (chars): 8255
+[2025-08-24 23:27:25] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_07_verify.json
+[2025-08-24 23:27:25] Processing chunk_08 (verification=True)...
+[2025-08-24 23:27:25] Prompt length (chars): 9630
+[2025-08-24 23:27:47] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_08_verify.json
+[2025-08-24 23:27:47] Processing chunk_09 (verification=True)...
+[2025-08-24 23:27:47] Prompt length (chars): 9120
+[2025-08-24 23:28:09] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_09_verify.json
+[2025-08-24 23:28:09] Processing chunk_10 (verification=True)...
+[2025-08-24 23:28:09] Prompt length (chars): 9122
+[2025-08-24 23:28:32] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_10_verify.json
+[2025-08-24 23:28:32] Processing chunk_11 (verification=True)...
+[2025-08-24 23:28:32] Prompt length (chars): 9187
+[2025-08-24 23:28:54] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_11_verify.json
+[2025-08-24 23:28:54] Processing chunk_12 (verification=True)...
+[2025-08-24 23:28:54] Prompt length (chars): 8526
+[2025-08-24 23:29:16] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_12_verify.json
+[2025-08-24 23:29:16] Processing chunk_13 (verification=True)...
+[2025-08-24 23:29:16] Prompt length (chars): 9128
+[2025-08-24 23:29:38] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_13_verify.json
+[2025-08-24 23:29:38] Processing chunk_14 (verification=True)...
+[2025-08-24 23:29:38] Prompt length (chars): 9416
+[2025-08-24 23:30:01] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_14_verify.json
+[2025-08-24 23:30:01] Processing chunk_15 (verification=True)...
+[2025-08-24 23:30:01] Prompt length (chars): 9382
+[2025-08-24 23:30:25] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_15_verify.json
+[2025-08-24 23:30:25] Processing chunk_16 (verification=True)...
+[2025-08-24 23:30:25] Prompt length (chars): 9237
+[2025-08-24 23:30:50] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_16_verify.json
+[2025-08-24 23:30:50] Processing chunk_17 (verification=True)...
+[2025-08-24 23:30:50] Prompt length (chars): 9521
+[2025-08-24 23:31:15] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_17_verify.json
+[2025-08-24 23:31:15] Processing chunk_18 (verification=True)...
+[2025-08-24 23:31:15] Prompt length (chars): 9535
+[2025-08-24 23:31:40] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_18_verify.json
+[2025-08-24 23:31:40] Processing chunk_19 (verification=True)...
+[2025-08-24 23:31:40] Prompt length (chars): 10305
+[2025-08-24 23:32:05] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_19_verify.json
+[2025-08-24 23:32:05] Processing chunk_20 (verification=True)...
+[2025-08-24 23:32:05] Prompt length (chars): 9365
+[2025-08-24 23:32:31] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_20_verify.json
+[2025-08-24 23:32:31] Processing chunk_21 (verification=True)...
+[2025-08-24 23:32:31] Prompt length (chars): 9404
+[2025-08-24 23:32:57] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_21_verify.json
+[2025-08-24 23:32:57] Processing chunk_22 (verification=True)...
+[2025-08-24 23:32:57] Prompt length (chars): 9576
+[2025-08-24 23:33:23] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_22_verify.json
+[2025-08-24 23:33:23] Processing chunk_23 (verification=True)...
+[2025-08-24 23:33:23] Prompt length (chars): 9401
+[2025-08-24 23:33:49] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_23_verify.json
+[2025-08-24 23:33:49] Processing chunk_24 (verification=True)...
+[2025-08-24 23:33:49] Prompt length (chars): 10087
+[2025-08-24 23:34:17] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_24_verify.json
+[2025-08-24 23:34:17] Processing chunk_25 (verification=True)...
+[2025-08-24 23:34:17] Prompt length (chars): 9723
+[2025-08-24 23:34:45] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_25_verify.json
+[2025-08-24 23:34:45] Processing chunk_26 (verification=True)...
+[2025-08-24 23:34:45] Prompt length (chars): 8936
+[2025-08-24 23:35:12] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_26_verify.json
+[2025-08-24 23:35:12] Processing chunk_27 (verification=True)...
+[2025-08-24 23:35:12] Prompt length (chars): 9894
+[2025-08-24 23:35:39] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_27_verify.json
+[2025-08-24 23:35:39] Processing chunk_28 (verification=True)...
+[2025-08-24 23:35:39] Prompt length (chars): 9833
+[2025-08-24 23:36:08] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_28_verify.json
+[2025-08-24 23:36:08] Processing chunk_29 (verification=True)...
+[2025-08-24 23:36:08] Prompt length (chars): 9619
+[2025-08-24 23:36:36] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_29_verify.json
+[2025-08-24 23:36:36] Processing chunk_30 (verification=True)...
+[2025-08-24 23:36:36] Prompt length (chars): 10803
+[2025-08-24 23:37:06] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_30_verify.json
+[2025-08-24 23:37:06] Processing chunk_31 (verification=True)...
+[2025-08-24 23:37:06] Prompt length (chars): 9901
+[2025-08-24 23:37:36] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_31_verify.json
+[2025-08-24 23:37:36] Processing chunk_32 (verification=True)...
+[2025-08-24 23:37:36] Prompt length (chars): 10390
+[2025-08-24 23:38:09] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_32_verify.json
+[2025-08-24 23:38:09] Processing chunk_33 (verification=True)...
+[2025-08-24 23:38:09] Prompt length (chars): 9600
+[2025-08-24 23:38:40] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_33_verify.json
+[2025-08-24 23:38:40] Processing chunk_34 (verification=True)...
+[2025-08-24 23:38:40] Prompt length (chars): 10463
+[2025-08-24 23:39:11] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_34_verify.json
+[2025-08-24 23:39:11] Processing chunk_35 (verification=True)...
+[2025-08-24 23:39:11] Prompt length (chars): 9791
+[2025-08-24 23:39:42] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_35_verify.json
+[2025-08-24 23:39:42] Processing chunk_36 (verification=True)...
+[2025-08-24 23:39:42] Prompt length (chars): 9557
+[2025-08-24 23:40:13] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_36_verify.json
+[2025-08-24 23:40:13] Processing chunk_37 (verification=True)...
+[2025-08-24 23:40:13] Prompt length (chars): 9913
+[2025-08-24 23:40:44] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_37_verify.json
+[2025-08-24 23:40:44] Processing chunk_38 (verification=True)...
+[2025-08-24 23:40:44] Prompt length (chars): 10022
+[2025-08-24 23:41:14] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_38_verify.json
+[2025-08-24 23:41:14] Processing chunk_39 (verification=True)...
+[2025-08-24 23:41:14] Prompt length (chars): 10209
+[2025-08-24 23:41:46] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_39_verify.json
+[2025-08-24 23:41:46] Processing chunk_40 (verification=True)...
+[2025-08-24 23:41:46] Prompt length (chars): 10208
+[2025-08-24 23:42:17] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_40_verify.json
+[2025-08-24 23:42:17] Processing chunk_41 (verification=True)...
+[2025-08-24 23:42:17] Prompt length (chars): 9522
+[2025-08-24 23:42:50] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_41_verify.json
+[2025-08-24 23:42:50] Final memory saved to: output/20USVsGarcia_change/routes/final_memory.json
+[2025-08-24 23:42:50] Starting verification pass 2...
+[2025-08-24 23:42:50] Processing chunk_01 (verification=True)...
+[2025-08-24 23:42:50] Prompt length (chars): 9726
+[2025-08-24 23:43:21] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_01_verify.json
+[2025-08-24 23:43:21] Processing chunk_02 (verification=True)...
+[2025-08-24 23:43:21] Prompt length (chars): 10251
+[2025-08-24 23:43:53] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_02_verify.json
+[2025-08-24 23:43:53] Processing chunk_03 (verification=True)...
+[2025-08-24 23:43:53] Prompt length (chars): 10371
+[2025-08-24 23:44:27] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_03_verify.json
+[2025-08-24 23:44:27] Processing chunk_04 (verification=True)...
+[2025-08-24 23:44:27] Prompt length (chars): 10182
+[2025-08-24 23:45:00] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_04_verify.json
+[2025-08-24 23:45:00] Processing chunk_05 (verification=True)...
+[2025-08-24 23:45:00] Prompt length (chars): 11388
+[2025-08-24 23:45:35] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_05_verify.json
+[2025-08-24 23:45:35] Processing chunk_06 (verification=True)...
+[2025-08-24 23:45:35] Prompt length (chars): 10704
+[2025-08-24 23:46:10] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_06_verify.json
+[2025-08-24 23:46:10] Processing chunk_07 (verification=True)...
+[2025-08-24 23:46:10] Prompt length (chars): 9766
+[2025-08-24 23:46:44] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_07_verify.json
+[2025-08-24 23:46:44] Processing chunk_08 (verification=True)...
+[2025-08-24 23:46:44] Prompt length (chars): 11141
+[2025-08-24 23:47:20] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_08_verify.json
+[2025-08-24 23:47:20] Processing chunk_09 (verification=True)...
+[2025-08-24 23:47:20] Prompt length (chars): 10705
+[2025-08-24 23:47:58] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_09_verify.json
+[2025-08-24 23:47:58] Processing chunk_10 (verification=True)...
+[2025-08-24 23:47:58] Prompt length (chars): 10644
+[2025-08-24 23:48:36] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_10_verify.json
+[2025-08-24 23:48:36] Processing chunk_11 (verification=True)...
+[2025-08-24 23:48:36] Prompt length (chars): 10746
+[2025-08-24 23:49:13] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_11_verify.json
+[2025-08-24 23:49:13] Processing chunk_12 (verification=True)...
+[2025-08-24 23:49:13] Prompt length (chars): 10085
+[2025-08-24 23:49:50] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_12_verify.json
+[2025-08-24 23:49:50] Processing chunk_13 (verification=True)...
+[2025-08-24 23:49:50] Prompt length (chars): 10687
+[2025-08-24 23:50:27] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_13_verify.json
+[2025-08-24 23:50:27] Processing chunk_14 (verification=True)...
+[2025-08-24 23:50:27] Prompt length (chars): 10975
+[2025-08-24 23:51:04] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_14_verify.json
+[2025-08-24 23:51:04] Processing chunk_15 (verification=True)...
+[2025-08-24 23:51:04] Prompt length (chars): 10941
+[2025-08-24 23:51:40] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_15_verify.json
+[2025-08-24 23:51:41] Processing chunk_16 (verification=True)...
+[2025-08-24 23:51:41] Prompt length (chars): 10730
+[2025-08-24 23:52:19] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_16_verify.json
+[2025-08-24 23:52:19] Processing chunk_17 (verification=True)...
+[2025-08-24 23:52:19] Prompt length (chars): 11014
+[2025-08-24 23:52:58] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_17_verify.json
+[2025-08-24 23:52:58] Processing chunk_18 (verification=True)...
+[2025-08-24 23:52:58] Prompt length (chars): 11028
+[2025-08-24 23:53:37] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_18_verify.json
+[2025-08-24 23:53:37] Processing chunk_19 (verification=True)...
+[2025-08-24 23:53:37] Prompt length (chars): 11663
+[2025-08-24 23:54:15] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_19_verify.json
+[2025-08-24 23:54:15] Processing chunk_20 (verification=True)...
+[2025-08-24 23:54:15] Prompt length (chars): 10692
+[2025-08-24 23:54:54] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_20_verify.json
+[2025-08-24 23:54:54] Processing chunk_21 (verification=True)...
+[2025-08-24 23:54:54] Prompt length (chars): 10731
+[2025-08-24 23:55:32] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_21_verify.json
+[2025-08-24 23:55:32] Processing chunk_22 (verification=True)...
+[2025-08-24 23:55:32] Prompt length (chars): 10903
+[2025-08-24 23:56:10] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_22_verify.json
+[2025-08-24 23:56:10] Processing chunk_23 (verification=True)...
+[2025-08-24 23:56:10] Prompt length (chars): 10728
+[2025-08-24 23:56:49] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_23_verify.json
+[2025-08-24 23:56:49] Processing chunk_24 (verification=True)...
+[2025-08-24 23:56:49] Prompt length (chars): 11455
+[2025-08-24 23:57:30] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_24_verify.json
+[2025-08-24 23:57:30] Processing chunk_25 (verification=True)...
+[2025-08-24 23:57:30] Prompt length (chars): 11077
+[2025-08-24 23:58:09] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_25_verify.json
+[2025-08-24 23:58:10] Processing chunk_26 (verification=True)...
+[2025-08-24 23:58:10] Prompt length (chars): 10254
+[2025-08-24 23:58:48] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_26_verify.json
+[2025-08-24 23:58:48] Processing chunk_27 (verification=True)...
+[2025-08-24 23:58:48] Prompt length (chars): 11212
+[2025-08-24 23:59:29] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_27_verify.json
+[2025-08-24 23:59:29] Processing chunk_28 (verification=True)...
+[2025-08-24 23:59:29] Prompt length (chars): 11125
+[2025-08-25 00:00:09] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_28_verify.json
+[2025-08-25 00:00:09] Processing chunk_29 (verification=True)...
+[2025-08-25 00:00:09] Prompt length (chars): 10911
+[2025-08-25 00:00:49] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_29_verify.json
+[2025-08-25 00:00:49] Processing chunk_30 (verification=True)...
+[2025-08-25 00:00:49] Prompt length (chars): 12095
+[2025-08-25 00:01:31] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_30_verify.json
+[2025-08-25 00:01:31] Processing chunk_31 (verification=True)...
+[2025-08-25 00:01:31] Prompt length (chars): 11193
+[2025-08-25 00:02:11] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_31_verify.json
+[2025-08-25 00:02:11] Processing chunk_32 (verification=True)...
+[2025-08-25 00:02:11] Prompt length (chars): 11486
+[2025-08-25 00:02:53] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_32_verify.json
+[2025-08-25 00:02:53] Processing chunk_33 (verification=True)...
+[2025-08-25 00:02:53] Prompt length (chars): 10718
+[2025-08-25 00:03:34] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_33_verify.json
+[2025-08-25 00:03:34] Processing chunk_34 (verification=True)...
+[2025-08-25 00:03:34] Prompt length (chars): 11581
+[2025-08-25 00:04:16] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_34_verify.json
+[2025-08-25 00:04:16] Processing chunk_35 (verification=True)...
+[2025-08-25 00:04:16] Prompt length (chars): 10909
+[2025-08-25 00:04:57] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_35_verify.json
+[2025-08-25 00:04:57] Processing chunk_36 (verification=True)...
+[2025-08-25 00:04:57] Prompt length (chars): 10675
+[2025-08-25 00:05:38] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_36_verify.json
+[2025-08-25 00:05:38] Processing chunk_37 (verification=True)...
+[2025-08-25 00:05:38] Prompt length (chars): 11031
+[2025-08-25 00:06:19] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_37_verify.json
+[2025-08-25 00:06:19] Processing chunk_38 (verification=True)...
+[2025-08-25 00:06:19] Prompt length (chars): 11140
+[2025-08-25 00:07:01] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_38_verify.json
+[2025-08-25 00:07:01] Processing chunk_39 (verification=True)...
+[2025-08-25 00:07:01] Prompt length (chars): 11327
+[2025-08-25 00:07:42] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_39_verify.json
+[2025-08-25 00:07:42] Processing chunk_40 (verification=True)...
+[2025-08-25 00:07:42] Prompt length (chars): 11326
+[2025-08-25 00:08:24] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_40_verify.json
+[2025-08-25 00:08:24] Processing chunk_41 (verification=True)...
+[2025-08-25 00:08:24] Prompt length (chars): 10602
+[2025-08-25 00:09:05] Saved coref output: output/20USVsGarcia_change/routes/coref_outputs/chunk_41_verify.json
+[2025-08-25 00:09:05] Final memory saved to: output/20USVsGarcia_change/routes/final_memory.json
+[2025-08-25 00:09:05] Coreference Resolution completed in 3163.84 seconds.
+[2025-08-25 00:09:05] Cumulative time after Coref: 3285.12 seconds.
+[2025-08-25 00:09:05] Starting Final Coref Resolution Step...
+[2025-08-25 00:09:06] Starting coreference resolution loop
+[2025-08-25 00:09:06] Removing 5 unresolved mappings from RESOLVED_ENTITIES: ['the border', 'United States-Mexican border', 'the highways of this nation', 'other highways', 'United States-Mexico border']
+[2025-08-25 00:09:06] 14 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-08-25 00:09:06] [Retry 1/3] Resolving coreference for chunk_01...
+[2025-08-25 00:09:06] Prompt length (chars): 8057
+[2025-08-25 00:09:06] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8057) with timeout=120s
+[2025-08-25 00:09:16] Response received in 10.39 seconds for chunk_01
+[2025-08-25 00:09:16] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_01_resolved.txt
+[2025-08-25 00:09:16] [Retry 1/3] Resolving coreference for chunk_02...
+[2025-08-25 00:09:16] Prompt length (chars): 8428
+[2025-08-25 00:09:16] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8428) with timeout=120s
+[2025-08-25 00:09:27] Response received in 10.86 seconds for chunk_02
+[2025-08-25 00:09:27] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_02_resolved.txt
+[2025-08-25 00:09:27] [Retry 1/3] Resolving coreference for chunk_03...
+[2025-08-25 00:09:27] Prompt length (chars): 8570
+[2025-08-25 00:09:27] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8570) with timeout=120s
+[2025-08-25 00:09:39] Response received in 11.67 seconds for chunk_03
+[2025-08-25 00:09:39] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_03_resolved.txt
+[2025-08-25 00:09:39] [Retry 1/3] Resolving coreference for chunk_04...
+[2025-08-25 00:09:39] Prompt length (chars): 8334
+[2025-08-25 00:09:39] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8334) with timeout=120s
+[2025-08-25 00:09:48] Response received in 8.95 seconds for chunk_04
+[2025-08-25 00:09:48] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_04_resolved.txt
+[2025-08-25 00:09:48] [Retry 1/3] Resolving coreference for chunk_05...
+[2025-08-25 00:09:48] Prompt length (chars): 9183
+[2025-08-25 00:09:48] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=9183) with timeout=120s
+[2025-08-25 00:10:05] Response received in 17.23 seconds for chunk_05
+[2025-08-25 00:10:05] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_05_resolved.txt
+[2025-08-25 00:10:05] [Retry 1/3] Resolving coreference for chunk_06...
+[2025-08-25 00:10:05] Prompt length (chars): 8513
+[2025-08-25 00:10:05] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8513) with timeout=120s
+[2025-08-25 00:10:17] Response received in 12.03 seconds for chunk_06
+[2025-08-25 00:10:17] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_06_resolved.txt
+[2025-08-25 00:10:17] [Retry 1/3] Resolving coreference for chunk_07...
+[2025-08-25 00:10:17] Prompt length (chars): 7788
+[2025-08-25 00:10:17] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=7788) with timeout=120s
+[2025-08-25 00:10:22] Response received in 5.16 seconds for chunk_07
+[2025-08-25 00:10:22] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_07_resolved.txt
+[2025-08-25 00:10:22] [Retry 1/3] Resolving coreference for chunk_08...
+[2025-08-25 00:10:22] Prompt length (chars): 8875
+[2025-08-25 00:10:22] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8875) with timeout=120s
+[2025-08-25 00:10:37] Response received in 14.28 seconds for chunk_08
+[2025-08-25 00:10:37] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_08_resolved.txt
+[2025-08-25 00:10:37] [Retry 1/3] Resolving coreference for chunk_09...
+[2025-08-25 00:10:37] Prompt length (chars): 8384
+[2025-08-25 00:10:37] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8384) with timeout=120s
+[2025-08-25 00:10:46] Response received in 9.54 seconds for chunk_09
+[2025-08-25 00:10:46] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_09_resolved.txt
+[2025-08-25 00:10:46] [Retry 1/3] Resolving coreference for chunk_10...
+[2025-08-25 00:10:46] Prompt length (chars): 8389
+[2025-08-25 00:10:46] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8389) with timeout=120s
+[2025-08-25 00:10:56] Response received in 10.0 seconds for chunk_10
+[2025-08-25 00:10:56] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_10_resolved.txt
+[2025-08-25 00:10:56] [Retry 1/3] Resolving coreference for chunk_11...
+[2025-08-25 00:10:56] Prompt length (chars): 8514
+[2025-08-25 00:10:56] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8514) with timeout=120s
+[2025-08-25 00:11:09] Response received in 12.76 seconds for chunk_11
+[2025-08-25 00:11:09] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_11_resolved.txt
+[2025-08-25 00:11:09] [Retry 1/3] Resolving coreference for chunk_12...
+[2025-08-25 00:11:09] Prompt length (chars): 7853
+[2025-08-25 00:11:09] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=7853) with timeout=120s
+[2025-08-25 00:11:15] Response received in 5.52 seconds for chunk_12
+[2025-08-25 00:11:15] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_12_resolved.txt
+[2025-08-25 00:11:15] [Retry 1/3] Resolving coreference for chunk_13...
+[2025-08-25 00:11:15] Prompt length (chars): 8455
+[2025-08-25 00:11:15] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8455) with timeout=120s
+[2025-08-25 00:11:26] Response received in 11.7 seconds for chunk_13
+[2025-08-25 00:11:26] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_13_resolved.txt
+[2025-08-25 00:11:26] [Retry 1/3] Resolving coreference for chunk_14...
+[2025-08-25 00:11:26] Prompt length (chars): 8743
+[2025-08-25 00:11:26] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8743) with timeout=120s
+[2025-08-25 00:11:40] Response received in 13.24 seconds for chunk_14
+[2025-08-25 00:11:40] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_14_resolved.txt
+[2025-08-25 00:11:40] [Retry 1/3] Resolving coreference for chunk_15...
+[2025-08-25 00:11:40] Prompt length (chars): 8590
+[2025-08-25 00:11:40] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8590) with timeout=120s
+[2025-08-25 00:11:53] Response received in 12.93 seconds for chunk_15
+[2025-08-25 00:11:53] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_15_resolved.txt
+[2025-08-25 00:11:53] [Retry 1/3] Resolving coreference for chunk_16...
+[2025-08-25 00:11:53] Prompt length (chars): 8351
+[2025-08-25 00:11:53] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8351) with timeout=120s
+[2025-08-25 00:12:02] Response received in 9.25 seconds for chunk_16
+[2025-08-25 00:12:02] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_16_resolved.txt
+[2025-08-25 00:12:02] [Retry 1/3] Resolving coreference for chunk_17...
+[2025-08-25 00:12:02] Prompt length (chars): 8572
+[2025-08-25 00:12:02] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8572) with timeout=120s
+[2025-08-25 00:12:13] Response received in 11.1 seconds for chunk_17
+[2025-08-25 00:12:13] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_17_resolved.txt
+[2025-08-25 00:12:13] [Retry 1/3] Resolving coreference for chunk_18...
+[2025-08-25 00:12:13] Prompt length (chars): 8532
+[2025-08-25 00:12:13] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8532) with timeout=120s
+[2025-08-25 00:12:25] Response received in 11.76 seconds for chunk_18
+[2025-08-25 00:12:25] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_18_resolved.txt
+[2025-08-25 00:12:25] [Retry 1/3] Resolving coreference for chunk_19...
+[2025-08-25 00:12:25] Prompt length (chars): 9108
+[2025-08-25 00:12:25] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=9108) with timeout=120s
+[2025-08-25 00:12:42] Response received in 16.61 seconds for chunk_19
+[2025-08-25 00:12:42] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_19_resolved.txt
+[2025-08-25 00:12:42] [Retry 1/3] Resolving coreference for chunk_20...
+[2025-08-25 00:12:42] Prompt length (chars): 8326
+[2025-08-25 00:12:42] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8326) with timeout=120s
+[2025-08-25 00:12:52] Response received in 10.33 seconds for chunk_20
+[2025-08-25 00:12:52] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_20_resolved.txt
+[2025-08-25 00:12:52] [Retry 1/3] Resolving coreference for chunk_21...
+[2025-08-25 00:12:52] Prompt length (chars): 8365
+[2025-08-25 00:12:52] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8365) with timeout=120s
+[2025-08-25 00:13:03] Response received in 10.78 seconds for chunk_21
+[2025-08-25 00:13:03] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_21_resolved.txt
+[2025-08-25 00:13:03] [Retry 1/3] Resolving coreference for chunk_22...
+[2025-08-25 00:13:03] Prompt length (chars): 8537
+[2025-08-25 00:13:03] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8537) with timeout=120s
+[2025-08-25 00:13:15] Response received in 11.77 seconds for chunk_22
+[2025-08-25 00:13:15] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_22_resolved.txt
+[2025-08-25 00:13:15] [Retry 1/3] Resolving coreference for chunk_23...
+[2025-08-25 00:13:15] Prompt length (chars): 8362
+[2025-08-25 00:13:15] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8362) with timeout=120s
+[2025-08-25 00:13:25] Response received in 10.8 seconds for chunk_23
+[2025-08-25 00:13:25] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_23_resolved.txt
+[2025-08-25 00:13:25] [Retry 1/3] Resolving coreference for chunk_24...
+[2025-08-25 00:13:25] Prompt length (chars): 8705
+[2025-08-25 00:13:25] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8705) with timeout=120s
+[2025-08-25 00:13:38] Response received in 12.93 seconds for chunk_24
+[2025-08-25 00:13:38] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_24_resolved.txt
+[2025-08-25 00:13:38] [Retry 1/3] Resolving coreference for chunk_25...
+[2025-08-25 00:13:38] Prompt length (chars): 8348
+[2025-08-25 00:13:38] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8348) with timeout=120s
+[2025-08-25 00:13:48] Response received in 9.83 seconds for chunk_25
+[2025-08-25 00:13:48] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_25_resolved.txt
+[2025-08-25 00:13:48] [Retry 1/3] Resolving coreference for chunk_26...
+[2025-08-25 00:13:48] Prompt length (chars): 7774
+[2025-08-25 00:13:48] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=7774) with timeout=120s
+[2025-08-25 00:13:53] Response received in 4.59 seconds for chunk_26
+[2025-08-25 00:13:53] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_26_resolved.txt
+[2025-08-25 00:13:53] [Retry 1/3] Resolving coreference for chunk_27...
+[2025-08-25 00:13:53] Prompt length (chars): 8467
+[2025-08-25 00:13:53] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8467) with timeout=120s
+[2025-08-25 00:14:04] Response received in 10.81 seconds for chunk_27
+[2025-08-25 00:14:04] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_27_resolved.txt
+[2025-08-25 00:14:04] [Retry 1/3] Resolving coreference for chunk_28...
+[2025-08-25 00:14:04] Prompt length (chars): 8552
+[2025-08-25 00:14:04] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8552) with timeout=120s
+[2025-08-25 00:14:17] Response received in 13.21 seconds for chunk_28
+[2025-08-25 00:14:17] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_28_resolved.txt
+[2025-08-25 00:14:17] [Retry 1/3] Resolving coreference for chunk_29...
+[2025-08-25 00:14:17] Prompt length (chars): 8338
+[2025-08-25 00:14:17] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8338) with timeout=120s
+[2025-08-25 00:14:27] Response received in 10.26 seconds for chunk_29
+[2025-08-25 00:14:27] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_29_resolved.txt
+[2025-08-25 00:14:27] [Retry 1/3] Resolving coreference for chunk_30...
+[2025-08-25 00:14:27] Prompt length (chars): 9442
+[2025-08-25 00:14:27] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=9442) with timeout=120s
+[2025-08-25 00:14:49] Response received in 22.1 seconds for chunk_30
+[2025-08-25 00:14:49] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_30_resolved.txt
+[2025-08-25 00:14:49] [Retry 1/3] Resolving coreference for chunk_31...
+[2025-08-25 00:14:49] Prompt length (chars): 8319
+[2025-08-25 00:14:49] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8319) with timeout=120s
+[2025-08-25 00:15:00] Response received in 10.33 seconds for chunk_31
+[2025-08-25 00:15:00] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_31_resolved.txt
+[2025-08-25 00:15:00] [Retry 1/3] Resolving coreference for chunk_32...
+[2025-08-25 00:15:00] Prompt length (chars): 8717
+[2025-08-25 00:15:00] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8717) with timeout=120s
+[2025-08-25 00:15:13] Response received in 13.37 seconds for chunk_32
+[2025-08-25 00:15:13] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_32_resolved.txt
+[2025-08-25 00:15:13] [Retry 1/3] Resolving coreference for chunk_33...
+[2025-08-25 00:15:13] Prompt length (chars): 8009
+[2025-08-25 00:15:13] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8009) with timeout=120s
+[2025-08-25 00:15:20] Response received in 7.09 seconds for chunk_33
+[2025-08-25 00:15:20] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_33_resolved.txt
+[2025-08-25 00:15:20] [Retry 1/3] Resolving coreference for chunk_34...
+[2025-08-25 00:15:20] Prompt length (chars): 8872
+[2025-08-25 00:15:20] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8872) with timeout=120s
+[2025-08-25 00:15:36] Response received in 16.03 seconds for chunk_34
+[2025-08-25 00:15:36] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_34_resolved.txt
+[2025-08-25 00:15:36] [Retry 1/3] Resolving coreference for chunk_35...
+[2025-08-25 00:15:36] Prompt length (chars): 8200
+[2025-08-25 00:15:36] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8200) with timeout=120s
+[2025-08-25 00:15:46] Response received in 9.27 seconds for chunk_35
+[2025-08-25 00:15:46] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_35_resolved.txt
+[2025-08-25 00:15:46] [Retry 1/3] Resolving coreference for chunk_36...
+[2025-08-25 00:15:46] Prompt length (chars): 7966
+[2025-08-25 00:15:46] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=7966) with timeout=120s
+[2025-08-25 00:15:53] Response received in 7.42 seconds for chunk_36
+[2025-08-25 00:15:53] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_36_resolved.txt
+[2025-08-25 00:15:53] [Retry 1/3] Resolving coreference for chunk_37...
+[2025-08-25 00:15:53] Prompt length (chars): 8322
+[2025-08-25 00:15:53] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8322) with timeout=120s
+[2025-08-25 00:16:03] Response received in 9.8 seconds for chunk_37
+[2025-08-25 00:16:03] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_37_resolved.txt
+[2025-08-25 00:16:03] [Retry 1/3] Resolving coreference for chunk_38...
+[2025-08-25 00:16:03] Prompt length (chars): 8431
+[2025-08-25 00:16:03] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8431) with timeout=120s
+[2025-08-25 00:16:14] Response received in 10.78 seconds for chunk_38
+[2025-08-25 00:16:14] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_38_resolved.txt
+[2025-08-25 00:16:14] [Retry 1/3] Resolving coreference for chunk_39...
+[2025-08-25 00:16:14] Prompt length (chars): 8618
+[2025-08-25 00:16:14] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8618) with timeout=120s
+[2025-08-25 00:16:26] Response received in 12.3 seconds for chunk_39
+[2025-08-25 00:16:26] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_39_resolved.txt
+[2025-08-25 00:16:26] [Retry 1/3] Resolving coreference for chunk_40...
+[2025-08-25 00:16:26] Prompt length (chars): 8583
+[2025-08-25 00:16:26] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=8583) with timeout=120s
+[2025-08-25 00:16:39] Response received in 12.72 seconds for chunk_40
+[2025-08-25 00:16:39] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_40_resolved.txt
+[2025-08-25 00:16:39] [Retry 1/3] Resolving coreference for chunk_41...
+[2025-08-25 00:16:39] Prompt length (chars): 7813
+[2025-08-25 00:16:39] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=7813) with timeout=120s
+[2025-08-25 00:16:44] Response received in 5.24 seconds for chunk_41
+[2025-08-25 00:16:44] Saved resolved text: output/20USVsGarcia_change/routes/resolved_outputs/chunk_41_resolved.txt
+[2025-08-25 00:16:44] Merging all resolved chunks into output/20USVsGarcia_change/routes/routes_resolved_20USVsGarcia_change.txt
+[2025-08-25 00:16:44] All resolved chunks merged and saved to output/20USVsGarcia_change/routes/routes_resolved_20USVsGarcia_change.txt
+[2025-08-25 00:16:44] Completed coreference resolution for all chunks.
+[2025-08-25 00:16:44] Final Resolution completed in 459.41 seconds.
+[2025-08-25 00:16:44] Cumulative time after Final Resolution: 3744.54 seconds.
+[2025-08-25 00:16:44] Total pipeline time: 3744.54 seconds.

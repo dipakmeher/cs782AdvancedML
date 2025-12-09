@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the stop": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "the scope": null,
+    "the nature of the interrogation": null,
+    "the Government": null,
+    "the fact": null,
+    "the burden": null,
+    "the evidence": null,
+    "the search": null,
+    "the seizure": null,
+    "the instant case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens, and country of citizenship claimed by the driver",
+    "United States Border Patrol": "law enforcement agency involved in the case, conducting stops and interrogations"
+  }
+}

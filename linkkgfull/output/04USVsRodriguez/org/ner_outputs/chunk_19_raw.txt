@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Department of Homeland Security", "United States Border Patrol"],
+    "NOUN_PHRASE": ["the primary United States Border Patrol agent", "the Border Patrol station", "a United States Border Patrol intel officer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Department of Homeland Security": "Received a phone call regarding an attempted alien smuggling event",
+    "United States Border Patrol": "Conducted the initial traffic stop and had an agent present during interviews"
+  }
+}

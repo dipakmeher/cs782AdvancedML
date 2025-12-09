@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States": "United States",
+    "Bureau of Prisons": "Bureau of Prisons",
+    "Mexico": "Mexico",
+    "Department of Homeland Security": "Department of Homeland Security",
+    "United States Attorney General": "United States Attorney General"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that imposed judgment of conviction and sentence",
+    "United States": "country where Rogelio Valero-De La Rosa was removed from and later found, and party to a plea agreement and prosecutor in the case",
+    "Bureau of Prisons": "custody provider for Rogelio Valero-De La Rosa's imprisonment",
+    "Mexico": "country where Rogelio Valero-De La Rosa is a native and citizen",
+    "Department of Homeland Security": "department whose Secretary can grant permission to re-enter the United States",
+    "United States Attorney General": "official who can grant permission to re-enter the United States"
+  }
+}

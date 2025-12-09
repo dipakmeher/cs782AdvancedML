@@ -1,0 +1,30 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Rogelio Valero-De La Rosa",
+      "United States citizen",
+      "alien",
+      "illegal alien",
+      "native and citizen of Mexico"
+    ],
+    "NOUN_PHRASE": [
+      "the indictment",
+      "the charges",
+      "the Plea Agreement",
+      "the facts",
+      "the law",
+      "the punishment",
+      "the Indictment",
+      "the jury",
+      "the United States Probation Office",
+      "the Immigration and Customs Enforcement (ICE) agents"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Rogelio Valero-De La Rosa": "defendant claiming to be a United States citizen",
+    "United States citizen": "claimed nationality of Rogelio Valero-De La Rosa",
+    "alien": "status of Rogelio Valero-De La Rosa",
+    "illegal alien": "status of Rogelio Valero-De La Rosa",
+    "native and citizen of Mexico": "nationality of Rogelio Valero-De La Rosa"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the occupants of the marked United States Border Patrol sedan",
+      "the occupants of Maria De Jesus Garcia's pickup truck camper",
+      "innocent passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Houston, Texas": "Houston, Texas",
+    "United States": "United States",
+    "Texas": "Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Houston, Texas": "location where the order was signed by Nancy F. Atlas on September 27, 2007",
+    "United States": "country where the court is located and where sentencing guidelines are applied",
+    "Texas": "state where the court is located and where Jose Marlon Ibarra-Zelaya's case was heard"
+  }
+}

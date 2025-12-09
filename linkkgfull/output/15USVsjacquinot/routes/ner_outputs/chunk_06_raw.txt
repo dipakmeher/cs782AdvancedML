@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Highway 90", "Texas Highway 385", "Interstate 10", "Highway 118"],
+    "NOUN_PHRASE": ["the most direct and logical route of travel"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 90": "road where the truck turned left",
+    "Texas Highway 385": "road from which the truck turned onto Highway 90",
+    "Interstate 10": "highway toward which most vehicles would continue straight",
+    "Highway 118": "most direct and logical route of travel from Big Bend National Park to Alpine, Texas"
+  }
+}

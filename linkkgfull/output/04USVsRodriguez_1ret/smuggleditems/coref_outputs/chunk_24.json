@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the five passengers": "undocumented aliens",
+    "the passengers": "undocumented aliens",
+    "the vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped at the Freer Immigration Checkpoint, also referred to as \"a white one\", heading towards Highway 59 and then turning southbound onto Farm-to-Market Road 2050, riding low with five passengers",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and charged with transporting undocumented aliens, also referred to as United States Border Patrol Agent Ignacio Rodriguez Jr.",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck associated with IGNACIO RODRIGUEZ, JR., stopped at the Freer Immigration Checkpoint, also referred to as \"a black one\", heading towards Highway 59 and then turning southbound onto Farm-to-Market Road 2050, with a camper, either dark blue or black in color",
+    "undocumented aliens": "individuals being transported by the defendants, also referred to as undocumented illegals, processed at the Freer Immigration Checkpoint, dropped off between checkpoints to avoid detection, attempting to walk east from Farm-to-Market Road 2050 to Highway 16 and then get picked up to go to Houston or San Antonio, including five passengers in RICARDO RODRIGUEZ, JR.'s vehicle",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, attempting to avoid the Hebbronville Checkpoint",
+    "Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino, testifying about the traffic on Farm-to-Market Road 2050, recognizing most vehicles as belonging to farmers and oil field workers, followed the black Dodge pickup truck for around five minutes",
+    "United States Border Patrol": "Law enforcement agency involved in the incident"
+  }
+}

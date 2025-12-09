@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["living, breathing cargo", "living cargo"],
+    "NOUN_PHRASE": ["the pickup truck camper", "the windows of the pickup truck camper", "the tires", "the headlights"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "living, breathing cargo": "potential human smuggling cargo",
+    "living cargo": "potential human smuggling cargo"
+  }
+}

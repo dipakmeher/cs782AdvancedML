@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the scissor lift": null,
+    "the trailer": "flatbed trailer",
+    "the truck": "2008 Chevrolet truck",
+    "the car": null,
+    "the 18-wheeler": null,
+    "the vehicles": "2008 Chevrolet truck and flatbed trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck": "Vehicle pulling a flatbed trailer, registered to Daniel A. Huerta, outfitted with over-sized tires and after-market rims, involved in unsafe driving maneuvers, driven by Federico Saldana, used to transport a scissor lift to Dallas for repairs",
+    "flatbed trailer": "Trailer transporting a scissor lift, registered to Daniel Martin Huerta, attached to the 2008 Chevrolet truck, being taken to an unknown address in Dallas",
+    "2008 Chevrolet truck and flatbed trailer": "Vehicle and trailer combination involved in a traffic stop on Interstate 35, subject of a warning and registration paperwork"
+  }
+}

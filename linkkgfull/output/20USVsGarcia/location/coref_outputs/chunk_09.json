@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate 35": "Interstate Highway 35",
+    "Maria De Jesus Garcia's pickup camper": null,
+    "the border": "United States-Mexican border",
+    "this segment": "northbound lanes of Interstate Highway 35",
+    "these other connecting roads": null,
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "Moore, Texas": "location where the incident occurred, approximately 115 miles from the United States-Mexican border, and where border patrol agents had recently apprehended a number of illegal alien smugglers",
+    "Interstate Highway 35": "highway where the incident took place, with northbound lanes, leading directly to the United States-Mexican border and passing through Laredo, Texas, known as a common smuggling route with a history of alien smuggling",
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and the Brignoni-Ponce test",
+    "Laredo, Texas": "location through which Interstate 35 passes, one of the towns before reaching Moore",
+    "Brignoni-Ponce standard": "a standard for reasonably warranting suspicion in border patrol stops"
+  }
+}

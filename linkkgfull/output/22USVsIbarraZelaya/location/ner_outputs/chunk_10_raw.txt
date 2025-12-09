@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["this instance"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

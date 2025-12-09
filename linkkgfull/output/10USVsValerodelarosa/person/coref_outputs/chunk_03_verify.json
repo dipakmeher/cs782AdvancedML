@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Valero": "Rogelio Valero-De La Rosa",
+    "United States Attorney General": "United States Attorney General",
+    "Secretary of the Department of Homeland Security": "Secretary of the Department of Homeland Security",
+    "Defendant": "Rogelio Valero-De La Rosa"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico",
+    "United States Attorney General": "government official responsible for permission to re-enter the United States, authorized early disposition programs",
+    "Secretary of the Department of Homeland Security": "government official responsible for permission to re-enter the United States"
+  }
+}

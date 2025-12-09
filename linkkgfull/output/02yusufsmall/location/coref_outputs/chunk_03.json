@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "USA": "United States",
+    "North Carolina": "North Carolina",
+    "Dallas": "Dallas",
+    "the load": null,
+    "the trailer": "trailer carrying 84 illegal aliens",
+    "the origin address": null,
+    "the delivery address": null,
+    "Auburn Road": "Auburn Road"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "location where Abdullah Yusuf was stopped by Border Patrol while smuggling 84 illegal aliens and location of the pickup and the Auburn Road lot",
+    "Interstate 35": "road on which Abdullah Yusuf was traveling when stopped by Border Patrol",
+    "United States": "country where the crime of transporting illegal aliens occurred, specifically involving Abdullah Yusuf",
+    "Border Patrol checkpoint near Laredo, Texas": "checkpoint where a police dog alerted to Abdullah Yusuf's vehicle",
+    "Dallas": "destination of Abdullah Yusuf's haul and city where delivery was initially claimed to be",
+    "Auburn Road": "location of the pickup lot with a loose gravel surface and no warehouse or loading equipment",
+    "Flying J": "place where Abdullah Yusuf waited while his trailer was being loaded",
+    "North Carolina": "state where delivery was supposed to occur"
+  }
+}

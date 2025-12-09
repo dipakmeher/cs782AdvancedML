@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the Government": "United States of America",
+    "district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "the government seeking review in the case of Raul Rafael Arce-Jasso",
+    "district court": "court that made the judgment of acquittal in favor of Raul Rafael Arce-Jasso"
+  }
+}

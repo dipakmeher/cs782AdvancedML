@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. Highway 59",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 16": "Highway 16",
+    "U.S. 359": "U.S. Highway 359",
+    "the loop": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. Highway 59": "a highway where Agent Trevino was inspecting vehicles, near the Freer immigration checkpoint, intersecting with Farm-to-Market Road 2050 to the west of Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "a road adjacent to the Border Patrol station parking lot, connected to U.S. 59, where vehicles drop off illegal aliens between the Freer immigration checkpoint and Bruni",
+    "Highway 16": "route where picked-up aliens are taken after walking from Farm-to-Market Road 2050, allowing access to Houston or San Antonio to the north",
+    "U.S. Highway 359": "road intersecting with Farm-to-Market Road 2050 to the east of the Hebbronville checkpoint"
+  }
+}

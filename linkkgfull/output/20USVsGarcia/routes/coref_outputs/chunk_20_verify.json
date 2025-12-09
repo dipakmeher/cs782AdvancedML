@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": "United States-Mexican border",
+    "the area": null,
+    "the whole picture": null,
+    "the public highway": "Interstate Highway 35",
+    "common smuggling routes": "Interstate Highway 35 and other highways",
+    "this segment": "Interstate Highway 35",
+    "this segment of Interstate Highway 35": "Interstate Highway 35",
+    "an Interstate Highway": null,
+    "the highways of the United States": null,
+    "the border": "United States-Mexican border",
+    "a common smuggling route": "Interstate Highway 35",
+    "the highway": "Interstate Highway 35",
+    "designated highways": null,
+    "smuggling routes": "Interstate Highway 35 and other highways",
+    "that portion of Interstate Highway 35": "Interstate Highway 35",
+    "the interstate highway": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate Highway 35": "route leading directly to the United States-Mexican border, passing through several towns including Laredo, Texas, and a common smuggling route, with a history of alien smuggling, location where the stop occurred, where a pickup truck was stopped, used by Maria De Jesus Garcia, scene of vehicle stops based on articulable facts, known for its reputation as a common smuggling route, location of the vehicle stop, portion of the highway where Maria De Jesus Garcia's vehicle was traveling, location of the instant stop, location of an unconstitutional stop and search, location where United States Border Patrol agents spotted a pickup truck camper, location where the pickup truck was stopped for an immigration inspection, location where the stop and search of Maria De Jesus Garcia's vehicle occurred, location of the investigatory stop, public highway leading from the United States-Mexican border, frequently used for transporting illegal aliens, location of alien smuggling, location where the stop occurred, the location where a pickup truck was stopped, location of the stop on Interstate Highway 35, scene of stops based on officer experience with illegal alien traffic, known for its reputation as a common smuggling route near the United States-Mexican border, location of the vehicle stop, portion of the highway where Maria De Jesus Garcia's vehicle was traveling at forty to forty-five miles per hour, location of the stop, location where the pickup truck was stopped for an immigration inspection, location where the stop and search of Maria De Jesus Garcia's vehicle occurred, location of the investigatory stop, location where the stop occurred, the location where a pickup truck was stopped at about 11:30 p.m. by Stanley Pruszenski and Alfred Baron in Texas some 115 miles north of the United States-Mexican border, used for smuggling due to its proximity to the border",
+    "United States-Mexican border": "geographical boundary relevant to the case, origin of the vehicle to be stopped, reference point for distance calculation, geographical reference point for determining stop legality, connecting point for roads, origin of the vehicle to be stopped, reference point for distance and origin, geographical reference point for determining stop legality",
+    "Interstate Highway 35 and other highways": "routes jointly utilized in coordinated smuggling activities near the United States-Mexican border"
+  }
+}

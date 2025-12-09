@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States of America District Court": "United States District Court",
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco",
+    "an organizer, leader, manager, or supervisor": "manager or leader of human smuggling operation",
+    "the pre-sentence report": null,
+    "the defendant's statements and demeanor at the sentencing hearing": null,
+    "the fact of manager status": null,
+    "the United States District Court's finding": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Federal court with the authority to impose sentences based on the guidelines and individual case circumstances",
+    "Juventino Mejia-Orosco": "an organizer or leader of a criminal activity, potentially exercising control over unwitting participants",
+    "manager or leader of human smuggling operation": "Individual who directs or oversees the transportation of smuggled aliens, subject to increased penalties under the sentencing guidelines"
+  }
+}

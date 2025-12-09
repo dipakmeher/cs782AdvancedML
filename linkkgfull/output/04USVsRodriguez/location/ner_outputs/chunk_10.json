@@ -1,0 +1,29 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Dallas, Texas",
+      "Hertz Dallas-Fort Worth",
+      "Dallas",
+      "San Antonio",
+      "FM 2050",
+      "Highway 359",
+      "Highway 59",
+      "Highway 35"
+    ],
+    "NOUN_PHRASE": [
+      "the road",
+      "out of town",
+      "that same road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dallas, Texas": "origin of the rental car",
+    "Hertz Dallas-Fort Worth": "rental car company",
+    "Dallas": "city of origin for the vehicles",
+    "San Antonio": "reference city for directional context",
+    "FM 2050": "road where suspicious vehicles were spotted",
+    "Highway 359": "connecting highway",
+    "Highway 59": "connecting highway",
+    "Highway 35": "alternative route to Dallas or San Antonio"
+  }
+}

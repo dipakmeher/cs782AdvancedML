@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the district court",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "discovered undocumented aliens hidden in a tractor-trailer"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the trek": "South Texas Trek",
+    "the journey": "South Texas Journey",
+    "this trek through the South Texas": "South Texas Trek",
+    "the South Texas desert": null,
+    "the desert-like South Texas brush": "South Texas Trek",
+    "the dangerous journey": "South Texas Journey"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "South Texas Trek": "a dangerous route through South Texas where an alien died from probable heat stroke, contributed to Alma Delia Simon-Fernandez's death",
+    "South Texas Journey": "a hazardous path taken by aliens with inadequate supplies, resulting in hospitalizations and death due to extreme heat"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the vehicle", "his aunt's vehicle", "his cousin's vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

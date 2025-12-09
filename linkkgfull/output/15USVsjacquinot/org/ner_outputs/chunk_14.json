@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas Highway 385",
+      "Big Bend National Park",
+      "U.S. District Court"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Highway 385": "a smuggling route",
+    "Big Bend National Park": "a national park with usual traffic patterns",
+    "U.S. District Court": "a court that concluded on reasonable suspicion"
+  }
+}

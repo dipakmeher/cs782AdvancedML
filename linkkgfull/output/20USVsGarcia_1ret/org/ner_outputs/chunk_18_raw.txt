@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Court", "United States-Mexican"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Court": "the court making decisions on stops by immigration agents",
+    "United States-Mexican": "refers to the border between the United States and Mexico"
+  }
+}

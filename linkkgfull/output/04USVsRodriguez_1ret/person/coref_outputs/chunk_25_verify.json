@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the officer": "Reymundo Reyes",
+    "the inspector": null,
+    "Border Patrol agents": "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.",
+    "the owners": null,
+    "the employees": null,
+    "Defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers, testified in a hearing about his vehicle not going off the road",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants whose motions to suppress were recommended for denial by the Magistrate Judge",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050, and explained vehicle encounters, noted an observation of Ricardo Rodriguez's vehicle, testified during cross examination, approached a car with five passengers which was riding low due to the number of people, followed the black truck for around five minutes noticing it going often off the shoulder",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez and issued a citation, later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership"
+  }
+}

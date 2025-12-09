@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Magistrate Judge": "United States Magistrate Judge",
+    "District Judge": "United States District Judge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge making recommendations on motions to suppress evidence, including the reasonableness of stops and arrests under the totality of the circumstances",
+    "United States District Judge": "judge conducting independent reviews of motions to suppress evidence, ensuring adherence to lawful standards for traffic stops and arrests"
+  }
+}

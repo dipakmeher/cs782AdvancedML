@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "no driver's license": null,
+    "no insurance": null,
+    "expired registration": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Officer Reymundo Reyes": "Freer Police Department officer who stopped IGNACIO RODRIGUEZ, JR.'s vehicle and conducted an investigation",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050, searched after IGNACIO RODRIGUEZ, JR. gave consent, and had conflicting ownership claims",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan, with observations of repeated off-road driving"
+  }
+}

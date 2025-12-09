@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["aliens", "Zeba Williams", "Ramon De La Cruz", "Jorge Miguel Hernandez-Gomez", "Eric Camacho"],
+    "NOUN_PHRASE": ["the offense", "the conspiracy conviction", "the indictment", "the jury", "the trial evidence", "the smuggling network"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being smuggled",
+    "Zeba Williams": "alleged co-conspirator",
+    "Ramon De La Cruz": "defendant in the conspiracy case",
+    "Jorge Miguel Hernandez-Gomez": "individual who arranged to pay for smuggling",
+    "Eric Camacho": "United States Border Patrol Agent testifying about smuggling practices"
+  }
+}

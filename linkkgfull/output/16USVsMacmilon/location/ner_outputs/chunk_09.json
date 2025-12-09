@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Supreme Court"
+    ],
+    "NOUN_PHRASE": [
+      "checkpoint",
+      "vehicle",
+      "immigration checkpoints",
+      "the persons stopped",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Supreme Court": "recognized the constitutionality of suspicionless routine vehicle stops"
+  }
+}

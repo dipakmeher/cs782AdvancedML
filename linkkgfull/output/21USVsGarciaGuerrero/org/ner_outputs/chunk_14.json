@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ninth Circuit",
+      "Herrera court"
+    ],
+    "NOUN_PHRASE": [
+      "the court of appeals",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ninth Circuit": "a circuit court providing instructional case law",
+    "Herrera court": "a court of appeals that addressed intent requirement for an enhancement"
+  }
+}

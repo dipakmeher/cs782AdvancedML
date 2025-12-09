@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Trevino",
+      "Ricardo Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the agent",
+      "a smuggler",
+      "the Defendant",
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "initiated the stop",
+    "Ricardo Rodriguez": "individual stopped by Agent Trevino"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the tractor-trailer": "the tractor-trailer",
+    "Raymond McMillon's agreement": null,
+    "Zeba Williams' consent": null,
+    "Luis Pena's prolongation of the checkpoint stop": null,
+    "the United States District Court": "the United States District Court",
+    "Raymond McMillon's challenges to the search": null,
+    "the search at Freer, Texas": null,
+    "the threshold question": null,
+    "Raymond McMillon's arguments": null,
+    "the checkpoint stop at Freer, Texas": "the immigration checkpoint stop",
+    "Zeba Williams' tractor-trailer": "the tractor-trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the tractor-trailer": "Vehicle used by Zeba Williams and accompanied by Raymond McMillon to travel from San Antonio to Laredo, stopped at Freer, Texas",
+    "the United States District Court": "Court that reviews motions to suppress evidence obtained during checkpoint stops",
+    "the immigration checkpoint stop": "A stop conducted by United States Border Patrol agents to ask citizenship and travel questions and request consent for a search"
+  }
+}

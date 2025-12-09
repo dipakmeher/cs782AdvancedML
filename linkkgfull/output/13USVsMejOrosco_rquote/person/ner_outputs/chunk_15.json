@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mejia-Orosco"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "the trial judge"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mejia-Orosco": "defendant and organizer, leader, manager, or supervisor"
+  }
+}

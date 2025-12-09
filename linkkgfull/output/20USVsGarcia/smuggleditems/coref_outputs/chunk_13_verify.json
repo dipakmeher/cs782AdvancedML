@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States v. Garcia": "United States v. Garcia",
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "the Allen charge used in the 5th Circuit Court of Appeals": "modified Allen charge",
+    "the modified Allen charge used in the 5th Circuit Court of Appeals": "modified Allen charge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge",
+    "modified Allen charge": "a form of jury instruction used in the 5th Circuit Court of Appeals, considered permissible within certain limitations, given to the jury in Maria De Jesus Garcia's trial"
+  }
+}

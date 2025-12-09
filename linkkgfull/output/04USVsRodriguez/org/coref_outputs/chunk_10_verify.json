@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "the second vehicle": null,
+    "Dallas, Texas": null,
+    "Jorge Luis Trevino": "United States Border Patrol",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "U.S. 359": "Highway 359",
+    "Highway 59": "Highway 59",
+    "San Antonio": null,
+    "Highway 35": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hertz Dallas-Fort Worth": "rental car company whose vehicles were used by smugglers, often preferred because if caught, they would only lose a rental car, not one of their own vehicles",
+    "United States Border Patrol": "law enforcement agency monitoring traffic on Farm-to-Market Road 2050, familiar with local vehicles and recognizing approximately 90-95% of them as belonging to farmers and oil field workers. The agents are also aware that smaller cars seen in the area often belong to ranch owners or wind farm employees who try to avoid being followed by taking alternative routes.",
+    "Farm-to-Market Road 2050": "road frequently used for drop-offs of illegal aliens to avoid checkpoints and adjacent to the Border Patrol station parking lot. The road is also used by local ranchers and oil field workers.",
+    "Highway 359": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'",
+    "Highway 59": "highway with a checkpoint that smugglers try to avoid by using alternative routes"
+  }
+}

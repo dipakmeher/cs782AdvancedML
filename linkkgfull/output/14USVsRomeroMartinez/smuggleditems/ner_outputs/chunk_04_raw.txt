@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["illegal aliens", "narcotics"],
+    "NOUN_PHRASE": ["a vehicle", "the stowage"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "smuggled persons",
+    "narcotics": "smuggled substances"
+  }
+}

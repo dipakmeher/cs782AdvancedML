@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Corinth, Texas"
+    ],
+    "NOUN_PHRASE": [
+      "the same location",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Corinth, Texas": "location where the truck was registered"
+  }
+}

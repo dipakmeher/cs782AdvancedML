@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "the location": "Moore, Texas",
+    "the interstate highway": "Interstate Highway 35",
+    "the back of it": null,
+    "the camper shell attachment": null,
+    "the windows": null,
+    "the truck": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and the Brignoni-Ponce test, approximately 115 miles south of the stop in Texas",
+    "Moore, Texas": "location where the incident occurred, approximately 115 miles from the United States-Mexican border, and where border patrol agents had recently apprehended a number of illegal alien smugglers",
+    "Interstate Highway 35": "highway where the incident took place, with northbound lanes, leading directly to the United States-Mexican border and passing through Laredo, Texas, known as a common smuggling route with a history of alien smuggling",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens and subject of a court case, described as a pickup truck with a camper shell attachment"
+  }
+}

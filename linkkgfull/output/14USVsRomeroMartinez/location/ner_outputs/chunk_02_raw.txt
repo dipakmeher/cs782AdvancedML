@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cotulla, Texas", "Interstate 35", "Texas-Mexico border", "Texas", "Mexico"],
+    "NOUN_PHRASE": ["the vehicle", "the floorboard of the truck", "the back of the truck", "the toolbox"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cotulla, Texas": "location where the investigatory stop took place",
+    "Interstate 35": "road where Carlos Martinez-Romero was traveling",
+    "Texas-Mexico border": "border near where the stop occurred",
+    "Texas": "state where the stop took place",
+    "Mexico": "country of Carlos Martinez-Romero's citizenship"
+  }
+}

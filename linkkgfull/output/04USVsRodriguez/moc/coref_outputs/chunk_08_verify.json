@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the device": "a cellular phone",
+    "the radio": "the United States Border Patrol radio",
+    "the communication device": null,
+    "Agent Jorge Luis Trevino's communication device": "the United States Border Patrol radio",
+    "United States Border Patrol Agent Benavides' communication device": "the United States Border Patrol radio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication",
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations, including details about traffic stops and encounters with vehicles"
+  }
+}

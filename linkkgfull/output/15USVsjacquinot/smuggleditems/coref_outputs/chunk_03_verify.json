@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "contraband": "contraband",
+    "the load car": "load car"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "contraband": "suspected cargo in the load car, potentially carried by a vehicle traveling from Big Bend National Park"
+  }
+}

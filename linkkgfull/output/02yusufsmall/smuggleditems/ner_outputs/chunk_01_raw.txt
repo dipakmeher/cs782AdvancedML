@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["84 illegal aliens", "84 illegal aliens"],
+    "NOUN_PHRASE": ["the flatbed trailer used for smuggling", "several wooden crates", "a tarp"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "84 illegal aliens": "aliens being smuggled"
+  }
+}

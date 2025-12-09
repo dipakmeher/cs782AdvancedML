@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "United States": "United States",
+    "Freer checkpoint": "Freer immigration checkpoint",
+    "Border Patrol station": "Border Patrol station",
+    "a holding cell": null,
+    "a locked sliding door": null,
+    "a fairly large room": null,
+    "a separate area": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of jurisdiction",
+    "Laredo, Texas": "location where Marco Montemayor received a phone call regarding an attempted alien smuggling event",
+    "Freer immigration checkpoint": "location where Marco Montemayor arrived to investigate the attempted alien smuggling event",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was held in a holding cell before being interviewed by Marco Montemayor"
+  }
+}

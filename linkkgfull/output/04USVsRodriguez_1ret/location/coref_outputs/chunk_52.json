@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. 59",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "Highway 16": "Highway 16",
+    "this turn": null,
+    "that point": null,
+    "a roving": null,
+    "a major highway going north": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. 59": "route for smugglers to drive up and make a turn onto FM 2050",
+    "Farm-to-Market Road 2050": "turn for smugglers, location where vehicles were driving in tandem and going on and off the road, raising suspicions of nervousness among drivers",
+    "San Pablo Road": "alternative route for smugglers to drive over to Highway 16",
+    "Highway 16": "desired route for smugglers to avoid checkpoints, location where smugglers can work their way over to a major highway going north",
+    "Highway 35": "major highway going north, potential destination or route for smugglers"
+  }
+}

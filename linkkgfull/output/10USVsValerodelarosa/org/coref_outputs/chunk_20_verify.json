@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court for the Southern District of Texas",
+    "United States Sentencing Guidelines": "United States Sentencing Commission",
+    "Amendment 740 of the United States Sentencing Guidelines": "United States Sentencing Commission",
+    "Amendment 742 of the United States Sentencing Guidelines": "United States Sentencing Commission",
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court for the Southern District of Texas": "court where Rogelio Valero-De La Rosa's case was heard and his plea was entered",
+    "United States Sentencing Commission": "issuer of guidelines for sentencing, including provisions for cultural assimilation and recency points, with amendments such as 740 and 742",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court giving weight to defendant's statements at the plea colloquy and setting standards for counsel's conduct"
+  }
+}

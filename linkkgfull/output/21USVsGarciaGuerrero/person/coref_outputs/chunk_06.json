@@ -1,0 +1,38 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Inocencio Garcia-Guerrero": "Inocencio Garcia-Guerrero",
+    "Garcia": "Inocencio Garcia-Guerrero",
+    "KING": "KING",
+    "Defendant": "Inocencio Garcia-Guerrero",
+    "the district court": null,
+    "the court": null,
+    "Alma Delia Simon-Fernandez": "Alma Delia Simon-Fernandez",
+    "Jaime Gomez-Arroyo": "Jaime Gomez-Arroyo",
+    "a group of nine undocumented aliens": null,
+    "the group": "Inocencio Garcia-Guerrero, Alma Delia Simon-Fernandez, Jaime Gomez-Arroyo, and seven other undocumented aliens",
+    "a member of the group": null,
+    "her uncle": "Jaime Gomez-Arroyo",
+    "the other members of the group": null,
+    "a nearby ranch hand": null,
+    "Simon-Fernandez": "Alma Delia Simon-Fernandez",
+    "Gomez-Arroyo": "Jaime Gomez-Arroyo",
+    "the ranch hand": null,
+    "border patrol agents": null,
+    "emergency technicians": null,
+    "the probation officer": null,
+    "a border patrol agent": null,
+    "this court": null,
+    "another person": null,
+    "he": "Inocencio Garcia-Guerrero",
+    "counsel for Garcia": null,
+    "the defendant": "Inocencio Garcia-Guerrero",
+    "Cuyler": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Inocencio Garcia-Guerrero": "Defendant who pled guilty to transporting undocumented aliens for financial gain and acted as a guide into the United States, guiding a group of nine aliens including Alma Delia Simon-Fernandez, and had his base offense level enhanced due to recklessly creating a substantial risk of death or serious bodily injury. He is argued to not have engaged in reckless conduct similar to that listed in the guideline commentary. Garcia also argued about the definition of reckless conduct.",
+    "KING": "Chief Judge presiding over the case",
+    "Alma Delia Simon-Fernandez": "undocumented female alien who died from probable heat stroke during the journey",
+    "Jaime Gomez-Arroyo": "uncle of Alma Delia Simon-Fernandez who met with border patrol agents and remained behind with her when she became ill",
+    "Inocencio Garcia-Guerrero, Alma Delia Simon-Fernandez, Jaime Gomez-Arroyo, and seven other undocumented aliens": "group of nine aliens being guided by Inocencio Garcia-Guerrero for financial gain"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the Court", "the agent"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

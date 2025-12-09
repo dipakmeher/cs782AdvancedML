@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Mexico"
+    ],
+    "NOUN_PHRASE": [
+      "the border",
+      "the highway",
+      "the point"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

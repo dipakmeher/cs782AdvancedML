@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America"],
+    "NOUN_PHRASE": ["district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "the government seeking review"
+  }
+}

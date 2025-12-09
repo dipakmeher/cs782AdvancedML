@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a group of aliens": "nineteen undocumented aliens",
+    "seven aliens": "seven other undocumented aliens",
+    "four aliens": null,
+    "undocumented aliens": "nineteen undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented alien": "individual being smuggled, involved in a case of reckless endangerment and resulting death during smuggling",
+    "nine undocumented aliens": "group of nine undocumented immigrants being smuggled from Mexico to the United States",
+    "seven other undocumented aliens": "additional group of seven undocumented immigrants being smuggled from Mexico to the United States",
+    "nineteen undocumented aliens": "total number of undocumented immigrants in the group, involved in a case of reckless endangerment and resulting death during smuggling, transported in an extended cab pickup truck for financial gain",
+    "Alma Delia Simon-Fernandez": "deceased undocumented female alien, died from heat stroke",
+    "Jaime Gomez-Arroyo": "individual met by Border Patrol agents",
+    "Inocencio Garcia-Guerrero": "guide for the group of undocumented aliens, transported them for financial gain and created a substantial risk of death or serious bodily injury, defendant"
+  }
+}

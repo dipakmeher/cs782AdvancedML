@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "two vehicles",
+      "vehicles with illegals",
+      "the loop",
+      "the vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

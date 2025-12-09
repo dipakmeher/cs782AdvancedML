@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexico border": "United States-Mexican border",
+    "the interior of Maria De Jesus Garcia's vehicle": "camper compartment of Maria De Jesus Garcia's vehicle",
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "location where the stop is made miles and miles from, relevant for roving border patrol stops and determining distance",
+    "camper compartment of Maria De Jesus Garcia's vehicle": "area where occupants were observed scrambling to hide from the border patrol agents' flashlight, potentially in response to the light or to conceal themselves"
+  }
+}

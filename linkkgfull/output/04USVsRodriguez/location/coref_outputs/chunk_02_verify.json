@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the Court": "Court",
+    "Freer Police Department": "Freer Police Department",
+    "the stop": "traffic stop",
+    "the scope of the stop": null,
+    "the nature of the interrogation": null,
+    "the traffic stop": "traffic stop",
+    "the series of vehicle stops": null,
+    "the warrants": null,
+    "the arrest": null,
+    "the hearing": null,
+    "March": null,
+    "February": null,
+    "May": null,
+    "Dkt. No. 35": null,
+    "Dkt. No. 39": null,
+    "Dkt. No. 21": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "Country where the legal proceedings are taking place, country of the magistrate judge",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr., with relevant precedents regarding traffic stops and reasonable suspicion",
+    "Freer Police Department": "Employer of Officer Reymundo Reyes, involved in the traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "traffic stop": "law enforcement action taken based on reasonable suspicion of illegal activity, assessed in two parts: justification at inception and reasonableness of subsequent actions, with a scope that must be temporary and last no longer than necessary to effectuate the purpose of the stop"
+  }
+}

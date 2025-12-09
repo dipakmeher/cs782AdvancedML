@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": null,
+    "the same location": null,
+    "where drugs or drug paraphernalia are stored": null,
+    "where part of the transaction occurred": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alpine, Texas": "location where agents had experience and towards which the truck was traveling, destination of the truck after turning left onto Highway 90, ending point of the truck's travel route, location of recent narcotics smuggling",
+    "United States/Mexican border": "reference point for determining proximity and reasonable suspicion in the context of vehicle stops and smuggling activities, area where sensors were activated to track a truck's movement, relevant to the case as a physical boundary",
+    "Big Bend National Park": "location with unusual traffic patterns on Sunday mornings, where work vehicles typically leave in groups at the end of the work day or week, starting point of the truck's travel route",
+    "Marfa Sector Area Operations Center": "previous work location of Jay Snodgrass and sector whose Communications notified the agents",
+    "Laredo, Texas": "previous work location of Jay Snodgrass",
+    "Texas": "state where smuggling activities are taking place",
+    "Texas Highway 385": "highway from which most vehicles would continue straight toward Fort Stockton and Interstate 10, known for alien and narcotics smuggling, had vehicle sensors activated in an area less than 50 miles from the border, notorious smuggling route, road at an intersection where the driver stopped",
+    "Mississippi": "state of origin for a vehicle's license plate",
+    "Kansas": "state of origin for a suspicious vehicle's license plate, associated with a smuggling organization transporting marijuana from the Big Bend area, state where the truck's license plate was from, destination of smuggled narcotics",
+    "Marathon, Texas": "location where the truck drove through at 20 miles per hour",
+    "Highway 90": "road where the truck turned left, road with a posted speed limit of 20 miles per hour",
+    "Fort Stockton": "destination for most vehicles coming up Highway 385",
+    "Interstate 10": "highway toward which most vehicles would continue from Highway 385",
+    "Highway 118": "most direct and logical route of travel from Big Bend to Alpine",
+    "district court": "court that denied Brignoni-Ponce Jacquinot's motion and sentenced him, also reviewed the denial of a motion to suppress"
+  }
+}

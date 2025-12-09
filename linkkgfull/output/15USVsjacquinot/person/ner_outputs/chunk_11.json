@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Jacquinot",
+      "Brignoni-Ponce"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the agents",
+      "the defendant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jacquinot": "driver of the truck",
+    "Brignoni-Ponce": "reference to a legal factor"
+  }
+}

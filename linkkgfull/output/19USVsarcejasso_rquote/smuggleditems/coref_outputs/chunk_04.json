@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "cocaine": "cocaine",
+    "the cocaine": "cocaine",
+    "the documents": null,
+    "the 1996 Mercury Cougar": null,
+    "the side panel": null,
+    "drug evidence": "cocaine",
+    "the drug evidence": "cocaine"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "cocaine": "possession with intent to distribute, found in case of Raul Rafael Arce-Jasso, suppressed as evidence"
+  }
+}

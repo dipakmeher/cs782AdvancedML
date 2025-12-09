@@ -1,0 +1,38 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco",
+    "Hector Galvencio Paz-Ortega": "Hector Galvencio Paz-Ortega",
+    "Carlos Enrique Cruz-Morales": "Carlos Enrique Cruz-Morales",
+    "the district court": "United States District Court",
+    "the United States": "United States of America",
+    "immigration officials": null,
+    "law enforcement officials": null,
+    "United States Sentencing Commission": "United States Sentencing Commission",
+    "court of appeals": "United States Court of Appeals",
+    "district court": "United States District Court",
+    "the court": "United States Court of Appeals",
+    "Congress": "United States Congress",
+    "parole officials": null,
+    "S.Rep": "Senate Report",
+    "U.S. Code Cong. & Admin.News": "Official publication of US Congressional and Administrative materials",
+    "the sentencing guidelines": "United States Sentencing Commission Guidelines",
+    "the guidelines": "United States Sentencing Commission Guidelines",
+    "a district court": "United States District Court",
+    "the sentencing judge": null,
+    "the universe of potential factors": null,
+    "Commission": "United States Sentencing Commission"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Juventino Mejia-Orosco": "Defendant convicted of illegally transporting aliens into the United States",
+    "Hector Galvencio Paz-Ortega": "Passenger and citizen of Guatemala",
+    "Carlos Enrique Cruz-Morales": "Passenger and citizen of Guatemala",
+    "United States District Court": "Court that imposes sentences, judges witness credibility, has fact-finding power in sentencing procedure, and is subject to review by the court of appeals",
+    "United States of America": "Country where aliens were transported",
+    "United States Sentencing Commission": "Promulgated guidelines for sentencing used by the district court in calculating Juventino Mejia-Orosco's sentence, responsible for guidelines used in sentencing",
+    "United States Court of Appeals": "Reviews the record, determines sentence validity, and remands cases for further sentencing proceedings if necessary",
+    "United States Congress": "Legislative body that enacted sentencing guidelines to reduce disparity in punishment and ensure fair sentences",
+    "Senate Report": "Official report of the US Senate",
+    "Official publication of US Congressional and Administrative materials": "Compilation of official US Congressional and Administrative documents",
+    "United States Sentencing Commission Guidelines": "Guidelines providing a framework for district courts to impose sentences, considering various factors for fairness and appropriateness"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the United States of America": "United States of America",
+    "the appeal": null,
+    "the case": null,
+    "the defendant": null,
+    "the motion to subpoena the footage": null,
+    "the subpoena": null,
+    "the videotape": null,
+    "the footage": null,
+    "the evidence": null,
+    "the district court": null,
+    "the defendant Smith": "defendant Smith",
+    "Smith": "defendant Smith"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "party in the appeal, appellant regarding post-verdict suppression order",
+    "defendant Smith": "indicted suspect in an arson case, joined United States of America on the motion to subpoena footage"
+  }
+}

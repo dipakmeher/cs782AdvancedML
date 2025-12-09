@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "ROBERT M. PARKER": "ROBERT M. PARKER",
+    "Judge Wiener": "Judge Wiener",
+    "the officer": "Andrew P. Graham",
+    "the officers": null,
+    "the defendants": null,
+    "the Circuit Judge": "ROBERT M. PARKER"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ROBERT M. PARKER": "Circuit Judge, author of a special concurring opinion regarding the absurdity of jurisprudence related to the southern border area of Texas",
+    "Judge Wiener": "author of a dissent highlighting the absurdity of jurisprudence related to the southern border area of Texas",
+    "Andrew P. Graham": "Border Patrol Agent who testified about recent narcotics smuggling in the Alpine area, contributing to the reasonable suspicion determination"
+  }
+}

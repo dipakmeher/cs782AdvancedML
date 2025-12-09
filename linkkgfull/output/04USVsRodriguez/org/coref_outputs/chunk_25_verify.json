@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States-Mexico border": "United States-Mexico border",
+    "Fifth Circuit": "Fifth Circuit Court of Appeals",
+    "United States Border Patrol": "United States Border Patrol",
+    "Echo 43": "Echo 43 checkpoint",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": null,
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "Agent Trevino": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico border": "geographical boundary used as a factor in determining reasonable suspicion for United States Border Patrol stops",
+    "Fifth Circuit Court of Appeals": "a court that has noted the order of vehicles in a smuggling venture is not significant and provides guidance on reasonable suspicion for traffic stops",
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in the reasonable suspicion doctrine, with proximity to the United States-Mexico border being a vital element",
+    "Echo 43 checkpoint": "checkpoint on Highway 59 where United States Border Patrol agents were stationed, within fifty miles of the Mexico border",
+    "black Dodge pickup truck": "vehicle driven by IGNACIO RODRIGUEZ, JR. and subject to a canine search, encountered by Agent Trevino within fifty miles of the United States-Mexico border",
+    "white Malibu sedan": "vehicle stopped by Agent Trevino on Farm-to-Market Road 2050, transporting illegals, and traveling in tandem with the black Dodge pickup truck",
+    "United States Border Patrol agents": "agents who encounter illegal aliens and are familiar with local vehicles, recognizing approximately 90-95% of them as belonging to farmers and oil field workers"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": "United States Border Patrol",
+    "the department": "United States Department of Homeland Security",
+    "the Court": "United States District Court",
+    "Court": "United States Court",
+    "the officer": "Officer Reymundo Reyes"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "involved in the stop of RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; considered the behavior of vehicles' drivers in determining reasonable suspicion to stop; followed suspicious vehicles for approximately five minutes; conducted a roving stop; familiar with most vehicles on Farm-to-Market Road 2050",
+    "United States Department of Homeland Security": "received information regarding attempted alien smuggling events; conducted interviews at the Freer immigration checkpoint",
+    "United States District Court": "held a hearing on the pending motions to suppress and considered factors for reasonable suspicion",
+    "United States Court": "governing body for traffic stops and arrests, applying principles set out in Terry",
+    "Officer Reymundo Reyes": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR., noticed he was nervous and shaking during the interaction; issued a citation and impounded the black Dodge pickup truck due to unclear ownership and lack of insurance information; cooperated with United States Border Patrol during the traffic stop"
+  }
+}

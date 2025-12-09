@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "the highway": "Interstate Highway 35",
+    "the point": null,
+    "United States": "United States",
+    "Mexico": "Mexico"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place, with a Constitution that protects residents from unreasonable searches and seizures",
+    "Mexico": "country of origin for illegal migrants",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, reference point for distance",
+    "Interstate Highway 35": "highway leading directly to the border and passing through Laredo, Texas, common smuggling route with history of alien smuggling, where vehicles are usually traveling at higher speeds late at night"
+  }
+}

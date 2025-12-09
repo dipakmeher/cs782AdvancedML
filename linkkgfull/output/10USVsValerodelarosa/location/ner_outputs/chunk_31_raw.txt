@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo", "United States", "Southern District of Texas", "Laredo Division", "United States District Court"],
+    "NOUN_PHRASE": ["this case", "the docket entry", "the court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location of the division of the United States District Court",
+    "United States": "country where the court is located",
+    "Southern District of Texas": "jurisdictional region of the United States District Court",
+    "Laredo Division": "division of the United States District Court",
+    "United States District Court": "court where the case is being heard"
+  }
+}

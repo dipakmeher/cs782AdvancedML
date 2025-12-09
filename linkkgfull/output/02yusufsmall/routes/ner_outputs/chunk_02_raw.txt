@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Auburn Road"],
+    "NOUN_PHRASE": ["the loading dock"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Auburn Road": "location of a lot in Laredo, Texas"
+  }
+}

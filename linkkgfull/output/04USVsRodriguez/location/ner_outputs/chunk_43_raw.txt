@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["FM 2050", "U.S. 359", "Highway 16", "Corinth, Texas", "Dallas-Fort Worth"],
+    "NOUN_PHRASE": ["the location of the traffic stop", "that type of a truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "location where Agent Trevino encountered illegals",
+    "U.S. 359": "direction in which the black truck was heading",
+    "Highway 16": "location of Agent Benavides",
+    "Corinth, Texas": "origin of one of the vehicles",
+    "Dallas-Fort Worth": "destination of IGNACIO RODRIGUEZ, JR. and origin of another vehicle"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the government": "United States of America",
+    "federal grand jury": "United States Federal Grand Jury",
+    "co-defendants": null,
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Probation Department": "Probation Department",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States Supreme Court": "United States Supreme Court",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "Congress": "United States Congress",
+    "United States": "United States of America",
+    "the Probation Department": "Probation Department",
+    "PSR": "Presentence Report",
+    "the jury": "United States Federal Grand Jury",
+    "Antiterrorism and Effective Death Penalty Act of 1996": "Antiterrorism and Effective Death Penalty Act of 1996",
+    "United States District Court": "United States District Court",
+    "United States District": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nancy F. Atlas": "Judge in the case of Jose Marlon Ibarra-Zelaya who denied his motion to vacate, set aside, or correct sentence and dismissed the corresponding civil action, sentenced Jose Marlon Ibarra-Zelaya to 292 months in prison",
+    "Jose Marlon Ibarra-Zelaya": "Defendant who filed a motion to vacate, set aside, or correct sentence under and submitted a memorandum in support of his claims, convicted of conspiracy to commit hostage taking, argues that he is entitled to relief from his sentence due to incorrect calculation under the United States Sentencing Guidelines Manual",
+    "United States Federal Grand Jury": "Returned a five-count superseding indictment against Jose Marlon Ibarra-Zelaya and co-defendants for conspiracy and offenses stemming from an illegal alien smuggling venture",
+    "United States Sentencing Guidelines Manual": "Manual used for calculating sentences, including the calculation of Jose Marlon Ibarra-Zelaya's sentence, determines punishment under the guidelines, subject of dispute in Jose Marlon Ibarra-Zelaya's motion for relief, with different editions potentially affecting sentencing outcomes, applied by Nancy F. Atlas",
+    "Probation Department": "Determined Jose Marlon Ibarra-Zelaya's base level offense and recommended increases, prepares a presentence report, applied special offense characteristics to enhance Jose Marlon Ibarra-Zelaya's base offense level",
+    "United States Court of Appeals for the Fifth Circuit": "Affirmed conviction and sentence of Jose Marlon Ibarra-Zelaya in a joint appeal, rejecting claims of improper sentence enhancements, found no error in Jose Marlon Ibarra-Zelaya's punishment",
+    "United States Supreme Court": "Highest court in the land, decided that the United States Sentencing Guidelines Manual were advisory, potential recipient of a petition for a writ of certiorari",
+    "Adrian Almaguer": "Attorney for Jose Marlon Ibarra-Zelaya, subject of complaint by Jose Marlon Ibarra-Zelaya for failing to object to sentence calculation under the United States Sentencing Guidelines Manual, involved in ineffective assistance claims on collateral review, pointed out that issues were raised and rejected on direct appeal",
+    "United States Congress": "The legislative branch of the United States government, responsible for enacting laws, including those related to sentencing guidelines",
+    "United States of America": "The country where the legal case is taking place, with its own set of laws and constitutional protections",
+    "Presentence Report": "Document prepared by the Probation Department that contains recommendations for Jose Marlon Ibarra-Zelaya's sentence",
+    "Antiterrorism and Effective Death Penalty Act of 1996": "Governing act for Jose Marlon Ibarra-Zelaya's motion, requiring a certificate of appealability before an appeal may proceed to the United States Court of Appeals for the Fifth Circuit",
+    "United States District Court": "A court that may deny a certificate of appealability and where Nancy F. Atlas is a judge"
+  }
+}

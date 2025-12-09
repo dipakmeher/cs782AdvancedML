@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Orona-Sanchez", "Lamas", "Pacheco", "Pena-Cantu", "Maria De Jesus Garcia"],
+    "NOUN_PHRASE": ["the area", "the vehicle", "the back seat", "the seat"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Orona-Sanchez": "a case referenced in the ruling",
+    "Lamas": "a case referenced in the ruling",
+    "Pacheco": "a case referenced in the ruling",
+    "Pena-Cantu": "a case referenced in the ruling",
+    "Maria De Jesus Garcia": "the owner of the vehicle"
+  }
+}

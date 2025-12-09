@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ms. Salinas"],
+    "NOUN_PHRASE": ["herself", "government counsel", "counsel for both sides"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ms. Salinas": "subject of inquiry"
+  }
+}

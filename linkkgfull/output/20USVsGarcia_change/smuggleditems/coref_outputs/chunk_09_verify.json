@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "pickup truck camper": "pickup truck camper",
+    "the passengers": "undocumented aliens",
+    "the pickup truck camper": "pickup truck camper",
+    "the vehicle": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals suspected of crossing the border illegally, potentially traveling in a crowded pickup truck camper, often stopped by immigration agents based on their appearance and circumstances, indicated by fogged windows and heavy loading of the vehicle, with unwashed and unkempt appearance, attempting to avoid detection",
+    "pickup truck camper": "vehicle stopped by United States Border Patrol more than 100 miles from the United States-Mexican border, on Interstate Highway 35, without evidence it had crossed the border, with factors present that satisfy the Brignoni-Ponce standard, including heavily loaded and fogged windows, unusually slow speed, and suspicious behavior of occupants"
+  }
+}

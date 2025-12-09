@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution, referenced in relation to cruel and unusual punishment",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, providing a structured facility for rehabilitation and confinement, offering various services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs"
+  }
+}

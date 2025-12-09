@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Maria De Jesus Garcia's pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "the United States-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35": null,
+    "Stanley Pruszenski": null,
+    "Alfred Baron": null,
+    "Laredo, Texas": null,
+    "Moore": null,
+    "the city of Laredo, Texas": null,
+    "the towns": null,
+    "a public highway leading from the United States-Mexican border": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle stopped by United States Border Patrol agents more than 100 miles from the United States-Mexican border",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents"
+  }
+}

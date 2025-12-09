@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexico border": "United States-Mexican border",
+    "particular highways": null,
+    "smuggling routes": null,
+    "the vehicle": "camper",
+    "the car": "camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, where patrol agents operate",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence, often heavily loaded and with fogged windows, driven by Maria De Jesus Garcia, occupants attempting to hide from view, traveling at slow speed late at night on Interstate 35"
+  }
+}

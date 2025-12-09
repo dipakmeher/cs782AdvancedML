@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Cotulla, Texas": "Cotulla, Texas",
+    "Texas": "Texas",
+    "the area": "area covered by the Cotulla, Texas station",
+    "the location": "location of the instant stop"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location of the border patrol station where agents Stanley Pruszenski and Alfred Baron served",
+    "Texas": "state where the border patrol agents served, with areas prone to illegal alien traffic",
+    "area covered by the Cotulla, Texas station": "region served by border patrol agents with a history of illegal alien traffic, relevant to the context of the stop",
+    "location of the instant stop": "place where Maria De Jesus Garcia's vehicle was stopped by border patrol agents, based on recent apprehensions of illegal alien smugglers in the area and suspicious behavior of the occupants"
+  }
+}

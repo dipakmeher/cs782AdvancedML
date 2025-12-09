@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ricardo Rodriguez", "Agent Trevino"],
+    "NOUN_PHRASE": ["the agent", "Border Patrol agents", "illegal aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ricardo Rodriguez": "testified in a hearing",
+    "Agent Trevino": "noted an observation and was cross-examined"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "district court",
+    "the court of appeals": "court of appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "district court": "court that makes factual findings and applies sentencing guidelines, responsible for clarifying ultimate factual findings, calculated sentence imposed on Juventino Mejia-Orosco",
+    "court of appeals": "court reviewing sentence imposed by district court, giving due regard to district court's opportunity to judge witness credibility, governed review of the sentence imposed by CLARK"
+  }
+}

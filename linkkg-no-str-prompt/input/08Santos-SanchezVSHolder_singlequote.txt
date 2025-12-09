@@ -1,0 +1,60 @@
+ 
+
+ 
+ 
+ 
+
+
+ Jesus Natividad Santos-Sanchez is a Defendant.
+
+     JAMES E. GRAVES, JR., Circuit Judge: 
+
+ This  is a petition for review from a BIA decision dismissing Jesus  Natividad Santos-Sanchez's ('Santos') appeal from a  removal order. The BIA determined that Santos's conviction for  aiding and abetting improper entry under established his removability pursuant to .  We conclude that Santos's conviction documents are sufficient to  establish that his conduct renders him removable under and deny the petition for review. 
+
+
+ I.  Facts and Procedural Background 
+
+ Santos,  a native and citizen of Mexico, became a lawful permanent resident  of the United States in 2001. In 2003, he pleaded    guilty  to aiding and abetting the illegal entry of Alberto Fonseca  Rodriguez ('Fonseca'), a Mexican national, in violation of and .  The criminal complaint set forth that the car Santos was driving was  inspected as he approached a border patrol checkpoint in Laredo , Texas ,  and that Fonseca was found in the rear seat. The complaint also  provided that investigation revealed that Santos was called by an  unknown person to pick up Fonseca after Fonseca crossed the Rio  Grande River. 
+
+ The  Department of Homeland Security ('DHS') initiated removal  proceedings against Santos under an alien  smuggling provision. See  .  An immigration judge ('IJ') determined that Santos was not  removable because Santos's conviction did not fall under the purview of and terminated the proceedings. The BIA, in a decision rendered April 25, 2006, disagreed and  concluded that the conviction documents established that the  transportation in this case constituted aiding and abetting illegal  reentry. The BIA vacated the IJ's order terminating the removal  proceedings and remanded the case for further proceedings. 
+
+ On  September 12, 2006, Santos filed a petition for a writ of coram  nobis in the    district court where he pleaded guilty, seeking to vacate his  conviction on the ground that he had not been properly advised of  the immigration consequences of his guilty plea. While Santos's  petition for coram nobis relief remained pending, the IJ conducted a  merits hearing; Santos attempted to attack the finality of his  conviction by submitting evidence of his efforts to obtain a writ of  coram nobis. The DHS offered documentary and testimonial evidence apart from the  conviction documents to show that Santos spoke with Fonseca before  Fonseca left Mexico, and at that time arranged to pick up Fonseca  near Laredo after he crossed the border. The IJ determined that both  the conviction documents and the additional evidence regarding    Santos's  conduct established that Santos was removable under .  Santos appealed to the BIA. 
+
+ In  a May 5, 2008 decision, the BIA dismissed Santos's appeal. The BIA  noted its prior holding that Santos's 'conviction for alien  smuggling was established via a categorical match between the grounds of  removability and the terms of the statutes under which he was  convicted' and that this holding remained the law of the case.  The BIA held that insofar as Santos remained convicted of violating and ,  his convictions rendered him removable under .  Santos filed a timely petition for review. 
+
+
+ II.  Discussion 
+
+ The  question we must decide is whether    Santos's  conviction under rendered him removable pursuant to .  We have jurisdiction over this appeal pursuant to .   The government is required to establish the grounds of removability  by 'clear, unequivocal, and convincing evidence.' .   We review factual conclusions of the BIA for substantial evidence. .  We review questions of law de novo, with deference to the BIA's  interpretations of ambiguous provisions of the INA. Id . 
+
+ Santos  pleaded guilty to aiding or abetting violation of . provides: 
+
+   Any alien who (1) enters or attempts to enter the United States at  any time or place other than as designated by immigration officers,  or (2) eludes examination or inspection by immigration officers, or  (3) attempts to enter or obtains entry to the United States by a  willfully false or misleading representation or the willful  concealment of a material fact, shall, for the first commission of  any such offense, be fined under Title 18 or imprisoned not more  than 6 months, or both, and, for a subsequent commission of    any  such offense, be fined under Title 18, or imprisoned not more than 2  years, or both. 
+
+ .  He was sentenced to one year probation and a fine. Santos was then  charged by DHS with being removable    under ,  which provides in pertinent part that:   'any alien who . . . knowingly has encouraged, induced,  assisted, abetted, or aided any other alien to enter or to try to  enter the United States in violation of law is deportable.' 
+
+ After  the BIA's decision in this case, the BIA concluded that conviction  under necessarily establishes an alien's removability pursuant to . See (BIA 2009). Santos disputes that conclusion, arguing that may be violated in ways that are unconnected to an illegal entry.  However, we find it unnecessary to reach the question of whether  every violation of automatically establishes removability under .  Despite Santos's argument to the contrary, in his case, the BIA did  not rely on a finding that there was a 'categorical match'  between the statutes to find him removable. Reading the 2006 and  2008 BIA decisions    together,  it is clear that the BIA actually relied on the documents associated  with Santos's conviction, including the criminal complaint and judgment of  conviction, to find that Santos's particular conduct established his  removability. We likewise look to those documents to resolve this  appeal. See   (providing that an 'official record of judgment and conviction'  shall constitute proof of a criminal conviction); (providing that for guilty pleas, the record of conviction includes  the charging document). 
+
+ The  BIA found Santos removable because the conviction documents  establish that he 'encouraged, induced, assisted, abetted, or  aided any other alien to enter or to try to enter the United States  in violation of law.' .  The judgment in Santos's criminal case specifically states that  Santos was charged with and convicted of 'knowingly and  willfully aid sic and abet sic the illegal entry of Mexican  alien, Alberto Fonseca Rodriguez, by attempting to transport him to  further his entry into the United States, in violation of and    ,  as charged by Criminal Complaint.' Santos heavily relies on his  argument that the conviction documents do not state what subsection  of he was charged with violating, and thus that he could have been  convicted of merely aiding Fonseca to elude examination or  inspection in a manner unconnected to entry. However, the conviction  documents clearly describe aiding and abetting an illegal entry.  Santos makes a similar argument that the conviction documents  establish that, at most, he was convicted of mere transporting.  However, the fact that the transporting was sufficiently connected  to the entry is also established by the conviction itself, for  'aiding and abetting illegal entry . . . by attempting to  transport Fonseca to further his entry into the United States.' See (BIA 1957) (explaining that transporting can be aiding entry where  aliens were picked up after entry with a previous design); see  also (noting that 'requires the government to prove how the entry was effected').  Santos's arguments are essentially    collateral attacks on his prior conviction,    which  are not permitted in an appeal of a removal order. See ; see  also . 
+
+ The  BIA's finding that the conviction documents associated with Santos's  § 1325(a) conviction established Santos's removability pursuant to is supported by substantial evidence. 
+
+
+     III.  Conclusion 
+
+ For  the foregoing reasons, the petition for review is DENIED. 
+
+
+ 
+
+
+ E nd  of Document   
+
+ 1  The  IJ appears to have    concluded  that since violation of is not an aggravated felony, Santos was not removable. However, DHS  charged Santos with being removable under ,  not under the aggravated felony removability provision, .  Violation of is not an aggravated felony. (BIA 1999).   
+
+ 2  The  district court subsequently denied the writ of coram nobis, and this  court affirmed. See .   
+
+ 3  In  November 2009, this court granted Santos's unopposed Motion to Abate  Appeal pending the determination of his petition for writ of  certiorari to the Supreme Court in his coram nobis proceeding. The  Supreme Court denied Santos's petition on May 28, 2013,  ,  and this appeal was removed from abeyance.          
+   
+   
+        

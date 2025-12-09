@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the United States": "United States",
+    "San Luis": null,
+    "Potosi": null,
+    "Mexico": "Mexico",
+    "San Antonio": null,
+    "Nuevo Laredo": null,
+    "Rio Grande River": null,
+    "South Texas": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "the sentencing and appealing party in the case of Inocencio Garcia-Guerrero, destination country for undocumented aliens",
+    "Mexico": "country of origin for undocumented aliens"
+  }
+}

@@ -1,0 +1,1881 @@
+[2025-08-25 08:25:42] Starting Chunking Step...
+[2025-08-25 08:25:42] Starting chunking for ./output/04USVsRodriguez_1ret/moc/moc_resolved_04USVsRodriguez_1ret.txt...
+[2025-08-25 08:25:44] Loading GPT-2 tokenizer...
+[2025-08-25 08:25:44] Last chunk too small (37 words). Merging with previous.
+[2025-08-25 08:25:44] Saved chunk 01 (40 words)
+[2025-08-25 08:25:44] Saved chunk 02 (275 words)
+[2025-08-25 08:25:44] Saved chunk 03 (2 words)
+[2025-08-25 08:25:44] Saved chunk 04 (221 words)
+[2025-08-25 08:25:44] Saved chunk 05 (95 words)
+[2025-08-25 08:25:44] Saved chunk 06 (221 words)
+[2025-08-25 08:25:44] Saved chunk 07 (27 words)
+[2025-08-25 08:25:44] Saved chunk 08 (226 words)
+[2025-08-25 08:25:44] Saved chunk 09 (126 words)
+[2025-08-25 08:25:44] Saved chunk 10 (221 words)
+[2025-08-25 08:25:44] Saved chunk 11 (10 words)
+[2025-08-25 08:25:44] Saved chunk 12 (221 words)
+[2025-08-25 08:25:44] Saved chunk 13 (221 words)
+[2025-08-25 08:25:45] Saved chunk 14 (255 words)
+[2025-08-25 08:25:45] Saved chunk 15 (113 words)
+[2025-08-25 08:25:45] Saved chunk 16 (259 words)
+[2025-08-25 08:25:45] Saved chunk 17 (33 words)
+[2025-08-25 08:25:45] Saved chunk 18 (269 words)
+[2025-08-25 08:25:45] Saved chunk 19 (267 words)
+[2025-08-25 08:25:45] Saved chunk 20 (266 words)
+[2025-08-25 08:25:45] Saved chunk 21 (224 words)
+[2025-08-25 08:25:45] Saved chunk 22 (378 words)
+[2025-08-25 08:25:45] Saved chunk 23 (251 words)
+[2025-08-25 08:25:45] Saved chunk 24 (240 words)
+[2025-08-25 08:25:45] Saved chunk 25 (285 words)
+[2025-08-25 08:25:45] Saved chunk 26 (360 words)
+[2025-08-25 08:25:45] Saved chunk 27 (232 words)
+[2025-08-25 08:25:45] Saved chunk 28 (295 words)
+[2025-08-25 08:25:45] Saved chunk 29 (355 words)
+[2025-08-25 08:25:45] Saved chunk 30 (286 words)
+[2025-08-25 08:25:45] Saved chunk 31 (320 words)
+[2025-08-25 08:25:45] Saved chunk 32 (195 words)
+[2025-08-25 08:25:45] Saved chunk 33 (227 words)
+[2025-08-25 08:25:45] Saved chunk 34 (2 words)
+[2025-08-25 08:25:45] Saved chunk 35 (353 words)
+[2025-08-25 08:25:45] Saved chunk 36 (11 words)
+[2025-08-25 08:25:45] Saved chunk 37 (361 words)
+[2025-08-25 08:25:45] Saved chunk 38 (305 words)
+[2025-08-25 08:25:45] Saved chunk 39 (489 words)
+[2025-08-25 08:25:45] Saved chunk 40 (378 words)
+[2025-08-25 08:25:45] Saved chunk 41 (526 words)
+[2025-08-25 08:25:45] Saved chunk 42 (371 words)
+[2025-08-25 08:25:45] Saved chunk 43 (447 words)
+[2025-08-25 08:25:45] Saved chunk 44 (330 words)
+[2025-08-25 08:25:45] Saved chunk 45 (265 words)
+[2025-08-25 08:25:45] Saved chunk 46 (345 words)
+[2025-08-25 08:25:45] Saved chunk 47 (210 words)
+[2025-08-25 08:25:45] Saved chunk 48 (186 words)
+[2025-08-25 08:25:45] Saved chunk 49 (184 words)
+[2025-08-25 08:25:45] Saved chunk 50 (232 words)
+[2025-08-25 08:25:45] Saved chunk 51 (309 words)
+[2025-08-25 08:25:45] Saved chunk 52 (234 words)
+[2025-08-25 08:25:45] Saved chunk 53 (249 words)
+[2025-08-25 08:25:45] Saved chunk 54 (305 words)
+[2025-08-25 08:25:45] Saved chunk 55 (100 words)
+[2025-08-25 08:25:45] Saved chunk 56 (203 words)
+[2025-08-25 08:25:45] Saved chunk 57 (353 words)
+[2025-08-25 08:25:45] Saved chunk 58 (264 words)
+[2025-08-25 08:25:45] Saved chunk 59 (307 words)
+[2025-08-25 08:25:45] Saved chunk 60 (100 words)
+[2025-08-25 08:25:45] Saved chunk 61 (154 words)
+[2025-08-25 08:25:45] Saved chunk 62 (251 words)
+[2025-08-25 08:25:45] Saved chunk 63 (111 words)
+[2025-08-25 08:25:45] Saved chunk 64 (177 words)
+[2025-08-25 08:25:45] Saved chunk 65 (116 words)
+[2025-08-25 08:25:45] Saved chunk 66 (119 words)
+[2025-08-25 08:25:45] Saved chunk 67 (148 words)
+[2025-08-25 08:25:45] Saved chunk 68 (134 words)
+[2025-08-25 08:25:45] Saved chunk 69 (114 words)
+[2025-08-25 08:25:45] Saved chunk 70 (187 words)
+[2025-08-25 08:25:45] Saved chunk 71 (93 words)
+[2025-08-25 08:25:45] Saved chunk 72 (120 words)
+[2025-08-25 08:25:45] Saved chunk 73 (72 words)
+[2025-08-25 08:25:45] Saved chunk 74 (372 words)
+[2025-08-25 08:25:45] Saved chunk 75 (112 words)
+[2025-08-25 08:25:45] Saved chunk 76 (347 words)
+[2025-08-25 08:25:45] Saved chunk 77 (273 words)
+[2025-08-25 08:25:45] Saved chunk 78 (160 words)
+[2025-08-25 08:25:45] Saved chunk 79 (77 words)
+[2025-08-25 08:25:45] Saved chunk 80 (199 words)
+[2025-08-25 08:25:45] Saved chunk 81 (198 words)
+[2025-08-25 08:25:45] Saved chunk 82 (190 words)
+[2025-08-25 08:25:45] Saved chunk 83 (357 words)
+[2025-08-25 08:25:45] Saved chunk 84 (82 words)
+[2025-08-25 08:25:45] Saved chunk 85 (235 words)
+[2025-08-25 08:25:45] Successfully created 85 chunks in 'output/04USVsRodriguez_1ret/smuggleditems/chunk_outputs'.
+[2025-08-25 08:25:45] Total time taken: 3.22 seconds.
+[2025-08-25 08:25:45] Chunking completed in 3.30 seconds.
+[2025-08-25 08:25:45] Cumulative time after Chunking: 3.31 seconds.
+[2025-08-25 08:25:45] Starting NER Step...
+[2025-08-25 08:25:45] Found 85 chunk files.
+[2025-08-25 08:25:45] Running NER on chunk_01.txt (attempt 1)...
+[2025-08-25 08:25:45] Prompt length (chars): 3652
+[2025-08-25 08:25:48] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_01.json
+[2025-08-25 08:25:48] Running NER on chunk_02.txt (attempt 1)...
+[2025-08-25 08:25:48] Prompt length (chars): 5062
+[2025-08-25 08:25:53] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_02.json
+[2025-08-25 08:25:53] Running NER on chunk_03.txt (attempt 1)...
+[2025-08-25 08:25:53] Prompt length (chars): 3401
+[2025-08-25 08:25:55] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_03.json
+[2025-08-25 08:25:55] Running NER on chunk_04.txt (attempt 1)...
+[2025-08-25 08:25:55] Prompt length (chars): 4644
+[2025-08-25 08:25:57] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_04.json
+[2025-08-25 08:25:57] Running NER on chunk_05.txt (attempt 1)...
+[2025-08-25 08:25:57] Prompt length (chars): 4002
+[2025-08-25 08:25:59] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_05.json
+[2025-08-25 08:25:59] Running NER on chunk_06.txt (attempt 1)...
+[2025-08-25 08:25:59] Prompt length (chars): 4644
+[2025-08-25 08:26:02] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_06.json
+[2025-08-25 08:26:02] Running NER on chunk_07.txt (attempt 1)...
+[2025-08-25 08:26:02] Prompt length (chars): 3553
+[2025-08-25 08:26:03] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_07.json
+[2025-08-25 08:26:03] Running NER on chunk_08.txt (attempt 1)...
+[2025-08-25 08:26:03] Prompt length (chars): 4693
+[2025-08-25 08:26:06] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_08.json
+[2025-08-25 08:26:06] Running NER on chunk_09.txt (attempt 1)...
+[2025-08-25 08:26:06] Prompt length (chars): 4266
+[2025-08-25 08:26:08] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_09.json
+[2025-08-25 08:26:08] Running NER on chunk_10.txt (attempt 1)...
+[2025-08-25 08:26:08] Prompt length (chars): 4660
+[2025-08-25 08:26:11] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_10.json
+[2025-08-25 08:26:11] Running NER on chunk_11.txt (attempt 1)...
+[2025-08-25 08:26:11] Prompt length (chars): 3463
+[2025-08-25 08:26:12] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_11.json
+[2025-08-25 08:26:12] Running NER on chunk_12.txt (attempt 1)...
+[2025-08-25 08:26:12] Prompt length (chars): 4660
+[2025-08-25 08:26:15] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_12.json
+[2025-08-25 08:26:15] Running NER on chunk_13.txt (attempt 1)...
+[2025-08-25 08:26:15] Prompt length (chars): 4660
+[2025-08-25 08:26:16] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_13.json
+[2025-08-25 08:26:16] Running NER on chunk_14.txt (attempt 1)...
+[2025-08-25 08:26:16] Prompt length (chars): 4927
+[2025-08-25 08:26:20] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_14.json
+[2025-08-25 08:26:20] Running NER on chunk_15.txt (attempt 1)...
+[2025-08-25 08:26:20] Prompt length (chars): 4192
+[2025-08-25 08:26:22] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_15.json
+[2025-08-25 08:26:22] Running NER on chunk_16.txt (attempt 1)...
+[2025-08-25 08:26:22] Prompt length (chars): 4960
+[2025-08-25 08:26:25] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_16.json
+[2025-08-25 08:26:25] Running NER on chunk_17.txt (attempt 1)...
+[2025-08-25 08:26:25] Prompt length (chars): 3625
+[2025-08-25 08:26:26] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_17.json
+[2025-08-25 08:26:26] Running NER on chunk_18.txt (attempt 1)...
+[2025-08-25 08:26:26] Prompt length (chars): 5027
+[2025-08-25 08:26:30] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_18.json
+[2025-08-25 08:26:30] Running NER on chunk_19.txt (attempt 1)...
+[2025-08-25 08:26:30] Prompt length (chars): 5009
+[2025-08-25 08:26:33] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_19.json
+[2025-08-25 08:26:33] Running NER on chunk_20.txt (attempt 1)...
+[2025-08-25 08:26:33] Prompt length (chars): 4988
+[2025-08-25 08:26:36] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_20.json
+[2025-08-25 08:26:36] Running NER on chunk_21.txt (attempt 1)...
+[2025-08-25 08:26:36] Prompt length (chars): 4637
+[2025-08-25 08:26:38] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_21.json
+[2025-08-25 08:26:38] Running NER on chunk_22.txt (attempt 1)...
+[2025-08-25 08:26:38] Prompt length (chars): 5499
+[2025-08-25 08:26:43] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_22.json
+[2025-08-25 08:26:43] Running NER on chunk_23.txt (attempt 1)...
+[2025-08-25 08:26:43] Prompt length (chars): 4849
+[2025-08-25 08:26:47] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_23.json
+[2025-08-25 08:26:47] Running NER on chunk_24.txt (attempt 1)...
+[2025-08-25 08:26:47] Prompt length (chars): 4800
+[2025-08-25 08:26:50] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_24.json
+[2025-08-25 08:26:50] Running NER on chunk_25.txt (attempt 1)...
+[2025-08-25 08:26:50] Prompt length (chars): 5042
+[2025-08-25 08:26:52] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_25.json
+[2025-08-25 08:26:52] Running NER on chunk_26.txt (attempt 1)...
+[2025-08-25 08:26:52] Prompt length (chars): 5556
+[2025-08-25 08:26:58] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_26.json
+[2025-08-25 08:26:58] Running NER on chunk_27.txt (attempt 1)...
+[2025-08-25 08:26:58] Prompt length (chars): 4708
+[2025-08-25 08:27:00] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_27.json
+[2025-08-25 08:27:00] Running NER on chunk_28.txt (attempt 1)...
+[2025-08-25 08:27:00] Prompt length (chars): 5046
+[2025-08-25 08:27:03] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_28.json
+[2025-08-25 08:27:03] Running NER on chunk_29.txt (attempt 1)...
+[2025-08-25 08:27:03] Prompt length (chars): 5484
+[2025-08-25 08:27:06] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_29.json
+[2025-08-25 08:27:06] Running NER on chunk_30.txt (attempt 1)...
+[2025-08-25 08:27:06] Prompt length (chars): 5069
+[2025-08-25 08:27:10] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_30.json
+[2025-08-25 08:27:10] Running NER on chunk_31.txt (attempt 1)...
+[2025-08-25 08:27:10] Prompt length (chars): 5375
+[2025-08-25 08:27:13] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_31.json
+[2025-08-25 08:27:14] Running NER on chunk_32.txt (attempt 1)...
+[2025-08-25 08:27:14] Prompt length (chars): 4675
+[2025-08-25 08:27:16] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_32.json
+[2025-08-25 08:27:16] Running NER on chunk_33.txt (attempt 1)...
+[2025-08-25 08:27:16] Prompt length (chars): 4715
+[2025-08-25 08:27:18] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_33.json
+[2025-08-25 08:27:18] Running NER on chunk_34.txt (attempt 1)...
+[2025-08-25 08:27:18] Prompt length (chars): 3403
+[2025-08-25 08:27:20] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_34.json
+[2025-08-25 08:27:20] Running NER on chunk_35.txt (attempt 1)...
+[2025-08-25 08:27:20] Prompt length (chars): 5584
+[2025-08-25 08:27:22] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_35.json
+[2025-08-25 08:27:22] Running NER on chunk_36.txt (attempt 1)...
+[2025-08-25 08:27:22] Prompt length (chars): 3454
+[2025-08-25 08:27:24] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_36.json
+[2025-08-25 08:27:24] Running NER on chunk_37.txt (attempt 1)...
+[2025-08-25 08:27:24] Prompt length (chars): 5834
+[2025-08-25 08:27:27] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_37.json
+[2025-08-25 08:27:27] Running NER on chunk_38.txt (attempt 1)...
+[2025-08-25 08:27:27] Prompt length (chars): 5286
+[2025-08-25 08:27:31] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_38.json
+[2025-08-25 08:27:31] Running NER on chunk_39.txt (attempt 1)...
+[2025-08-25 08:27:31] Prompt length (chars): 6417
+[2025-08-25 08:27:35] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_39.json
+[2025-08-25 08:27:35] Running NER on chunk_40.txt (attempt 1)...
+[2025-08-25 08:27:35] Prompt length (chars): 5768
+[2025-08-25 08:27:37] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_40.json
+[2025-08-25 08:27:37] Running NER on chunk_41.txt (attempt 1)...
+[2025-08-25 08:27:37] Prompt length (chars): 6586
+[2025-08-25 08:27:42] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_41.json
+[2025-08-25 08:27:42] Running NER on chunk_42.txt (attempt 1)...
+[2025-08-25 08:27:42] Prompt length (chars): 5663
+[2025-08-25 08:27:44] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_42.json
+[2025-08-25 08:27:44] Running NER on chunk_43.txt (attempt 1)...
+[2025-08-25 08:27:44] Prompt length (chars): 6137
+[2025-08-25 08:27:48] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_43.json
+[2025-08-25 08:27:48] Running NER on chunk_44.txt (attempt 1)...
+[2025-08-25 08:27:48] Prompt length (chars): 5451
+[2025-08-25 08:27:51] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_44.json
+[2025-08-25 08:27:51] Running NER on chunk_45.txt (attempt 1)...
+[2025-08-25 08:27:51] Prompt length (chars): 5143
+[2025-08-25 08:27:56] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_45.json
+[2025-08-25 08:27:56] Running NER on chunk_46.txt (attempt 1)...
+[2025-08-25 08:27:56] Prompt length (chars): 5631
+[2025-08-25 08:28:00] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_46.json
+[2025-08-25 08:28:00] Running NER on chunk_47.txt (attempt 1)...
+[2025-08-25 08:28:00] Prompt length (chars): 4733
+[2025-08-25 08:28:02] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_47.json
+[2025-08-25 08:28:02] Running NER on chunk_48.txt (attempt 1)...
+[2025-08-25 08:28:02] Prompt length (chars): 4551
+[2025-08-25 08:28:04] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_48.json
+[2025-08-25 08:28:04] Running NER on chunk_49.txt (attempt 1)...
+[2025-08-25 08:28:04] Prompt length (chars): 4537
+[2025-08-25 08:28:06] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_49.json
+[2025-08-25 08:28:06] Running NER on chunk_50.txt (attempt 1)...
+[2025-08-25 08:28:06] Prompt length (chars): 4780
+[2025-08-25 08:28:08] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_50.json
+[2025-08-25 08:28:08] Running NER on chunk_51.txt (attempt 1)...
+[2025-08-25 08:28:08] Prompt length (chars): 5306
+[2025-08-25 08:28:11] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_51.json
+[2025-08-25 08:28:11] Running NER on chunk_52.txt (attempt 1)...
+[2025-08-25 08:28:11] Prompt length (chars): 4834
+[2025-08-25 08:28:13] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_52.json
+[2025-08-25 08:28:13] Running NER on chunk_53.txt (attempt 1)...
+[2025-08-25 08:28:13] Prompt length (chars): 4924
+[2025-08-25 08:28:15] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_53.json
+[2025-08-25 08:28:15] Running NER on chunk_54.txt (attempt 1)...
+[2025-08-25 08:28:15] Prompt length (chars): 5350
+[2025-08-25 08:28:20] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_54.json
+[2025-08-25 08:28:20] Running NER on chunk_55.txt (attempt 1)...
+[2025-08-25 08:28:20] Prompt length (chars): 4049
+[2025-08-25 08:28:23] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_55.json
+[2025-08-25 08:28:23] Running NER on chunk_56.txt (attempt 1)...
+[2025-08-25 08:28:23] Prompt length (chars): 4671
+[2025-08-25 08:28:25] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_56.json
+[2025-08-25 08:28:25] Running NER on chunk_57.txt (attempt 1)...
+[2025-08-25 08:28:25] Prompt length (chars): 5573
+[2025-08-25 08:28:30] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_57.json
+[2025-08-25 08:28:30] Running NER on chunk_58.txt (attempt 1)...
+[2025-08-25 08:28:30] Prompt length (chars): 5090
+[2025-08-25 08:28:34] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_58.json
+[2025-08-25 08:28:34] Running NER on chunk_59.txt (attempt 1)...
+[2025-08-25 08:28:34] Prompt length (chars): 5330
+[2025-08-25 08:28:40] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_59.json
+[2025-08-25 08:28:40] Running NER on chunk_60.txt (attempt 1)...
+[2025-08-25 08:28:40] Prompt length (chars): 4086
+[2025-08-25 08:28:42] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_60.json
+[2025-08-25 08:28:42] Running NER on chunk_61.txt (attempt 1)...
+[2025-08-25 08:28:42] Prompt length (chars): 4365
+[2025-08-25 08:28:44] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_61.json
+[2025-08-25 08:28:44] Running NER on chunk_62.txt (attempt 1)...
+[2025-08-25 08:28:44] Prompt length (chars): 4697
+[2025-08-25 08:28:47] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_62.json
+[2025-08-25 08:28:47] Running NER on chunk_63.txt (attempt 1)...
+[2025-08-25 08:28:47] Prompt length (chars): 4063
+[2025-08-25 08:28:52] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_63.json
+[2025-08-25 08:28:52] Running NER on chunk_64.txt (attempt 1)...
+[2025-08-25 08:28:52] Prompt length (chars): 4449
+[2025-08-25 08:28:54] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_64.json
+[2025-08-25 08:28:54] Running NER on chunk_65.txt (attempt 1)...
+[2025-08-25 08:28:54] Prompt length (chars): 4057
+[2025-08-25 08:28:56] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_65.json
+[2025-08-25 08:28:56] Running NER on chunk_66.txt (attempt 1)...
+[2025-08-25 08:28:56] Prompt length (chars): 3996
+[2025-08-25 08:28:58] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_66.json
+[2025-08-25 08:28:58] Running NER on chunk_67.txt (attempt 1)...
+[2025-08-25 08:28:58] Prompt length (chars): 4258
+[2025-08-25 08:29:00] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_67.json
+[2025-08-25 08:29:00] Running NER on chunk_68.txt (attempt 1)...
+[2025-08-25 08:29:00] Prompt length (chars): 4168
+[2025-08-25 08:29:03] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_68.json
+[2025-08-25 08:29:03] Running NER on chunk_69.txt (attempt 1)...
+[2025-08-25 08:29:03] Prompt length (chars): 4093
+[2025-08-25 08:29:05] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_69.json
+[2025-08-25 08:29:05] Running NER on chunk_70.txt (attempt 1)...
+[2025-08-25 08:29:05] Prompt length (chars): 4467
+[2025-08-25 08:29:07] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_70.json
+[2025-08-25 08:29:07] Running NER on chunk_71.txt (attempt 1)...
+[2025-08-25 08:29:07] Prompt length (chars): 3955
+[2025-08-25 08:29:09] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_71.json
+[2025-08-25 08:29:09] Running NER on chunk_72.txt (attempt 1)...
+[2025-08-25 08:29:09] Prompt length (chars): 4062
+[2025-08-25 08:29:11] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_72.json
+[2025-08-25 08:29:11] Running NER on chunk_73.txt (attempt 1)...
+[2025-08-25 08:29:11] Prompt length (chars): 3838
+[2025-08-25 08:29:13] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_73.json
+[2025-08-25 08:29:13] Running NER on chunk_74.txt (attempt 1)...
+[2025-08-25 08:29:13] Prompt length (chars): 5625
+[2025-08-25 08:29:16] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_74.json
+[2025-08-25 08:29:16] Running NER on chunk_75.txt (attempt 1)...
+[2025-08-25 08:29:16] Prompt length (chars): 4056
+[2025-08-25 08:29:18] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_75.json
+[2025-08-25 08:29:18] Running NER on chunk_76.txt (attempt 1)...
+[2025-08-25 08:29:18] Prompt length (chars): 5552
+[2025-08-25 08:29:21] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_76.json
+[2025-08-25 08:29:21] Running NER on chunk_77.txt (attempt 1)...
+[2025-08-25 08:29:21] Prompt length (chars): 5141
+[2025-08-25 08:29:23] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_77.json
+[2025-08-25 08:29:23] Running NER on chunk_78.txt (attempt 1)...
+[2025-08-25 08:29:23] Prompt length (chars): 4377
+[2025-08-25 08:29:30] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_78.json
+[2025-08-25 08:29:30] Running NER on chunk_79.txt (attempt 1)...
+[2025-08-25 08:29:30] Prompt length (chars): 3812
+[2025-08-25 08:29:33] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_79.json
+[2025-08-25 08:29:33] Running NER on chunk_80.txt (attempt 1)...
+[2025-08-25 08:29:33] Prompt length (chars): 4643
+[2025-08-25 08:29:35] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_80.json
+[2025-08-25 08:29:35] Running NER on chunk_81.txt (attempt 1)...
+[2025-08-25 08:29:35] Prompt length (chars): 4632
+[2025-08-25 08:29:38] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_81.json
+[2025-08-25 08:29:38] Running NER on chunk_82.txt (attempt 1)...
+[2025-08-25 08:29:38] Prompt length (chars): 4555
+[2025-08-25 08:29:40] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_82.json
+[2025-08-25 08:29:40] Running NER on chunk_83.txt (attempt 1)...
+[2025-08-25 08:29:40] Prompt length (chars): 5625
+[2025-08-25 08:29:44] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_83.json
+[2025-08-25 08:29:44] Running NER on chunk_84.txt (attempt 1)...
+[2025-08-25 08:29:44] Prompt length (chars): 3905
+[2025-08-25 08:29:46] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_84.json
+[2025-08-25 08:29:46] Running NER on chunk_85.txt (attempt 1)...
+[2025-08-25 08:29:46] Prompt length (chars): 4741
+[2025-08-25 08:29:52] Saved: output/04USVsRodriguez_1ret/smuggleditems/ner_outputs/chunk_85.json
+[2025-08-25 08:29:52] NER completed in 247.04 seconds.
+[2025-08-25 08:29:52] Cumulative time after NER: 250.35 seconds.
+[2025-08-25 08:29:52] Starting Coreference Resolution Step...
+[2025-08-25 08:29:52] Processing chunk_01 (verification=False)...
+[2025-08-25 08:29:52] Prompt length (chars): 5779
+[2025-08-25 08:30:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_01.json
+[2025-08-25 08:30:06] Processing chunk_02 (verification=False)...
+[2025-08-25 08:30:06] Prompt length (chars): 8151
+[2025-08-25 08:30:23] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_02.json
+[2025-08-25 08:30:23] Processing chunk_03 (verification=False)...
+[2025-08-25 08:30:23] Prompt length (chars): 6593
+[2025-08-25 08:30:39] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_03.json
+[2025-08-25 08:30:39] Processing chunk_04 (verification=False)...
+[2025-08-25 08:30:39] Prompt length (chars): 7915
+[2025-08-25 08:31:00] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_04.json
+[2025-08-25 08:31:00] Processing chunk_05 (verification=False)...
+[2025-08-25 08:31:00] Prompt length (chars): 7561
+[2025-08-25 08:31:21] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_05.json
+[2025-08-25 08:31:21] Processing chunk_06 (verification=False)...
+[2025-08-25 08:31:21] Prompt length (chars): 8280
+[2025-08-25 08:31:43] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_06.json
+[2025-08-25 08:31:43] Processing chunk_07 (verification=False)...
+[2025-08-25 08:31:43] Prompt length (chars): 7307
+[2025-08-25 08:32:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_07.json
+[2025-08-25 08:32:08] Processing chunk_08 (verification=False)...
+[2025-08-25 08:32:08] Prompt length (chars): 8702
+[2025-08-25 08:32:34] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_08.json
+[2025-08-25 08:32:34] Processing chunk_09 (verification=False)...
+[2025-08-25 08:32:34] Prompt length (chars): 8200
+[2025-08-25 08:33:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_09.json
+[2025-08-25 08:33:02] Processing chunk_10 (verification=False)...
+[2025-08-25 08:33:02] Prompt length (chars): 8899
+[2025-08-25 08:33:32] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_10.json
+[2025-08-25 08:33:32] Processing chunk_11 (verification=False)...
+[2025-08-25 08:33:32] Prompt length (chars): 7763
+[2025-08-25 08:34:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_11.json
+[2025-08-25 08:34:02] Processing chunk_12 (verification=False)...
+[2025-08-25 08:34:02] Prompt length (chars): 9015
+[2025-08-25 08:34:31] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_12.json
+[2025-08-25 08:34:31] Processing chunk_13 (verification=False)...
+[2025-08-25 08:34:31] Prompt length (chars): 9015
+[2025-08-25 08:35:00] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_13.json
+[2025-08-25 08:35:00] Processing chunk_14 (verification=False)...
+[2025-08-25 08:35:00] Prompt length (chars): 9347
+[2025-08-25 08:35:33] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_14.json
+[2025-08-25 08:35:33] Processing chunk_15 (verification=False)...
+[2025-08-25 08:35:33] Prompt length (chars): 8800
+[2025-08-25 08:36:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_15.json
+[2025-08-25 08:36:10] Processing chunk_16 (verification=False)...
+[2025-08-25 08:36:10] Prompt length (chars): 9756
+[2025-08-25 08:36:46] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_16.json
+[2025-08-25 08:36:46] Processing chunk_17 (verification=False)...
+[2025-08-25 08:36:46] Prompt length (chars): 8456
+[2025-08-25 08:37:23] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_17.json
+[2025-08-25 08:37:23] Processing chunk_18 (verification=False)...
+[2025-08-25 08:37:23] Prompt length (chars): 10198
+[2025-08-25 08:38:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_18.json
+[2025-08-25 08:38:02] Processing chunk_19 (verification=False)...
+[2025-08-25 08:38:02] Prompt length (chars): 10272
+[2025-08-25 08:38:42] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_19.json
+[2025-08-25 08:38:42] Processing chunk_20 (verification=False)...
+[2025-08-25 08:38:42] Prompt length (chars): 10088
+[2025-08-25 08:39:26] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_20.json
+[2025-08-25 08:39:26] Processing chunk_21 (verification=False)...
+[2025-08-25 08:39:26] Prompt length (chars): 10187
+[2025-08-25 08:40:12] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_21.json
+[2025-08-25 08:40:12] Processing chunk_22 (verification=False)...
+[2025-08-25 08:40:12] Prompt length (chars): 11308
+[2025-08-25 08:40:31] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_22.json
+[2025-08-25 08:40:31] Processing chunk_23 (verification=False)...
+[2025-08-25 08:40:31] Prompt length (chars): 10739
+[2025-08-25 08:41:23] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_23.json
+[2025-08-25 08:41:24] Processing chunk_24 (verification=False)...
+[2025-08-25 08:41:24] Prompt length (chars): 11151
+[2025-08-25 08:41:54] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_24.json
+[2025-08-25 08:41:54] Processing chunk_25 (verification=False)...
+[2025-08-25 08:41:54] Prompt length (chars): 11489
+[2025-08-25 08:42:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_25.json
+[2025-08-25 08:42:28] Processing chunk_26 (verification=False)...
+[2025-08-25 08:42:28] Prompt length (chars): 12602
+[2025-08-25 08:42:41] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_26.json
+[2025-08-25 08:42:41] Processing chunk_27 (verification=False)...
+[2025-08-25 08:42:41] Prompt length (chars): 11301
+[2025-08-25 08:43:16] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_27.json
+[2025-08-25 08:43:17] Processing chunk_28 (verification=False)...
+[2025-08-25 08:43:17] Prompt length (chars): 12168
+[2025-08-25 08:43:51] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_28.json
+[2025-08-25 08:43:51] Processing chunk_29 (verification=False)...
+[2025-08-25 08:43:51] Prompt length (chars): 12749
+[2025-08-25 08:44:00] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_29.json
+[2025-08-25 08:44:00] Processing chunk_30 (verification=False)...
+[2025-08-25 08:44:00] Prompt length (chars): 12573
+[2025-08-25 08:44:33] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_30.json
+[2025-08-25 08:44:33] Processing chunk_31 (verification=False)...
+[2025-08-25 08:44:33] Prompt length (chars): 12894
+[2025-08-25 08:45:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_31.json
+[2025-08-25 08:45:06] Processing chunk_32 (verification=False)...
+[2025-08-25 08:45:06] Prompt length (chars): 12205
+[2025-08-25 08:45:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_32.json
+[2025-08-25 08:45:25] Processing chunk_33 (verification=False)...
+[2025-08-25 08:45:25] Prompt length (chars): 12939
+[2025-08-25 08:45:41] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_33.json
+[2025-08-25 08:45:41] Processing chunk_34 (verification=False)...
+[2025-08-25 08:45:41] Prompt length (chars): 12224
+[2025-08-25 08:47:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_34.json
+[2025-08-25 08:47:06] Processing chunk_35 (verification=False)...
+[2025-08-25 08:47:06] Prompt length (chars): 14421
+[2025-08-25 08:47:37] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_35.json
+[2025-08-25 08:47:37] Processing chunk_36 (verification=False)...
+[2025-08-25 08:47:37] Prompt length (chars): 12880
+[2025-08-25 08:49:14] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_36.json
+[2025-08-25 08:49:14] Processing chunk_37 (verification=False)...
+[2025-08-25 08:49:14] Prompt length (chars): 15447
+[2025-08-25 08:49:26] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_37.json
+[2025-08-25 08:49:26] Processing chunk_38 (verification=False)...
+[2025-08-25 08:49:26] Prompt length (chars): 15233
+[2025-08-25 08:49:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_38.json
+[2025-08-25 08:49:45] Processing chunk_39 (verification=False)...
+[2025-08-25 08:49:45] Prompt length (chars): 16145
+[2025-08-25 08:50:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_39.json
+[2025-08-25 08:50:06] Processing chunk_40 (verification=False)...
+[2025-08-25 08:50:06] Prompt length (chars): 15817
+[2025-08-25 08:51:56] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_40.json
+[2025-08-25 08:51:56] Processing chunk_41 (verification=False)...
+[2025-08-25 08:51:56] Prompt length (chars): 16805
+[2025-08-25 08:53:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_41.json
+[2025-08-25 08:53:48] Processing chunk_42 (verification=False)...
+[2025-08-25 08:53:48] Prompt length (chars): 15989
+[2025-08-25 08:54:05] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_42.json
+[2025-08-25 08:54:05] Processing chunk_43 (verification=False)...
+[2025-08-25 08:54:05] Prompt length (chars): 16674
+[2025-08-25 08:54:27] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_43.json
+[2025-08-25 08:54:27] Processing chunk_44 (verification=False)...
+[2025-08-25 08:54:27] Prompt length (chars): 16303
+[2025-08-25 08:54:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_44.json
+[2025-08-25 08:54:49] Processing chunk_45 (verification=False)...
+[2025-08-25 08:54:49] Prompt length (chars): 16427
+[2025-08-25 08:54:57] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_45.json
+[2025-08-25 08:54:57] Processing chunk_46 (verification=False)...
+[2025-08-25 08:54:57] Prompt length (chars): 16910
+[2025-08-25 08:55:24] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_46.json
+[2025-08-25 08:55:24] Processing chunk_47 (verification=False)...
+[2025-08-25 08:55:24] Prompt length (chars): 16085
+[2025-08-25 08:55:57] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_47.json
+[2025-08-25 08:55:57] Processing chunk_48 (verification=False)...
+[2025-08-25 08:55:57] Prompt length (chars): 16616
+[2025-08-25 08:56:18] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_48.json
+[2025-08-25 08:56:18] Processing chunk_49 (verification=False)...
+[2025-08-25 08:56:18] Prompt length (chars): 16893
+[2025-08-25 08:56:34] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_49.json
+[2025-08-25 08:56:34] Processing chunk_50 (verification=False)...
+[2025-08-25 08:56:34] Prompt length (chars): 17138
+[2025-08-25 08:56:57] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_50.json
+[2025-08-25 08:56:57] Processing chunk_51 (verification=False)...
+[2025-08-25 08:56:57] Prompt length (chars): 18028
+[2025-08-25 08:57:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_51.json
+[2025-08-25 08:57:48] Processing chunk_52 (verification=False)...
+[2025-08-25 08:57:48] Prompt length (chars): 17524
+[2025-08-25 08:58:41] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_52.json
+[2025-08-25 08:58:41] Processing chunk_53 (verification=False)...
+[2025-08-25 08:58:41] Prompt length (chars): 18274
+[2025-08-25 08:59:05] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_53.json
+[2025-08-25 08:59:05] Processing chunk_54 (verification=False)...
+[2025-08-25 08:59:05] Prompt length (chars): 19148
+[2025-08-25 08:59:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_54.json
+[2025-08-25 08:59:53] Processing chunk_55 (verification=False)...
+[2025-08-25 08:59:53] Prompt length (chars): 17963
+[2025-08-25 09:00:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_55.json
+[2025-08-25 09:00:09] Processing chunk_56 (verification=False)...
+[2025-08-25 09:00:09] Prompt length (chars): 18657
+[2025-08-25 09:00:20] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_56.json
+[2025-08-25 09:00:20] Processing chunk_57 (verification=False)...
+[2025-08-25 09:00:20] Prompt length (chars): 20380
+[2025-08-25 09:01:11] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_57.json
+[2025-08-25 09:01:12] Processing chunk_58 (verification=False)...
+[2025-08-25 09:01:12] Prompt length (chars): 19846
+[2025-08-25 09:01:36] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_58.json
+[2025-08-25 09:01:36] Processing chunk_59 (verification=False)...
+[2025-08-25 09:01:36] Prompt length (chars): 20775
+[2025-08-25 09:02:15] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_59.json
+[2025-08-25 09:02:15] Processing chunk_60 (verification=False)...
+[2025-08-25 09:02:15] Prompt length (chars): 19386
+[2025-08-25 09:02:35] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_60.json
+[2025-08-25 09:02:35] Processing chunk_61 (verification=False)...
+[2025-08-25 09:02:35] Prompt length (chars): 20002
+[2025-08-25 09:02:52] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_61.json
+[2025-08-25 09:02:52] Processing chunk_62 (verification=False)...
+[2025-08-25 09:02:52] Prompt length (chars): 20945
+[2025-08-25 09:03:31] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_62.json
+[2025-08-25 09:03:31] Processing chunk_63 (verification=False)...
+[2025-08-25 09:03:31] Prompt length (chars): 21072
+[2025-08-25 09:03:50] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_63.json
+[2025-08-25 09:03:50] Processing chunk_64 (verification=False)...
+[2025-08-25 09:03:50] Prompt length (chars): 21405
+[2025-08-25 09:05:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_64.json
+[2025-08-25 09:05:02] Processing chunk_65 (verification=False)...
+[2025-08-25 09:05:02] Prompt length (chars): 21416
+[2025-08-25 09:05:24] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_65.json
+[2025-08-25 09:05:24] Processing chunk_66 (verification=False)...
+[2025-08-25 09:05:24] Prompt length (chars): 21254
+[2025-08-25 09:05:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_66.json
+[2025-08-25 09:05:45] Processing chunk_67 (verification=False)...
+[2025-08-25 09:05:45] Prompt length (chars): 21710
+[2025-08-25 09:06:14] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_67.json
+[2025-08-25 09:06:14] Processing chunk_68 (verification=False)...
+[2025-08-25 09:06:14] Prompt length (chars): 21847
+[2025-08-25 09:07:15] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_68.json
+[2025-08-25 09:07:15] Processing chunk_69 (verification=False)...
+[2025-08-25 09:07:15] Prompt length (chars): 22025
+[2025-08-25 09:08:17] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_69.json
+[2025-08-25 09:08:17] Processing chunk_70 (verification=False)...
+[2025-08-25 09:08:17] Prompt length (chars): 22337
+[2025-08-25 09:08:36] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_70.json
+[2025-08-25 09:08:36] Processing chunk_71 (verification=False)...
+[2025-08-25 09:08:36] Prompt length (chars): 21813
+[2025-08-25 09:10:36] [Attempt 1] Failed to process chunk_71: Ollama inference timed out.
+[2025-08-25 09:10:36] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:14:19] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_71.json
+[2025-08-25 09:14:19] Processing chunk_72 (verification=False)...
+[2025-08-25 09:14:19] Prompt length (chars): 21920
+[2025-08-25 09:14:33] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_72.json
+[2025-08-25 09:14:33] Processing chunk_73 (verification=False)...
+[2025-08-25 09:14:33] Prompt length (chars): 21678
+[2025-08-25 09:14:47] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_73.json
+[2025-08-25 09:14:47] Processing chunk_74 (verification=False)...
+[2025-08-25 09:14:47] Prompt length (chars): 23696
+[2025-08-25 09:15:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_74.json
+[2025-08-25 09:15:09] Processing chunk_75 (verification=False)...
+[2025-08-25 09:15:09] Prompt length (chars): 22127
+[2025-08-25 09:15:29] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_75.json
+[2025-08-25 09:15:29] Processing chunk_76 (verification=False)...
+[2025-08-25 09:15:29] Prompt length (chars): 23188
+[2025-08-25 09:16:04] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_76.json
+[2025-08-25 09:16:04] Processing chunk_77 (verification=False)...
+[2025-08-25 09:16:04] Prompt length (chars): 23771
+[2025-08-25 09:16:33] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_77.json
+[2025-08-25 09:16:33] Processing chunk_78 (verification=False)...
+[2025-08-25 09:16:33] Prompt length (chars): 24381
+[2025-08-25 09:16:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_78.json
+[2025-08-25 09:16:53] Processing chunk_79 (verification=False)...
+[2025-08-25 09:16:53] Prompt length (chars): 23763
+[2025-08-25 09:17:13] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_79.json
+[2025-08-25 09:17:13] Processing chunk_80 (verification=False)...
+[2025-08-25 09:17:13] Prompt length (chars): 24600
+[2025-08-25 09:18:21] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_80.json
+[2025-08-25 09:18:21] Processing chunk_81 (verification=False)...
+[2025-08-25 09:18:21] Prompt length (chars): 25561
+[2025-08-25 09:18:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_81.json
+[2025-08-25 09:18:48] Processing chunk_82 (verification=False)...
+[2025-08-25 09:18:48] Prompt length (chars): 25555
+[2025-08-25 09:20:18] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_82.json
+[2025-08-25 09:20:18] Processing chunk_83 (verification=False)...
+[2025-08-25 09:20:18] Prompt length (chars): 27091
+[2025-08-25 09:20:35] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_83.json
+[2025-08-25 09:20:35] Processing chunk_84 (verification=False)...
+[2025-08-25 09:20:35] Prompt length (chars): 25242
+[2025-08-25 09:20:50] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_84.json
+[2025-08-25 09:20:50] Processing chunk_85 (verification=False)...
+[2025-08-25 09:20:50] Prompt length (chars): 26247
+[2025-08-25 09:21:16] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_85.json
+[2025-08-25 09:21:16] Final memory saved to: output/04USVsRodriguez_1ret/smuggleditems/final_memory.json
+[2025-08-25 09:21:16] Starting verification pass 1...
+[2025-08-25 09:21:17] Processing chunk_01 (verification=True)...
+[2025-08-25 09:21:17] Prompt length (chars): 24843
+[2025-08-25 09:23:17] [Attempt 1] Failed to process chunk_01: Ollama inference timed out.
+[2025-08-25 09:23:17] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:28:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_01_verify.json
+[2025-08-25 09:28:01] Processing chunk_02 (verification=True)...
+[2025-08-25 09:28:01] Prompt length (chars): 26566
+[2025-08-25 09:28:13] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_02_verify.json
+[2025-08-25 09:28:13] Processing chunk_03 (verification=True)...
+[2025-08-25 09:28:13] Prompt length (chars): 24589
+[2025-08-25 09:28:26] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_03_verify.json
+[2025-08-25 09:28:26] Processing chunk_04 (verification=True)...
+[2025-08-25 09:28:26] Prompt length (chars): 25938
+[2025-08-25 09:28:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_04_verify.json
+[2025-08-25 09:28:48] Processing chunk_05 (verification=True)...
+[2025-08-25 09:28:48] Prompt length (chars): 25219
+[2025-08-25 09:30:48] [Attempt 1] Failed to process chunk_05: Ollama inference timed out.
+[2025-08-25 09:30:49] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:35:33] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_05_verify.json
+[2025-08-25 09:35:33] Processing chunk_06 (verification=True)...
+[2025-08-25 09:35:33] Prompt length (chars): 25938
+[2025-08-25 09:35:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_06_verify.json
+[2025-08-25 09:35:53] Processing chunk_07 (verification=True)...
+[2025-08-25 09:35:53] Prompt length (chars): 24776
+[2025-08-25 09:36:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_07_verify.json
+[2025-08-25 09:36:01] Processing chunk_08 (verification=True)...
+[2025-08-25 09:36:01] Prompt length (chars): 25987
+[2025-08-25 09:36:21] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_08_verify.json
+[2025-08-25 09:36:21] Processing chunk_09 (verification=True)...
+[2025-08-25 09:36:21] Prompt length (chars): 25485
+[2025-08-25 09:36:56] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_09_verify.json
+[2025-08-25 09:36:56] Processing chunk_10 (verification=True)...
+[2025-08-25 09:36:56] Prompt length (chars): 25918
+[2025-08-25 09:37:31] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_10_verify.json
+[2025-08-25 09:37:31] Processing chunk_11 (verification=True)...
+[2025-08-25 09:37:31] Prompt length (chars): 24666
+[2025-08-25 09:39:31] [Attempt 1] Failed to process chunk_11: Ollama inference timed out.
+[2025-08-25 09:39:31] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:44:17] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_11_verify.json
+[2025-08-25 09:44:17] Processing chunk_12 (verification=True)...
+[2025-08-25 09:44:17] Prompt length (chars): 25918
+[2025-08-25 09:44:41] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_12_verify.json
+[2025-08-25 09:44:41] Processing chunk_13 (verification=True)...
+[2025-08-25 09:44:41] Prompt length (chars): 25918
+[2025-08-25 09:45:05] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_13_verify.json
+[2025-08-25 09:45:05] Processing chunk_14 (verification=True)...
+[2025-08-25 09:45:05] Prompt length (chars): 26250
+[2025-08-25 09:45:16] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_14_verify.json
+[2025-08-25 09:45:16] Processing chunk_15 (verification=True)...
+[2025-08-25 09:45:16] Prompt length (chars): 25320
+[2025-08-25 09:45:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_15_verify.json
+[2025-08-25 09:45:28] Processing chunk_16 (verification=True)...
+[2025-08-25 09:45:28] Prompt length (chars): 26316
+[2025-08-25 09:45:38] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_16_verify.json
+[2025-08-25 09:45:38] Processing chunk_17 (verification=True)...
+[2025-08-25 09:45:38] Prompt length (chars): 24985
+[2025-08-25 09:45:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_17_verify.json
+[2025-08-25 09:45:45] Processing chunk_18 (verification=True)...
+[2025-08-25 09:45:45] Prompt length (chars): 26575
+[2025-08-25 09:45:56] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_18_verify.json
+[2025-08-25 09:45:56] Processing chunk_19 (verification=True)...
+[2025-08-25 09:45:56] Prompt length (chars): 26557
+[2025-08-25 09:46:07] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_19_verify.json
+[2025-08-25 09:46:07] Processing chunk_20 (verification=True)...
+[2025-08-25 09:46:07] Prompt length (chars): 26373
+[2025-08-25 09:46:26] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_20_verify.json
+[2025-08-25 09:46:26] Processing chunk_21 (verification=True)...
+[2025-08-25 09:46:26] Prompt length (chars): 26268
+[2025-08-25 09:46:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_21_verify.json
+[2025-08-25 09:46:49] Processing chunk_22 (verification=True)...
+[2025-08-25 09:46:49] Prompt length (chars): 27315
+[2025-08-25 09:47:10] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_22_verify.json
+[2025-08-25 09:47:10] Processing chunk_23 (verification=True)...
+[2025-08-25 09:47:10] Prompt length (chars): 26710
+[2025-08-25 09:47:43] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_23_verify.json
+[2025-08-25 09:47:43] Processing chunk_24 (verification=True)...
+[2025-08-25 09:47:43] Prompt length (chars): 26719
+[2025-08-25 09:48:12] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_24_verify.json
+[2025-08-25 09:48:12] Processing chunk_25 (verification=True)...
+[2025-08-25 09:48:12] Prompt length (chars): 27191
+[2025-08-25 09:48:44] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_25_verify.json
+[2025-08-25 09:48:44] Processing chunk_26 (verification=True)...
+[2025-08-25 09:48:44] Prompt length (chars): 28838
+[2025-08-25 09:49:22] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_26_verify.json
+[2025-08-25 09:49:22] Processing chunk_27 (verification=True)...
+[2025-08-25 09:49:22] Prompt length (chars): 28080
+[2025-08-25 09:51:17] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_27_verify.json
+[2025-08-25 09:51:17] Processing chunk_28 (verification=True)...
+[2025-08-25 09:51:17] Prompt length (chars): 28673
+[2025-08-25 09:51:38] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_28_verify.json
+[2025-08-25 09:51:38] Processing chunk_29 (verification=True)...
+[2025-08-25 09:51:38] Prompt length (chars): 29196
+[2025-08-25 09:51:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_29_verify.json
+[2025-08-25 09:51:53] Processing chunk_30 (verification=True)...
+[2025-08-25 09:51:53] Prompt length (chars): 29049
+[2025-08-25 09:53:42] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_30_verify.json
+[2025-08-25 09:53:42] Processing chunk_31 (verification=True)...
+[2025-08-25 09:53:42] Prompt length (chars): 29245
+[2025-08-25 09:55:27] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_31_verify.json
+[2025-08-25 09:55:27] Processing chunk_32 (verification=True)...
+[2025-08-25 09:55:27] Prompt length (chars): 28456
+[2025-08-25 09:56:11] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_32_verify.json
+[2025-08-25 09:56:11] Processing chunk_33 (verification=True)...
+[2025-08-25 09:56:11] Prompt length (chars): 29244
+[2025-08-25 09:56:37] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_33_verify.json
+[2025-08-25 09:56:37] Processing chunk_34 (verification=True)...
+[2025-08-25 09:56:37] Prompt length (chars): 27720
+[2025-08-25 09:56:43] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_34_verify.json
+[2025-08-25 09:56:43] Processing chunk_35 (verification=True)...
+[2025-08-25 09:56:43] Prompt length (chars): 29945
+[2025-08-25 09:57:29] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_35_verify.json
+[2025-08-25 09:57:29] Processing chunk_36 (verification=True)...
+[2025-08-25 09:57:29] Prompt length (chars): 28134
+[2025-08-25 09:57:42] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_36_verify.json
+[2025-08-25 09:57:42] Processing chunk_37 (verification=True)...
+[2025-08-25 09:57:42] Prompt length (chars): 30595
+[2025-08-25 09:58:11] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_37_verify.json
+[2025-08-25 09:58:11] Processing chunk_38 (verification=True)...
+[2025-08-25 09:58:11] Prompt length (chars): 30230
+[2025-08-25 09:58:44] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_38_verify.json
+[2025-08-25 09:58:45] Processing chunk_39 (verification=True)...
+[2025-08-25 09:58:45] Prompt length (chars): 31178
+[2025-08-25 09:59:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_39_verify.json
+[2025-08-25 09:59:02] Processing chunk_40 (verification=True)...
+[2025-08-25 09:59:02] Prompt length (chars): 30073
+[2025-08-25 10:01:02] [Attempt 1] Failed to process chunk_40: Ollama inference timed out.
+[2025-08-25 10:01:02] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 10:06:02] Retry after timeout also failed: Ollama inference timed out.
+[2025-08-25 10:06:02] Prompt length (chars): 30073
+[2025-08-25 10:08:03] [Attempt 3] Failed to process chunk_40: Ollama inference timed out.
+[2025-08-25 10:08:03] Maximum retries reached for chunk_40. Skipping.
+[2025-08-25 10:08:03] Coreference Resolution failed.
+[2025-08-25 19:32:02] Starting Coreference Resolution Step...
+[2025-08-25 19:32:02] Processing chunk_01 (verification=False)...
+[2025-08-25 19:32:02] Prompt length (chars): 5779
+[2025-08-25 19:33:46] [Attempt 1] Response received in 103.97 seconds for chunk_01
+[2025-08-25 19:33:46] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_01.json
+[2025-08-25 19:33:46] Processing chunk_02 (verification=False)...
+[2025-08-25 19:33:46] Prompt length (chars): 8151
+[2025-08-25 19:34:03] [Attempt 1] Response received in 16.77 seconds for chunk_02
+[2025-08-25 19:34:03] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_02.json
+[2025-08-25 19:34:03] Processing chunk_03 (verification=False)...
+[2025-08-25 19:34:03] Prompt length (chars): 6593
+[2025-08-25 19:34:18] [Attempt 1] Response received in 15.63 seconds for chunk_03
+[2025-08-25 19:34:18] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_03.json
+[2025-08-25 19:34:18] Processing chunk_04 (verification=False)...
+[2025-08-25 19:34:18] Prompt length (chars): 7915
+[2025-08-25 19:34:39] [Attempt 1] Response received in 20.61 seconds for chunk_04
+[2025-08-25 19:34:39] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_04.json
+[2025-08-25 19:34:39] Processing chunk_05 (verification=False)...
+[2025-08-25 19:34:39] Prompt length (chars): 7561
+[2025-08-25 19:35:00] [Attempt 1] Response received in 20.66 seconds for chunk_05
+[2025-08-25 19:35:00] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_05.json
+[2025-08-25 19:35:00] Processing chunk_06 (verification=False)...
+[2025-08-25 19:35:00] Prompt length (chars): 8280
+[2025-08-25 19:35:22] [Attempt 1] Response received in 22.19 seconds for chunk_06
+[2025-08-25 19:35:22] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_06.json
+[2025-08-25 19:35:22] Processing chunk_07 (verification=False)...
+[2025-08-25 19:35:22] Prompt length (chars): 7307
+[2025-08-25 19:35:46] [Attempt 1] Response received in 24.42 seconds for chunk_07
+[2025-08-25 19:35:46] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_07.json
+[2025-08-25 19:35:46] Processing chunk_08 (verification=False)...
+[2025-08-25 19:35:46] Prompt length (chars): 8702
+[2025-08-25 19:36:12] [Attempt 1] Response received in 25.68 seconds for chunk_08
+[2025-08-25 19:36:12] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_08.json
+[2025-08-25 19:36:12] Processing chunk_09 (verification=False)...
+[2025-08-25 19:36:12] Prompt length (chars): 8200
+[2025-08-25 19:36:39] [Attempt 1] Response received in 27.29 seconds for chunk_09
+[2025-08-25 19:36:39] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_09.json
+[2025-08-25 19:36:39] Processing chunk_10 (verification=False)...
+[2025-08-25 19:36:39] Prompt length (chars): 8899
+[2025-08-25 19:37:09] [Attempt 1] Response received in 29.79 seconds for chunk_10
+[2025-08-25 19:37:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_10.json
+[2025-08-25 19:37:09] Processing chunk_11 (verification=False)...
+[2025-08-25 19:37:09] Prompt length (chars): 7763
+[2025-08-25 19:37:38] [Attempt 1] Response received in 28.57 seconds for chunk_11
+[2025-08-25 19:37:38] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_11.json
+[2025-08-25 19:37:38] Processing chunk_12 (verification=False)...
+[2025-08-25 19:37:38] Prompt length (chars): 9015
+[2025-08-25 19:38:07] [Attempt 1] Response received in 29.1 seconds for chunk_12
+[2025-08-25 19:38:07] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_12.json
+[2025-08-25 19:38:07] Processing chunk_13 (verification=False)...
+[2025-08-25 19:38:07] Prompt length (chars): 9015
+[2025-08-25 19:38:35] [Attempt 1] Response received in 28.25 seconds for chunk_13
+[2025-08-25 19:38:35] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_13.json
+[2025-08-25 19:38:35] Processing chunk_14 (verification=False)...
+[2025-08-25 19:38:35] Prompt length (chars): 9347
+[2025-08-25 19:39:08] [Attempt 1] Response received in 32.61 seconds for chunk_14
+[2025-08-25 19:39:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_14.json
+[2025-08-25 19:39:08] Processing chunk_15 (verification=False)...
+[2025-08-25 19:39:08] Prompt length (chars): 8800
+[2025-08-25 19:39:45] [Attempt 1] Response received in 36.79 seconds for chunk_15
+[2025-08-25 19:39:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_15.json
+[2025-08-25 19:39:45] Processing chunk_16 (verification=False)...
+[2025-08-25 19:39:45] Prompt length (chars): 9971
+[2025-08-25 19:40:25] [Attempt 1] Response received in 40.47 seconds for chunk_16
+[2025-08-25 19:40:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_16.json
+[2025-08-25 19:40:25] Processing chunk_17 (verification=False)...
+[2025-08-25 19:40:25] Prompt length (chars): 8678
+[2025-08-25 19:41:04] [Attempt 1] Response received in 38.5 seconds for chunk_17
+[2025-08-25 19:41:04] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_17.json
+[2025-08-25 19:41:04] Processing chunk_18 (verification=False)...
+[2025-08-25 19:41:04] Prompt length (chars): 10420
+[2025-08-25 19:41:27] [Attempt 1] Response received in 23.65 seconds for chunk_18
+[2025-08-25 19:41:27] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_18.json
+[2025-08-25 19:41:27] Processing chunk_19 (verification=False)...
+[2025-08-25 19:41:27] Prompt length (chars): 10494
+[2025-08-25 19:41:51] [Attempt 1] Response received in 23.69 seconds for chunk_19
+[2025-08-25 19:41:51] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_19.json
+[2025-08-25 19:41:51] Processing chunk_20 (verification=False)...
+[2025-08-25 19:41:51] Prompt length (chars): 10310
+[2025-08-25 19:42:36] [Attempt 1] Response received in 44.64 seconds for chunk_20
+[2025-08-25 19:42:36] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_20.json
+[2025-08-25 19:42:36] Processing chunk_21 (verification=False)...
+[2025-08-25 19:42:36] Prompt length (chars): 10324
+[2025-08-25 19:43:23] [Attempt 1] Response received in 47.2 seconds for chunk_21
+[2025-08-25 19:43:23] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_21.json
+[2025-08-25 19:43:23] Processing chunk_22 (verification=False)...
+[2025-08-25 19:43:23] Prompt length (chars): 11423
+[2025-08-25 19:43:41] [Attempt 1] Response received in 17.82 seconds for chunk_22
+[2025-08-25 19:43:41] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_22.json
+[2025-08-25 19:43:41] Processing chunk_23 (verification=False)...
+[2025-08-25 19:43:41] Prompt length (chars): 10854
+[2025-08-25 19:44:31] [Attempt 1] Response received in 49.91 seconds for chunk_23
+[2025-08-25 19:44:31] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_23.json
+[2025-08-25 19:44:31] Processing chunk_24 (verification=False)...
+[2025-08-25 19:44:31] Prompt length (chars): 10910
+[2025-08-25 19:44:57] [Attempt 1] Response received in 26.78 seconds for chunk_24
+[2025-08-25 19:44:57] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_24.json
+[2025-08-25 19:44:57] Processing chunk_25 (verification=False)...
+[2025-08-25 19:44:57] Prompt length (chars): 11250
+[2025-08-25 19:45:09] [Attempt 1] Response received in 11.68 seconds for chunk_25
+[2025-08-25 19:45:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_25.json
+[2025-08-25 19:45:09] Processing chunk_26 (verification=False)...
+[2025-08-25 19:45:09] Prompt length (chars): 12426
+[2025-08-25 19:45:21] [Attempt 1] Response received in 12.1 seconds for chunk_26
+[2025-08-25 19:45:21] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_26.json
+[2025-08-25 19:45:21] Processing chunk_27 (verification=False)...
+[2025-08-25 19:45:21] Prompt length (chars): 11115
+[2025-08-25 19:46:21] [Attempt 1] Response received in 59.92 seconds for chunk_27
+[2025-08-25 19:46:21] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_27.json
+[2025-08-25 19:46:21] Processing chunk_28 (verification=False)...
+[2025-08-25 19:46:21] Prompt length (chars): 11830
+[2025-08-25 19:46:51] [Attempt 1] Response received in 29.47 seconds for chunk_28
+[2025-08-25 19:46:51] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_28.json
+[2025-08-25 19:46:51] Processing chunk_29 (verification=False)...
+[2025-08-25 19:46:51] Prompt length (chars): 12460
+[2025-08-25 19:47:19] [Attempt 1] Response received in 28.1 seconds for chunk_29
+[2025-08-25 19:47:19] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_29.json
+[2025-08-25 19:47:19] Processing chunk_30 (verification=False)...
+[2025-08-25 19:47:19] Prompt length (chars): 12288
+[2025-08-25 19:47:49] [Attempt 1] Response received in 29.79 seconds for chunk_30
+[2025-08-25 19:47:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_30.json
+[2025-08-25 19:47:49] Processing chunk_31 (verification=False)...
+[2025-08-25 19:47:49] Prompt length (chars): 12609
+[2025-08-25 19:48:19] [Attempt 1] Response received in 30.43 seconds for chunk_31
+[2025-08-25 19:48:19] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_31.json
+[2025-08-25 19:48:19] Processing chunk_32 (verification=False)...
+[2025-08-25 19:48:19] Prompt length (chars): 12064
+[2025-08-25 19:49:32] [Attempt 1] Response received in 73.38 seconds for chunk_32
+[2025-08-25 19:49:32] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_32.json
+[2025-08-25 19:49:32] Processing chunk_33 (verification=False)...
+[2025-08-25 19:49:32] Prompt length (chars): 12589
+[2025-08-25 19:49:48] [Attempt 1] Response received in 15.82 seconds for chunk_33
+[2025-08-25 19:49:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_33.json
+[2025-08-25 19:49:48] Processing chunk_34 (verification=False)...
+[2025-08-25 19:49:48] Prompt length (chars): 11596
+[2025-08-25 19:51:05] [Attempt 1] Response received in 76.82 seconds for chunk_34
+[2025-08-25 19:51:05] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_34.json
+[2025-08-25 19:51:05] Processing chunk_35 (verification=False)...
+[2025-08-25 19:51:05] Prompt length (chars): 13793
+[2025-08-25 19:51:38] [Attempt 1] Response received in 33.36 seconds for chunk_35
+[2025-08-25 19:51:38] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_35.json
+[2025-08-25 19:51:38] Processing chunk_36 (verification=False)...
+[2025-08-25 19:51:38] Prompt length (chars): 12259
+[2025-08-25 19:53:06] [Attempt 1] Response received in 87.81 seconds for chunk_36
+[2025-08-25 19:53:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_36.json
+[2025-08-25 19:53:06] Processing chunk_37 (verification=False)...
+[2025-08-25 19:53:06] Prompt length (chars): 14826
+[2025-08-25 19:53:30] [Attempt 1] Response received in 23.64 seconds for chunk_37
+[2025-08-25 19:53:30] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_37.json
+[2025-08-25 19:53:30] Processing chunk_38 (verification=False)...
+[2025-08-25 19:53:30] Prompt length (chars): 14612
+[2025-08-25 19:53:57] [Attempt 1] Response received in 27.27 seconds for chunk_38
+[2025-08-25 19:53:57] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_38.json
+[2025-08-25 19:53:57] Processing chunk_39 (verification=False)...
+[2025-08-25 19:53:57] Prompt length (chars): 15759
+[2025-08-25 19:54:18] [Attempt 1] Response received in 20.96 seconds for chunk_39
+[2025-08-25 19:54:18] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_39.json
+[2025-08-25 19:54:18] Processing chunk_40 (verification=False)...
+[2025-08-25 19:54:18] Prompt length (chars): 15289
+[2025-08-25 19:56:01] [Attempt 1] Response received in 103.24 seconds for chunk_40
+[2025-08-25 19:56:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_40.json
+[2025-08-25 19:56:01] Processing chunk_41 (verification=False)...
+[2025-08-25 19:56:01] Prompt length (chars): 16532
+[2025-08-25 19:56:37] [Attempt 1] Response received in 35.67 seconds for chunk_41
+[2025-08-25 19:56:37] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_41.json
+[2025-08-25 19:56:37] Processing chunk_42 (verification=False)...
+[2025-08-25 19:56:37] Prompt length (chars): 15433
+[2025-08-25 19:57:01] [Attempt 1] Response received in 24.23 seconds for chunk_42
+[2025-08-25 19:57:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_42.json
+[2025-08-25 19:57:01] Processing chunk_43 (verification=False)...
+[2025-08-25 19:57:01] Prompt length (chars): 16823
+[2025-08-25 19:57:29] [Attempt 1] Response received in 27.56 seconds for chunk_43
+[2025-08-25 19:57:29] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_43.json
+[2025-08-25 19:57:29] Processing chunk_44 (verification=False)...
+[2025-08-25 19:57:29] Prompt length (chars): 16376
+[2025-08-25 19:57:49] [Attempt 1] Response received in 19.83 seconds for chunk_44
+[2025-08-25 19:57:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_44.json
+[2025-08-25 19:57:49] Processing chunk_45 (verification=False)...
+[2025-08-25 19:57:49] Prompt length (chars): 16698
+[2025-08-25 19:57:56] [Attempt 1] Response received in 7.07 seconds for chunk_45
+[2025-08-25 19:57:56] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_45.json
+[2025-08-25 19:57:56] Processing chunk_46 (verification=False)...
+[2025-08-25 19:57:56] Prompt length (chars): 17059
+[2025-08-25 19:58:34] [Attempt 1] Response received in 37.58 seconds for chunk_46
+[2025-08-25 19:58:34] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_46.json
+[2025-08-25 19:58:34] Processing chunk_47 (verification=False)...
+[2025-08-25 19:58:34] Prompt length (chars): 16314
+[2025-08-25 19:59:07] [Attempt 1] Response received in 33.31 seconds for chunk_47
+[2025-08-25 19:59:07] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_47.json
+[2025-08-25 19:59:07] Processing chunk_48 (verification=False)...
+[2025-08-25 19:59:07] Prompt length (chars): 17051
+[2025-08-25 19:59:25] [Attempt 1] Response received in 18.07 seconds for chunk_48
+[2025-08-25 19:59:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_48.json
+[2025-08-25 19:59:25] Processing chunk_49 (verification=False)...
+[2025-08-25 19:59:25] Prompt length (chars): 17204
+[2025-08-25 19:59:39] [Attempt 1] Response received in 14.27 seconds for chunk_49
+[2025-08-25 19:59:39] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_49.json
+[2025-08-25 19:59:39] Processing chunk_50 (verification=False)...
+[2025-08-25 19:59:39] Prompt length (chars): 17324
+[2025-08-25 20:00:05] [Attempt 1] Response received in 25.83 seconds for chunk_50
+[2025-08-25 20:00:05] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_50.json
+[2025-08-25 20:00:05] Processing chunk_51 (verification=False)...
+[2025-08-25 20:00:05] Prompt length (chars): 18372
+[2025-08-25 20:00:55] [Attempt 1] Response received in 49.68 seconds for chunk_51
+[2025-08-25 20:00:55] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_51.json
+[2025-08-25 20:00:55] Processing chunk_52 (verification=False)...
+[2025-08-25 20:00:55] Prompt length (chars): 18078
+[2025-08-25 20:01:47] [Attempt 1] Response received in 52.31 seconds for chunk_52
+[2025-08-25 20:01:47] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_52.json
+[2025-08-25 20:01:47] Processing chunk_53 (verification=False)...
+[2025-08-25 20:01:47] Prompt length (chars): 18924
+[2025-08-25 20:02:07] [Attempt 1] Response received in 20.35 seconds for chunk_53
+[2025-08-25 20:02:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_53.json
+[2025-08-25 20:02:08] Processing chunk_54 (verification=False)...
+[2025-08-25 20:02:08] Prompt length (chars): 19527
+[2025-08-25 20:02:53] [Attempt 1] Response received in 45.38 seconds for chunk_54
+[2025-08-25 20:02:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_54.json
+[2025-08-25 20:02:53] Processing chunk_55 (verification=False)...
+[2025-08-25 20:02:53] Prompt length (chars): 18430
+[2025-08-25 20:03:08] [Attempt 1] Response received in 15.26 seconds for chunk_55
+[2025-08-25 20:03:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_55.json
+[2025-08-25 20:03:08] Processing chunk_56 (verification=False)...
+[2025-08-25 20:03:08] Prompt length (chars): 19063
+[2025-08-25 20:03:16] [Attempt 1] Response received in 7.87 seconds for chunk_56
+[2025-08-25 20:03:16] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_56.json
+[2025-08-25 20:03:16] Processing chunk_57 (verification=False)...
+[2025-08-25 20:03:16] Prompt length (chars): 20358
+[2025-08-25 20:03:47] [Attempt 1] Response received in 30.65 seconds for chunk_57
+[2025-08-25 20:03:47] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_57.json
+[2025-08-25 20:03:47] Processing chunk_58 (verification=False)...
+[2025-08-25 20:03:47] Prompt length (chars): 19824
+[2025-08-25 20:04:14] [Attempt 1] Response received in 27.15 seconds for chunk_58
+[2025-08-25 20:04:14] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_58.json
+[2025-08-25 20:04:14] Processing chunk_59 (verification=False)...
+[2025-08-25 20:04:14] Prompt length (chars): 20509
+[2025-08-25 20:04:40] [Attempt 1] Response received in 25.79 seconds for chunk_59
+[2025-08-25 20:04:40] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_59.json
+[2025-08-25 20:04:40] Processing chunk_60 (verification=False)...
+[2025-08-25 20:04:40] Prompt length (chars): 18824
+[2025-08-25 20:04:59] [Attempt 1] Response received in 19.27 seconds for chunk_60
+[2025-08-25 20:04:59] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_60.json
+[2025-08-25 20:04:59] Processing chunk_61 (verification=False)...
+[2025-08-25 20:04:59] Prompt length (chars): 19532
+[2025-08-25 20:05:54] [Attempt 1] Response received in 54.54 seconds for chunk_61
+[2025-08-25 20:05:54] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_61.json
+[2025-08-25 20:05:54] Processing chunk_62 (verification=False)...
+[2025-08-25 20:05:54] Prompt length (chars): 20978
+[2025-08-25 20:06:29] [Attempt 1] Response received in 35.48 seconds for chunk_62
+[2025-08-25 20:06:29] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_62.json
+[2025-08-25 20:06:29] Processing chunk_63 (verification=False)...
+[2025-08-25 20:06:29] Prompt length (chars): 20727
+[2025-08-25 20:07:17] [Attempt 1] Response received in 48.04 seconds for chunk_63
+[2025-08-25 20:07:17] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_63.json
+[2025-08-25 20:07:17] Processing chunk_64 (verification=False)...
+[2025-08-25 20:07:17] Prompt length (chars): 20874
+[2025-08-25 20:07:34] [Attempt 1] Response received in 16.9 seconds for chunk_64
+[2025-08-25 20:07:34] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_64.json
+[2025-08-25 20:07:34] Processing chunk_65 (verification=False)...
+[2025-08-25 20:07:34] Prompt length (chars): 20618
+[2025-08-25 20:07:50] [Attempt 1] Response received in 16.31 seconds for chunk_65
+[2025-08-25 20:07:50] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_65.json
+[2025-08-25 20:07:50] Processing chunk_66 (verification=False)...
+[2025-08-25 20:07:50] Prompt length (chars): 20603
+[2025-08-25 20:09:50] [Attempt 1] Failed to process chunk_66: Ollama inference timed out.
+[2025-08-25 20:09:51] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:13:19] [Extended Timeout] Response received in 208.73 seconds for chunk_66
+[2025-08-25 20:13:19] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_66.json
+[2025-08-25 20:13:19] Processing chunk_67 (verification=False)...
+[2025-08-25 20:13:19] Prompt length (chars): 20867
+[2025-08-25 20:15:19] [Attempt 1] Failed to process chunk_67: Ollama inference timed out.
+[2025-08-25 20:15:19] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:18:48] [Extended Timeout] Response received in 209.06 seconds for chunk_67
+[2025-08-25 20:18:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_67.json
+[2025-08-25 20:18:48] Processing chunk_68 (verification=False)...
+[2025-08-25 20:18:48] Prompt length (chars): 20856
+[2025-08-25 20:19:32] [Attempt 1] Response received in 43.41 seconds for chunk_68
+[2025-08-25 20:19:32] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_68.json
+[2025-08-25 20:19:32] Processing chunk_69 (verification=False)...
+[2025-08-25 20:19:32] Prompt length (chars): 20867
+[2025-08-25 20:21:32] [Attempt 1] Failed to process chunk_69: Ollama inference timed out.
+[2025-08-25 20:21:32] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:25:02] [Extended Timeout] Response received in 210.38 seconds for chunk_69
+[2025-08-25 20:25:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_69.json
+[2025-08-25 20:25:02] Processing chunk_70 (verification=False)...
+[2025-08-25 20:25:02] Prompt length (chars): 21179
+[2025-08-25 20:25:20] [Attempt 1] Response received in 17.6 seconds for chunk_70
+[2025-08-25 20:25:20] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_70.json
+[2025-08-25 20:25:20] Processing chunk_71 (verification=False)...
+[2025-08-25 20:25:20] Prompt length (chars): 20831
+[2025-08-25 20:27:20] [Attempt 1] Failed to process chunk_71: Ollama inference timed out.
+[2025-08-25 20:27:20] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:30:54] [Extended Timeout] Response received in 213.59 seconds for chunk_71
+[2025-08-25 20:30:54] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_71.json
+[2025-08-25 20:30:54] Processing chunk_72 (verification=False)...
+[2025-08-25 20:30:54] Prompt length (chars): 21113
+[2025-08-25 20:31:10] [Attempt 1] Response received in 15.85 seconds for chunk_72
+[2025-08-25 20:31:10] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_72.json
+[2025-08-25 20:31:10] Processing chunk_73 (verification=False)...
+[2025-08-25 20:31:10] Prompt length (chars): 21051
+[2025-08-25 20:31:23] [Attempt 1] Response received in 13.63 seconds for chunk_73
+[2025-08-25 20:31:23] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_73.json
+[2025-08-25 20:31:23] Processing chunk_74 (verification=False)...
+[2025-08-25 20:31:23] Prompt length (chars): 22710
+[2025-08-25 20:31:55] [Attempt 1] Response received in 31.19 seconds for chunk_74
+[2025-08-25 20:31:55] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_74.json
+[2025-08-25 20:31:55] Processing chunk_75 (verification=False)...
+[2025-08-25 20:31:55] Prompt length (chars): 21818
+[2025-08-25 20:32:11] [Attempt 1] Response received in 16.74 seconds for chunk_75
+[2025-08-25 20:32:11] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_75.json
+[2025-08-25 20:32:11] Processing chunk_76 (verification=False)...
+[2025-08-25 20:32:11] Prompt length (chars): 23292
+[2025-08-25 20:32:40] [Attempt 1] Response received in 28.79 seconds for chunk_76
+[2025-08-25 20:32:40] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_76.json
+[2025-08-25 20:32:40] Processing chunk_77 (verification=False)...
+[2025-08-25 20:32:40] Prompt length (chars): 23757
+[2025-08-25 20:33:06] [Attempt 1] Response received in 25.85 seconds for chunk_77
+[2025-08-25 20:33:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_77.json
+[2025-08-25 20:33:06] Processing chunk_78 (verification=False)...
+[2025-08-25 20:33:06] Prompt length (chars): 24034
+[2025-08-25 20:34:09] [Attempt 1] Response received in 63.39 seconds for chunk_78
+[2025-08-25 20:34:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_78.json
+[2025-08-25 20:34:09] Processing chunk_79 (verification=False)...
+[2025-08-25 20:34:09] Prompt length (chars): 23297
+[2025-08-25 20:34:28] [Attempt 1] Response received in 18.41 seconds for chunk_79
+[2025-08-25 20:34:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_79.json
+[2025-08-25 20:34:28] Processing chunk_80 (verification=False)...
+[2025-08-25 20:34:28] Prompt length (chars): 24306
+[2025-08-25 20:36:28] [Attempt 1] Failed to process chunk_80: Ollama inference timed out.
+[2025-08-25 20:36:28] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:40:45] [Extended Timeout] Response received in 257.11 seconds for chunk_80
+[2025-08-25 20:40:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_80.json
+[2025-08-25 20:40:45] Processing chunk_81 (verification=False)...
+[2025-08-25 20:40:45] Prompt length (chars): 24305
+[2025-08-25 20:41:06] [Attempt 1] Response received in 20.74 seconds for chunk_81
+[2025-08-25 20:41:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_81.json
+[2025-08-25 20:41:06] Processing chunk_82 (verification=False)...
+[2025-08-25 20:41:06] Prompt length (chars): 24697
+[2025-08-25 20:41:22] [Attempt 1] Response received in 16.63 seconds for chunk_82
+[2025-08-25 20:41:22] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_82.json
+[2025-08-25 20:41:22] Processing chunk_83 (verification=False)...
+[2025-08-25 20:41:22] Prompt length (chars): 25813
+[2025-08-25 20:41:39] [Attempt 1] Response received in 16.73 seconds for chunk_83
+[2025-08-25 20:41:39] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_83.json
+[2025-08-25 20:41:39] Processing chunk_84 (verification=False)...
+[2025-08-25 20:41:39] Prompt length (chars): 24040
+[2025-08-25 20:41:54] [Attempt 1] Response received in 14.6 seconds for chunk_84
+[2025-08-25 20:41:54] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_84.json
+[2025-08-25 20:41:54] Processing chunk_85 (verification=False)...
+[2025-08-25 20:41:54] Prompt length (chars): 25507
+[2025-08-25 20:42:32] [Attempt 1] Response received in 37.8 seconds for chunk_85
+[2025-08-25 20:42:32] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_85.json
+[2025-08-25 20:42:32] Final memory saved to: output/04USVsRodriguez_1ret/smuggleditems/final_memory.json
+[2025-08-25 20:42:32] Starting verification pass 1...
+[2025-08-25 20:42:32] Processing chunk_01 (verification=True)...
+[2025-08-25 20:42:32] Prompt length (chars): 24128
+[2025-08-25 20:44:32] [Attempt 1] Failed to process chunk_01: Ollama inference timed out.
+[2025-08-25 20:44:32] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:49:00] [Extended Timeout] Response received in 268.0 seconds for chunk_01
+[2025-08-25 20:49:00] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_01_verify.json
+[2025-08-25 20:49:00] Processing chunk_02 (verification=True)...
+[2025-08-25 20:49:00] Prompt length (chars): 25851
+[2025-08-25 20:49:28] [Attempt 1] Response received in 27.91 seconds for chunk_02
+[2025-08-25 20:49:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_02_verify.json
+[2025-08-25 20:49:28] Processing chunk_03 (verification=True)...
+[2025-08-25 20:49:28] Prompt length (chars): 23874
+[2025-08-25 20:49:29] [Attempt 1] Response received in 1.68 seconds for chunk_03
+[2025-08-25 20:49:29] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_03_verify.json
+[2025-08-25 20:49:29] Processing chunk_04 (verification=True)...
+[2025-08-25 20:49:29] Prompt length (chars): 25223
+[2025-08-25 20:49:53] [Attempt 1] Response received in 23.69 seconds for chunk_04
+[2025-08-25 20:49:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_04_verify.json
+[2025-08-25 20:49:53] Processing chunk_05 (verification=True)...
+[2025-08-25 20:49:53] Prompt length (chars): 24504
+[2025-08-25 20:51:53] [Attempt 1] Failed to process chunk_05: Ollama inference timed out.
+[2025-08-25 20:51:53] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 20:56:23] [Extended Timeout] Response received in 270.14 seconds for chunk_05
+[2025-08-25 20:56:23] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_05_verify.json
+[2025-08-25 20:56:23] Processing chunk_06 (verification=True)...
+[2025-08-25 20:56:23] Prompt length (chars): 25223
+[2025-08-25 20:56:45] [Attempt 1] Response received in 21.14 seconds for chunk_06
+[2025-08-25 20:56:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_06_verify.json
+[2025-08-25 20:56:45] Processing chunk_07 (verification=True)...
+[2025-08-25 20:56:45] Prompt length (chars): 24061
+[2025-08-25 20:56:57] [Attempt 1] Response received in 12.46 seconds for chunk_07
+[2025-08-25 20:56:57] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_07_verify.json
+[2025-08-25 20:56:57] Processing chunk_08 (verification=True)...
+[2025-08-25 20:56:57] Prompt length (chars): 24890
+[2025-08-25 20:57:16] [Attempt 1] Response received in 19.1 seconds for chunk_08
+[2025-08-25 20:57:16] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_08_verify.json
+[2025-08-25 20:57:16] Processing chunk_09 (verification=True)...
+[2025-08-25 20:57:16] Prompt length (chars): 24388
+[2025-08-25 20:57:50] [Attempt 1] Response received in 34.01 seconds for chunk_09
+[2025-08-25 20:57:50] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_09_verify.json
+[2025-08-25 20:57:50] Processing chunk_10 (verification=True)...
+[2025-08-25 20:57:50] Prompt length (chars): 25285
+[2025-08-25 20:58:18] [Attempt 1] Response received in 28.09 seconds for chunk_10
+[2025-08-25 20:58:18] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_10_verify.json
+[2025-08-25 20:58:18] Processing chunk_11 (verification=True)...
+[2025-08-25 20:58:18] Prompt length (chars): 24110
+[2025-08-25 21:00:18] [Attempt 1] Failed to process chunk_11: Ollama inference timed out.
+[2025-08-25 21:00:18] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 21:04:49] [Extended Timeout] Response received in 270.72 seconds for chunk_11
+[2025-08-25 21:04:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_11_verify.json
+[2025-08-25 21:04:49] Processing chunk_12 (verification=True)...
+[2025-08-25 21:04:49] Prompt length (chars): 25362
+[2025-08-25 21:04:59] [Attempt 1] Response received in 9.66 seconds for chunk_12
+[2025-08-25 21:04:59] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_12_verify.json
+[2025-08-25 21:04:59] Processing chunk_13 (verification=True)...
+[2025-08-25 21:04:59] Prompt length (chars): 25362
+[2025-08-25 21:05:07] [Attempt 1] Response received in 8.67 seconds for chunk_13
+[2025-08-25 21:05:07] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_13_verify.json
+[2025-08-25 21:05:07] Processing chunk_14 (verification=True)...
+[2025-08-25 21:05:07] Prompt length (chars): 25694
+[2025-08-25 21:05:18] [Attempt 1] Response received in 10.86 seconds for chunk_14
+[2025-08-25 21:05:18] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_14_verify.json
+[2025-08-25 21:05:18] Processing chunk_15 (verification=True)...
+[2025-08-25 21:05:18] Prompt length (chars): 24979
+[2025-08-25 21:05:41] [Attempt 1] Response received in 22.89 seconds for chunk_15
+[2025-08-25 21:05:41] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_15_verify.json
+[2025-08-25 21:05:41] Processing chunk_16 (verification=True)...
+[2025-08-25 21:05:41] Prompt length (chars): 25734
+[2025-08-25 21:05:50] [Attempt 1] Response received in 9.0 seconds for chunk_16
+[2025-08-25 21:05:50] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_16_verify.json
+[2025-08-25 21:05:50] Processing chunk_17 (verification=True)...
+[2025-08-25 21:05:50] Prompt length (chars): 24475
+[2025-08-25 21:05:56] [Attempt 1] Response received in 5.61 seconds for chunk_17
+[2025-08-25 21:05:56] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_17_verify.json
+[2025-08-25 21:05:56] Processing chunk_18 (verification=True)...
+[2025-08-25 21:05:56] Prompt length (chars): 26138
+[2025-08-25 21:06:10] [Attempt 1] Response received in 14.37 seconds for chunk_18
+[2025-08-25 21:06:10] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_18_verify.json
+[2025-08-25 21:06:10] Processing chunk_19 (verification=True)...
+[2025-08-25 21:06:10] Prompt length (chars): 26120
+[2025-08-25 21:06:22] [Attempt 1] Response received in 11.35 seconds for chunk_19
+[2025-08-25 21:06:22] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_19_verify.json
+[2025-08-25 21:06:22] Processing chunk_20 (verification=True)...
+[2025-08-25 21:06:22] Prompt length (chars): 25936
+[2025-08-25 21:06:34] [Attempt 1] Response received in 12.44 seconds for chunk_20
+[2025-08-25 21:06:34] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_20_verify.json
+[2025-08-25 21:06:34] Processing chunk_21 (verification=True)...
+[2025-08-25 21:06:34] Prompt length (chars): 25636
+[2025-08-25 21:06:55] [Attempt 1] Response received in 20.93 seconds for chunk_21
+[2025-08-25 21:06:55] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_21_verify.json
+[2025-08-25 21:06:55] Processing chunk_22 (verification=True)...
+[2025-08-25 21:06:55] Prompt length (chars): 26621
+[2025-08-25 21:07:13] [Attempt 1] Response received in 18.03 seconds for chunk_22
+[2025-08-25 21:07:13] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_22_verify.json
+[2025-08-25 21:07:13] Processing chunk_23 (verification=True)...
+[2025-08-25 21:07:13] Prompt length (chars): 26104
+[2025-08-25 21:07:49] [Attempt 1] Response received in 35.35 seconds for chunk_23
+[2025-08-25 21:07:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_23_verify.json
+[2025-08-25 21:07:49] Processing chunk_24 (verification=True)...
+[2025-08-25 21:07:49] Prompt length (chars): 26252
+[2025-08-25 21:09:01] [Attempt 1] Response received in 71.99 seconds for chunk_24
+[2025-08-25 21:09:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_24_verify.json
+[2025-08-25 21:09:01] Processing chunk_25 (verification=True)...
+[2025-08-25 21:09:01] Prompt length (chars): 26524
+[2025-08-25 21:10:08] [Attempt 1] Response received in 67.38 seconds for chunk_25
+[2025-08-25 21:10:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_25_verify.json
+[2025-08-25 21:10:08] Processing chunk_26 (verification=True)...
+[2025-08-25 21:10:08] Prompt length (chars): 27313
+[2025-08-25 21:10:22] [Attempt 1] Response received in 13.91 seconds for chunk_26
+[2025-08-25 21:10:22] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_26_verify.json
+[2025-08-25 21:10:22] Processing chunk_27 (verification=True)...
+[2025-08-25 21:10:22] Prompt length (chars): 26240
+[2025-08-25 21:11:35] [Attempt 1] Response received in 72.8 seconds for chunk_27
+[2025-08-25 21:11:35] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_27_verify.json
+[2025-08-25 21:11:35] Processing chunk_28 (verification=True)...
+[2025-08-25 21:11:35] Prompt length (chars): 27136
+[2025-08-25 21:12:51] [Attempt 1] Response received in 76.33 seconds for chunk_28
+[2025-08-25 21:12:51] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_28_verify.json
+[2025-08-25 21:12:51] Processing chunk_29 (verification=True)...
+[2025-08-25 21:12:51] Prompt length (chars): 27722
+[2025-08-25 21:13:01] [Attempt 1] Response received in 10.27 seconds for chunk_29
+[2025-08-25 21:13:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_29_verify.json
+[2025-08-25 21:13:01] Processing chunk_30 (verification=True)...
+[2025-08-25 21:13:01] Prompt length (chars): 27440
+[2025-08-25 21:14:09] [Attempt 1] Response received in 67.23 seconds for chunk_30
+[2025-08-25 21:14:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_30_verify.json
+[2025-08-25 21:14:09] Processing chunk_31 (verification=True)...
+[2025-08-25 21:14:09] Prompt length (chars): 27636
+[2025-08-25 21:14:24] [Attempt 1] Response received in 15.14 seconds for chunk_31
+[2025-08-25 21:14:24] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_31_verify.json
+[2025-08-25 21:14:24] Processing chunk_32 (verification=True)...
+[2025-08-25 21:14:24] Prompt length (chars): 26610
+[2025-08-25 21:15:01] [Attempt 1] Response received in 36.87 seconds for chunk_32
+[2025-08-25 21:15:01] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_32_verify.json
+[2025-08-25 21:15:01] Processing chunk_33 (verification=True)...
+[2025-08-25 21:15:01] Prompt length (chars): 27192
+[2025-08-25 21:15:26] [Attempt 1] Response received in 25.52 seconds for chunk_33
+[2025-08-25 21:15:26] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_33_verify.json
+[2025-08-25 21:15:26] Processing chunk_34 (verification=True)...
+[2025-08-25 21:15:26] Prompt length (chars): 25951
+[2025-08-25 21:15:38] [Attempt 1] Response received in 11.64 seconds for chunk_34
+[2025-08-25 21:15:38] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_34_verify.json
+[2025-08-25 21:15:38] Processing chunk_35 (verification=True)...
+[2025-08-25 21:15:38] Prompt length (chars): 28176
+[2025-08-25 21:16:08] [Attempt 1] Response received in 30.09 seconds for chunk_35
+[2025-08-25 21:16:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_35_verify.json
+[2025-08-25 21:16:08] Processing chunk_36 (verification=True)...
+[2025-08-25 21:16:08] Prompt length (chars): 25745
+[2025-08-25 21:16:28] [Attempt 1] Response received in 20.28 seconds for chunk_36
+[2025-08-25 21:16:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_36_verify.json
+[2025-08-25 21:16:28] Processing chunk_37 (verification=True)...
+[2025-08-25 21:16:28] Prompt length (chars): 28211
+[2025-08-25 21:16:50] [Attempt 1] Response received in 22.28 seconds for chunk_37
+[2025-08-25 21:16:50] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_37_verify.json
+[2025-08-25 21:16:50] Processing chunk_38 (verification=True)...
+[2025-08-25 21:16:50] Prompt length (chars): 27863
+[2025-08-25 21:18:08] [Attempt 1] Response received in 77.42 seconds for chunk_38
+[2025-08-25 21:18:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_38_verify.json
+[2025-08-25 21:18:08] Processing chunk_39 (verification=True)...
+[2025-08-25 21:18:08] Prompt length (chars): 28889
+[2025-08-25 21:18:28] [Attempt 1] Response received in 20.11 seconds for chunk_39
+[2025-08-25 21:18:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_39_verify.json
+[2025-08-25 21:18:28] Processing chunk_40 (verification=True)...
+[2025-08-25 21:18:28] Prompt length (chars): 28320
+[2025-08-25 21:19:02] [Attempt 1] Response received in 34.35 seconds for chunk_40
+[2025-08-25 21:19:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_40_verify.json
+[2025-08-25 21:19:02] Processing chunk_41 (verification=True)...
+[2025-08-25 21:19:02] Prompt length (chars): 29898
+[2025-08-25 21:19:13] [Attempt 1] Response received in 10.84 seconds for chunk_41
+[2025-08-25 21:19:13] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_41_verify.json
+[2025-08-25 21:19:13] Processing chunk_42 (verification=True)...
+[2025-08-25 21:19:13] Prompt length (chars): 28694
+[2025-08-25 21:20:25] [Attempt 1] Response received in 71.83 seconds for chunk_42
+[2025-08-25 21:20:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_42_verify.json
+[2025-08-25 21:20:25] Processing chunk_43 (verification=True)...
+[2025-08-25 21:20:25] Prompt length (chars): 29591
+[2025-08-25 21:20:51] [Attempt 1] Response received in 26.02 seconds for chunk_43
+[2025-08-25 21:20:51] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_43_verify.json
+[2025-08-25 21:20:51] Processing chunk_44 (verification=True)...
+[2025-08-25 21:20:51] Prompt length (chars): 28783
+[2025-08-25 21:21:04] [Attempt 1] Response received in 13.21 seconds for chunk_44
+[2025-08-25 21:21:04] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_44_verify.json
+[2025-08-25 21:21:04] Processing chunk_45 (verification=True)...
+[2025-08-25 21:21:04] Prompt length (chars): 28719
+[2025-08-25 21:21:10] [Attempt 1] Response received in 5.76 seconds for chunk_45
+[2025-08-25 21:21:10] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_45_verify.json
+[2025-08-25 21:21:10] Processing chunk_46 (verification=True)...
+[2025-08-25 21:21:10] Prompt length (chars): 29033
+[2025-08-25 21:21:37] [Attempt 1] Response received in 26.45 seconds for chunk_46
+[2025-08-25 21:21:37] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_46_verify.json
+[2025-08-25 21:21:37] Processing chunk_47 (verification=True)...
+[2025-08-25 21:21:37] Prompt length (chars): 27938
+[2025-08-25 21:22:07] [Attempt 1] Response received in 30.25 seconds for chunk_47
+[2025-08-25 21:22:07] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_47_verify.json
+[2025-08-25 21:22:07] Processing chunk_48 (verification=True)...
+[2025-08-25 21:22:07] Prompt length (chars): 27769
+[2025-08-25 21:22:35] [Attempt 1] Response received in 27.7 seconds for chunk_48
+[2025-08-25 21:22:35] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_48_verify.json
+[2025-08-25 21:22:35] Processing chunk_49 (verification=True)...
+[2025-08-25 21:22:35] Prompt length (chars): 27689
+[2025-08-25 21:22:58] [Attempt 1] Response received in 23.75 seconds for chunk_49
+[2025-08-25 21:22:58] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_49_verify.json
+[2025-08-25 21:22:58] Processing chunk_50 (verification=True)...
+[2025-08-25 21:22:58] Prompt length (chars): 28284
+[2025-08-25 21:23:28] [Attempt 1] Response received in 30.0 seconds for chunk_50
+[2025-08-25 21:23:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_50_verify.json
+[2025-08-25 21:23:28] Processing chunk_51 (verification=True)...
+[2025-08-25 21:23:28] Prompt length (chars): 29540
+[2025-08-25 21:24:48] [Attempt 1] Response received in 79.94 seconds for chunk_51
+[2025-08-25 21:24:48] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_51_verify.json
+[2025-08-25 21:24:48] Processing chunk_52 (verification=True)...
+[2025-08-25 21:24:48] Prompt length (chars): 29198
+[2025-08-25 21:26:11] [Attempt 1] Response received in 82.28 seconds for chunk_52
+[2025-08-25 21:26:11] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_52_verify.json
+[2025-08-25 21:26:11] Processing chunk_53 (verification=True)...
+[2025-08-25 21:26:11] Prompt length (chars): 29665
+[2025-08-25 21:26:46] [Attempt 1] Response received in 35.04 seconds for chunk_53
+[2025-08-25 21:26:46] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_53_verify.json
+[2025-08-25 21:26:46] Processing chunk_54 (verification=True)...
+[2025-08-25 21:26:46] Prompt length (chars): 30456
+[2025-08-25 21:28:03] [Attempt 1] Response received in 77.45 seconds for chunk_54
+[2025-08-25 21:28:03] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_54_verify.json
+[2025-08-25 21:28:03] Processing chunk_55 (verification=True)...
+[2025-08-25 21:28:03] Prompt length (chars): 29113
+[2025-08-25 21:28:25] [Attempt 1] Response received in 22.38 seconds for chunk_55
+[2025-08-25 21:28:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_55_verify.json
+[2025-08-25 21:28:25] Processing chunk_56 (verification=True)...
+[2025-08-25 21:28:25] Prompt length (chars): 29563
+[2025-08-25 21:28:45] [Attempt 1] Response received in 19.22 seconds for chunk_56
+[2025-08-25 21:28:45] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_56_verify.json
+[2025-08-25 21:28:45] Processing chunk_57 (verification=True)...
+[2025-08-25 21:28:45] Prompt length (chars): 31645
+[2025-08-25 21:30:13] [Attempt 1] Response received in 88.14 seconds for chunk_57
+[2025-08-25 21:30:13] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_57_verify.json
+[2025-08-25 21:30:13] Processing chunk_58 (verification=True)...
+[2025-08-25 21:30:13] Prompt length (chars): 31043
+[2025-08-25 21:31:14] [Attempt 1] Response received in 60.62 seconds for chunk_58
+[2025-08-25 21:31:14] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_58_verify.json
+[2025-08-25 21:31:14] Processing chunk_59 (verification=True)...
+[2025-08-25 21:31:14] Prompt length (chars): 31523
+[2025-08-25 21:31:46] [Attempt 1] Response received in 32.41 seconds for chunk_59
+[2025-08-25 21:31:46] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_59_verify.json
+[2025-08-25 21:31:46] Processing chunk_60 (verification=True)...
+[2025-08-25 21:31:46] Prompt length (chars): 29892
+[2025-08-25 21:32:02] [Attempt 1] Response received in 15.65 seconds for chunk_60
+[2025-08-25 21:32:02] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_60_verify.json
+[2025-08-25 21:32:02] Processing chunk_61 (verification=True)...
+[2025-08-25 21:32:02] Prompt length (chars): 30073
+[2025-08-25 21:32:20] [Attempt 1] Response received in 18.83 seconds for chunk_61
+[2025-08-25 21:32:20] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_61_verify.json
+[2025-08-25 21:32:20] Processing chunk_62 (verification=True)...
+[2025-08-25 21:32:20] Prompt length (chars): 30611
+[2025-08-25 21:32:52] [Attempt 1] Response received in 31.67 seconds for chunk_62
+[2025-08-25 21:32:52] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_62_verify.json
+[2025-08-25 21:32:52] Processing chunk_63 (verification=True)...
+[2025-08-25 21:32:52] Prompt length (chars): 30051
+[2025-08-25 21:33:09] [Attempt 1] Response received in 16.85 seconds for chunk_63
+[2025-08-25 21:33:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_63_verify.json
+[2025-08-25 21:33:09] Processing chunk_64 (verification=True)...
+[2025-08-25 21:33:09] Prompt length (chars): 30113
+[2025-08-25 21:33:30] [Attempt 1] Response received in 20.63 seconds for chunk_64
+[2025-08-25 21:33:30] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_64_verify.json
+[2025-08-25 21:33:30] Processing chunk_65 (verification=True)...
+[2025-08-25 21:33:30] Prompt length (chars): 30010
+[2025-08-25 21:34:00] [Attempt 1] Response received in 30.29 seconds for chunk_65
+[2025-08-25 21:34:00] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_65_verify.json
+[2025-08-25 21:34:00] Processing chunk_66 (verification=True)...
+[2025-08-25 21:34:00] Prompt length (chars): 29943
+[2025-08-25 21:34:15] [Attempt 1] Response received in 14.91 seconds for chunk_66
+[2025-08-25 21:34:15] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_66_verify.json
+[2025-08-25 21:34:15] Processing chunk_67 (verification=True)...
+[2025-08-25 21:34:15] Prompt length (chars): 30290
+[2025-08-25 21:34:47] [Attempt 1] Response received in 31.92 seconds for chunk_67
+[2025-08-25 21:34:47] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_67_verify.json
+[2025-08-25 21:34:47] Processing chunk_68 (verification=True)...
+[2025-08-25 21:34:47] Prompt length (chars): 30533
+[2025-08-25 21:36:06] [Attempt 1] Response received in 79.6 seconds for chunk_68
+[2025-08-25 21:36:06] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_68_verify.json
+[2025-08-25 21:36:06] Processing chunk_69 (verification=True)...
+[2025-08-25 21:36:06] Prompt length (chars): 30457
+[2025-08-25 21:36:20] [Attempt 1] Response received in 13.83 seconds for chunk_69
+[2025-08-25 21:36:20] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_69_verify.json
+[2025-08-25 21:36:20] Processing chunk_70 (verification=True)...
+[2025-08-25 21:36:20] Prompt length (chars): 30769
+[2025-08-25 21:36:35] [Attempt 1] Response received in 15.12 seconds for chunk_70
+[2025-08-25 21:36:35] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_70_verify.json
+[2025-08-25 21:36:35] Processing chunk_71 (verification=True)...
+[2025-08-25 21:36:35] Prompt length (chars): 30338
+[2025-08-25 21:36:49] [Attempt 1] Response received in 13.83 seconds for chunk_71
+[2025-08-25 21:36:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_71_verify.json
+[2025-08-25 21:36:49] Processing chunk_72 (verification=True)...
+[2025-08-25 21:36:49] Prompt length (chars): 30516
+[2025-08-25 21:37:09] [Attempt 1] Response received in 19.88 seconds for chunk_72
+[2025-08-25 21:37:09] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_72_verify.json
+[2025-08-25 21:37:09] Processing chunk_73 (verification=True)...
+[2025-08-25 21:37:09] Prompt length (chars): 30509
+[2025-08-25 21:37:25] [Attempt 1] Response received in 15.59 seconds for chunk_73
+[2025-08-25 21:37:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_73_verify.json
+[2025-08-25 21:37:25] Processing chunk_74 (verification=True)...
+[2025-08-25 21:37:25] Prompt length (chars): 32356
+[2025-08-25 21:37:56] [Attempt 1] Response received in 30.76 seconds for chunk_74
+[2025-08-25 21:37:56] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_74_verify.json
+[2025-08-25 21:37:56] Processing chunk_75 (verification=True)...
+[2025-08-25 21:37:56] Prompt length (chars): 30411
+[2025-08-25 21:38:17] [Attempt 1] Response received in 21.85 seconds for chunk_75
+[2025-08-25 21:38:17] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_75_verify.json
+[2025-08-25 21:38:17] Processing chunk_76 (verification=True)...
+[2025-08-25 21:38:17] Prompt length (chars): 31931
+[2025-08-25 21:38:49] [Attempt 1] Response received in 31.26 seconds for chunk_76
+[2025-08-25 21:38:49] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_76_verify.json
+[2025-08-25 21:38:49] Processing chunk_77 (verification=True)...
+[2025-08-25 21:38:49] Prompt length (chars): 31518
+[2025-08-25 21:39:08] [Attempt 1] Response received in 19.19 seconds for chunk_77
+[2025-08-25 21:39:08] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_77_verify.json
+[2025-08-25 21:39:08] Processing chunk_78 (verification=True)...
+[2025-08-25 21:39:08] Prompt length (chars): 31203
+[2025-08-25 21:39:28] [Attempt 1] Response received in 20.06 seconds for chunk_78
+[2025-08-25 21:39:28] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_78_verify.json
+[2025-08-25 21:39:28] Processing chunk_79 (verification=True)...
+[2025-08-25 21:39:28] Prompt length (chars): 30470
+[2025-08-25 21:39:53] [Attempt 1] Response received in 24.76 seconds for chunk_79
+[2025-08-25 21:39:53] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_79_verify.json
+[2025-08-25 21:39:53] Processing chunk_80 (verification=True)...
+[2025-08-25 21:39:53] Prompt length (chars): 31145
+[2025-08-25 21:40:21] [Attempt 1] Response received in 28.09 seconds for chunk_80
+[2025-08-25 21:40:21] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_80_verify.json
+[2025-08-25 21:40:21] Processing chunk_81 (verification=True)...
+[2025-08-25 21:40:21] Prompt length (chars): 32133
+[2025-08-25 21:40:55] [Attempt 1] Response received in 34.35 seconds for chunk_81
+[2025-08-25 21:40:55] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_81_verify.json
+[2025-08-25 21:40:55] Processing chunk_82 (verification=True)...
+[2025-08-25 21:40:55] Prompt length (chars): 32052
+[2025-08-25 21:41:10] [Attempt 1] Response received in 14.44 seconds for chunk_82
+[2025-08-25 21:41:10] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_82_verify.json
+[2025-08-25 21:41:10] Processing chunk_83 (verification=True)...
+[2025-08-25 21:41:10] Prompt length (chars): 33231
+[2025-08-25 21:41:25] [Attempt 1] Response received in 15.7 seconds for chunk_83
+[2025-08-25 21:41:25] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_83_verify.json
+[2025-08-25 21:41:25] Processing chunk_84 (verification=True)...
+[2025-08-25 21:41:25] Prompt length (chars): 31313
+[2025-08-25 21:41:39] [Attempt 1] Response received in 13.21 seconds for chunk_84
+[2025-08-25 21:41:39] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_84_verify.json
+[2025-08-25 21:41:39] Processing chunk_85 (verification=True)...
+[2025-08-25 21:41:39] Prompt length (chars): 32570
+[2025-08-25 21:42:17] [Attempt 1] Response received in 38.78 seconds for chunk_85
+[2025-08-25 21:42:17] Saved coref output: output/04USVsRodriguez_1ret/smuggleditems/coref_outputs/chunk_85_verify.json
+[2025-08-25 21:42:17] Final memory saved to: output/04USVsRodriguez_1ret/smuggleditems/final_memory.json
+[2025-08-25 21:42:17] Coreference Resolution completed in 7815.81 seconds.
+[2025-08-25 21:42:17] Cumulative time after Coref: 7815.81 seconds.
+[2025-08-25 21:42:17] Starting Final Coref Resolution Step...
+[2025-08-25 21:42:18] Starting coreference resolution loop
+[2025-08-25 21:42:18] Removing 240 unresolved mappings from RESOLVED_ENTITIES: ['the fruits', 'the interrogation', 'the arrest', 'the statements', 'the evidence', 'the warrantless arrest', 'the Freer Immigration Checkpoint', 'Highway 16', 'the Hebbronville Checkpoint', 'oilfield trucks', 'tankers', 'utility trucks', 'Ford F-150s', 'Ford F-250s', 'small cars', 'wind farm near Farm-to-Market Road 2050', 'the wind farm vehicles', 'their own vehicles', 'Mills Bennett Road', 'the wind farm near Farm-to-Market Road 2050', 'San Pablo Road', 'Moglia Ranch House', 'Stag Ranch Trailer', 'Santo Nino Road', 'Dinn Ranch', 'contraband', 'the ticket', 'the canine', 'the dog', 'the handler', 'the canine search', 'his partner', 'the interview', 'the events', 'the rights', 'the waiver', 'the timeline', 'the story', 'the confession', 'the attorney', 'the role', 'the function', 'the leniency', 'the release', 'narcotics', 'drop-offs', 'the loop', 'the fifth Brignoni-Ponce factor', 'the totality of the circumstances', 'the circumstances', 'the experience', 'the fact-driven meaning', 'the reasonable suspicion', 'the instant case', 'May 29, 2006', 'August of 2011', 'two or three days out of the week', 'ninety to ninety-five percent', 'six years', 'three and a half years', 'fourteen months', 'the particular area of highway', 'a local', 'a year', 'the area', 'the residents', 'their vehicles', 'traffic patterns', 'one week', 'the specific highway', 'the motion to suppress', 'the weight', 'the evaluation', 'seven years', 'a year and a half', 'a drug cache', 'Terry', 'the United States Constitution', 'the detention', 'the questioning', "the driver's license", 'insurance papers', 'the registration', 'a computer check', 'the citation', 'Dallas, Texas', 'Interstate 35', 'a police officer', 'the authorized vehicle lessee', 'the traffic violation', 'the initial, valid seizure', 'the canine handler and canine', 'an arrest', 'a warrant', 'probable cause', 'the suspect', 'the offense', 'the arresting officer', 'the collective knowledge doctrine', 'LIS', "IGNACIO RODRIGUEZ, JR.'s Motion to Suppress", "Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.'s Motions to Suppress", 'the parties', 'this Report and Recommendation', 'the findings', 'the conclusions', 'the recommendations', 'a copy', 'fourteen days', 'the date', 'the service', 'specific written objections', 'de novo review', 'those proposed findings', 'those proposed conclusions and recommendations', 'Id.', 'Failure to file written objections within the fourteen days after service', 'that party', 'grounds of plain error', 'the unobjected-to proposed factual findings', 'the legal conclusions accepted by the United States District Judge', 'appeal', 'smugglers', 'his chances', 'anybody', 'highway', 'checkpoints', 'the load vehicle', 'the drugs', 'Ford Motor Company', "May 2nd Hr'g", 'Def. Ex. 12', 'Dodge Rams', 'oil companies', "May 3rd Hr'g", 'Corinth, Texas', 'stolen vehicles', 'Moglia ranch house', 'Stag trailer', 'the gas station', 'the district traffic maps', 'Def. Exs. 6-9', 'the Transportation, Planning, and Programming Division', 'Austin', 'Laredo Division', '2011', '2013', 'the average daily traffic data', 'the type of vehicles traveling on Farm-to-Market Road 2050', 'the number of vehicles traveling that road', 'the direction of the vehicles on Farm-to-Market Road 2050', 'New York', 'Florida', 'Louisiana', "the defendants' driving", "RICARDO RODRIGUEZ, JR.'s testimony", "IGNACIO RODRIGUEZ, JR.'s testimony", "United States Border Patrol Agent Jorge Luis Trevino's observations", 'the hearing', 'the holding cells', 'an individual officer', 'the decision to place the defendant in the holding cells', 'a de facto arrest', 'I. BACKGROUND', 'the traffic light', 'the intersection of Highway 16 and U.S. Highway 59', 'February 4, 2013', 'the previous officer', 'the police department', 'the license plate number', 'the shift', 'the first three digits', 'insurance', 'the glove box', 'the passenger side', 'the holding cell', 'the discussion', 'San Angelo', 'Interstate 20', 'Dallas-Fort Worth metroplex', "the agent's previous experience", 'illegal activity', "United States Border Patrol Agent Jorge Luis Trevino's experience", 'reasonable suspicion', "RICARDO RODRIGUEZ, JR.'s Motion to Suppress", 'United States Constitution', 'the officer', 'the individual officers', 'the courts', 'the position', 'Causey', 'Vernon 2011', 'United States law', 'the operator', 'the signal', 'the intention', 'the turn', 'the lanes', "Terry's second prong", 'a detention', 'the purpose of the stop', 'further reasonable suspicion', 'articulable facts', "a driver's license", 'the black Dodge pickup truck registration', 'his citation', 'the particular questions asked', 'the duration of the stop', 'Mere questioning', 'a search', 'a seizure', 'detention', "the evil at which Terry's second prong is aimed", 'the scope of a given detention', 'proof of insurance', 'the search', 'the consensual encounter', 'the totality of facts and circumstances', "a police officer's knowledge", 'the moment of arrest', 'a reasonable person', 'exigent circumstances', 'the obtainment of a warrant', 'fair probability', 'a bare suspicion', 'a preponderance of the evidence', 'the agents involved', "the events which led to a defendant's arrest", 'the collective knowledge', 'the arresting officer and an officer', 'the necessary facts', 'some degree of communication', 'June', 'the shoulder', "United States Border Patrol Agent Jorge Luis Trevino's statements", "no driver's license", 'no insurance', 'expired registration', "RICARDO RODRIGUEZ, JR.'s white Malibu sedan's registration", 'New York, Florida, Louisiana']
+[2025-08-25 21:42:18] 158 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-08-25 21:42:18] [Retry 1/2] Resolving coreference for chunk_01...
+[2025-08-25 21:42:18] Prompt length (chars): 21004
+[2025-08-25 21:42:18] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21004) with timeout=120s
+[2025-08-25 21:42:34] Response received in 15.87 seconds for chunk_01
+[2025-08-25 21:42:34] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_01_resolved.txt
+[2025-08-25 21:42:34] [Retry 1/2] Resolving coreference for chunk_02...
+[2025-08-25 21:42:34] Prompt length (chars): 22421
+[2025-08-25 21:42:34] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22421) with timeout=120s
+[2025-08-25 21:42:57] Response received in 23.36 seconds for chunk_02
+[2025-08-25 21:42:57] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_02_resolved.txt
+[2025-08-25 21:42:57] [Retry 1/2] Resolving coreference for chunk_03...
+[2025-08-25 21:42:57] Prompt length (chars): 20750
+[2025-08-25 21:42:57] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20750) with timeout=120s
+[2025-08-25 21:42:57] Response received in 0.32 seconds for chunk_03
+[2025-08-25 21:42:57] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_03_resolved.txt
+[2025-08-25 21:42:57] [Retry 1/2] Resolving coreference for chunk_04...
+[2025-08-25 21:42:57] Prompt length (chars): 22009
+[2025-08-25 21:42:57] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22009) with timeout=120s
+[2025-08-25 21:43:17] Response received in 19.35 seconds for chunk_04
+[2025-08-25 21:43:17] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_04_resolved.txt
+[2025-08-25 21:43:17] [Retry 1/2] Resolving coreference for chunk_05...
+[2025-08-25 21:43:17] Prompt length (chars): 21353
+[2025-08-25 21:43:17] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21353) with timeout=120s
+[2025-08-25 21:43:22] Response received in 5.68 seconds for chunk_05
+[2025-08-25 21:43:22] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_05_resolved.txt
+[2025-08-25 21:43:22] [Retry 1/2] Resolving coreference for chunk_06...
+[2025-08-25 21:43:22] Prompt length (chars): 22009
+[2025-08-25 21:43:22] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22009) with timeout=120s
+[2025-08-25 21:43:42] Response received in 19.36 seconds for chunk_06
+[2025-08-25 21:43:42] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_06_resolved.txt
+[2025-08-25 21:43:42] [Retry 1/2] Resolving coreference for chunk_07...
+[2025-08-25 21:43:42] Prompt length (chars): 20910
+[2025-08-25 21:43:42] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20910) with timeout=120s
+[2025-08-25 21:43:44] Response received in 2.72 seconds for chunk_07
+[2025-08-25 21:43:44] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_07_resolved.txt
+[2025-08-25 21:43:44] [Retry 1/2] Resolving coreference for chunk_08...
+[2025-08-25 21:43:44] Prompt length (chars): 22058
+[2025-08-25 21:43:44] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22058) with timeout=120s
+[2025-08-25 21:44:04] Response received in 19.37 seconds for chunk_08
+[2025-08-25 21:44:04] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_08_resolved.txt
+[2025-08-25 21:44:04] [Retry 1/2] Resolving coreference for chunk_09...
+[2025-08-25 21:44:04] Prompt length (chars): 21619
+[2025-08-25 21:44:04] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21619) with timeout=120s
+[2025-08-25 21:44:16] Response received in 11.74 seconds for chunk_09
+[2025-08-25 21:44:16] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_09_resolved.txt
+[2025-08-25 21:44:16] [Retry 1/2] Resolving coreference for chunk_10...
+[2025-08-25 21:44:16] Prompt length (chars): 22025
+[2025-08-25 21:44:16] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22025) with timeout=120s
+[2025-08-25 21:44:35] Response received in 18.98 seconds for chunk_10
+[2025-08-25 21:44:35] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_10_resolved.txt
+[2025-08-25 21:44:35] [Retry 1/2] Resolving coreference for chunk_11...
+[2025-08-25 21:44:35] Prompt length (chars): 20812
+[2025-08-25 21:44:35] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20812) with timeout=120s
+[2025-08-25 21:44:35] Response received in 0.86 seconds for chunk_11
+[2025-08-25 21:44:35] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_11_resolved.txt
+[2025-08-25 21:44:35] [Retry 1/2] Resolving coreference for chunk_12...
+[2025-08-25 21:44:35] Prompt length (chars): 22025
+[2025-08-25 21:44:35] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22025) with timeout=120s
+[2025-08-25 21:44:54] Response received in 18.98 seconds for chunk_12
+[2025-08-25 21:44:54] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_12_resolved.txt
+[2025-08-25 21:44:54] [Retry 1/2] Resolving coreference for chunk_13...
+[2025-08-25 21:44:54] Prompt length (chars): 22025
+[2025-08-25 21:44:54] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22025) with timeout=120s
+[2025-08-25 21:45:13] Response received in 18.16 seconds for chunk_13
+[2025-08-25 21:45:13] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_13_resolved.txt
+[2025-08-25 21:45:13] [Retry 1/2] Resolving coreference for chunk_14...
+[2025-08-25 21:45:13] Prompt length (chars): 22288
+[2025-08-25 21:45:13] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22288) with timeout=120s
+[2025-08-25 21:45:35] Response received in 22.06 seconds for chunk_14
+[2025-08-25 21:45:35] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_14_resolved.txt
+[2025-08-25 21:45:35] [Retry 1/2] Resolving coreference for chunk_15...
+[2025-08-25 21:45:35] Prompt length (chars): 21569
+[2025-08-25 21:45:35] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21569) with timeout=120s
+[2025-08-25 21:45:38] Response received in 3.72 seconds for chunk_15
+[2025-08-25 21:45:38] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_15_resolved.txt
+[2025-08-25 21:45:38] [Retry 1/2] Resolving coreference for chunk_16...
+[2025-08-25 21:45:38] Prompt length (chars): 22321
+[2025-08-25 21:45:38] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22321) with timeout=120s
+[2025-08-25 21:46:01] Response received in 22.34 seconds for chunk_16
+[2025-08-25 21:46:01] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_16_resolved.txt
+[2025-08-25 21:46:01] [Retry 1/2] Resolving coreference for chunk_17...
+[2025-08-25 21:46:01] Prompt length (chars): 20978
+[2025-08-25 21:46:01] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20978) with timeout=120s
+[2025-08-25 21:46:03] Response received in 2.25 seconds for chunk_17
+[2025-08-25 21:46:03] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_17_resolved.txt
+[2025-08-25 21:46:03] [Retry 1/2] Resolving coreference for chunk_18...
+[2025-08-25 21:46:03] Prompt length (chars): 22388
+[2025-08-25 21:46:03] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22388) with timeout=120s
+[2025-08-25 21:46:26] Response received in 23.13 seconds for chunk_18
+[2025-08-25 21:46:26] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_18_resolved.txt
+[2025-08-25 21:46:26] [Retry 1/2] Resolving coreference for chunk_19...
+[2025-08-25 21:46:26] Prompt length (chars): 22370
+[2025-08-25 21:46:26] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22370) with timeout=120s
+[2025-08-25 21:46:49] Response received in 22.54 seconds for chunk_19
+[2025-08-25 21:46:49] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_19_resolved.txt
+[2025-08-25 21:46:49] [Retry 1/2] Resolving coreference for chunk_20...
+[2025-08-25 21:46:49] Prompt length (chars): 22366
+[2025-08-25 21:46:49] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22366) with timeout=120s
+[2025-08-25 21:47:10] Response received in 21.67 seconds for chunk_20
+[2025-08-25 21:47:10] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_20_resolved.txt
+[2025-08-25 21:47:10] [Retry 1/2] Resolving coreference for chunk_21...
+[2025-08-25 21:47:10] Prompt length (chars): 22012
+[2025-08-25 21:47:10] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22012) with timeout=120s
+[2025-08-25 21:47:34] Response received in 23.38 seconds for chunk_21
+[2025-08-25 21:47:34] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_21_resolved.txt
+[2025-08-25 21:47:34] [Retry 1/2] Resolving coreference for chunk_22...
+[2025-08-25 21:47:34] Prompt length (chars): 22870
+[2025-08-25 21:47:34] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22870) with timeout=120s
+[2025-08-25 21:48:04] Response received in 30.18 seconds for chunk_22
+[2025-08-25 21:48:04] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_22_resolved.txt
+[2025-08-25 21:48:04] [Retry 1/2] Resolving coreference for chunk_23...
+[2025-08-25 21:48:04] Prompt length (chars): 22212
+[2025-08-25 21:48:04] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22212) with timeout=120s
+[2025-08-25 21:48:24] Response received in 19.66 seconds for chunk_23
+[2025-08-25 21:48:24] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_23_resolved.txt
+[2025-08-25 21:48:24] [Retry 1/2] Resolving coreference for chunk_24...
+[2025-08-25 21:48:24] Prompt length (chars): 22173
+[2025-08-25 21:48:24] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22173) with timeout=120s
+[2025-08-25 21:48:44] Response received in 19.92 seconds for chunk_24
+[2025-08-25 21:48:44] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_24_resolved.txt
+[2025-08-25 21:48:44] [Retry 1/2] Resolving coreference for chunk_25...
+[2025-08-25 21:48:44] Prompt length (chars): 22409
+[2025-08-25 21:48:44] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22409) with timeout=120s
+[2025-08-25 21:49:11] Response received in 27.33 seconds for chunk_25
+[2025-08-25 21:49:11] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_25_resolved.txt
+[2025-08-25 21:49:11] [Retry 1/2] Resolving coreference for chunk_26...
+[2025-08-25 21:49:11] Prompt length (chars): 22905
+[2025-08-25 21:49:11] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22905) with timeout=120s
+[2025-08-25 21:49:41] Response received in 30.32 seconds for chunk_26
+[2025-08-25 21:49:41] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_26_resolved.txt
+[2025-08-25 21:49:41] [Retry 1/2] Resolving coreference for chunk_27...
+[2025-08-25 21:49:41] Prompt length (chars): 22081
+[2025-08-25 21:49:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22081) with timeout=120s
+[2025-08-25 21:50:01] Response received in 20.14 seconds for chunk_27
+[2025-08-25 21:50:01] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_27_resolved.txt
+[2025-08-25 21:50:01] [Retry 1/2] Resolving coreference for chunk_28...
+[2025-08-25 21:50:01] Prompt length (chars): 22407
+[2025-08-25 21:50:01] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22407) with timeout=120s
+[2025-08-25 21:50:27] Response received in 25.39 seconds for chunk_28
+[2025-08-25 21:50:27] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_28_resolved.txt
+[2025-08-25 21:50:27] [Retry 1/2] Resolving coreference for chunk_29...
+[2025-08-25 21:50:27] Prompt length (chars): 22851
+[2025-08-25 21:50:27] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22851) with timeout=120s
+[2025-08-25 21:51:01] Response received in 34.05 seconds for chunk_29
+[2025-08-25 21:51:01] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_29_resolved.txt
+[2025-08-25 21:51:01] [Retry 1/2] Resolving coreference for chunk_30...
+[2025-08-25 21:51:01] Prompt length (chars): 22438
+[2025-08-25 21:51:01] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22438) with timeout=120s
+[2025-08-25 21:51:26] Response received in 25.41 seconds for chunk_30
+[2025-08-25 21:51:26] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_30_resolved.txt
+[2025-08-25 21:51:26] [Retry 1/2] Resolving coreference for chunk_31...
+[2025-08-25 21:51:26] Prompt length (chars): 22740
+[2025-08-25 21:51:26] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22740) with timeout=120s
+[2025-08-25 21:51:53] Response received in 26.91 seconds for chunk_31
+[2025-08-25 21:51:53] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_31_resolved.txt
+[2025-08-25 21:51:53] [Retry 1/2] Resolving coreference for chunk_32...
+[2025-08-25 21:51:53] Prompt length (chars): 22024
+[2025-08-25 21:51:53] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22024) with timeout=120s
+[2025-08-25 21:52:11] Response received in 17.49 seconds for chunk_32
+[2025-08-25 21:52:11] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_32_resolved.txt
+[2025-08-25 21:52:11] [Retry 1/2] Resolving coreference for chunk_33...
+[2025-08-25 21:52:11] Prompt length (chars): 22070
+[2025-08-25 21:52:11] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22070) with timeout=120s
+[2025-08-25 21:52:29] Response received in 17.83 seconds for chunk_33
+[2025-08-25 21:52:29] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_33_resolved.txt
+[2025-08-25 21:52:29] [Retry 1/2] Resolving coreference for chunk_34...
+[2025-08-25 21:52:29] Prompt length (chars): 20752
+[2025-08-25 21:52:29] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20752) with timeout=120s
+[2025-08-25 21:52:29] Response received in 0.39 seconds for chunk_34
+[2025-08-25 21:52:29] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_34_resolved.txt
+[2025-08-25 21:52:29] [Retry 1/2] Resolving coreference for chunk_35...
+[2025-08-25 21:52:29] Prompt length (chars): 22949
+[2025-08-25 21:52:29] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22949) with timeout=120s
+[2025-08-25 21:52:54] Response received in 24.97 seconds for chunk_35
+[2025-08-25 21:52:54] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_35_resolved.txt
+[2025-08-25 21:52:54] [Retry 1/2] Resolving coreference for chunk_36...
+[2025-08-25 21:52:54] Prompt length (chars): 20803
+[2025-08-25 21:52:54] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20803) with timeout=120s
+[2025-08-25 21:52:55] Response received in 0.88 seconds for chunk_36
+[2025-08-25 21:52:55] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_36_resolved.txt
+[2025-08-25 21:52:55] [Retry 1/2] Resolving coreference for chunk_37...
+[2025-08-25 21:52:55] Prompt length (chars): 23197
+[2025-08-25 21:52:55] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23197) with timeout=120s
+[2025-08-25 21:53:26] Response received in 31.2 seconds for chunk_37
+[2025-08-25 21:53:26] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_37_resolved.txt
+[2025-08-25 21:53:26] [Retry 1/2] Resolving coreference for chunk_38...
+[2025-08-25 21:53:26] Prompt length (chars): 22653
+[2025-08-25 21:53:26] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22653) with timeout=120s
+[2025-08-25 21:53:48] Response received in 21.5 seconds for chunk_38
+[2025-08-25 21:53:48] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_38_resolved.txt
+[2025-08-25 21:53:48] [Retry 1/2] Resolving coreference for chunk_39...
+[2025-08-25 21:53:48] Prompt length (chars): 23802
+[2025-08-25 21:53:48] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23802) with timeout=120s
+[2025-08-25 21:54:25] Response received in 37.65 seconds for chunk_39
+[2025-08-25 21:54:25] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_39_resolved.txt
+[2025-08-25 21:54:25] [Retry 1/2] Resolving coreference for chunk_40...
+[2025-08-25 21:54:25] Prompt length (chars): 23134
+[2025-08-25 21:54:25] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23134) with timeout=120s
+[2025-08-25 21:54:52] Response received in 27.15 seconds for chunk_40
+[2025-08-25 21:54:52] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_40_resolved.txt
+[2025-08-25 21:54:52] [Retry 1/2] Resolving coreference for chunk_41...
+[2025-08-25 21:54:52] Prompt length (chars): 23967
+[2025-08-25 21:54:52] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23967) with timeout=120s
+[2025-08-25 21:55:31] Response received in 38.72 seconds for chunk_41
+[2025-08-25 21:55:31] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_41_resolved.txt
+[2025-08-25 21:55:31] [Retry 1/2] Resolving coreference for chunk_42...
+[2025-08-25 21:55:31] Prompt length (chars): 23032
+[2025-08-25 21:55:31] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23032) with timeout=120s
+[2025-08-25 21:55:54] Response received in 23.02 seconds for chunk_42
+[2025-08-25 21:55:54] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_42_resolved.txt
+[2025-08-25 21:55:54] [Retry 1/2] Resolving coreference for chunk_43...
+[2025-08-25 21:55:54] Prompt length (chars): 23524
+[2025-08-25 21:55:54] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23524) with timeout=120s
+[2025-08-25 21:56:28] Response received in 34.1 seconds for chunk_43
+[2025-08-25 21:56:28] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_43_resolved.txt
+[2025-08-25 21:56:28] [Retry 1/2] Resolving coreference for chunk_44...
+[2025-08-25 21:56:28] Prompt length (chars): 22820
+[2025-08-25 21:56:28] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22820) with timeout=120s
+[2025-08-25 21:56:54] Response received in 25.28 seconds for chunk_44
+[2025-08-25 21:56:54] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_44_resolved.txt
+[2025-08-25 21:56:54] [Retry 1/2] Resolving coreference for chunk_45...
+[2025-08-25 21:56:54] Prompt length (chars): 22502
+[2025-08-25 21:56:54] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22502) with timeout=120s
+[2025-08-25 21:57:11] Response received in 17.9 seconds for chunk_45
+[2025-08-25 21:57:11] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_45_resolved.txt
+[2025-08-25 21:57:11] [Retry 1/2] Resolving coreference for chunk_46...
+[2025-08-25 21:57:11] Prompt length (chars): 22990
+[2025-08-25 21:57:11] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22990) with timeout=120s
+[2025-08-25 21:57:35] Response received in 23.64 seconds for chunk_46
+[2025-08-25 21:57:35] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_46_resolved.txt
+[2025-08-25 21:57:35] [Retry 1/2] Resolving coreference for chunk_47...
+[2025-08-25 21:57:35] Prompt length (chars): 22090
+[2025-08-25 21:57:35] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22090) with timeout=120s
+[2025-08-25 21:57:51] Response received in 15.52 seconds for chunk_47
+[2025-08-25 21:57:51] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_47_resolved.txt
+[2025-08-25 21:57:51] [Retry 1/2] Resolving coreference for chunk_48...
+[2025-08-25 21:57:51] Prompt length (chars): 21906
+[2025-08-25 21:57:51] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21906) with timeout=120s
+[2025-08-25 21:58:04] Response received in 13.49 seconds for chunk_48
+[2025-08-25 21:58:04] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_48_resolved.txt
+[2025-08-25 21:58:04] [Retry 1/2] Resolving coreference for chunk_49...
+[2025-08-25 21:58:04] Prompt length (chars): 21892
+[2025-08-25 21:58:04] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21892) with timeout=120s
+[2025-08-25 21:58:16] Response received in 12.29 seconds for chunk_49
+[2025-08-25 21:58:16] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_49_resolved.txt
+[2025-08-25 21:58:16] [Retry 1/2] Resolving coreference for chunk_50...
+[2025-08-25 21:58:16] Prompt length (chars): 22137
+[2025-08-25 21:58:16] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22137) with timeout=120s
+[2025-08-25 21:58:32] Response received in 15.71 seconds for chunk_50
+[2025-08-25 21:58:32] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_50_resolved.txt
+[2025-08-25 21:58:32] [Retry 1/2] Resolving coreference for chunk_51...
+[2025-08-25 21:58:32] Prompt length (chars): 22673
+[2025-08-25 21:58:32] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22673) with timeout=120s
+[2025-08-25 21:58:57] Response received in 24.49 seconds for chunk_51
+[2025-08-25 21:58:57] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_51_resolved.txt
+[2025-08-25 21:58:57] [Retry 1/2] Resolving coreference for chunk_52...
+[2025-08-25 21:58:57] Prompt length (chars): 22197
+[2025-08-25 21:58:57] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22197) with timeout=120s
+[2025-08-25 21:59:14] Response received in 16.96 seconds for chunk_52
+[2025-08-25 21:59:14] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_52_resolved.txt
+[2025-08-25 21:59:14] [Retry 1/2] Resolving coreference for chunk_53...
+[2025-08-25 21:59:14] Prompt length (chars): 22283
+[2025-08-25 21:59:14] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22283) with timeout=120s
+[2025-08-25 21:59:32] Response received in 18.13 seconds for chunk_53
+[2025-08-25 21:59:32] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_53_resolved.txt
+[2025-08-25 21:59:32] [Retry 1/2] Resolving coreference for chunk_54...
+[2025-08-25 21:59:32] Prompt length (chars): 22714
+[2025-08-25 21:59:32] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22714) with timeout=120s
+[2025-08-25 21:59:57] Response received in 25.57 seconds for chunk_54
+[2025-08-25 21:59:57] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_54_resolved.txt
+[2025-08-25 21:59:57] [Retry 1/2] Resolving coreference for chunk_55...
+[2025-08-25 21:59:57] Prompt length (chars): 21400
+[2025-08-25 21:59:57] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21400) with timeout=120s
+[2025-08-25 22:00:05] Response received in 7.23 seconds for chunk_55
+[2025-08-25 22:00:05] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_55_resolved.txt
+[2025-08-25 22:00:05] [Retry 1/2] Resolving coreference for chunk_56...
+[2025-08-25 22:00:05] Prompt length (chars): 22044
+[2025-08-25 22:00:05] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22044) with timeout=120s
+[2025-08-25 22:00:17] Response received in 12.68 seconds for chunk_56
+[2025-08-25 22:00:17] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_56_resolved.txt
+[2025-08-25 22:00:17] [Retry 1/2] Resolving coreference for chunk_57...
+[2025-08-25 22:00:17] Prompt length (chars): 22941
+[2025-08-25 22:00:17] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22941) with timeout=120s
+[2025-08-25 22:00:50] Response received in 32.9 seconds for chunk_57
+[2025-08-25 22:00:50] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_57_resolved.txt
+[2025-08-25 22:00:50] [Retry 1/2] Resolving coreference for chunk_58...
+[2025-08-25 22:00:50] Prompt length (chars): 22457
+[2025-08-25 22:00:50] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22457) with timeout=120s
+[2025-08-25 22:01:08] Response received in 18.21 seconds for chunk_58
+[2025-08-25 22:01:08] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_58_resolved.txt
+[2025-08-25 22:01:08] [Retry 1/2] Resolving coreference for chunk_59...
+[2025-08-25 22:01:08] Prompt length (chars): 22688
+[2025-08-25 22:01:08] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22688) with timeout=120s
+[2025-08-25 22:01:31] Response received in 22.73 seconds for chunk_59
+[2025-08-25 22:01:31] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_59_resolved.txt
+[2025-08-25 22:01:31] [Retry 1/2] Resolving coreference for chunk_60...
+[2025-08-25 22:01:31] Prompt length (chars): 21443
+[2025-08-25 22:01:31] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21443) with timeout=120s
+[2025-08-25 22:01:41] Response received in 9.44 seconds for chunk_60
+[2025-08-25 22:01:41] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_60_resolved.txt
+[2025-08-25 22:01:41] [Retry 1/2] Resolving coreference for chunk_61...
+[2025-08-25 22:01:41] Prompt length (chars): 21720
+[2025-08-25 22:01:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21720) with timeout=120s
+[2025-08-25 22:01:50] Response received in 9.69 seconds for chunk_61
+[2025-08-25 22:01:50] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_61_resolved.txt
+[2025-08-25 22:01:50] [Retry 1/2] Resolving coreference for chunk_62...
+[2025-08-25 22:01:50] Prompt length (chars): 22054
+[2025-08-25 22:01:50] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22054) with timeout=120s
+[2025-08-25 22:02:08] Response received in 17.64 seconds for chunk_62
+[2025-08-25 22:02:08] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_62_resolved.txt
+[2025-08-25 22:02:08] [Retry 1/2] Resolving coreference for chunk_63...
+[2025-08-25 22:02:08] Prompt length (chars): 21422
+[2025-08-25 22:02:08] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21422) with timeout=120s
+[2025-08-25 22:02:15] Response received in 7.39 seconds for chunk_63
+[2025-08-25 22:02:15] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_63_resolved.txt
+[2025-08-25 22:02:15] [Retry 1/2] Resolving coreference for chunk_64...
+[2025-08-25 22:02:15] Prompt length (chars): 21812
+[2025-08-25 22:02:15] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21812) with timeout=120s
+[2025-08-25 22:02:30] Response received in 14.86 seconds for chunk_64
+[2025-08-25 22:02:30] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_64_resolved.txt
+[2025-08-25 22:02:30] [Retry 1/2] Resolving coreference for chunk_65...
+[2025-08-25 22:02:30] Prompt length (chars): 21414
+[2025-08-25 22:02:30] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21414) with timeout=120s
+[2025-08-25 22:02:41] Response received in 10.7 seconds for chunk_65
+[2025-08-25 22:02:41] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_65_resolved.txt
+[2025-08-25 22:02:41] [Retry 1/2] Resolving coreference for chunk_66...
+[2025-08-25 22:02:41] Prompt length (chars): 21347
+[2025-08-25 22:02:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21347) with timeout=120s
+[2025-08-25 22:02:49] Response received in 8.1 seconds for chunk_66
+[2025-08-25 22:02:49] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_66_resolved.txt
+[2025-08-25 22:02:49] [Retry 1/2] Resolving coreference for chunk_67...
+[2025-08-25 22:02:49] Prompt length (chars): 21611
+[2025-08-25 22:02:49] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21611) with timeout=120s
+[2025-08-25 22:03:00] Response received in 10.47 seconds for chunk_67
+[2025-08-25 22:03:00] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_67_resolved.txt
+[2025-08-25 22:03:00] [Retry 1/2] Resolving coreference for chunk_68...
+[2025-08-25 22:03:00] Prompt length (chars): 21527
+[2025-08-25 22:03:00] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21527) with timeout=120s
+[2025-08-25 22:03:11] Response received in 10.99 seconds for chunk_68
+[2025-08-25 22:03:11] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_68_resolved.txt
+[2025-08-25 22:03:11] [Retry 1/2] Resolving coreference for chunk_69...
+[2025-08-25 22:03:11] Prompt length (chars): 21458
+[2025-08-25 22:03:11] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21458) with timeout=120s
+[2025-08-25 22:03:26] Response received in 15.27 seconds for chunk_69
+[2025-08-25 22:03:26] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_69_resolved.txt
+[2025-08-25 22:03:26] [Retry 1/2] Resolving coreference for chunk_70...
+[2025-08-25 22:03:26] Prompt length (chars): 21836
+[2025-08-25 22:03:26] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21836) with timeout=120s
+[2025-08-25 22:03:32] Response received in 6.52 seconds for chunk_70
+[2025-08-25 22:03:32] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_70_resolved.txt
+[2025-08-25 22:03:32] [Retry 1/2] Resolving coreference for chunk_71...
+[2025-08-25 22:03:32] Prompt length (chars): 21312
+[2025-08-25 22:03:32] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21312) with timeout=120s
+[2025-08-25 22:03:38] Response received in 5.82 seconds for chunk_71
+[2025-08-25 22:03:38] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_71_resolved.txt
+[2025-08-25 22:03:38] [Retry 1/2] Resolving coreference for chunk_72...
+[2025-08-25 22:03:38] Prompt length (chars): 21419
+[2025-08-25 22:03:38] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21419) with timeout=120s
+[2025-08-25 22:03:48] Response received in 9.98 seconds for chunk_72
+[2025-08-25 22:03:48] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_72_resolved.txt
+[2025-08-25 22:03:48] [Retry 1/2] Resolving coreference for chunk_73...
+[2025-08-25 22:03:48] Prompt length (chars): 21191
+[2025-08-25 22:03:48] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21191) with timeout=120s
+[2025-08-25 22:03:54] Response received in 5.78 seconds for chunk_73
+[2025-08-25 22:03:54] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_73_resolved.txt
+[2025-08-25 22:03:54] [Retry 1/2] Resolving coreference for chunk_74...
+[2025-08-25 22:03:54] Prompt length (chars): 23004
+[2025-08-25 22:03:54] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23004) with timeout=120s
+[2025-08-25 22:04:25] Response received in 30.78 seconds for chunk_74
+[2025-08-25 22:04:25] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_74_resolved.txt
+[2025-08-25 22:04:25] [Retry 1/2] Resolving coreference for chunk_75...
+[2025-08-25 22:04:25] Prompt length (chars): 21411
+[2025-08-25 22:04:25] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21411) with timeout=120s
+[2025-08-25 22:04:34] Response received in 9.06 seconds for chunk_75
+[2025-08-25 22:04:34] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_75_resolved.txt
+[2025-08-25 22:04:34] [Retry 1/2] Resolving coreference for chunk_76...
+[2025-08-25 22:04:34] Prompt length (chars): 22913
+[2025-08-25 22:04:34] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22913) with timeout=120s
+[2025-08-25 22:05:01] Response received in 27.21 seconds for chunk_76
+[2025-08-25 22:05:01] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_76_resolved.txt
+[2025-08-25 22:05:01] [Retry 1/2] Resolving coreference for chunk_77...
+[2025-08-25 22:05:01] Prompt length (chars): 22500
+[2025-08-25 22:05:01] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22500) with timeout=120s
+[2025-08-25 22:05:24] Response received in 23.11 seconds for chunk_77
+[2025-08-25 22:05:24] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_77_resolved.txt
+[2025-08-25 22:05:24] [Retry 1/2] Resolving coreference for chunk_78...
+[2025-08-25 22:05:24] Prompt length (chars): 21728
+[2025-08-25 22:05:24] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21728) with timeout=120s
+[2025-08-25 22:05:36] Response received in 11.27 seconds for chunk_78
+[2025-08-25 22:05:36] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_78_resolved.txt
+[2025-08-25 22:05:36] [Retry 1/2] Resolving coreference for chunk_79...
+[2025-08-25 22:05:36] Prompt length (chars): 21163
+[2025-08-25 22:05:36] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21163) with timeout=120s
+[2025-08-25 22:05:43] Response received in 7.52 seconds for chunk_79
+[2025-08-25 22:05:43] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_79_resolved.txt
+[2025-08-25 22:05:43] [Retry 1/2] Resolving coreference for chunk_80...
+[2025-08-25 22:05:43] Prompt length (chars): 21996
+[2025-08-25 22:05:43] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21996) with timeout=120s
+[2025-08-25 22:06:01] Response received in 17.55 seconds for chunk_80
+[2025-08-25 22:06:01] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_80_resolved.txt
+[2025-08-25 22:06:01] [Retry 1/2] Resolving coreference for chunk_81...
+[2025-08-25 22:06:01] Prompt length (chars): 21995
+[2025-08-25 22:06:01] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21995) with timeout=120s
+[2025-08-25 22:06:15] Response received in 14.7 seconds for chunk_81
+[2025-08-25 22:06:15] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_81_resolved.txt
+[2025-08-25 22:06:15] [Retry 1/2] Resolving coreference for chunk_82...
+[2025-08-25 22:06:15] Prompt length (chars): 21914
+[2025-08-25 22:06:15] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21914) with timeout=120s
+[2025-08-25 22:06:31] Response received in 15.29 seconds for chunk_82
+[2025-08-25 22:06:31] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_82_resolved.txt
+[2025-08-25 22:06:31] [Retry 1/2] Resolving coreference for chunk_83...
+[2025-08-25 22:06:31] Prompt length (chars): 22988
+[2025-08-25 22:06:31] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22988) with timeout=120s
+[2025-08-25 22:06:59] Response received in 28.12 seconds for chunk_83
+[2025-08-25 22:06:59] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_83_resolved.txt
+[2025-08-25 22:06:59] [Retry 1/2] Resolving coreference for chunk_84...
+[2025-08-25 22:06:59] Prompt length (chars): 21260
+[2025-08-25 22:06:59] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21260) with timeout=120s
+[2025-08-25 22:07:05] Response received in 6.02 seconds for chunk_84
+[2025-08-25 22:07:05] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_84_resolved.txt
+[2025-08-25 22:07:05] [Retry 1/2] Resolving coreference for chunk_85...
+[2025-08-25 22:07:05] Prompt length (chars): 22098
+[2025-08-25 22:07:05] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22098) with timeout=120s
+[2025-08-25 22:07:23] Response received in 18.5 seconds for chunk_85
+[2025-08-25 22:07:23] Saved resolved text: output/04USVsRodriguez_1ret/smuggleditems/resolved_outputs/chunk_85_resolved.txt
+[2025-08-25 22:07:23] Merging all resolved chunks into output/04USVsRodriguez_1ret/smuggleditems/smuggleditems_resolved_04USVsRodriguez_1ret.txt
+[2025-08-25 22:07:23] All resolved chunks merged and saved to output/04USVsRodriguez_1ret/smuggleditems/smuggleditems_resolved_04USVsRodriguez_1ret.txt
+[2025-08-25 22:07:23] Completed coreference resolution for all chunks.
+[2025-08-25 22:07:23] Final Resolution completed in 1506.06 seconds.
+[2025-08-25 22:07:23] Cumulative time after Final Resolution: 9321.88 seconds.
+[2025-08-25 22:07:23] Total pipeline time: 9321.88 seconds.

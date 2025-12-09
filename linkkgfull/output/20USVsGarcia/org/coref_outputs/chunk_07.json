@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the government": null,
+    "the district court": "United States District Court",
+    "the jury": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "roving border patrol": "United States Border Patrol",
+    "the officers": "United States Border Patrol",
+    "the detaining officers": "United States Border Patrol",
+    "the Court": "United States District Court",
+    "the agent": "United States Border Patrol",
+    "United States-Mexican border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court where trial was held and made oral findings of fact regarding the constitutionality of a stop and search, applying the Brignoni-Ponce standard",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, control, and immigration inspections, with agents operating on roving patrol and making stops based on reasonable suspicion",
+    "5th Circuit Court of Appeals": "a court that held principles for investigatory stops, specifically articulating the Brignoni-Ponce standard",
+    "United States-Mexican border": "geographic location relevant to border surveillance and immigration inspections"
+  }
+}

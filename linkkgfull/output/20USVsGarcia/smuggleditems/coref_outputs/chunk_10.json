@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the occupants": "undocumented aliens",
+    "the pickup truck camper": null,
+    "Maria De Jesus Garcia's pickup truck camper": null,
+    "illegal aliens": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, potentially hidden in a pickup truck camper with fogged windows, appearing unwashed and unkempt, including Mexican citizens and illegal aliens found during an immigration inspection on Interstate Highway 35, exhibiting efforts to avoid detection",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents",
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents near the location of the instant stop",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for transporting illegal aliens, with heavily loaded appearance and fogged windows, driven at an unusually slow speed"
+  }
+}

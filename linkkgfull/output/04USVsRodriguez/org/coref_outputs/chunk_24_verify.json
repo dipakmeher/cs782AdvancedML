@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Government": "United States Department of Homeland Security",
+    "the Government": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in the reasonable suspicion doctrine.",
+    "United States Department of Homeland Security": "Prohibits unreasonable searches and seizures, responsible for enforcing immigration laws and conducting investigations."
+  }
+}

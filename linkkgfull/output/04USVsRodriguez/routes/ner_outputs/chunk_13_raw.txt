@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["FM 2050", "Farm-to-Market Road 2050"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "road where Agent Trevino initiated a stop of the white vehicle",
+    "Farm-to-Market Road 2050": "road where the vehicles were traveling southbound"
+  }
+}

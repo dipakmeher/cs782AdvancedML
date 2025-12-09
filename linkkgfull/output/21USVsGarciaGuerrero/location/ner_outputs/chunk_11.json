@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "South Texas",
+      "Cuyler"
+    ],
+    "NOUN_PHRASE": [
+      "the plate",
+      "the hot South Texas desert",
+      "the dead of summer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "South Texas": "location where individuals were guided through the desert",
+    "Cuyler": "location of a referenced court case"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["David Fitzgerald", "Agent Fitzgerald"],
+    "NOUN_PHRASE": ["the appellant", "Border Patrol Agent", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "David Fitzgerald": "Border Patrol Agent",
+    "Agent Fitzgerald": "conducted an investigatory stop and arrested the appellant"
+  }
+}

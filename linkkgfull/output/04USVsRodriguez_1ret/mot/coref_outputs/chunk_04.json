@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his vehicle": null,
+    "the stop of his vehicle": null,
+    "a traffic stop": null,
+    "the vehicle": null,
+    "Malibu": "white Malibu sedan",
+    "Dodge truck": "black Dodge truck",
+    "the vehicles": "white Malibu sedan and black Dodge truck",
+    "a white one": "white Malibu sedan",
+    "a black one": "black Dodge truck",
+    "a white Malibu sedan": "white Malibu sedan",
+    "a black Dodge truck": "black Dodge truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a vehicle mentioned as a white sedan, involved in the incident at the Freer immigration checkpoint",
+    "black Dodge truck": "a vehicle mentioned as a black truck, involved in the incident at the Freer immigration checkpoint",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident at the Freer immigration checkpoint"
+  }
+}

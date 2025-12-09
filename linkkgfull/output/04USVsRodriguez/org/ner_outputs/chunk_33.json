@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the area",
+      "the agent",
+      "the officers",
+      "law enforcement officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

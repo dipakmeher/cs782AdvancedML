@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States District Judge",
+      "United States Magistrate Judge",
+      "United States District Court",
+      "United States Sentencing Guidelines"
+    ],
+    "NOUN_PHRASE": [
+      "the Magistrate Judge",
+      "the Magistrate",
+      "the United States District Court",
+      "the parties"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Judge": "judge before whom the defendant pleads guilty",
+    "United States Magistrate Judge": "judge who recommends acceptance of guilty plea",
+    "United States District Court": "court that may accept guilty plea and enter final judgment",
+    "United States Sentencing Guidelines": "guidelines consulted in determining sentence"
+  }
+}

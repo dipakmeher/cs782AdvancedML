@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "district court",
+    "the court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "district court": "court that handles sentencing, reviews minor-role arguments, and makes findings regarding a defendant's level of involvement in offenses"
+  }
+}

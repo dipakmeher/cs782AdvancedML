@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["two unloaded handguns", "drug trafficking offense"],
+    "NOUN_PHRASE": ["the weapon", "the large white Ford pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "two unloaded handguns": "possessed in connection with a drug offense",
+    "drug trafficking offense": "crime committed by Brignoni-Ponce Jacquinot"
+  }
+}

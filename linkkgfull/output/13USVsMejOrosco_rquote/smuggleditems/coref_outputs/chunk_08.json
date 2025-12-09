@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Sentencing Commission Guidelines": "United States Sentencing Commission Guidelines",
+    "United States District Court judges": "United States District Court",
+    "the sentencing judge": "United States District Court",
+    "an individual offender": null,
+    "the sentence": null,
+    "the case": null,
+    "the factors": null,
+    "the offense": null,
+    "the universe of potential factors": null,
+    "the seriousness of a given offense": null,
+    "the United States Sentencing Commission": "United States Sentencing Commission Guidelines",
+    "Senate Report No. 225": "Senate Report No. 225",
+    "the sentencing guidelines": "United States Sentencing Commission Guidelines"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission Guidelines": "Guidelines for federal sentencing, providing a framework for evaluating the fairness and appropriateness of sentences for individual offenders",
+    "United States District Court": "Federal court imposing sentences, with judges considering all relevant factors in a case to impose a sentence outside the guidelines if necessary",
+    "Senate Report No. 225": "Report emphasizing the importance of thoughtful imposition of individualized sentences, highlighting the purpose of sentencing guidelines"
+  }
+}

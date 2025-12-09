@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {},
+  "AUXILIARY_DESCRIPTIONS": {},
+  "IDENTIFIED_ENTITIES": {
+    "NER_ENTITIES": {
+      "PROPER_NOUN": [],
+      "NOUN_PHRASE": []
+    },
+    "PROPER_NOUN_DESCRIPTION": {}
+  }
+}

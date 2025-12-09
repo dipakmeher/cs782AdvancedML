@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States District Court",
+      "Fifth Circuit"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Court": "court made aware of Rogelio Valero-De La Rosa's situation",
+    "Fifth Circuit": "held that a court may consider a defendant's cultural assimilation"
+  }
+}

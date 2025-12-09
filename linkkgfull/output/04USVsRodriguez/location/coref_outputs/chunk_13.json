@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Pablo Road": "San Pablo Road",
+    "United States": "United States",
+    "Mexico": "Mexico",
+    "Dallas": "Dallas, Texas",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the wind farm": "wind farm on FM 2050",
+    "the road": "Farm-to-Market Road 2050",
+    "the vehicle": null,
+    "the trunk": null,
+    "the country": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Pablo Road": "location where Agent Trevino initiated a stop, south of the wind farm on FM 2050",
+    "United States": "country where defendants were indicted for transporting undocumented aliens, and country of citizenship claimed by the driver",
+    "Mexico": "country of origin of the passengers in the vehicle stopped by Agent Trevino",
+    "Dallas, Texas": "origin of the rental car used by smugglers, and city from which the vehicles were traveling",
+    "Farm-to-Market Road 2050": "a two-lane road where Agent Trevino made observations of suspicious vehicles, including a white sedan with multiple passengers, and location of the wind farm, with San Pablo Road intersecting it",
+    "wind farm on FM 2050": "location of windmills and wind farm office, between twelve and fifteen miles from the Freer immigration checkpoint on U.S. 59, where Agent Trevino initiated a stop"
+  }
+}

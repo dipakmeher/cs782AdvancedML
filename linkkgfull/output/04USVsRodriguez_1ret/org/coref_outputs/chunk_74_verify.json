@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Hertz": "Hertz Rental Car Company",
+    "Hertz Dallas-Fort Worth": "Hertz Rental Car Company",
+    "the Hertz rental car company": "Hertz Rental Car Company",
+    "the company": "Hertz Rental Car Company"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hertz Rental Car Company": "Rental car company whose vehicles are used by smugglers to avoid losing personal vehicles in case of getting caught, with locations such as Hertz Dallas-Fort Worth and Laredo International Airport."
+  }
+}

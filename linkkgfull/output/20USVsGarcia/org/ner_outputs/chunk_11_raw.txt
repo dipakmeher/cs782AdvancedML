@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "5th Circuit Court of Appeals"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced in a court case",
+    "5th Circuit Court of Appeals": "a court that has made decisions on the Allen charge"
+  }
+}

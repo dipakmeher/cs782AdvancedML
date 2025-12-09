@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "his wallet",
+      "the glove box",
+      "the passenger side",
+      "the black Dodge pickup truck",
+      "dispatch"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

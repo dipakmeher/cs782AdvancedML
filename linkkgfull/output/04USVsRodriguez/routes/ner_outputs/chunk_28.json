@@ -1,0 +1,30 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "FM 2050",
+      "Farm-to-Market Road 2050",
+      "U.S. 59",
+      "U.S. 359",
+      "Highway 16",
+      "RR 2523",
+      "Highway 277",
+      "Highway 377"
+    ],
+    "NOUN_PHRASE": [
+      "the road",
+      "the loop",
+      "the smuggling route",
+      "the corridor"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "a farm-to-market road used as a smuggling route",
+    "Farm-to-Market Road 2050": "a farm-to-market road used as a smuggling route",
+    "U.S. 59": "a highway with checkpoints that smugglers try to avoid",
+    "U.S. 359": "a highway with checkpoints that smugglers try to avoid",
+    "Highway 16": "a highway that allows access to major highways going north",
+    "RR 2523": "a ranch road used by smugglers to avoid checkpoints",
+    "Highway 277": "a highway with a checkpoint that smugglers try to avoid",
+    "Highway 377": "a highway used by smugglers to avoid checkpoints"
+  }
+}

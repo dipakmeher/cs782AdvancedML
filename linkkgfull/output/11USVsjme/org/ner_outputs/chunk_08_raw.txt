@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas Juvenile Justice Department", "Texas Constitution"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed",
+    "Texas Constitution": "constitution under which complaint of cruel and unusual punishment was made"
+  }
+}

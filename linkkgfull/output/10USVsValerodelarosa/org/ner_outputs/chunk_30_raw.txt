@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "United States Probation Officer", "Mexico", "Rio Grande", "Laredo", "Texas", "PSR"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where the defendant attempted to re-enter",
+    "United States Probation Officer": "official who received the defendant's statement",
+    "Mexico": "country to which the defendant was previously deported",
+    "Rio Grande": "river crossed by the defendant to enter the United States",
+    "Laredo": "city in Texas where the defendant's family resides",
+    "Texas": "state in the United States where the defendant re-entered",
+    "PSR": "report that documented the defendant's statement and background"
+  }
+}

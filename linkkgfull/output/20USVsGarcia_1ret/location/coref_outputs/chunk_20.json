@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "border": "United States-Mexican border",
+    "the truck": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary between the United States and Mexico, relevant to the case and the Brignoni-Ponce test",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment"
+  }
+}

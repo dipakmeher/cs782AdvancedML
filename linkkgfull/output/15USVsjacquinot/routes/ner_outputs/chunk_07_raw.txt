@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas Highway 385"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Highway 385": "reputation for the smuggling of aliens and narcotics"
+  }
+}

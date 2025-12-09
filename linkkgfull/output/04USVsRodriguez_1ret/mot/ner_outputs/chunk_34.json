@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a vehicle",
+      "the vehicles",
+      "two cars",
+      "one in the front, one in the back",
+      "a pickup",
+      "two vehicles",
+      "the load car",
+      "the lead car",
+      "a vehicle's driver",
+      "the vehicle",
+      "both automobiles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

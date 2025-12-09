@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Sentencing Commission",
+      "CLARK"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the Sentencing Commission"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sentencing Commission": "entity that specifies guidelines for sentencing",
+    "CLARK": "entity involved in fine-tuning the sentence"
+  }
+}

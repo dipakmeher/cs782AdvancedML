@@ -1,0 +1,26 @@
+[2025-07-15 22:34:09] Starting Chunking Step...
+[2025-07-15 22:34:09] Starting chunking for ./output/02yusufsmall.txt/moc/moc_resolved_02yusufsmall.txt.txt...
+[2025-07-15 22:34:09] Transformers library is not installed. Run: pip install transformers
+[2025-07-15 22:34:09] Chunking completed in 0.05 seconds.
+[2025-07-15 22:34:09] Cumulative time after Chunking: 0.05 seconds.
+[2025-07-15 22:34:09] Starting NER Step...
+[2025-07-15 22:34:09] Found 0 chunk files.
+[2025-07-15 22:34:09] NER completed in 0.21 seconds.
+[2025-07-15 22:34:09] Cumulative time after NER: 0.26 seconds.
+[2025-07-15 22:34:09] Starting Coreference Resolution Step...
+[2025-07-15 22:34:09] Final memory saved to: output/02yusufsmall.txt/smuggleditems/final_memory.json
+[2025-07-15 22:34:09] Starting verification pass 1...
+[2025-07-15 22:34:09] Final memory saved to: output/02yusufsmall.txt/smuggleditems/final_memory.json
+[2025-07-15 22:34:09] Starting verification pass 2...
+[2025-07-15 22:34:09] Final memory saved to: output/02yusufsmall.txt/smuggleditems/final_memory.json
+[2025-07-15 22:34:09] Coreference Resolution completed in 0.27 seconds.
+[2025-07-15 22:34:09] Cumulative time after Coref: 0.53 seconds.
+[2025-07-15 22:34:09] Starting Final Coref Resolution Step...
+[2025-07-15 22:34:09] Starting coreference resolution loop
+[2025-07-15 22:34:09] 0 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-07-15 22:34:09] Merging all resolved chunks into output/02yusufsmall.txt/smuggleditems/smuggleditems_resolved_02yusufsmall.txt.txt
+[2025-07-15 22:34:09] All resolved chunks merged and saved to output/02yusufsmall.txt/smuggleditems/smuggleditems_resolved_02yusufsmall.txt.txt
+[2025-07-15 22:34:09] Completed coreference resolution for all chunks.
+[2025-07-15 22:34:09] Final Resolution completed in 0.20 seconds.
+[2025-07-15 22:34:09] Cumulative time after Final Resolution: 0.73 seconds.
+[2025-07-15 22:34:09] Total pipeline time: 0.73 seconds.

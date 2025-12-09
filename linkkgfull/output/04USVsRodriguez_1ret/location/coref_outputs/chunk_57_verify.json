@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Laredo, Texas": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Moglia": "Moglia ranch house",
+    "San Pablo Road": "San Pablo Road",
+    "the ranch house": "Moglia ranch house",
+    "the trailer": "Stag ranch trailer",
+    "the land": null,
+    "the various houses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the event took place, with a Magistrate Judge presiding over the case",
+    "Laredo, Texas": "location where the sun set at 6:22 p.m. on February 4, 2013, relevant to the timing of events in the case",
+    "Moglia ranch house": "ranch house near San Pablo Road, with unknown occupants and ownership",
+    "San Pablo Road": "road where houses are located, including the Moglia ranch house and Stag ranch trailer",
+    "Stag ranch trailer": "trailer near San Pablo Road, with unknown occupants and ownership"
+  }
+}

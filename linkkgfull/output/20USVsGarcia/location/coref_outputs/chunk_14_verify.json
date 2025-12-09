@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Mexican border": "United States-Mexican border",
+    "an Interstate Highway": "Interstate Highway 35",
+    "the front seat": "front seat of Maria De Jesus Garcia's vehicle",
+    "the back seat": "back seat of Maria De Jesus Garcia's vehicle",
+    "the stop": "stop on Interstate Highway 35",
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "location where the pickup truck was stopped, approximately 115 miles north of the United States-Mexican border",
+    "United States-Mexican border": "geographical boundary relevant to determining distance from the border and a key factor in the Brignoni-Ponce test for reasonably warranting suspicion in border patrol stops",
+    "Interstate Highway 35": "location where alien smuggling history is relevant and a common route with known alien smuggling activity, where Maria De Jesus Garcia's vehicle was stopped",
+    "front seat of Maria De Jesus Garcia's vehicle": "location where three women were observed in the truck cab",
+    "back seat of Maria De Jesus Garcia's vehicle": "location where five or six men were found attempting to conceal themselves",
+    "stop on Interstate Highway 35": "place where Maria De Jesus Garcia's vehicle was stopped by border patrol agents, based on recent apprehensions of illegal alien smugglers in the area and suspicious behavior of the occupants"
+  }
+}

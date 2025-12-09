@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas": "Dallas, Texas",
+    "the vehicle": null,
+    "the area": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "origin of IGNACIO RODRIGUEZ, JR.'s travel from Laredo to Dallas",
+    "Dallas, Texas": "destination of IGNACIO RODRIGUEZ, JR.'s travel from Laredo"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the floorboard of the front seat",
+      "the floorboard of the back seat",
+      "the passenger side",
+      "the truck",
+      "the trailer",
+      "the patrol car",
+      "the tire shop",
+      "the bed of the truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

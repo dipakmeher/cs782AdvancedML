@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the trailer",
+      "the truck",
+      "this sort of truck and trailer combination",
+      "this type of machinery",
+      "the scissor lift",
+      "the truck or trailer",
+      "a truck and trailer combination"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

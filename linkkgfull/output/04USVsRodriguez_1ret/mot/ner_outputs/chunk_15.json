@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "white Malibu"
+    ],
+    "NOUN_PHRASE": [
+      "the white sedan",
+      "that vehicle",
+      "the white vehicle",
+      "the white car",
+      "the vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "white Malibu": "a vehicle designed to hold five people"
+  }
+}

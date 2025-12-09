@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["undocumented aliens", "Maria De Jesus Garcia's Vehicle"],
+    "NOUN_PHRASE": ["the United States District Court Jury", "the evidence", "the Vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "smuggled persons",
+    "Maria De Jesus Garcia's Vehicle": "means of transportation for smuggled persons"
+  }
+}

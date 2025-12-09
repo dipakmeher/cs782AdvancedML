@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "her pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "marked border patrol sedan": "marked border patrol sedan",
+    "pickup truck camper": "pickup truck camper",
+    "the camper": "pickup truck camper",
+    "the vehicle": null,
+    "the car": "marked border patrol sedan",
+    "the truck": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia\u2019s pickup truck": "Vehicle used in the transportation of undocumented aliens",
+    "marked border patrol sedan": "Border Patrol vehicle used for surveillance and observation",
+    "pickup truck camper": "Vehicle suspected of transporting living beings, possibly people, due to fogged windows and heavy loading"
+  }
+}

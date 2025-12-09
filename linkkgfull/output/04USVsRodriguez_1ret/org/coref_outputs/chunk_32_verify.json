@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Department of Homeland Security": "United States Department of Homeland Security",
+    "United States Border Patrol": "United States Border Patrol",
+    "the department": "United States Department of Homeland Security",
+    "the agency": "United States Border Patrol",
+    "HSI": "United States Department of Homeland Security, Homeland Security Investigations",
+    "Border Patrol station": "Freer Immigration Checkpoint Building",
+    "the checkpoint": "Freer Immigration Checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Department of Homeland Security": "Received a phone call regarding an attempted alien smuggling event and conducted interviews at the Freer immigration checkpoint",
+    "United States Border Patrol": "Conducted the initial stop, had an agent present during interviews, and provided background information for the investigation",
+    "United States Department of Homeland Security, Homeland Security Investigations": "Conducted interviews with RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Freer Immigration Checkpoint Building": "Location where IGNACIO RODRIGUEZ, JR. was held in a cell before being interviewed",
+    "Freer Immigration Checkpoint": "Checkpoint where the initial stop occurred and interviews were conducted"
+  }
+}

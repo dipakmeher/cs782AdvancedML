@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "this Court": "District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country where the legal case is taking place and a party to the proceedings",
+    "District Court": "court viewing the United States of America's reinstated appeal as incorporating the proper, but untimely, certification from its first appeal"
+  }
+}

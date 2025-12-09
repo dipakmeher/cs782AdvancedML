@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "certain cities"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "country whose appeal is being considered"
+  }
+}

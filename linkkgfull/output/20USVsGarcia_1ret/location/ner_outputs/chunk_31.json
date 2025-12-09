@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Cotulla, Texas",
+      "Texas"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the location"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cotulla, Texas": "location of the border patrol station",
+    "Texas": "state where the border patrol agents served"
+  }
+}

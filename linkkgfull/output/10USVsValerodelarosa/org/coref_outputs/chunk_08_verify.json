@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Judge": "United States District Court",
+    "United States Sentencing Guidelines": "United States Sentencing Commission",
+    "PSR": "United States Probation Office",
+    "the United States District Judge": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that may accept guilty plea and enter final judgment, explained the range of punishment to Rogelio Valero-De La Rosa, adopted Report and Recommendation, considered character letters from Rogelio Valero-De La Rosa's family members",
+    "United States Sentencing Commission": "issuer of the Guidelines Manual consulted in determining sentence, used for calculating criminal history points and applying applicable guidelines, considered in downward variance request",
+    "United States Probation Office": "office that received the defendant's statement and prepared the PSR report documenting his background, responded to objections, disagreed with certain calculations regarding Rogelio Valero-De La Rosa's case, provided Supplemental Addendum"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Mejia-Orosco"],
+    "NOUN_PHRASE": ["the defendant", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mejia-Orosco": "defendant who pled guilty to illegally transporting aliens"
+  }
+}

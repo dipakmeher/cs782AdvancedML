@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the white Malibu sedan": "white Malibu sedan",
+    "Jorge Luis Trevino": "United States Border Patrol",
+    "the passengers": null,
+    "the vehicle": null,
+    "the roadway": null,
+    "the stop": null,
+    "the Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents having experience in evaluating circumstances related to reasonable suspicion",
+    "white Malibu sedan": "vehicle stopped by Agent Trevino on Farm-to-Market Road 2050, transporting illegals, and traveling in tandem with the black Dodge pickup truck",
+    "United States Border Patrol, Jorge Luis Trevino": "agent who encountered illegals in a white Malibu sedan on Farm-to-Market Road 2050, demonstrating experience in evaluating circumstances related to reasonable suspicion and recognizing 'load car-lead car' driving patterns",
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses"
+  }
+}

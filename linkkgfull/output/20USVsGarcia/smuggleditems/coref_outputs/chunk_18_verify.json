@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Maria De Jesus Garcia's pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "United States Border Patrol": "United States Border Patrol",
+    "Mexican aliens": "undocumented aliens",
+    "three women": "undocumented aliens",
+    "five or six men": "undocumented aliens",
+    "Hispanic appearing persons": "undocumented aliens",
+    "dirty appearing Hispanic-descended workmen": "undocumented aliens",
+    "a crowded Maria De Jesus Garcia's pickup truck camper": null,
+    "the occupants of Maria De Jesus Garcia's pickup truck camper": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, attempting to hide from United States Border Patrol agents by ducking and scrambling around, potentially indicated by fogged windows of the pickup truck camper on a cold night, with unwashed and dirty clothes and hair, and making sudden attempts to evade detection",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle suspected to contain contraband and undocumented aliens, stopped by United States Border Patrol agents on Interstate Highway 35",
+    "United States Border Patrol": "law enforcement agency stopping Maria De Jesus Garcia's pickup truck camper, with agents having received specialized training and participated in numerous incidents involving arrests for transporting illegal aliens",
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the sentencing judge",
+      "an individual offender",
+      "district judges"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

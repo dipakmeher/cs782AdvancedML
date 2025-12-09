@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "issued a report and recommendation",
+    "United States Border Patrol": "conducted a vehicle stop",
+    "Freer Police Department": "conducted a traffic stop",
+    "United States District Court": "held a hearing on the pending motions to suppress"
+  }
+}

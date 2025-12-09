@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Border Patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "law enforcement agency involved in the stop and detention of Carlos Martinez-Romero's truck"
+  }
+}

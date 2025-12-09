@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States district court": "United States District Court",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "Border Patrol": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that made unassailed findings regarding the segment of Interstate Highway 35 where Maria De Jesus Garcia's pickup truck was stopped",
+    "United States Court of Appeals for the Fifth Circuit": "court that relied upon an agent's observation of occupants' appearances in determining reasonable suspicion",
+    "United States Border Patrol": "law enforcement agency whose agents apprehended illegal alien smugglers and had reason to suspect the presence of illegal aliens in Maria De Jesus Garcia's pickup truck"
+  }
+}

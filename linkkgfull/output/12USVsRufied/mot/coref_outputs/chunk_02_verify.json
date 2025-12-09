@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a motor vehicle": "tractor trailer",
+    "a tractor trailer": "tractor trailer",
+    "the tractor trailer": "tractor trailer",
+    "the trailer": "tractor trailer",
+    "the cab": "tractor trailer",
+    "the tractor": "tractor trailer",
+    "the vehicles": null,
+    "the truck": "tractor trailer",
+    "the bunk": "tractor trailer",
+    "the passenger seat": "tractor trailer",
+    "the front seat": "tractor trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tractor trailer": "Vehicle used to transport sixty undocumented aliens, involved in an incident where Yusif Ahmed Rufied and Martin Adaboh were arrested; stopped on the side of the highway for a tire check, used at Diesel Impact 2000 to load aliens, transported aliens from Laredo, Texas, had a bunk inside, and had Yusif Ahmed Rufied riding in the passenger seat; arrived at the Border Patrol check point on Highway 59 at approximately 6:45 a.m. with sixty aliens found in the rear of the trailer; driven by an individual claiming to be in training; tractor where Yusif Ahmed Rufied slept from Midnight to 6:00 a.m.; aliens were loaded at the rear of the trailer at Diesel Impact 2000; traveled from Laredo, Texas to Highway 59 with a load of aliens; had only two seats in the cab; was found with fifty-nine aliens at the Border Patrol check point and one alien in the hospital due to improper medication"
+  }
+}

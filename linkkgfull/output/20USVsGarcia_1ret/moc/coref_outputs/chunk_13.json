@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "the pickup truck camper": "the pickup truck camper",
+    "the marked United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "the window of the marked United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "Maria De Jesus Garcia's Vehicle": "Maria De Jesus Garcia's Vehicle",
+    "the truck cab": null,
+    "the back seat of the truck": null,
+    "Maria De Jesus Garcia\u2019s Vehicle": "Maria De Jesus Garcia's Vehicle",
+    "Maria De Jesus Garcia's Vehicle in this case": "Maria De Jesus Garcia's Vehicle",
+    "the pickup truck camper in question": "the pickup truck camper",
+    "vehicles": null,
+    "Interstate Highway 35": "Interstate Highway 35",
+    "the phone": null,
+    "the Vehicle": "Maria De Jesus Garcia's Vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol sedan": "Vehicle used by agents Stanley Pruszenski and Alfred Baron for patrol duties",
+    "the pickup truck camper": "Vehicle suspected of carrying smuggled individuals due to its heavily loaded condition and fogged windows, found with fourteen additional males lying down on the floor. Frequently used for transporting illegal aliens.",
+    "Maria De Jesus Garcia's Vehicle": "Vehicle stopped by United States Border Patrol agents Stanley Pruszenski and Alfred Baron for an immigration inspection, more than 100 miles from the United States-Mexico Border. Occupants appeared unwashed and unkempt, and made attempts to evade detection. Stopped based on objective and particularized suspicion of transporting illegal aliens.",
+    "Interstate Highway 35": "Highway where United States Border Patrol agents were stationed on February 28, known for frequent illegal alien smuggling activity."
+  }
+}

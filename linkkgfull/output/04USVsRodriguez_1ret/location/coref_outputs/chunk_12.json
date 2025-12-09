@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth, Texas": "Corinth, Texas",
+    "Laredo": "Laredo, Texas",
+    "San Antonio": "San Antonio",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the shoulder": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location where the vehicle's plate is registered, north of San Antonio",
+    "Laredo, Texas": "reference location for distance, used for comparative purposes",
+    "San Antonio": "reference location for direction, indicating a general area",
+    "Farm-to-Market Road 2050": "road where the vehicles were followed by Agent Jorge Luis Trevino"
+  }
+}

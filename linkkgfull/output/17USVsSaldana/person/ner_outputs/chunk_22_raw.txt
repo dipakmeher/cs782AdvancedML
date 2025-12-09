@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cox", "Saldana", "Haston"],
+    "NOUN_PHRASE": ["the stop", "the truck and trailer", "his suspicions", "the dope"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cox": "",
+    "Saldana": "",
+    "Haston": ""
+  }
+}

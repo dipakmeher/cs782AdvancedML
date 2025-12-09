@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent David Fitzgerald": "United States Border Patrol Agent David Fitzgerald",
+    "David Fitzgerald": "United States Border Patrol Agent David Fitzgerald",
+    "the crew-cab truck": "the crew-cab truck used by Carlos Martinez-Romero",
+    "Carlos Martinez-Romero's truck": "the crew-cab truck used by Carlos Martinez-Romero",
+    "the trial judge": "the trial court in the case of Carlos Martinez-Romero",
+    "the State": null,
+    "the suppression hearings": null,
+    "the vehicle": "the crew-cab truck used by Carlos Martinez-Romero",
+    "the witness": "United States Border Patrol Agent David Fitzgerald",
+    "the agent": "United States Border Patrol Agent David Fitzgerald",
+    "Carlos Martinez-Romero": "Carlos Martinez-Romero"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent David Fitzgerald": "Agent who conducted the investigatory stop of Carlos Martinez-Romero and testified as a witness, with four years of experience, specializing in detecting smuggling operations",
+    "the crew-cab truck used by Carlos Martinez-Romero": "Vehicle stopped by United States Border Patrol Agent David Fitzgerald during an investigatory stop, modified with no backseat, indicative of potential smuggling of illegal aliens or narcotics",
+    "the trial court in the case of Carlos Martinez-Romero": "Court where Carlos Martinez-Romero was found guilty of possession and sentenced to seven years imprisonment, and where the credibility of witnesses at suppression hearings is judged",
+    "Carlos Martinez-Romero": "Defendant in a marijuana possession case, driver of the crew-cab truck, arguing against the credibility of Agent David Fitzgerald's testimony"
+  }
+}

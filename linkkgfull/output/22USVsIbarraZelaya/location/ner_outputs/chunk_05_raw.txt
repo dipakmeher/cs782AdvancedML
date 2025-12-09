@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Court of Appeals for the Fifth Circuit", "United States Supreme Court"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Court of Appeals for the Fifth Circuit": "court that affirmed conviction and sentence",
+    "United States Supreme Court": "higher court where a petition for a writ of certiorari could be filed"
+  }
+}

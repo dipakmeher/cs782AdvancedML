@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "persons",
+      "travelers",
+      "residents",
+      "citizens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "individuals present in the United States unlawfully"
+  }
+}

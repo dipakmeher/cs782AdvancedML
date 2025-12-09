@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "his citation": "a traffic citation"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for communication by individuals, including potentially IGNACIO RODRIGUEZ, JR.",
+    "a traffic citation": "Document issued to an individual during a traffic stop for a violation, given to IGNACIO RODRIGUEZ, JR."
+  }
+}

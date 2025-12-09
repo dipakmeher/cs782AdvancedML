@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the interior": "interior of Maria De Jesus Garcia's vehicle",
+    "the border": "United States-Mexican border",
+    "United States": "United States",
+    "Maria De Jesus Garcia": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place, with a Constitution that protects residents from unreasonable searches and seizures",
+    "interior of Maria De Jesus Garcia's vehicle": "location where occupants were observed reacting to a flashlight, attempting to hide from view, with a dark cabin and multiple people moving to conceal themselves",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, reference point for distance"
+  }
+}

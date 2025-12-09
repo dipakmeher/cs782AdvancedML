@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["undocumented aliens"],
+    "NOUN_PHRASE": ["the van used for smuggling", "the hidden compartment", "the pinatas", "the aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "individuals being smuggled into the United States"
+  }
+}

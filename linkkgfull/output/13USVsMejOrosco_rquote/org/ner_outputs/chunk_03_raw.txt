@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Sentencing Commission"],
+    "NOUN_PHRASE": ["the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Sentencing Commission": "promulgated guidelines for sentencing"
+  }
+}

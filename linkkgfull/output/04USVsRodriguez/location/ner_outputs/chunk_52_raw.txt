@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Border Patrol"],
+    "NOUN_PHRASE": ["the road", "the brush"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "agency encountering illegal aliens"
+  }
+}

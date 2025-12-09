@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the aliens": "undocumented aliens",
+    "the undocumented aliens": "undocumented aliens",
+    "United States Border Patrol Agent Ignacio Rodriguez Jr.": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "the stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "undocumented aliens": "undocumented aliens",
+    "United States Border Patrol": "United States Border Patrol",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Jorge Luis Trevino": "Jorge Luis Trevino"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents",
+    "United States Border Patrol Agent Ignacio Rodriguez Jr.": "United States Border Patrol agent involved in the incident",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and charged with transporting undocumented aliens",
+    "Jorge Luis Trevino": "United States Border Patrol agent who stopped RICARDO RODRIGUEZ, JR.'s white Malibu sedan and testified about his knowledge of rental car companies",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stops of RICARDO RODRIGUEZ, JR.'s white Malibu sedan and IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Farm-to-Market Road 2050"
+  }
+}

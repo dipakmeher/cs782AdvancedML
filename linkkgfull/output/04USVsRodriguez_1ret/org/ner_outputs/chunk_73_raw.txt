@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas Department of Transportation", "TxDOT", "Transportation, Planning, and Programming Division"],
+    "NOUN_PHRASE": ["the Court", "the Laredo Division"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Department of Transportation": "prepared district traffic maps",
+    "TxDOT": "determines traffic flow data",
+    "Transportation, Planning, and Programming Division": "collects and determines traffic flow data"
+  }
+}

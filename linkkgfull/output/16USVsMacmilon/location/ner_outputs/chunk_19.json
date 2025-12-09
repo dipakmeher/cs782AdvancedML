@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the record",
+      "the case",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

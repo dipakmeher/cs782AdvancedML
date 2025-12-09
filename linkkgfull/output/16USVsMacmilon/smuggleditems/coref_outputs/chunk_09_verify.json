@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "United States Border Patrol Agent's immigration questions": null,
+    "the immigration checkpoint stop": "immigration checkpoint stop",
+    "the Supreme Court of the United States": "Supreme Court of the United States",
+    "suspicionless routine vehicle stops": null,
+    "immigration checkpoints": null,
+    "the persons stopped": null,
+    "citizenship status": null,
+    "identification or other proof of citizenship": null,
+    "consent to extend the detention": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz": "defendant arguing about the lawfulness of the immigration checkpoint stop's duration",
+    "immigration checkpoint stop": "location where Ramon De La Cruz and others were stopped by United States Border Patrol Agents, with questions asked to determine citizenship status",
+    "Supreme Court of the United States": "recognized the constitutionality of suspicionless routine vehicle stops at immigration checkpoints for determining citizenship"
+  }
+}

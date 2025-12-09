@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "this crew cab",
+      "the interior",
+      "the window",
+      "the road"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

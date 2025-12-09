@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "McMillon": "Raymond McMillon",
+    "Agent Pena": "Luis Pena",
+    "Agent Hernandez": "Manuel Hernandez",
+    "Williams": "Zeba Williams",
+    "the man": "Raymond McMillon",
+    "the aliens": null,
+    "the person": null,
+    "the defendant": "Raymond McMillon",
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide",
+    "Jorge Miguel Hernandez-Gomez": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide",
+    "Raymond McMillon": "defendant identified as the person motioning for aliens to hide, wore white clothing and a blinking cellular Bluetooth Device during the incident",
+    "Luis Pena": "Government agent narrating the checkpoint stop, testified about the events during the trial",
+    "Manuel Hernandez": "Government agent narrating the checkpoint stop, testified about the events during the trial",
+    "Zeba Williams": "individual allegedly transporting aliens with McMillon, stopped at an empty parking lot where aliens were waiting"
+  }
+}

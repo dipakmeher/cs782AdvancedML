@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the cellular Bluetooth Device": "the cellular Bluetooth Device",
+    "the tractor-trailer": "the tractor-trailer",
+    "the checkpoint": "the immigration checkpoint stop"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the cellular Bluetooth Device": "Device worn by Raymond McMillon to possibly communicate during the smuggling operation, with conflicting evidence about its seizure from either Raymond McMillon or Zeba Williams, and used to instruct aliens to hide in the tractor-trailer",
+    "the tractor-trailer": "Vehicle used by Zeba Williams and accompanied by Raymond McMillon to transport undocumented aliens",
+    "the immigration checkpoint stop": "Location where United States Border Patrol agents stopped the tractor-trailer and conducted a search"
+  }
+}

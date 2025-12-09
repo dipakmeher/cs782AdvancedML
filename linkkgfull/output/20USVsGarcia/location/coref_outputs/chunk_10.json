@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "5th Cir.": "5th Circuit Court of Appeals",
+    "Maria De Jesus Garcia's vehicle": "Maria De Jesus Garcia's vehicle",
+    "the camper compartment": "camper compartment of Maria De Jesus Garcia's vehicle",
+    "the vehicle": "Maria De Jesus Garcia's vehicle",
+    "the jury": "jury in Maria De Jesus Garcia's trial"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit that issued a ruling on probable cause for searching vehicles",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens and subject of a court case",
+    "camper compartment of Maria De Jesus Garcia's vehicle": "part of the vehicle where additional undocumented aliens were suspected to be hiding",
+    "jury in Maria De Jesus Garcia's trial": "jury that received a modified Allen charge during deliberations"
+  }
+}

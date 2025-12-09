@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "the white Malibu sedan": "white Malibu sedan",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the vehicles": "white Malibu sedan and black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Jorge Luis Trevino": "Agent who followed the vehicles for several minutes, observing suspicious behavior such as driving in tandem and repeatedly going on and off Farm-to-Market Road 2050",
+    "white Malibu sedan": "Vehicle involved in the smuggling operation, with passengers exhibiting suspicious behavior; stopped by Agent Trevino near Farm-to-Market Road 2050",
+    "black Dodge pickup truck": "Vehicle involved in the smuggling operation, believed by Agent Trevino to be connected to the white Malibu sedan due to tandem travel and shared origin in Dallas, Texas",
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with the white Malibu sedan, claimed to be a United States citizen but was transporting undocumented individuals",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with the black Dodge pickup truck, exhibited nervous behavior during a traffic stop",
+    "Farm-to-Market Road 2050": "Road frequently used by smugglers to circumvent checkpoints; known for its heavy use in smuggling operations",
+    "white Malibu sedan and black Dodge pickup truck": "Vehicles involved in the smuggling operation; used to transport undocumented individuals and exhibited suspicious behavior such as going on and off Farm-to-Market Road 2050 multiple times"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["aliens", "United States-Mexican border"],
+    "NOUN_PHRASE": ["the vehicles", "the pickup truck camper", "the passengers", "the area", "the circumstances"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals who may be illegally in the United States",
+    "United States-Mexican border": "geographic boundary relevant to smuggling"
+  }
+}

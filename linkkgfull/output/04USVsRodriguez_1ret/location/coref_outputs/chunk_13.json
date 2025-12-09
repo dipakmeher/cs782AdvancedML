@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. 59",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the ranches": null,
+    "the oil fields": null,
+    "the wind farm": "wind farm"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. 59": "highway where Freer immigration checkpoint is located",
+    "Farm-to-Market Road 2050": "road where vehicles are followed by Agent Jorge Luis Trevino, primarily used by ranchers and oil trucks due to the presence of ranches and oil fields",
+    "Freer immigration checkpoint": "location of border patrol activity where Agent Jorge Luis Trevino was stationed, with drop-offs occurring on nearby FM 2050 to avoid checkpoints",
+    "wind farm": "location near FM 2050 where vehicles without a specific sticker are suspected of not belonging to the wind farm"
+  }
+}

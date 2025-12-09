@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "District Court",
+    "the district court": "district court",
+    "United States of America": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country involved in the appeal process, appellant in a criminal case seeking review of the district court's judgment, party conceding to a deadline failure and arguing the materiality requirement, prosecutor in the context",
+    "District Court": "court that granted the motion to suppress and entered a judgment for acquittal, with appellate jurisdiction being examined, court reviewing the appeal in the current case",
+    "district court": "trial court whose decision is under appeal by the United States of America, with rules governing appeals and certification requirements"
+  }
+}

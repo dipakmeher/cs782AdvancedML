@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "rental cars used by smugglers": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "rental car used by smugglers": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "rental vehicles used by smugglers": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "illegal aliens": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., rented from Hertz Rental Car Company at the Laredo International Airport, and registered to a location other than where it was rented, used by smugglers",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop on Farm-to-Market Road 2050, driven by IGNACIO RODRIGUEZ, JR., and possibly equipped with a camper shell, used by smugglers",
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, including five passengers found in RICARDO RODRIGUEZ, JR.'s white Malibu sedan"
+  }
+}

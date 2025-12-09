@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Highway 59"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 59": "location where Border Patrol check point is situated and where undocumented aliens were found"
+  }
+}

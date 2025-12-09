@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "the pickup truck camper": "the pickup truck camper",
+    "the marked United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "the window of the marked United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "Maria De Jesus Garcia's Vehicle": "Maria De Jesus Garcia's Vehicle",
+    "the truck cab": null,
+    "the back seat of the truck": null,
+    "Maria De Jesus Garcia\u2019s Vehicle": "Maria De Jesus Garcia's Vehicle",
+    "Maria De Jesus Garcia's Vehicle in this case": "Maria De Jesus Garcia's Vehicle",
+    "the pickup truck camper in question": "the pickup truck camper",
+    "vehicles": null,
+    "Interstate Highway 35": "Interstate Highway 35",
+    "the phone": null,
+    "the Vehicle": "Maria De Jesus Garcia's Vehicle",
+    "interrogatories": null,
+    "depositions": null,
+    "United States v. Garcia": "United States v. Garcia",
+    "the United States Court of Appeals for the Fifth Circuit": "the United States Court of Appeals for the Fifth Circuit",
+    "the United States District Court": "the United States District Court",
+    "the United States District Court Jury": "the United States District Court Jury",
+    "Maria De Jesus Garcia's defense counsel": "Maria De Jesus Garcia's defense counsel"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol sedan": "Vehicle used by agents Stanley Pruszenski and Alfred Baron for patrol duties",
+    "the pickup truck camper": "Vehicle suspected of carrying smuggled individuals due to its heavily loaded condition and fogged windows, found with fourteen additional males lying down on the floor. Frequently used for transporting illegal aliens.",
+    "Maria De Jesus Garcia's Vehicle": "Vehicle stopped by United States Border Patrol agents Stanley Pruszenski and Alfred Baron for an immigration inspection, more than 100 miles from the United States-Mexico Border. Occupants appeared unwashed and unkempt, and made attempts to evade detection. Stopped based on objective and particularized suspicion of transporting illegal aliens.",
+    "Interstate Highway 35": "Highway where United States Border Patrol agents were stationed on February 28, known for frequent illegal alien smuggling activity.",
+    "United States v. Garcia": "Court case involving Maria De Jesus Garcia",
+    "the United States Court of Appeals for the Fifth Circuit": "Appellate court that upheld the United States District Court's refusal to conduct a post-verdict hearing and has made decisions on stops by immigration agents",
+    "the United States District Court": "Court that refused to conduct a post-verdict hearing on jury coercion",
+    "the United States District Court Jury": "Jury whose verdict was being challenged by Maria De Jesus Garcia's defense counsel",
+    "Maria De Jesus Garcia's defense counsel": "Counsel seeking to interview jurors about their deliberation process"
+  }
+}

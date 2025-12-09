@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Border Patrol": "United States Border Patrol",
+    "the Government": "United States Government",
+    "the district court": "United States District Court",
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "discovered undocumented aliens hidden in a tractor-trailer",
+    "United States Government": "prevailing party in the district court",
+    "United States District Court": "court where the defendant's motion to suppress evidence was denied"
+  }
+}

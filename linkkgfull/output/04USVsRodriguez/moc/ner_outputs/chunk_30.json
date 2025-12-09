@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the vehicle's driver",
+      "a vehicle",
+      "two cars",
+      "two vehicles",
+      "the checkpoint",
+      "the roadway",
+      "one vehicle",
+      "another vehicle",
+      "the load car",
+      "the lead car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

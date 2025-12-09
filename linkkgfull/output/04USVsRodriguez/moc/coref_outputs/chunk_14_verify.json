@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his hand": "his hand",
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "the Freer Police Department": "the Freer Police Department",
+    "Highway 16": "Highway 16",
+    "the vehicle": "the black Dodge pickup truck",
+    "the traffic light": "the traffic light at the intersection of Highway 16 and Highway 59",
+    "the intersection of Highway 16 and Highway 59": "the intersection of Highway 16 and Highway 59",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "law enforcement officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "the BOLO vehicle": "the black Dodge pickup truck",
+    "the license plate": "the license plate of the black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "his hand": "Used by Officer Reymundo Reyes to write down the license plate number of the black Dodge pickup truck",
+    "the black Dodge pickup truck": "Vehicle driven by IGNACIO RODRIGUEZ, JR., subject of a BOLO and stopped for a traffic violation",
+    "the Freer Police Department": "Local law enforcement agency that received a BOLO for the black Dodge pickup truck",
+    "Highway 16": "Location where Officer Reymundo Reyes first spotted the black Dodge pickup truck",
+    "the vehicle": "Refers to the black Dodge pickup truck in this context",
+    "the traffic light": "Location where Officer Reymundo Reyes confirmed the license plate match and decided to conduct a traffic stop",
+    "the intersection of Highway 16 and Highway 59": "Location where the traffic stop was initiated",
+    "IGNACIO RODRIGUEZ, JR.": "Driver of the black Dodge pickup truck, subject of the traffic stop",
+    "law enforcement officer Reymundo Reyes": "Officer who conducted the traffic stop and wrote down the license plate number of the black Dodge pickup truck",
+    "the BOLO vehicle": "The black Dodge pickup truck, subject of the BOLO",
+    "the license plate": "License plate of the black Dodge pickup truck, matched by Officer Reymundo Reyes"
+  }
+}

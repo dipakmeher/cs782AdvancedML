@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Juventino Mejia-Orosco", "CLARK", "Juventino", "Mejia-Orosco", "Hector Galvencio Paz-Ortega", "Carlos Enrique Cruz-Morales"],
+    "NOUN_PHRASE": ["the defendant", "the district court", "the Chief Judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Juventino Mejia-Orosco": "defendant",
+    "CLARK": "Chief Judge",
+    "Hector Galvencio Paz-Ortega": "passenger and citizen of Guatemala",
+    "Carlos Enrique Cruz-Morales": "passenger and citizen of Guatemala"
+  }
+}

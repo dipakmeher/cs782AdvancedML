@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the truck cab", "the interior of his vehicle", "behind the cab's front seat"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

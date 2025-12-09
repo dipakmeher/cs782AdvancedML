@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens",
+      "Maria De Jesus Garcia's Vehicle"
+    ],
+    "NOUN_PHRASE": [
+      "particular vehicles",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "smuggled persons",
+    "Maria De Jesus Garcia's Vehicle": "vehicle carrying smuggled persons"
+  }
+}

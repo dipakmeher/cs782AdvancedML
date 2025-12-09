@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "U.S. 359", "Highway 35"],
+    "NOUN_PHRASE": ["the most direct route", "that particular road", "a little-traveled route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "road where vehicles with out-of-town registrations were seen",
+    "U.S. 359": "route the truck was traveling on",
+    "Highway 35": "well-traveled interstate highway"
+  }
+}

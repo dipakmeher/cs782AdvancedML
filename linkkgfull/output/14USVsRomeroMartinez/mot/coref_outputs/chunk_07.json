@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a vehicle": null,
+    "a crew-cab truck": "crew-cab truck",
+    "the vehicle": "crew-cab truck",
+    "the truck": "crew-cab truck",
+    "crew-cab trucks": null,
+    "his vehicle": "crew-cab truck",
+    "Carlos Martinez-Romero's truck": "crew-cab truck",
+    "the door jamb": null,
+    "the front door": null,
+    "the crew-cab section of the truck": "crew-cab truck",
+    "the crew-cab": "crew-cab truck",
+    "the back seat": null,
+    "alien-smuggling vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "crew-cab truck": "Vehicle used by Carlos Martinez-Romero to transport marijuana, possibly modified for stowage of illegal aliens or narcotics, exhibited suspicious behavior during a traffic stop, and had its back seat area modified which is often used as a stow-away location. Involved in a case where the trial court determined that reasonable suspicion existed to justify the stop based on the Woods totality of the circumstances test."
+  }
+}

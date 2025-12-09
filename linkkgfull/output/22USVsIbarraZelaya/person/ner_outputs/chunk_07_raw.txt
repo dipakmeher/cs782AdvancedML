@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ibarra-Zelaya"],
+    "NOUN_PHRASE": ["the defendant", "pro se litigants", "a court", "a habeas petitioner"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ibarra-Zelaya": "defendant arguing for relief due to sentencing error"
+  }
+}

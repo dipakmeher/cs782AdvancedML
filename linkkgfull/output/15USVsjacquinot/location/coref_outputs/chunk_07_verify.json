@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Marathon": "Marathon, Texas",
+    "Kansas": "Kansas",
+    "Big Bend": "Big Bend National Park",
+    "United States/Mexico border": "United States/Mexican border",
+    "Highway 385": "Texas Highway 385",
+    "the street": null,
+    "the park": "Big Bend National Park",
+    "the west side": null,
+    "the east side": null,
+    "the checkpoint": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Marathon, Texas": "location where the truck drove through at 20 miles per hour",
+    "Kansas": "state associated with the truck's license plate and a smuggling organization transporting marijuana to Kansas from the Big Bend area",
+    "Big Bend National Park": "area involved in marijuana transportation by a smuggling organization, location where the truck transited from west side to east side",
+    "United States/Mexican border": "border near where the truck was stopped, approximately 70 or 80 miles away",
+    "Texas Highway 385": "route known for alien and narcotics smuggling, location where Agents Graham and Snodgrass were parked"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 85": "Highway 85",
+    "U.S. Highway 385": "U.S. Highway 385",
+    "a common smuggling route": "Highway 85",
+    "the area": null,
+    "a known drug smuggling route": "U.S. Highway 385"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Highway 85": "a common smuggling route that avoids immigration checkpoints, located near the United States-Mexico border",
+    "U.S. Highway 385": "a known drug smuggling route in an area known for drug smuggling, specifically in the Big Bend area"
+  }
+}

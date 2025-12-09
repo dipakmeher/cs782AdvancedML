@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Benavides",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "an individual officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "testified about arrest",
+    "Ignacio Rodriguez": "potential arrest subject"
+  }
+}

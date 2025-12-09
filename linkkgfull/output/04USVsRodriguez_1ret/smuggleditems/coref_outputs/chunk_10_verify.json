@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented illegals": "undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "United States Border Patrol Agent Ignacio Rodriguez Jr.": "IGNACIO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan and the black Dodge pickup truck": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., used by smugglers and observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent, also observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who stopped RICARDO RODRIGUEZ, JR.'s white Malibu sedan and testified about his knowledge of rental car companies and his observations of the defendants' driving",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose arrest was determined to be warranted by probable cause, stopped by Officer Reymundo Reyes for a traffic violation on Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot"
+  }
+}

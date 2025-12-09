@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Williamson County": "Williamson County",
+    "IH-35": "IH-35",
+    "Laredo": "Laredo",
+    "San Antonio": "San Antonio",
+    "the narcotics division": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Williamson County": "location of the Sheriff's Office where detectives Gary Haston and Heather Vargas were based",
+    "IH-35": "highway where detectives Gary Haston and Heather Vargas were traveling northbound on November 24, 2014",
+    "Laredo": "place where the trailer's license plate was issued to Daniel Martin Huerta on November 20, 2014",
+    "San Antonio": "place where the truck's license plate was registered to Daniel A. Huerta on July 31, 2014"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Court of Criminal Appeals": "Texas Court of Criminal Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the trial court is located and has a constitution protecting individuals from unreasonable searches and seizures",
+    "Texas Court of Criminal Appeals": "court that established a new reasonableness standard in evaluating roving patrol stops, specifically the 'totality of the circumstances' test"
+  }
+}

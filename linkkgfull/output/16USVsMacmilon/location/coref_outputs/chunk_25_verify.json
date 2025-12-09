@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the court": "district court",
+    "the record": "district court record"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "district court": "court that addressed Raymond McMillon's speedy trial case, made determinations on non-excludable days, and granted motions to continue, held a hearing on the motions to suppress and for discovery, entered a discovery order requiring the Government to produce canine records for in camera inspection, considered the suppression matter and heard arguments on the motion to dismiss, and made findings regarding the ends of justice served by granting continuances, also provided oral explanation at a hearing",
+    "district court record": "record of the case where ends-of-justice findings are set forth, includes events that occurred off the record, contains canine records for in camera inspection, used to exclude periods of delay resulting from continuances granted by judges based on ends-of-justice findings, and includes formal notations of events and submissions"
+  }
+}

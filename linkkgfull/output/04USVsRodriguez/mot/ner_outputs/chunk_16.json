@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the vehicle",
+      "his aunt's vehicle",
+      "the truck",
+      "Defendant's driver's license",
+      "the vehicle was",
+      "his cousin's vehicle",
+      "the citation",
+      "IGNACIO RODRIGUEZ, JR.'s vehicle",
+      "Reymundo Reyes's vehicle",
+      "Defendant's vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

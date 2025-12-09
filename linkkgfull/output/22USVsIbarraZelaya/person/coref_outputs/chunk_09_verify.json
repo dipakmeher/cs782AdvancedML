@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "the defendant": "Jose Marlon Ibarra-Zelaya",
+    "counsel": "Adrian Almaguer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant charged with conspiracy and assorted offenses related to an illegal alien smuggling venture, found guilty on all counts, sentenced to 292 months in prison, seeking relief from his sentence under Section 2255, and arguing for relief due to sentencing error, alleging ineffective assistance of counsel. Fails to establish Ex Post Facto violation and claim for ineffective assistance of counsel regarding sentencing. Proceeds pro se in the matter, arguing that his sentence was determined in error due to the use of the wrong version of the United States Sentencing Guidelines Manual.",
+    "Adrian Almaguer": "affidavit provider and defense counsel for Jose Marlon Ibarra-Zelaya, whose performance is being challenged by Ibarra-Zelaya for alleged ineffectiveness during sentencing, specifically for failing to object to the use of the 2004 Sentencing Guidelines Manual. Also failed to object to sentencing enhancements based on jury findings of ransom demand and dangerous weapon use. Provided an affidavit in the case. Claimed to be deficient for failing to object to incorrect sentence calculation under the 2004 version of the Sentencing Guidelines Manual. Raised an objection to the base offense level calculated in the PSR, acknowledging later that he had incorrectly used an older version of the Guidelines when drafting his objection"
+  }
+}

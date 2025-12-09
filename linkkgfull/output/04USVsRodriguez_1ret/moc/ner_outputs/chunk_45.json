@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the patrol car",
+      "the license plate",
+      "the high-beams",
+      "the vehicle",
+      "his rear-view mirror"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

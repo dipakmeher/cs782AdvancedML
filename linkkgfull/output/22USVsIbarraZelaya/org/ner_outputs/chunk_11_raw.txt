@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Sentencing Guidelines Manual"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Sentencing Guidelines Manual": "a standard for sentencing"
+  }
+}

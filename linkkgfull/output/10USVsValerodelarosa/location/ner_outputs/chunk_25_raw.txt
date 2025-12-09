@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo Division"],
+    "NOUN_PHRASE": ["some sentencing jurisdictions", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo Division": "location where an early disposition program was allegedly not available"
+  }
+}

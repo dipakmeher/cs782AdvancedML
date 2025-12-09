@@ -1,0 +1,43 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Michael Brett Jacquinot": "Michael Brett Jacquinot",
+    "Michael": "Michael Brett Jacquinot",
+    "Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the defendant": "Michael Brett Jacquinot",
+    "he": "Michael Brett Jacquinot",
+    "a passenger": "Michael Brett Jacquinot",
+    "the district court": null,
+    "the truck": null,
+    "the border patrol agents": "Andrew P. Graham and Jay Snodgrass",
+    "the vehicle": null,
+    "Andrew P. Graham": "Andrew P. Graham",
+    "Jay Snodgrass": "Jay Snodgrass",
+    "Agent Andrew P. Graham": "Andrew P. Graham",
+    "Agent Jay Snodgrass": "Jay Snodgrass",
+    "the Border Patrol": null,
+    "Graham": "Andrew P. Graham",
+    "Snodgrass": "Jay Snodgrass",
+    "the agents": "Andrew P. Graham and Jay Snodgrass",
+    "Agent Graham": "Andrew P. Graham",
+    "Agent Snodgrass": "Jay Snodgrass",
+    "an older Anglo couple": null,
+    "the driver": "Brignoni-Ponce Jacquinot",
+    "a small-framed person": null,
+    "Agents Graham": null,
+    "his assistant": null,
+    "the district court in this case": null,
+    "the agent": null,
+    "experienced officers": null,
+    "the passengers": null,
+    "Brignoni-Ponce Jacquinot": "Brignoni-Ponce Jacquinot",
+    "a work truck driver": null,
+    "park visitors": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Michael Brett Jacquinot": "Defendant convicted for possession with intent to distribute marijuana, who entered a conditional plea of guilty and was sentenced to 46 months' imprisonment",
+    "Andrew P. Graham": "Border Patrol Agent who stopped the truck based on suspicious behavior and prior experience with smuggling cases, provided testimony about Highway 385's reputation as a smuggling route, testified about traffic patterns and his experience",
+    "Jay Snodgrass": "Border Patrol Agent whose prior observation of the truck was confirmed by Agent Graham",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents involved in surveillance near the United States/Mexican border, providing reasonable suspicion for a stop based on proximity to the border",
+    "Brignoni-Ponce Jacquinot": "driver of the truck, referenced in a legal factor, made assertions about the proximity-to-the-border factor, argues against the contribution to reasonable suspicion"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "Corinth, Texas": "Corinth, Texas",
+    "San Angelo": "San Angelo",
+    "Fifth Circuit": "Fifth Circuit",
+    "United States": "United States",
+    "Texas": "Texas",
+    "Dallas": "Dallas",
+    "1-20": "Interstate 20",
+    "1-35": "Interstate 35",
+    "the area": "Farm-to-Market Road 2050 area",
+    "a faraway place": null,
+    "the most direct route": null,
+    "the ranch road": "ranch roads near Farm-to-Market Road 2050",
+    "another part of Texas": null,
+    "the local ranches": null,
+    "that particular road": "Farm-to-Market Road 2050",
+    "a well-traveled interstate highway": null,
+    "the checkpoint": "Freer immigration checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas-Fort Worth": "location of vehicle registration for the white sedan",
+    "Corinth, Texas": "location of vehicle registration for the black truck",
+    "San Angelo": "location used as a reference for suspicious vehicle behavior in a previous case",
+    "Fifth Circuit": "judicial circuit that has previously ruled on cases involving vehicle registrations and reasonable suspicion",
+    "United States": "country where the events took place",
+    "Texas": "state where events occurred, including traffic stops and vehicle registrations",
+    "Dallas": "location of vehicle registration and destination for smuggled aliens",
+    "Interstate 20": "highway mentioned as a direct route",
+    "Interstate 35": "highway mentioned as a well-traveled interstate highway",
+    "Farm-to-Market Road 2050 area": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions",
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, mentioned in the context of avoiding checkpoints"
+  }
+}

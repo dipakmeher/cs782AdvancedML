@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "twenty four bundles of a compressed white powder": "specific type of smuggled substance",
+    "cocaine": "specific type of smuggled substance",
+    "the batteries": "batteries used to conceal cocaine",
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "specific type of smuggled substance": "twenty four bundles of a compressed white powder that field-tested positive for cocaine, subject of Federico Saldana's motion to suppress",
+    "batteries used to conceal cocaine": "Batteries dismantled by Deputy Jason Cox and Detective Gary Haston to retrieve twenty four bundles of a compressed white powder",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, traveling at approximately 75 miles per hour, driven by Federico Saldana who was not used to driving this sort of truck and trailer combination, searched by Williamson County Sheriff's Office",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires"
+  }
+}

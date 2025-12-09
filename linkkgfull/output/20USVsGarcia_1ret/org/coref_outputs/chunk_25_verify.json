@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States district court": "United States District Court",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": "United States-Mexico Border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that refers to the lateness of the hour as a relevant consideration in determining reasonable suspicion, has previously made decisions regarding stops on Interstate Highway 35",
+    "Interstate Highway 35": "location where previous experience with illegal alien traffic occurred and where the stop took place, known for being a common smuggling route",
+    "United States-Mexico Border": "reference point for distance calculation in determining reasonable suspicion for stops"
+  }
+}

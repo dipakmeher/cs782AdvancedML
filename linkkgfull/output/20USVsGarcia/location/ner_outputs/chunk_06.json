@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States-Mexican border",
+      "Laredo, Texas",
+      "Interstate 35"
+    ],
+    "NOUN_PHRASE": [
+      "the border",
+      "this country",
+      "the city",
+      "the towns"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexican border": "relevant to the Brignoni-Ponce test",
+    "Laredo, Texas": "location through which Interstate 35 passes",
+    "Interstate 35": "public highway leading from the border"
+  }
+}

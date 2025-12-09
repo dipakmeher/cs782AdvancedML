@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States of America's untimely motion": "the United States of America's motion for a determination of excusable neglect or good cause",
+    "this United States Court of Appeals": "the United States Court of Appeals",
+    "Federal Rule of Appellate Procedure": "Federal Rule of Appellate Procedure",
+    "the 30-day additional period": "the 30-day additional period contemplated by Federal Rule of Appellate Procedure",
+    "the United States of America's untimely appeal": "the United States of America's appeal",
+    "the United States District Court's second quashing order": "the United States District Court's second quashing order",
+    "the certification flaw": "the certification flaw in the United States of America's appeal"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States of America's motion for a determination of excusable neglect or good cause": "Motion filed by the United States of America to determine excusable neglect or good cause for its untimely appeal",
+    "the United States Court of Appeals": "Court with appellate jurisdiction over decisions of United States District Courts",
+    "Federal Rule of Appellate Procedure": "Set of rules governing appellate procedure in the United States",
+    "the 30-day additional period contemplated by Federal Rule of Appellate Procedure": "Timeframe allowed for filing appeals under Federal Rule of Appellate Procedure",
+    "the United States of America's appeal": "Appeal filed by the United States of America regarding its case",
+    "the United States District Court's second quashing order": "Order issued by the United States District Court in the case of the United States of America",
+    "the certification flaw in the United States of America's appeal": "Error in the certification of the United States of America's appeal"
+  }
+}

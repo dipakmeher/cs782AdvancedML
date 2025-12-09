@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Pablo Road": "San Pablo Road",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "U.S. 59",
+    "U.S. 359": "U.S. 359",
+    "Highway 16": "Highway 16",
+    "San Antonio": "San Antonio",
+    "Houston": "Houston",
+    "the wind farm": "wind farm on FM 2050",
+    "one of the many ranches": null,
+    "the road": "Farm-to-Market Road 2050",
+    "the loop": null,
+    "the area": "Farm-to-Market Road 2050 area",
+    "the premises": null,
+    "the gravel lot": null,
+    "the region": null,
+    "the checkpoint": "Freer immigration checkpoint",
+    "northern Texas": null,
+    "the particular area": null,
+    "U.S.-Mexico border": "United States-Mexico border",
+    "Southern District of Texas": "Southern District of Texas",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Pablo Road": "location near where JORGE LUIS TREVINO initiated the stop, south of the wind farm on FM 2050",
+    "Farm-to-Market Road 2050": "road used as a smuggling route, with limited traffic and mostly used by local residents and workers, characterized by ranches and a wind farm",
+    "U.S. 59": "highway with checkpoints that smugglers try to avoid, intersection location with Highway 16",
+    "U.S. 359": "highway with checkpoints that smugglers try to avoid, connecting highway near Hebbronville checkpoint",
+    "Highway 16": "highway that allows access to major highways going north, intersection with U.S. 59",
+    "San Antonio": "destination for smuggled individuals, alternative route location",
+    "Houston": "destination for smuggled individuals, accessible via Highway 16",
+    "wind farm on FM 2050": "location of windmills and wind farm office, between twelve and fifteen miles from the Freer immigration checkpoint on U.S. 59",
+    "Freer immigration checkpoint": "location where Agent Montemayor arrived to investigate an attempted alien smuggling event, near the intersection of Highway 16 and U.S. 59",
+    "Farm-to-Market Road 2050 area": "rural area characterized by ranches and a wind farm, with limited traffic, where vehicles with out-of-town registrations raised suspicions",
+    "United States-Mexico border": "International boundary where roving Border Patrol stops are conducted, proximity to which is a factor in determining reasonable suspicion",
+    "Southern District of Texas": "judicial district with relevant case law regarding reasonable suspicion for Border Patrol stops",
+    "United States": "country where defendants were indicted for transporting undocumented aliens, and country of citizenship claimed by the driver"
+  }
+}

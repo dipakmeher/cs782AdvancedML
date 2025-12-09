@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop",
+    "the United States Government": "United States Department of Homeland Security",
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "Defendant RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.'s Motion to Suppress": null,
+    "the traffic stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "Farm-to-Market Road 2050": null,
+    "the United States District Judge": "United States Department of Homeland Security",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Terry": null,
+    "the Supreme Court of the United States": "United States Department of Homeland Security",
+    "the United States Court": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the stop of his vehicle by Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes, suspected to harbor illegal aliens due to its proximity to the Mexico border, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Corinth, Texas",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of RICARDO RODRIGUEZ, JR.'s white Malibu sedan by United States Border Patrol Agent Jorge Luis Trevino on Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Highway 16 for failing to use a turn signal, where Officer Reymundo Reyes confirmed the license plate matched a BOLO description",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident"
+  }
+}

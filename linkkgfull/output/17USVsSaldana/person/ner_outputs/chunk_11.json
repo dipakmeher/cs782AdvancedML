@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Saldana",
+      "Haston"
+    ],
+    "NOUN_PHRASE": [
+      "the officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "gave consent to search the truck and trailer, was placed under arrest",
+    "Haston": "received consent from Saldana to search the truck and trailer"
+  }
+}

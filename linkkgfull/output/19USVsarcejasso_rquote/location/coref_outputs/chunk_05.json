@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "a court of appeals": "court of appeals",
+    "a district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "appellant in a criminal case and the government seeking review",
+    "district court": "court that made the judgment of acquittal in favor of Raul Rafael Arce-Jasso and the court from which the appeal is taken",
+    "court of appeals": "court to which the United States of America must appeal from a decision or order of a district court suppressing or excluding evidence"
+  }
+}

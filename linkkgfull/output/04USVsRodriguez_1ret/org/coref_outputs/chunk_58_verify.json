@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "the court": "United States Court",
+    "white Malibu sedan": "white Malibu sedan",
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "white Malibu sedan and black Dodge pickup truck": "white Malibu sedan and black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "a court that has addressed similar cases regarding probable cause in arrests of drivers of vehicles suspected to be driving in tandem with other vehicles containing contraband",
+    "United States Court": "governing body for traffic stops and arrests, applying principles set out in Terry",
+    "white Malibu sedan": "Vehicle involved in the smuggling operation, with passengers exhibiting suspicious behavior; stopped by Agent Trevino near Farm-to-Market Road 2050",
+    "black Dodge pickup truck": "Vehicle involved in the smuggling operation, believed by Agent Trevino to be connected to the white Malibu sedan due to tandem travel and shared origin in Dallas, Texas",
+    "white Malibu sedan and black Dodge pickup truck": "Vehicles involved in the smuggling operation; used to transport undocumented individuals and exhibited suspicious behavior such as going on and off Farm-to-Market Road 2050 multiple times"
+  }
+}

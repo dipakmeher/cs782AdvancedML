@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Fitzgerald",
+      "Fitzgerald"
+    ],
+    "NOUN_PHRASE": [
+      "the appellant",
+      "the agent",
+      "the witness",
+      "the judge",
+      "the driver"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Fitzgerald": "Border Patrol Agent and witness",
+    "Fitzgerald": "Border Patrol Agent and witness"
+  }
+}

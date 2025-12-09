@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Border Patrol", "U.S. Highway 359", "Highway 16", "Farm-to-Market Road 2050"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "law enforcement agency involved in the case",
+    "U.S. Highway 359": "highway mentioned as a location",
+    "Highway 16": "highway where Agent Benavides was located",
+    "Farm-to-Market Road 2050": "location of the traffic stop"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the premises": null,
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "district court": "court that imposes sentences based on sentencing guidelines, considering the crime committed rather than the offender"
+  }
+}

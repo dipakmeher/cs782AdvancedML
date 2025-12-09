@@ -1,0 +1,1 @@
+Given that "a white one" maps to "white Malibu sedan", "a black one" maps to "black Dodge pickup truck", and considering other mappings:

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "South Texas",
+      "House"
+    ],
+    "NOUN_PHRASE": [
+      "the court",
+      "the Report"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "South Texas": "region where aliens were transported",
+    "House": "referring to the House Conference Report"
+  }
+}

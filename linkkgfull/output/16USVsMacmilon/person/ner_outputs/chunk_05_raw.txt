@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Williams", "McMillon", "Ramon De La Cruz", "De La Cruz", "Jorge Miguel Hernandez-Gomez", "Hernandez-Gomez"],
+    "NOUN_PHRASE": ["the agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Williams": "defendant",
+    "McMillon": "defendant",
+    "Ramon De La Cruz": "undocumented alien",
+    "De La Cruz": "undocumented alien",
+    "Jorge Miguel Hernandez-Gomez": "undocumented alien",
+    "Hernandez-Gomez": "undocumented alien"
+  }
+}

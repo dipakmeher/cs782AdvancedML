@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate 35": "Interstate Highway 35",
+    "Maria De Jesus Garcia's pickup camper": "pickup truck camper",
+    "the border": "United States-Mexican border",
+    "this segment": "northbound lanes of Interstate Highway 35",
+    "these other connecting roads": null,
+    "the vehicle": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate Highway 35": "location where alien smuggling history is relevant and a common route with known alien smuggling activity",
+    "United States-Mexican border": "geographical boundary relevant to determining distance from the border and a key factor in the Brignoni-Ponce test for reasonably warranting suspicion in border patrol stops, also the destination or origin of illegal aliens",
+    "pickup truck camper": "vehicle searched by border patrol agents due to suspicious behavior, frequently used for transporting illegal aliens and having an unusually heavy and overloaded appearance with fogged-over windows indicating breathing cargo",
+    "northbound lanes of Interstate Highway 35": "portion of the highway where the incident occurred, known for being a common smuggling route with alien smuggling history",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens, subject of a court case, and used by Maria De Jesus Garcia during the incident"
+  }
+}

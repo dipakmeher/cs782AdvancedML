@@ -1,0 +1,38 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the defendant": null,
+    "Ricardo Rodriguez, Jr.": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez, Jr.": "IGNACIO RODRIGUEZ, JR.",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "the officer": null,
+    "a United States Border Patrol agent": null,
+    "an officer of the Freer Police Department": null,
+    "the Court": null,
+    "Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Rodriguez": "Rodriguez",
+    "the primary agent": "Rodriguez",
+    "United States Border Patrol Agent": null,
+    "Agent Rodriguez": "Rodriguez",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "the Border Patrol agents": null,
+    "a person": null,
+    "Trevino": "Jorge Luis Trevino",
+    "the ranchers": null,
+    "oil field workers": null,
+    "farmers": null,
+    "those employees": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant in the case who had his vehicle stopped by a United States Border Patrol agent",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant in the case who was stopped by an officer of the Freer Police Department",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants indicted for transporting undocumented aliens within the United States",
+    "Jorge Luis Trevino": "United States Border Patrol Agent stationed at the Freer immigration checkpoint who decided to investigate vehicles and testified about the common types of traffic on FM 2050",
+    "Rodriguez": "United States Border Patrol Agent who alerted to two suspicious vehicles and is involved in the case",
+    "Agent Rodriguez": "United States Border Patrol Agent who alerted to the two vehicles, likely referring to Rodriguez",
+    "Agent Trevino": "United States Border Patrol Agent who decided to go look into the vehicles and testified about his experience with traffic on FM 2050"
+  }
+}

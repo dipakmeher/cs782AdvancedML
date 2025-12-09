@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Border Patrol", "Freer Police Department"],
+    "NOUN_PHRASE": ["the Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "conducted a vehicle stop",
+    "Freer Police Department": "conducted a traffic stop"
+  }
+}

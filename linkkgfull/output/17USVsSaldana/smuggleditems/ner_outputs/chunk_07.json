@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "dope",
+      "drugs",
+      "cocaine",
+      "methamphetamine"
+    ],
+    "NOUN_PHRASE": [
+      "the dope",
+      "the drugs",
+      "a load of dope"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "dope": "suspected drug in the vehicle",
+    "drugs": "substances being smuggled",
+    "cocaine": "specific type of drug asked about",
+    "methamphetamine": "specific type of drug asked about"
+  }
+}

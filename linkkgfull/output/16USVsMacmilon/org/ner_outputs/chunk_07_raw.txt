@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Government"],
+    "NOUN_PHRASE": ["the district court", "the jury", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Government": "proffered testimony"
+  }
+}

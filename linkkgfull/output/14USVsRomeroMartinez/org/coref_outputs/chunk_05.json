@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexico border": "U.S.-Mexico border",
+    "Texas Court of Criminal Appeals": "Texas Court of Criminal Appeals",
+    "Border Patrol": "United States Border Patrol",
+    "United States": "United States",
+    "Texas": "Texas",
+    "David Fitzgerald": "David Fitzgerald",
+    "Carlos Martinez-Romero": "Carlos Martinez-Romero"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S.-Mexico border": "location relevant to border patrol stops and geographical context for reasonable suspicion determinations",
+    "Texas Court of Criminal Appeals": "court that reviews mixed questions of law and fact in the context of evolving standards for roving border patrol stops",
+    "United States Border Patrol": "conducted an investigatory stop of Carlos Martinez-Romero, with guidelines limiting reasonable proximity to stops within fifty miles of the U.S.-Mexico border, and has agents like David Fitzgerald who testify based on experience about vehicle modifications indicating potential smuggling",
+    "United States": "referenced in the context of its constitution protecting individuals from unreasonable searches and seizures",
+    "Texas": "referenced in the context of its constitution and court decisions regarding border patrol stops",
+    "David Fitzgerald": "Border Patrol agent who conducted the stop and testified about suspicious behavior",
+    "Carlos Martinez-Romero": "individual stopped by Border Patrol agent David Fitzgerald due to suspicious behavior"
+  }
+}

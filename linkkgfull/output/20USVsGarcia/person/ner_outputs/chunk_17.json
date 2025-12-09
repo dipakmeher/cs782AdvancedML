@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "people of Hispanic-descent appearance",
+      "any native-born or naturalized American",
+      "immigration agents"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

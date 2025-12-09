@@ -1,0 +1,28 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Mexico",
+      "Nuevo Laredo",
+      "Sabinas Hidalgo",
+      "November"
+    ],
+    "NOUN_PHRASE": [
+      "a restaurant",
+      "the restaurant",
+      "a bus",
+      "a taxi",
+      "the Nuevo Laredo bus terminal",
+      "a point close to the bridge",
+      "the bridge",
+      "a hidden compartment",
+      "the van"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where aliens were being smuggled into",
+    "Mexico": "country where smuggling operation originated",
+    "Nuevo Laredo": "city where permit was obtained and smuggling operation proceeded",
+    "Sabinas Hidalgo": "city where meeting with undocumented aliens took place"
+  }
+}

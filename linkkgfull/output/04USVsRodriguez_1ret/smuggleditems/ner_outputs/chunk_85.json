@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+      "five or six illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the black Dodge pickup truck",
+      "the driver",
+      "the stop",
+      "the traffic stop",
+      "the United States Border Patrol radio"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "vehicle containing illegal aliens",
+    "five or six illegal aliens": "smuggled individuals"
+  }
+}

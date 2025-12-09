@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico": "country of origin for illegal migrants",
+    "United States-Mexican border": "geographical boundary relevant to determining distance from the border and a key factor in the Brignoni-Ponce test for reasonably warranting suspicion in border patrol stops"
+  }
+}

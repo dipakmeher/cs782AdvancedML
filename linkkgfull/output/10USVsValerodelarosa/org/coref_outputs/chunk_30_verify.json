@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "United States Probation Officer": "United States Probation Office",
+    "Mexico": "Mexico",
+    "Rio Grande": "Rio Grande",
+    "Laredo": "Laredo",
+    "Texas": "Texas",
+    "PSR": "United States Probation Office"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the defendant attempted to re-enter and was previously deported from",
+    "United States Probation Office": "office that received the defendant's statement and prepared the PSR report documenting his background",
+    "Mexico": "country to which the defendant was previously deported and of which he is a citizen",
+    "Rio Grande": "river crossed by the defendant to enter the United States",
+    "Laredo": "city in Texas where the defendant's family resides and where he attempted to reunite with them",
+    "Texas": "state in the United States where the defendant re-entered to be with his family"
+  }
+}

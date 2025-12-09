@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the aliens": "ten undocumented aliens",
+    "unlawful aliens": "ten undocumented aliens",
+    "aliens": "ten undocumented aliens",
+    "the tractor-trailer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer, discovered at the immigration checkpoint stop and testified against Ramon De La Cruz",
+    "Zeba Williams": "co-defendant with Ramon De La Cruz, whose counsel articulated reasons for needing more time to prepare for trial",
+    "Ramon De La Cruz": "defendant challenging the sufficiency of evidence on his convictions and arguing against the denial of his pretrial motions, accused of transporting aliens",
+    "Raymond McMillon": "made arguments regarding the Speedy Trial Act and the exclusion of delay periods related to his continuance motions",
+    "Luis Pena": "United States Border Patrol Agent who approached the driver-side door of the tractor-trailer and questioned Zeba Williams and Ramon De La Cruz",
+    "Manuel Hernandez": "United States Border Patrol Agent who prepared to have his canine perform a sniff of the tractor-trailer's exterior steps",
+    "Aroxa": "canine used by Manuel Hernandez for inspection that alerted to the presence of contraband",
+    "Jorge Miguel Hernandez-Gomez": "alien being transported, discovered hidden in the tractor-trailer's sleeper area and testified against Ramon De La Cruz",
+    "United States District Court": "granted continuances and entered ends-of-justice findings, which were used to determine the exclusion of delay periods under the Speedy Trial Act",
+    "Speedy Trial Act": "governs the timing of trials and requires the United States District Court to enter ends-of-justice findings to support continuances"
+  }
+}

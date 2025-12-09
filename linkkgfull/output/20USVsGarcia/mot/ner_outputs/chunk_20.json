@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "Maria De Jesus Garcia's pickup truck",
+      "the pickup truck",
+      "the pickup truck camper",
+      "a pickup truck with a pickup truck camper attached to the back of it",
+      "the pickup truck camper attachment",
+      "Interstate Highway 35"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

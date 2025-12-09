@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "United States District Court": "United States District Court",
+    "Speedy Trial Act": "Speedy Trial Act",
+    "thirty-day exclusion period": "thirty-day exclusion period",
+    "canine records": null,
+    "off the record matters": null,
+    "October 22, 2014": null,
+    "December 17": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz": "defendant arguing about the thirty-day exclusion period and its impact on the Speedy Trial Act violation",
+    "United States District Court": "court that received canine records for in camera inspection and made docket orders regarding the case",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods, with requirements for ends-of-justice findings",
+    "thirty-day exclusion period": "exclusion period under the Speedy Trial Act that began to run after December 17 submissions and ended on January 5",
+    "canine records": null,
+    "off the record matters": null
+  }
+}

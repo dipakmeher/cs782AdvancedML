@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States District Court",
+      "United States"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Court": "court that imposed judgment of conviction and sentence",
+    "United States": "party to a plea agreement"
+  }
+}

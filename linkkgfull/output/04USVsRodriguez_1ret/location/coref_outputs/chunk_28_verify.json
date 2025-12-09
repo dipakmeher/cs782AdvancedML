@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "Mexico border",
+    "the area": "Big Bend area",
+    "the road": "Farm-to-Market Road 2050",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico border": "country border relevant to the smuggling context, where roving Border Patrol stops are governed by a standard requiring specific articulable facts and rational inferences",
+    "Big Bend area": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route",
+    "Farm-to-Market Road 2050": "rural road where Agent Trevino initiated a stop, known for smuggling activity and limited traffic, considered in reasonable suspicion analysis along with other factors such as proximity to the border and usual traffic patterns"
+  }
+}

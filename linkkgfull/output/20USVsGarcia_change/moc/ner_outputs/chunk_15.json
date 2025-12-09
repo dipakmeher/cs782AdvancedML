@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the phone",
+      "interrogatories",
+      "depositions"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

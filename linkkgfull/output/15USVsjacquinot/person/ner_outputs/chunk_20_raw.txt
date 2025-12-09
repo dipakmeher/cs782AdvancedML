@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Jacquinot", "Agent Snodgrass"],
+    "NOUN_PHRASE": ["the offender", "law enforcement officers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jacquinot": "defendant",
+    "Agent Snodgrass": "author of a memo"
+  }
+}

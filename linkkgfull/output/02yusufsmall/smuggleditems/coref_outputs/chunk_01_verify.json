@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the flatbed trailer used for smuggling": "flatbed trailer used for smuggling 84 illegal aliens",
+    "several wooden crates": null,
+    "a tarp": null,
+    "84 illegal aliens": "84 illegal aliens",
+    "the load": "84 illegal aliens",
+    "the bill of lading": "BOL",
+    "the flatbed trailer": "flatbed trailer used for smuggling 84 illegal aliens",
+    "the carrier": "United States Trucking",
+    "the trailer": "flatbed trailer used for smuggling 84 illegal aliens",
+    "You Brokerage": "You Brokerage",
+    "Steel on Steel Transportation": "Steel on Steel Transportation",
+    "United States Trucking": "United States Trucking",
+    "BOL": "BOL"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "84 illegal aliens": "Group of smuggled persons found in a flatbed trailer near Laredo, Texas, headed to Dallas",
+    "the load": "Refers to the 84 illegal aliens being hauled",
+    "You Brokerage": "company under investigation with no record of existence and non-functional phone number, paid Abdullah Yusuf $2,700 to haul the load",
+    "Steel on Steel Transportation": "Abdullah Yusuf's company, not listed as the carrier on the BOL",
+    "United States Trucking": "carrier listed on the BOL for the load in question",
+    "BOL": "document related to the smuggling operation, appeared to be forged by doctoring an older one, received by Abdullah Yusuf before heading to Dallas",
+    "flatbed trailer used for smuggling 84 illegal aliens": "Trailer used by Abdullah Yusuf to transport 84 illegal aliens near Laredo, Texas"
+  }
+}

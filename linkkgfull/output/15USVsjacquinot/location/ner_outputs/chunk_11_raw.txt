@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States/Mexico border"],
+    "NOUN_PHRASE": ["the border", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States/Mexico border": "reference point for determining proximity and reasonable suspicion"
+  }
+}

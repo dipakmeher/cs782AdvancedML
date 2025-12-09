@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this court": "United States Court of Appeals for the Fifth Circuit",
+    "this nation": "United States",
+    "the highways": "Interstate Highway"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches",
+    "United States Court of Appeals for the Fifth Circuit": "federal court that reviews cases related to border patrol stops and provides guidance to jurors on their duties and responsibilities, also responsible for giving instructions to the jury",
+    "Interstate Highway": "highways where stops by border patrol agents may occur, subject to constitutional protections against unreasonable searches"
+  }
+}

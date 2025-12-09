@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the United States of America": "United States of America",
+    "border patrol": "U.S. Border Patrol",
+    "the border patrol checkpoint": "U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas",
+    "the primary inspection lane": null,
+    "the secondary inspection area": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "Plaintiff-Appellant in the case against Raul Rafael Arce-Jasso and country of citizenship for Raul Rafael Arce-Jasso",
+    "U.S. Border Patrol": "law enforcement agency operating the checkpoint",
+    "U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas": "location where Raul Rafael Arce-Jasso was stopped and questioned by Agent Jesus Garcia"
+  }
+}

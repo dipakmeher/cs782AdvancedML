@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "this Court": "District Court",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "party in the case, appellant with an untimely motion for appeal",
+    "District Court": "court reviewing the appeal in the current case, with jurisdiction over the appeal process and precedent on excusable neglect",
+    "district court": "trial court whose decision is under appeal by the United States of America, with rules governing appeals and certification requirements"
+  }
+}

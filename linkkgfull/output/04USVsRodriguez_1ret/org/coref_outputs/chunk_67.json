@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "the Court": "United States District Court",
+    "Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "Moglia ranch house": "Moglia Ranch House",
+    "Stag ranch trailer": "Stag Ranch Trailer",
+    "San Pablo Road": "San Pablo Road",
+    "Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Laredo, Texas": "Laredo, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge who took judicial notice of the sunset time in Laredo, Texas",
+    "United States Border Patrol Agent Jorge Luis Trevino": "testified about not knowing the owners of the Moglia ranch house and Stag ranch trailer, or the land on San Pablo Road",
+    "Moglia Ranch House": "ranch house located near San Pablo Road, ownership unknown to Agent Trevino",
+    "Stag Ranch Trailer": "trailer located near San Pablo Road, ownership unknown to Agent Trevino",
+    "San Pablo Road": "road where the Moglia ranch house and Stag ranch trailer are located, with unknown land ownership",
+    "Officer Reymundo Reyes": "explained that stolen vehicles may not be reported immediately, which did not alleviate his concerns about the black Dodge pickup truck",
+    "RICARDO RODRIGUEZ, JR.": "defendant whose brother IGNACIO RODRIGUEZ, JR. was involved in the incident",
+    "Laredo, Texas": "city where the sun set at 6:22 p.m. on February 4, 2013"
+  }
+}

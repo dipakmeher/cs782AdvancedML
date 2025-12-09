@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Sentencing Commission": "United States Sentencing Commission",
+    "counsel": "Rogelio Valero-De La Rosa's counsel",
+    "the lawyer": "Rogelio Valero-De La Rosa's counsel",
+    "attorneys": null,
+    "the attorney": "Rogelio Valero-De La Rosa's counsel"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission": "Agency responsible for establishing federal sentencing guidelines, including considerations under fast track programs",
+    "Rogelio Valero-De La Rosa's counsel": "Defendant's legal representative who assisted in negotiating Plea Agreement, did not render constitutionally ineffective assistance"
+  }
+}

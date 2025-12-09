@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "loads of narcotics": null,
+    "the scissor lift": "scissor lift",
+    "the 2008 Chevrolet truck driven by Federico Saldana": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "Gary Haston": "Gary Haston",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "scissor lift": "Scissor lift with new paint job and corrugated metal plates under the tires, transported on the flatbed trailer towed by the 2008 Chevrolet truck",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, with suspected cargo including narcotics and dope, outfitted with over-sized tires and after-market rims",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires",
+    "Gary Haston": "Veteran narcotics investigator with Williamson County Sheriff's Office, testified about atypical features of the 2008 Chevrolet truck and flatbed trailer, including oversized tires and after-market rims often used to hide loads of narcotics",
+    "Williamson County Sheriff's Office": "Law enforcement agency conducting the search, requesting consent from Federico Saldana"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Agent Pena": "Luis Pena",
+    "Agent Hernandez": "Manuel Hernandez",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "the Government": null,
+    "the district court": null,
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant, appellant, and passenger in a tractor-trailer with undocumented aliens, convicted of alien transportation offenses, traveled with co-defendant to Laredo, questioned by Agent Pena at an immigration checkpoint, filed a motion to dismiss the indictment on speedy trial grounds",
+    "Luis Pena": "Border Patrol Agent who approached the driver-side door at an immigration checkpoint near Freer, Texas, questioned Williams and McMillon, discovered a person hidden in the tractor's sleeper area, testified as a government witness during the jury trial",
+    "Manuel Hernandez": "Border Patrol Agent who prepared to have his canine perform a sniff of the tractor-trailer's exterior, worked with Agent Pena during the stop, testified as a government witness during the jury trial",
+    "Ramon De La Cruz": "undocumented alien transported by McMillon, testified as a government witness during the jury trial",
+    "Jorge Miguel Hernandez-Gomez": "undocumented alien transported by McMillon, testified as a government witness during the jury trial"
+  }
+}

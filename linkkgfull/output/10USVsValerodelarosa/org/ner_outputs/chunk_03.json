@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Mexico",
+      "Department of Homeland Security",
+      "United States Attorney General"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where Rogelio Valero-De La Rosa was removed from and later found",
+    "Mexico": "country where Rogelio Valero-De La Rosa is a native and citizen",
+    "Department of Homeland Security": "department whose Secretary can grant permission to re-enter the United States",
+    "United States Attorney General": "official who can grant permission to re-enter the United States"
+  }
+}

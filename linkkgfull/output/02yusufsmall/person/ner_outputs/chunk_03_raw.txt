@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent De Arcos", "Yusuf", "USA Trucking", "Steel on Steel Transportation"],
+    "NOUN_PHRASE": ["the company", "his investigation", "the carrier", "the load", "the trailer", "the origin address", "the delivery address"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent De Arcos": "investigator",
+    "Yusuf": "individual involved in the case",
+    "USA Trucking": "carrier company",
+    "Steel on Steel Transportation": "Yusuf's company"
+  }
+}

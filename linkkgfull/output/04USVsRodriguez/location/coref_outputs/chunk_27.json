@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "Corinth, Texas": "Corinth, Texas",
+    "San Angelo": "San Angelo",
+    "Fifth Circuit": "Fifth Circuit",
+    "United States": "United States",
+    "Texas": "Texas",
+    "Dallas": "Dallas",
+    "the area": "Farm-to-Market Road 2050 area",
+    "a faraway place": null,
+    "the most direct route": null,
+    "the ranch road": "ranch roads on Farm-to-Market Road 2050",
+    "another part of Texas": null,
+    "the local ranches": null,
+    "that particular road": "Farm-to-Market Road 2050",
+    "a well-traveled interstate highway": "Highway 35",
+    "the checkpoint": "Freer immigration checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas-Fort Worth": "registration location of a rental vehicle, part of the metroplex where vehicles were registered",
+    "Corinth, Texas": "registration location of a black truck, somewhere north of San Antonio",
+    "San Angelo": "location used in a previous case as an example of adding to reasonable suspicion",
+    "Fifth Circuit": "judicial circuit with relevant case law regarding reasonable suspicion for Border Patrol stops, including considerations of vehicle registration and route taken",
+    "United States": "country where defendants were indicted for transporting undocumented aliens, and country of citizenship claimed by the driver",
+    "Texas": "state where events occurred, with various locations mentioned including Dallas, Corinth, and San Angelo",
+    "Dallas": "registration location of a vehicle and destination on a highway, part of the metroplex",
+    "Farm-to-Market Road 2050 area": "rural area characterized by ranches and a wind farm, with limited traffic, where vehicles with out-of-town registrations raised suspicions",
+    "Highway 35": "alternative route to Dallas or San Antonio, potentially used by smugglers, described as a well-traveled interstate highway"
+  }
+}

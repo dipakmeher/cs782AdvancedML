@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Officer Reyes", "Ignacio Rodriguez", "Reyes"],
+    "NOUN_PHRASE": ["the officer", "his aunt", "his cousin", "the driver", "a police officer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Officer Reyes": "police officer",
+    "Ignacio Rodriguez": "defendant",
+    "Reyes": "police officer"
+  }
+}

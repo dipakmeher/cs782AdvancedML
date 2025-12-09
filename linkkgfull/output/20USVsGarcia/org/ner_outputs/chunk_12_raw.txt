@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["5th Circuit Court of Appeals"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "found no abuse of discretion in the case"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon",
+      "Bieganowski"
+    ],
+    "NOUN_PHRASE": [
+      "the court",
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "argues against excluding delay periods",
+    "Bieganowski": " referenced in a Speedy Trial Act requirement"
+  }
+}

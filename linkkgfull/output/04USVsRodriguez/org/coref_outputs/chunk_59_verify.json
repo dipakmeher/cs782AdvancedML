@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Freer Police Department": "Freer Police Department",
+    "United States Border Patrol": "United States Border Patrol",
+    "the Freer Police Department patrolman": "Freer Police Department",
+    "Reymundo Reyes": "Freer Police Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., with Officer Reymundo Reyes conducting the initial questioning",
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents arriving to take over the investigation of IGNACIO RODRIGUEZ, JR.",
+    "Freer Police Department and United States Border Patrol": null
+  }
+}

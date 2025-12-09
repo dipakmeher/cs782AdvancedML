@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "the District Court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "country making an appeal from orders suppressing evidence"
+  }
+}

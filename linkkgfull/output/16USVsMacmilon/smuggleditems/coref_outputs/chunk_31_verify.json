@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "unlawful aliens": "ten undocumented aliens",
+    "aliens": "ten undocumented aliens",
+    "the aliens": "ten undocumented aliens",
+    "the tractor-trailer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "undocumented immigrants discovered at the immigration checkpoint stop, hidden in the tractor-trailer's sleeper area, testified against Ramon De La Cruz",
+    "Ramon De La Cruz": "defendant arguing about the thirty-day exclusion period and its impact on the Speedy Trial Act violation, wore a blinking cellular Bluetooth Device and white clothing during the incident",
+    "Zeba Williams": "co-defendant of Ramon De La Cruz, also requesting continuances, rode with Ramon De La Cruz in the tractor-trailer"
+  }
+}

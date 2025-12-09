@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Border Patrol": "United States Border Patrol",
+    "the Border Patrol station": "United States Border Patrol",
+    "Agent Benavides": "United States Border Patrol",
+    "white Malibu sedan": "white Malibu sedan",
+    "black Dodge pickup truck": "black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents arriving to take over the investigation of IGNACIO RODRIGUEZ, JR.",
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops, took judicial notice of sunset time in Laredo, Texas on February 4, 2013",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., with Officer Reymundo Reyes conducting the initial questioning",
+    "white Malibu sedan": "vehicle involved in a case where it was determined to be driving in tandem with a black Dodge truck, providing probable cause for arrest",
+    "black Dodge pickup truck": "vehicle mentioned in a comparison of cases, highlighting the importance of evaluating specific circumstances when determining reasonable suspicion"
+  }
+}

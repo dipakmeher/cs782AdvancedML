@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Diesel Impact 2000", "Highway 359", "Monterrey Inn"],
+    "NOUN_PHRASE": ["the tractor", "the trailer", "the side of the highway", "the terrain", "the road"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Diesel Impact 2000": "location where aliens were loaded into the trailer",
+    "Highway 359": "highway near Diesel Impact 2000",
+    "Monterrey Inn": "place where Martin Adaboh was approached to smuggle aliens"
+  }
+}

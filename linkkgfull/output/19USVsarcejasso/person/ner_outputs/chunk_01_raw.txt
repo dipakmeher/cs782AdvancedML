@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Raul Rafael Arce-Jasso", "Arce-Jasso", "DeMOSS", "United States of America"],
+    "NOUN_PHRASE": ["the Government", "Defendant-Appellee", "Plaintiff-Appellant", "Circuit Judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Raul Rafael Arce-Jasso": "defendant and appellant",
+    "Arce-Jasso": "defendant and appellant",
+    "DeMOSS": "Circuit Judge"
+  }
+}

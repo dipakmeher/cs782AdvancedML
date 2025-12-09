@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["J.M.E.", "Beth Watkins"],
+    "NOUN_PHRASE": ["the defendant", "the trial court", "the juvenile court", "the appellant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "J.M.E.": "a juvenile defendant",
+    "Beth Watkins": "Justice"
+  }
+}

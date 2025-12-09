@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "Fifth Circuit Court of Appeals",
+    "U.S.": "United States",
+    "Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "the vehicles": null,
+    "Jorge Luis Trevino": "United States Border Patrol",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "white sedan": "white Malibu sedan",
+    "black truck": "black Dodge pickup truck",
+    "Corinth, Texas": null,
+    "San Angelo": null,
+    "Highway 35": null,
+    "Dallas, Texas": null,
+    "U.S. 359": "Highway 359"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Fifth Circuit Court of Appeals": "a court that has previously held that certain factors can add to reasonable suspicion",
+    "United States": "country where the events are taking place",
+    "Hertz Dallas-Fort Worth": "rental car company whose vehicles were used by smugglers, often preferred because if caught, they would only lose a rental car, not one of their own vehicles",
+    "United States Border Patrol": "a law enforcement agency familiar with local vehicles and recognizing approximately 90-95% of them as belonging to farmers and oil field workers in the Farm-to-Market Road 2050 area",
+    "Farm-to-Market Road 2050": "road where Agent Trevino initiated a stop of the white Malibu sedan and where the black Dodge truck was also spotted",
+    "white Malibu sedan": "vehicle stopped by Agent Trevino on Farm-to-Market Road 2050, transporting illegals, and traveling in tandem with the black Dodge pickup truck",
+    "black Dodge pickup truck": "vehicle driven by IGNACIO RODRIGUEZ, JR. and subject to a canine search, encountered by Agent Trevino within fifty miles of the United States-Mexico border",
+    "Highway 359": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'"
+  }
+}

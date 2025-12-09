@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the case": "United States v. Garcia",
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "the jurors": null,
+    "the verdict": null,
+    "the law and the evidence": null,
+    "the matters submitted to you": null,
+    "the opinions of others": null,
+    "your responsibilities": null,
+    "a verdict one way or the other": null,
+    "your convictions": null,
+    "the discussions": null,
+    "the others": null,
+    "the suggestions and ideas expressed by the other jurors": null,
+    "the ultimate goal of reaching a verdict": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Garcia": "a case related to the use of the Allen charge in trials, decided by the 5th Circuit Court of Appeals, involving the smuggling of undocumented aliens",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, finding no abuse of discretion in this case"
+  }
+}

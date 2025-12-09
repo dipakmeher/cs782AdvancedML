@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States v. Maria De Jesus Garcia", "United States District Court", "United States v. Pena-Cantu", "United States v. Pacheco", "United States v. Orona-Sanchez", "United States Court of Appeals for the Fifth Circuit"],
+    "NOUN_PHRASE": ["the jury", "the court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States v. Maria De Jesus Garcia": "a legal case",
+    "United States District Court": "a federal court",
+    "United States v. Pena-Cantu": "a legal case",
+    "United States v. Pacheco": "a legal case",
+    "United States v. Orona-Sanchez": "a legal case",
+    "United States Court of Appeals for the Fifth Circuit": "a federal appeals court"
+  }
+}

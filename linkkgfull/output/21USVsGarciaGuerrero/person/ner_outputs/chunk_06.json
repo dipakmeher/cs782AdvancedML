@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia",
+      "Cuyler"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "the district court",
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "a person who argued about the definition of reckless conduct",
+    "Cuyler": "a reference to a previous court case"
+  }
+}

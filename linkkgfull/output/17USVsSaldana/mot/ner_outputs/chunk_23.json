@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the truck",
+      "trailer",
+      "the truck and trailer",
+      "his luggage"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

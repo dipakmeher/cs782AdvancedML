@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["Maria De Jesus Garcia's vehicle", "the camper compartment of Maria De Jesus Garcia's vehicle", "Maria De Jesus Garcia's pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

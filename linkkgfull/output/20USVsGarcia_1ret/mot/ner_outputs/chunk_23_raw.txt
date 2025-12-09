@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["pickup truck"],
+    "NOUN_PHRASE": ["the pickup truck", "Maria De Jesus Garcia's pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "pickup truck": "vehicle in which occupants' actions were observed by Stanley Pruszenski and Alfred Baron"
+  }
+}

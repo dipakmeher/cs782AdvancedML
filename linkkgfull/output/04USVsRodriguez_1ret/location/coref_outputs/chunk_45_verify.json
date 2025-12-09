@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Supreme Court": "Supreme Court",
+    "Border Patrol station": "Border Patrol station",
+    "law enforcement stations": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Supreme Court": "highest court in the land, cited in cases regarding probable cause and consent for investigative interrogations",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was taken for questioning"
+  }
+}

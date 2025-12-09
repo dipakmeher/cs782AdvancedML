@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "De La Cruz", "Hernandez-Gomez"],
+    "NOUN_PHRASE": ["the defendant", "the jury", "the district court", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "defendant",
+    "De La Cruz": "alien transported by McMillon",
+    "Hernandez-Gomez": "alien transported by McMillon"
+  }
+}

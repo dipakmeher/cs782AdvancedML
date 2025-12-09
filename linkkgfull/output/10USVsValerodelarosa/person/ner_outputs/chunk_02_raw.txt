@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Valero"],
+    "NOUN_PHRASE": ["the undersigned", "the Government", "the United States", "the defendant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "defendant"
+  }
+}

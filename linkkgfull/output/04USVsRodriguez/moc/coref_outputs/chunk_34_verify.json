@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the traffic stop": "the United States Border Patrol stop of IGNACIO RODRIGUEZ, JR.",
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "IGNACIO RODRIGUEZ, JR.'s Motion to Suppress": "IGNACIO RODRIGUEZ, JR.'s motion to suppress evidence",
+    "the United States District Court": "a United States District Court",
+    "the traffic stop and arrest of IGNACIO RODRIGUEZ, JR.": "the United States Border Patrol stop of IGNACIO RODRIGUEZ, JR.",
+    "a seizure under the United States Constitution": "the United States Border Patrol stop of IGNACIO RODRIGUEZ, JR.",
+    "routine traffic stops": "investigatory detentions",
+    "investigatory detentions": "investigatory detentions",
+    "full blown arrests": "full blown arrests",
+    "Terry v. Ohio": "Terry v. Ohio",
+    "the Supreme Court of the United States": "the Supreme Court of the United States",
+    "the totality of the circumstances": "the totality of the circumstances"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol stop of IGNACIO RODRIGUEZ, JR.": "Lawful traffic stop based on articulable factors indicating potential illegal activity",
+    "United States Magistrate Judge": "Judge responsible for recommending the denial of IGNACIO RODRIGUEZ, JR.'s motion to suppress evidence",
+    "IGNACIO RODRIGUEZ, JR.'s motion to suppress evidence": "Motion filed by IGNACIO RODRIGUEZ, JR. to suppress evidence obtained during the traffic stop",
+    "a United States District Court": "Court responsible for interpreting testimony and evidence in the case",
+    "investigatory detentions": "Law enforcement actions that are less intrusive than full arrests but more intrusive than routine traffic stops",
+    "Terry v. Ohio": "Landmark Supreme Court case establishing principles for investigatory stops and arrests",
+    "the Supreme Court of the United States": "Highest court in the United States, responsible for interpreting the Constitution and federal laws",
+    "the totality of the circumstances": "Standard used to assess the reasonableness of law enforcement actions"
+  }
+}

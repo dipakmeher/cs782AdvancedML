@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Homeland Security": "Department of Homeland Security",
+    "You Brokerage": "You Brokerage",
+    "Jamco International, Inc.": "Jamco International, Inc.",
+    "Flying J": "Flying J",
+    "the brokerage company": "You Brokerage",
+    "the Auburn Road lot": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Department of Homeland Security": "conducted inspection and interviewed Abdullah Yusuf",
+    "You Brokerage": "paid Abdullah Yusuf to haul a load of 84 illegal aliens",
+    "Jamco International, Inc.": "owned the Auburn Road lot used for storing empty trailers",
+    "Flying J": "where Abdullah Yusuf waited with his tractor while the flatbed trailer was being loaded"
+  }
+}

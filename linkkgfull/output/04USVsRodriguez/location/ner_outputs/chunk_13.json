@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "San Pablo Road",
+      "United States",
+      "Mexico",
+      "Dallas",
+      "FM 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the wind farm",
+      "the road",
+      "the vehicle",
+      "the trunk",
+      "the country"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Pablo Road": "location where Agent Trevino initiated a stop",
+    "United States": "country of citizenship claimed by the driver",
+    "Mexico": "country of origin of the passengers",
+    "Dallas": "city from which the vehicles were traveling",
+    "FM 2050": "road on which the vehicles were traveling"
+  }
+}

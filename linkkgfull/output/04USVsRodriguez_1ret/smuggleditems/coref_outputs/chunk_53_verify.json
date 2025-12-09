@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the citation": null,
+    "the canine handler and canine": null,
+    "the United States Border Patrol": "United States Border Patrol",
+    "the Freer Police Department": "Freer Police Department",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the driver's license": null,
+    "the search": null,
+    "the United States Court of Appeals for the Fifth Circuit": "United States Department of Homeland Security",
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "the consensual encounter": null,
+    "the valid traffic stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Officer Reymundo Reyes": "Freer Police Department officer who stopped IGNACIO RODRIGUEZ, JR.'s vehicle and conducted an investigation",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the stop of his vehicle by Officer Reymundo Reyes, displayed extreme nervousness during the stop",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050, searched after IGNACIO RODRIGUEZ, JR. gave consent, and had conflicting ownership claims",
+    "United States Border Patrol": "Law enforcement agency involved in the incident",
+    "Freer Police Department": "Police department where Officer Reymundo Reyes is employed",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Highway 16 for failing to use a turn signal, where Officer Reymundo Reyes confirmed the license plate matched a BOLO description and questioned IGNACIO RODRIGUEZ, JR. about travel plans"
+  }
+}

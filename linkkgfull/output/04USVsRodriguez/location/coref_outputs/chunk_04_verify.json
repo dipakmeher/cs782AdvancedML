@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Freer": "Freer, Texas",
+    "Texas": "Texas",
+    "U.S. 59": "U.S. 59",
+    "Echo 43": "Freer immigration checkpoint",
+    "Corpus": "Corpus",
+    "Houston": "Houston",
+    "Freer immigration checkpoint": "Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the checkpoint building": "Freer immigration checkpoint building",
+    "the Border Patrol station parking lot": "Border Patrol station parking lot",
+    "the checkpoint office": "Freer immigration checkpoint office"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "Country where the legal proceedings are taking place, country of the magistrate judge",
+    "Freer, Texas": "location of police department and origin of Officer Reymundo Reyes, location of Freer immigration checkpoint",
+    "Texas": "State where Laredo is located, state where events occurred",
+    "U.S. 59": "route taken by defendants to avoid the Hebbronville checkpoint, highway where checkpoint is located",
+    "Freer immigration checkpoint": "location where Agent Montemayor arrived and conducted interviews with RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR., situated near the intersection of Highway 16 and U.S. 59, location of border patrol activity",
+    "Corpus": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Houston": "destination city for smuggled individuals, accessible via Highway 16, possible destination for vehicles",
+    "Farm-to-Market Road 2050": "rural, two-lane road with sharp turns and no shoulder, where vehicles can be driven at high speeds, road adjacent to Border Patrol station",
+    "Freer immigration checkpoint building": "building where border patrol agents process undocumented individuals",
+    "Border Patrol station parking lot": "parking area near the Freer immigration checkpoint",
+    "Freer immigration checkpoint office": "office where border patrol agents inspect vehicles and process individuals, located about 150-200 feet from Farm-to-Market Road 2050"
+  }
+}

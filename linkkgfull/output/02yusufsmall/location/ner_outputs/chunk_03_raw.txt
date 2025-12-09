@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["USA", "North Carolina", "Dallas"],
+    "NOUN_PHRASE": ["the load", "the trailer", "the origin address", "the delivery address", "Auburn Road"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "USA": "country of the carrier",
+    "North Carolina": "state where delivery was supposed to occur",
+    "Dallas": "city where delivery was initially claimed to be"
+  }
+}

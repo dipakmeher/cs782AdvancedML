@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the agent": "United States Border Patrol Agent Jorge Luis Trevino",
+    "law enforcement officers": "United States Border Patrol",
+    "the majority": null,
+    "the area": null,
+    "the officers": "United States Border Patrol",
+    "the marked patrol car": null,
+    "U.S. Highway 385": "U.S. Highway 385",
+    "Highway 85": "Highway 85"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "heard motions to suppress evidence obtained from the vehicle stops and arrests of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Agent who followed the vehicles for several minutes, observing suspicious behavior such as driving in tandem and repeatedly going on and off Farm-to-Market Road 2050",
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law. Involved in the stop of the black Dodge pickup truck and white Malibu sedan.",
+    "U.S. Highway 385": "a known drug smuggling route",
+    "Highway 85": "a common smuggling route that avoids immigration checkpoints"
+  }
+}

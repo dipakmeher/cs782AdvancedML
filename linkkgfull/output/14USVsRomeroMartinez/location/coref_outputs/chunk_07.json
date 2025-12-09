@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Court of Criminal Appeals": "Texas Court of Criminal Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the trial court is located and vehicle was registered",
+    "Texas Court of Criminal Appeals": "court that established a new reasonableness standard in evaluating roving patrol stops"
+  }
+}

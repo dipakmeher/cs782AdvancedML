@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas": "Dallas, Texas",
+    "the vehicle": null,
+    "the area": "Farm-to-Market Road 2050 area"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "origin of IGNACIO RODRIGUEZ, JR.'s travel from Laredo to Dallas",
+    "Dallas, Texas": "destination of IGNACIO RODRIGUEZ, JR.'s travel from Laredo",
+    "Farm-to-Market Road 2050 area": "rural area where the traffic stop took place, characterized by ranches and a wind farm"
+  }
+}

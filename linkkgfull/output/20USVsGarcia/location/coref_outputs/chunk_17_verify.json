@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this circuit": "5th Circuit Court of Appeals",
+    "the border": "United States-Mexican border",
+    "an interstate highway": "Interstate Highway 35",
+    "Texas": "Texas",
+    "Mexico/United States border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit reviewing the case regarding roving border patrols and the Brignoni-Ponce standard",
+    "United States-Mexican border": "reference point for determining distance and relevant to the context of illegal alien traffic",
+    "Interstate Highway 35": "location where alien smuggling history is relevant and a common route with known alien smuggling activity, where Maria De Jesus Garcia's vehicle was stopped",
+    "Texas": "location where the pickup truck was stopped, approximately 115 miles north of the United States-Mexican border"
+  }
+}

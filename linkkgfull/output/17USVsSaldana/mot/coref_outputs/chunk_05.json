@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "2008 Chevrolet truck",
+    "the trailer": "flatbed trailer",
+    "the vehicle": "2008 Chevrolet truck",
+    "this sort of truck with a trailer attached": "2008 Chevrolet truck and flatbed trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck": "Vehicle pulling a flatbed trailer, registered to Daniel A. Huerta, outfitted with over-sized tires and after-market rims, involved in unsafe driving maneuvers, driven by Federico Saldana",
+    "flatbed trailer": "Trailer transporting a scissor lift, registered to Daniel Martin Huerta, attached to the 2008 Chevrolet truck",
+    "2008 Chevrolet truck and flatbed trailer": "Vehicle and trailer combination involved in a traffic stop on Interstate 35"
+  }
+}

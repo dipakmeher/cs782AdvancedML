@@ -1,0 +1,1 @@
+However, to resolve coreferences for entities of type MEANS OF TRANSPORTATION in the given text chunk according to the provided RESOLVED_ENTITIES dictionary:

@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the scene": null,
+    "the cab": null,
+    "the bunk": null,
+    "the truck": null,
+    "the trailer": null,
+    "the rear of the trailer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Southern District of Texas": "location where Yusif Ahmed Rufied was charged with unlawfully transporting illegal aliens",
+    "United States": "country where aliens entered or remained in violation of law and were transported by Yusif Ahmed Rufied",
+    "Highway 59": "location of the Border Patrol check point",
+    "Border Patrol check point on Highway 59": "checkpoint where sixty undocumented aliens were found in a tractor trailer",
+    "Ghana": "country of origin for Yusif Ahmed Rufied and Martin Adaboh",
+    "Africa": "continent where Ghana is located",
+    "Quebec": "province in Canada where Yusif Ahmed Rufied and Martin Adaboh live",
+    "Montreal": "city in Quebec, Canada where Yusif Ahmed Rufied and Martin Adaboh live",
+    "Canada": "country where Yusif Ahmed Rufied and Martin Adaboh live and return destination for a load",
+    "Laredo, Texas": "location of the Monterrey Inn and pickup location for a load",
+    "Monterrey Inn": "place where Martin Adaboh was approached to smuggle aliens",
+    "Diesel Impact 2000": "location visited by Martin Adaboh and Yusif Ahmed Rufied and where aliens were loaded into the trailer",
+    "Highway 359": "highway near Diesel Impact 2000",
+    "McAllen, Texas": "destination claimed by Yusif Ahmed Rufied",
+    "San Antonio, Texas": "destination claimed by Martin Adaboh",
+    "Diesel 2000": "location visited by Martin Adaboh and Yusif Ahmed Rufied"
+  }
+}

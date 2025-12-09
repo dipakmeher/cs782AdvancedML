@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the panel majority": "5th Circuit Court of Appeals",
+    "this circuit": "5th Circuit Court of Appeals",
+    "the present facts": "United States v. Garcia",
+    "the precedents of this circuit": "5th Circuit Court of Appeals",
+    "United States Border Patrol agents": "United States Border Patrol",
+    "Stanley Pruszenski and Alfred Baron": null,
+    "Maria De Jesus Garcia's pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "the United States-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35 in Texas": null,
+    "the stop": null,
+    "the majority": "5th Circuit Court of Appeals",
+    "my brethren in the majority": "5th Circuit Court of Appeals",
+    "the views of my brethren in the majority": "5th Circuit Court of Appeals",
+    "the multi-factorial test": "Brignoni-Ponce standard",
+    "the totality of the circumstances": null,
+    "Stanley Pruszenski": null,
+    "Alfred Baron": null,
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the time of the stop": null,
+    "the agent who made the stop": null,
+    "the border": "United States-Mexican border",
+    "Texas": null,
+    "115 miles north of the United States-Mexican border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, with a panel majority attempting to apply precedents in a principled way",
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation, now being considered by the 5th Circuit Court of Appeals",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle suspected to contain contraband and undocumented aliens, stopped by United States Border Patrol agents on Interstate Highway 35, with its occupants attempting to hide from view",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents, with a distance of 115 miles from the stop location",
+    "Brignoni-Ponce standard": "legal standard for evaluating the reasonableness of suspicion in investigatory stops, applied in this case to determine the lawfulness of the stop",
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge, with her pickup truck camper being stopped by United States Border Patrol agents"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the phone",
+      "the pickup truck camper",
+      "the Vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

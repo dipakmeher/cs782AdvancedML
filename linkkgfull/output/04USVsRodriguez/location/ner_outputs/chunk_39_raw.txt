@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the destination", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

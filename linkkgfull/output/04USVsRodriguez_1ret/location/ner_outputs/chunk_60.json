@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the checkpoint",
+      "the Border Patrol station",
+      "the white car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

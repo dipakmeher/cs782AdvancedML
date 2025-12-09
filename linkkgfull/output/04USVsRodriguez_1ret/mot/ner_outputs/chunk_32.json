@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a mile and a half south of the wind farm",
+      "the vehicles",
+      "a vehicle",
+      "the loop",
+      "the road",
+      "the ranch road",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

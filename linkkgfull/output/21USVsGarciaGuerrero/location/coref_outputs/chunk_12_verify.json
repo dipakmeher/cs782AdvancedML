@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the court": "United States",
+    "the Report": "House Conference Report",
+    "South Texas": "South Texas",
+    "House": "House"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "South Texas": "region where aliens were transported through the hot desert in the summer with inadequate water and food, posing a substantial risk of death or serious bodily injury",
+    "United States": "country where unlawful aliens were being transported",
+    "House Conference Report": "report that provides guidance on the imposition of sentencing enhancements for alien smuggling offenses involving conduct that recklessly endangers others, directing the Sentencing Commission to allow for enhancements when defendants engage in conduct placing another in serious danger of death or serious bodily injury"
+  }
+}

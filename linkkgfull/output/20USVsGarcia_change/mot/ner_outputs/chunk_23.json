@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "Maria De Jesus Garcia's vehicle",
+      "the truck",
+      "Stanley Pruszenski and Alfred Baron's flashlight is not a means of transportation, so it is excluded"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

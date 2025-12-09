@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "the United States of America"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "Plaintiff-Appellant"
+  }
+}

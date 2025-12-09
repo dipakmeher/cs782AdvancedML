@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Valero", "Pleasantly"],
+    "NOUN_PHRASE": ["his counsel", "Petitioner"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "Petitioner"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Saldana", "Josiah Bennett"],
+    "NOUN_PHRASE": ["the officers", "the K-9 handler", "the dog"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "driver of the truck",
+    "Josiah Bennett": "K-9 handler"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Saldana"],
+    "NOUN_PHRASE": ["the officer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "individual whose rights are being argued"
+  }
+}

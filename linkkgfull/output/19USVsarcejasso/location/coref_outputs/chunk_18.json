@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the District Court": "District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country making an appeal from orders suppressing evidence, presenting a case in the appeal proceedings, bound by the law of the case doctrine for judicial efficiency",
+    "District Court": "court handling suppression decisions and judgments of acquittal, recognizing the law of the case doctrine"
+  }
+}

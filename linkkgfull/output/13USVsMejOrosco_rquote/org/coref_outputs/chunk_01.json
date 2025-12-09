@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Juventino Mejia-Orosco": "Juventino Mejia-Orosco",
+    "Hector Galvencio Paz-Ortega": "Hector Galvencio Paz-Ortega",
+    "Carlos Enrique Cruz-Morales": "Carlos Enrique Cruz-Morales",
+    "the district court": "United States District Court",
+    "the United States": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Juventino Mejia-Orosco": "Defendant convicted of illegally transporting aliens into the United States",
+    "Hector Galvencio Paz-Ortega": "Passenger and citizen of Guatemala",
+    "Carlos Enrique Cruz-Morales": "Passenger and citizen of Guatemala",
+    "United States District Court": "Court that imposed sentence on Juventino Mejia-Orosco",
+    "United States of America": "Country where aliens were transported"
+  }
+}

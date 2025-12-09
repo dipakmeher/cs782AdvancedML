@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "her pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "marked border patrol sedan": "marked border patrol sedan",
+    "pickup truck camper": "pickup truck camper",
+    "the camper": "pickup truck camper",
+    "the vehicle": null,
+    "the car": "marked border patrol sedan",
+    "the truck": "pickup truck camper",
+    "the agents' patrol car": "marked border patrol sedan",
+    "the pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "the patrol car": "marked border patrol sedan",
+    "the truck cab": "Maria De Jesus Garcia\u2019s pickup truck",
+    "the rear window to the pickup truck camper": "pickup truck camper",
+    "the floor of the camper": "pickup truck camper",
+    "Maria De Jesus Garcia's pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "the pickup truck camper": "pickup truck camper",
+    "vehicles": null,
+    "the particular vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia\u2019s pickup truck": "Vehicle used in the transportation of undocumented aliens, stopped by border patrol for immigration inspection, and subject to a suppression motion regarding evidence obtained from the stop and search. Stopped more than 100 miles from the United States-Mexican border.",
+    "marked border patrol sedan": "Border Patrol vehicle used for surveillance and observation, driven by agents during the stop of Maria De Jesus Garcia's pickup truck",
+    "pickup truck camper": "Vehicle suspected of transporting living beings, possibly people, due to fogged windows and heavy loading; found to be carrying multiple undocumented aliens, and subject to a search"
+  }
+}

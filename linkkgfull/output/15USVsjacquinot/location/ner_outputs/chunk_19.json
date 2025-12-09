@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the bed of the truck",
+      "the cab of the truck",
+      "the truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

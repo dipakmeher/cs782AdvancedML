@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a canine handler and canine were en route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

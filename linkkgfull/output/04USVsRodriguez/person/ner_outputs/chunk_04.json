@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Jorge Luis Trevino",
+      "Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the primary agent",
+      "United States Border Patrol Agent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jorge Luis Trevino": "United States Border Patrol Agent",
+    "Rodriguez": "United States Border Patrol Agent"
+  }
+}

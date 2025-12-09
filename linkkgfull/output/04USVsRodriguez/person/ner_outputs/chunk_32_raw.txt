@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the defendant", "the agent", "law enforcement officers", "the majority", "the district court", "the officer", "the inspector"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

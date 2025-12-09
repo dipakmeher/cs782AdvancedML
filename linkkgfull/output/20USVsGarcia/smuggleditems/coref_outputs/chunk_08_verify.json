@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Maria De Jesus Garcia's pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "United States-Mexican border": "United States-Mexican border",
+    "Brignoni-Ponce standard": "Brignoni-Ponce",
+    "the record": null,
+    "this case": "United States v. Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency stopping Maria De Jesus Garcia's pickup truck camper, with agents having received specialized training and participated in numerous incidents involving arrests for transporting illegal aliens",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle stopped by United States Border Patrol agents more than 100 miles from the United States-Mexican border",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents",
+    "Brignoni-Ponce": "legal standard for evaluating the reasonableness of suspicion in investigatory stops",
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation"
+  }
+}

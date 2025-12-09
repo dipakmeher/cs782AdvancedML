@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Border Patrol", "Fifth Circuit"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "law enforcement agency involved in the stop",
+    "Fifth Circuit": "court that does not adhere to a bright line rule regarding proximity to the Mexico border"
+  }
+}

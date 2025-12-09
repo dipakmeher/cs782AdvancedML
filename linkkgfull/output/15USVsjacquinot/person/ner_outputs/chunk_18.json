@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Jacquinot"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the Government",
+      "the defendant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jacquinot": "defendant in a drug trafficking case"
+  }
+}

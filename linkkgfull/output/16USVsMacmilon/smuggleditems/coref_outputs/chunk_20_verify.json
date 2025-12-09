@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Act": "Speedy Trial Act",
+    "the United States District Court": "United States District Court",
+    "the judge": null,
+    "the continuance": null,
+    "the record": null,
+    "the case": null,
+    "the court's legal conclusions": null,
+    "the factual findings": null,
+    "the speedy trial determinations": null,
+    "the defendant": "Ramon De La Cruz",
+    "the public": null,
+    "the ends of justice": null,
+    "the best interest of the public and the defendant in a speedy trial": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods",
+    "United States District Court": "court that rules on pretrial motions and applies the Speedy Trial Act",
+    "Ramon De La Cruz": "defendant arguing about the lawfulness of the immigration checkpoint stop's duration and his standing to challenge the search of the tractor-trailer"
+  }
+}

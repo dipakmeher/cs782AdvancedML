@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Juventino Mejia-Orosco",
+      "the aliens"
+    ],
+    "NOUN_PHRASE": [
+      "unwitting participants",
+      "criminally responsible participants",
+      "the organization"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Juventino Mejia-Orosco": "an organizer or leader of a criminal activity",
+    "the aliens": "smuggled, transported, or harbored"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "the vehicles": "white Malibu sedan and black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the two vehicles": "white Malibu sedan and black Dodge pickup truck",
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "white Malibu sedan": "white Malibu sedan",
+    "Corinth, Texas": "Corinth, Texas",
+    "Laredo, Texas": "Laredo, Texas",
+    "San Antonio": "San Antonio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who followed the vehicles and made observations",
+    "white Malibu sedan and black Dodge pickup truck": "vehicles involved in the smuggling operation; used to transport undocumented individuals",
+    "Farm-to-Market Road 2050": "road where Agent Trevino followed the vehicles and made observations",
+    "black Dodge pickup truck": "vehicle that appeared to be used for transporting illegal aliens, with a camper and registered to someone in Corinth, Texas",
+    "white Malibu sedan": "vehicle involved in the smuggling operation",
+    "Corinth, Texas": "location where the black Dodge pickup truck was registered",
+    "Laredo, Texas": "location of the border patrol operations",
+    "San Antonio": "city mentioned as a reference point for the location of Corinth, Texas"
+  }
+}

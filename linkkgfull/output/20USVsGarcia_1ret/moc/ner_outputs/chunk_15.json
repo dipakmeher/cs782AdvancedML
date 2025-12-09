@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "interrogatories",
+      "depositions"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

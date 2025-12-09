@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the reputation of Interstate Highway 35 as a common smuggling route": null,
+    "the type of pickup truck camper driven by Maria De Jesus Garcia": "Maria De Jesus Garcia's pickup truck camper",
+    "the appearance of Maria De Jesus Garcia, Lourdes Rangel-Campos, and others": "undocumented aliens",
+    "a distance closer to the United States-Mexican border": "United States-Mexican border",
+    "115 miles from the United States-Mexican border": null,
+    "their appearance as being of Hispanic descent": "undocumented aliens",
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals",
+    "the precedents of this circuit": "5th Circuit Court of Appeals",
+    "innocent persons who lawfully reside in the United States": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "GARWOOD": null,
+    "my brethren": "5th Circuit Court of Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, attempting to hide from United States Border Patrol agents by ducking and scrambling around, potentially indicated by fogged windows of the pickup truck camper on a cold night, with unwashed and dirty clothes and hair, and making sudden attempts to evade detection. The occupants were moving and slouching low as to get out of the light trying to hide, and after being shined with a flashlight, they were scrambling around trying to get lower than the windows so that they couldn't be seen.",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents, with a distance of 115 miles from the stop location",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle suspected to contain contraband and undocumented aliens, stopped by United States Border Patrol agents on Interstate Highway 35, with its occupants attempting to hide from view, carrying an apparent heavy load",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, with a panel majority attempting to apply precedents in a principled way",
+    "United States Border Patrol": "law enforcement agency stopping Maria De Jesus Garcia's pickup truck camper, with agents having received specialized training and participated in numerous incidents involving arrests for transporting illegal aliens"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Southern District of Texas", "United States"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Southern District of Texas": "court district where the case is being held",
+    "United States": "country with a magistrate judge system"
+  }
+}

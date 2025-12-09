@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "black Dodge pickup truck",
+    "the Equinox": null,
+    "Chevrolet Equinox": null,
+    "Nicole Martinez\u2019s vehicle": null,
+    "the red tractor-trailer": null,
+    "the trailers": null,
+    "white sedan": "white Malibu sedan",
+    "the vehicle was": "black Dodge pickup truck",
+    "the citation": null,
+    "the two vehicles": "white Malibu sedan and black Dodge truck",
+    "the black truck": "black Dodge pickup truck",
+    "the white sedan": "white Malibu sedan",
+    "the load car": "white Malibu sedan",
+    "the scout car": "black Dodge pickup truck",
+    "the other vehicle": null,
+    "the defendant's vehicle": "black Dodge pickup truck",
+    "the vehicle containing twenty-eight aliens": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white, designed to hold five people, used for transporting illegal aliens, stopped by United States Border Patrol Agent Jorge Luis Trevino, searched after owner's consent, had five passengers, rented from Hertz Dallas-Fort Worth, observed riding low with half of its passengers wearing caps, followed by Agent Trevino on Farm-to-Market Road 2050, registered to Dallas-Fort Worth",
+    "black Dodge truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas, possibly equipped with a camper shell, drove behind the white car in tandem, raised suspicions due to out-of-town registration, stopped by Officer Reymundo Reyes for not using a turning signal, used by IGNACIO RODRIGUEZ, JR., described as a non-work truck, searched after owner's consent during a traffic stop",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident, driving in tandem, potentially used for transporting illegal aliens, raised Jorge Luis Trevino's suspicions due to out-of-town registrations",
+    "black Dodge pickup truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas, possibly equipped with a camper shell, drove behind the white car in tandem, raised suspicions due to out-of-town registration, stopped by Officer Reymundo Reyes for not using a turning signal, used by IGNACIO RODRIGUEZ, JR., described as a non-work truck, searched after owner's consent during a traffic stop",
+    "white sedan": "rental vehicle registered to Dallas-Fort Worth, used by smugglers to avoid losing personal vehicles, stopped by Agent Trevino, recognizable to United States Border Patrol agents if displaying a wind farm sticker or passing through the Freer immigration checkpoint, raised suspicions due to out-of-town registration"
+  }
+}

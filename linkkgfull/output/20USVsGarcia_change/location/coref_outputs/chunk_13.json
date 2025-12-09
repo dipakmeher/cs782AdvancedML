@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "federal courts": "United States federal courts",
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where the suppression motion was filed and considered, also involved in post-verdict juror deposition decisions",
+    "United States federal courts": "courts that have historically not favored interrogations of jurors except in cases of illegal or prejudicial intrusion into the jury process"
+  }
+}

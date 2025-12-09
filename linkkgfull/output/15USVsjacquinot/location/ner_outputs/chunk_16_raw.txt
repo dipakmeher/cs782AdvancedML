@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Big Bend", "Alpine", "Kansas"],
+    "NOUN_PHRASE": ["this court", "the school zone", "the stop sign", "the park", "the district court", "the vehicle", "the truck", "tourist areas", "the windshield"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Big Bend": "starting point of the truck's travel route",
+    "Alpine": "ending point of the truck's travel route",
+    "Kansas": "state where the truck's license plate was from"
+  }
+}

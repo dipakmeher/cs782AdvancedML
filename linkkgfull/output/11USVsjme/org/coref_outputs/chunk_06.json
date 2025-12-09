@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys Program": "Southwest Keys Program",
+    "the juvenile court": null,
+    "Youth Village": "Youth Village",
+    "Webb County Jail": "Webb County Jail",
+    "CAPS": "Counseling and Psychological Services",
+    "SCAN": "SCAN Services",
+    "SWK Southwest Keys Program": "Southwest Keys Program",
+    "ISP": null,
+    "Cognitive Life Skills": null,
+    "YV Youth Village": "Youth Village"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas Juvenile Justice Department": "department where juveniles may be committed for rehabilitation upon violating probation conditions",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. failed to comply with requirements",
+    "Southwest Keys Program": "program completed after intensive supervision probation, part of J.M.E.'s rehabilitation",
+    "Youth Village": "facility providing Cognitive Life Skills program as part of rehabilitation",
+    "Webb County Jail": "jail where J.M.E. attended school and received services, including CAPS counseling and SCAN services",
+    "Counseling and Psychological Services": "counseling services attended by J.M.E. as a condition of probation",
+    "SCAN Services": "services received by J.M.E. as part of his rehabilitation program"
+  }
+}

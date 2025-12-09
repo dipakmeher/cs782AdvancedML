@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "USA": "United States",
+    "North Carolina": "North Carolina",
+    "Dallas": "Dallas",
+    "the load": null,
+    "the trailer": "trailer carrying 84 illegal aliens",
+    "the origin address": null,
+    "the delivery address": null,
+    "Auburn Road": "Auburn Road"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the crime of transporting illegal aliens occurred, specifically involving Abdullah Yusuf",
+    "North Carolina": "state where delivery was supposed to occur according to the forged BOL",
+    "Dallas": "city where delivery was initially claimed to be, but not the actual delivery address according to the forged BOL",
+    "Auburn Road": "location of the pickup lot with a loose gravel surface and no warehouse or loading equipment, not listed as the origin address in the forged BOL, used by Jamco International, Inc. for storing empty trailers",
+    "trailer carrying 84 illegal aliens": "trailer used by Abdullah Yusuf for smuggling 84 illegal aliens"
+  }
+}

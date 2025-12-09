@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Freer Police Department",
+      "Highway 16",
+      "U.S. 59"
+    ],
+    "NOUN_PHRASE": [
+      "the intersection",
+      "the traffic light",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Freer Police Department": " Employer of Officer Reymundo Reyes",
+    "Highway 16": "Location where Officer Reymundo Reyes noticed the black truck",
+    "U.S. 59": "Intersection location with Highway 16"
+  }
+}

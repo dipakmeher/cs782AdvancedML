@@ -1,0 +1,1 @@
+However, since "the two vehicles" should be replaced with their full names as per RESOLVED_ENTITIES:

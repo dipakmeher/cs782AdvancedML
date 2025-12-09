@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "the Speedy Trial Act": "the Speedy Trial Act",
+    "United States District Court": "the United States District Court",
+    "Raymond McMillon's motion to suppress": "Raymond McMillon's motion to suppress",
+    "Raymond McMillon's motion to dismiss": "the motion to dismiss the indictment",
+    "Zeba Williams' suppression hearing testimony": "Zeba Williams' live sentencing testimony",
+    "Luis Pena": "United States Border Patrol Agent",
+    "the United States Court of Appeals for the Fifth Circuit": "the United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the Speedy Trial Act": "Federal law governing the timing of trials, which excludes certain periods of delay from its calculations",
+    "United States District Court": "Court responsible for making ends-of-justice findings on the record and for ruling on motions related to speedy trial determinations",
+    "Raymond McMillon's motion to suppress": "Motion filed by Raymond McMillon to suppress evidence",
+    "the motion to dismiss the indictment": "Motion filed by Raymond McMillon to dismiss the indictment against him",
+    "Zeba Williams' live sentencing testimony": "Testimony given by Zeba Williams during the sentencing hearing that contradicted Raymond McMillon's minor-role arguments",
+    "United States Border Patrol Agent": "Agent responsible for conducting stops, detentions, and searches at immigration checkpoints",
+    "the United States Court of Appeals for the Fifth Circuit": "Court that determined this opinion should not be published and is not precedent except under limited circumstances"
+  }
+}

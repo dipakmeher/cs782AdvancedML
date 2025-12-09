@@ -1,0 +1,43 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the verdict": null,
+    "the indictment": null,
+    "a juror": null,
+    "the jury's deliberations": null,
+    "the juror's mind": null,
+    "the emotions": null,
+    "extraneous prejudicial information": null,
+    "outside influence": null,
+    "the affidavit": null,
+    "the statement": null,
+    "the matter": null,
+    "the purposes": null,
+    "the argument": null,
+    "the post-trial questioning": null,
+    "the request": null,
+    "the rule": null,
+    "the appeal": null,
+    "the contention": null,
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "United States District Court": "the United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "smuggled persons, possibly hidden in a pickup truck camper with fogged windows, including males and females from Mexico without immigration documents, unwashed and unkempt, attempting to avoid detection by moving and slouching low or scrambling around to hide from the light of a United States Border Patrol agent's flashlight, reacting physically to the beam of a flashlight, with an appearance consistent with that of illegal aliens, making efforts to conceal themselves, displaying suspicious behavior such as ducking and scrambling around, carried in a vehicle showing obvious overloading",
+    "Maria De Jesus Garcia's Vehicle": "means of transportation for smuggled persons, a pickup truck camper involved in a stop and search near the United States-Mexico Border, specifically on Interstate Highway 35, with heavily loaded appearance and fogged windows, driven at an unusually slow speed by Maria De Jesus Garcia, carrying a heavy or overloaded cargo, commonly used for smuggling, where occupants were observed moving and slouching low to avoid light, traveling at forty to forty-five miles per hour, characterized by squashed tires and angled headlights",
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents, involved in a court case related to smuggling, including Stanley Pruszenski and Alfred Baron who made the stop, testifying about the physical reactions of the occupants",
+    "Maria De Jesus Garcia": "defendant in a court case related to smuggling, arguing against the use of the Allen Charge, convicted by a United States District Court Jury of four counts of aiding and abetting the transportation of undocumented aliens",
+    "Alfred Baron's flashlight": "flashlight used by Alfred Baron to detect smuggled individuals in Maria De Jesus Garcia's Vehicle",
+    "Stanley Pruszenski": "United States Border Patrol agent who testified about the stop and search of Maria De Jesus Garcia's Vehicle",
+    "Alfred Baron": "United States Border Patrol agent who used a flashlight to detect smuggled individuals in Maria De Jesus Garcia's Vehicle",
+    "Lourdes Rangel-Campos": "driver of Maria De Jesus Garcia's Vehicle, arrested by United States Border Patrol agents",
+    "United States v. Garcia": "court case related to the use of the Allen Charge in smuggling cases, involving Maria De Jesus Garcia's appeal",
+    "the United States Court of Appeals for the Fifth Circuit": "appellate court providing guidance on jury deliberation",
+    "the United States District Court": "trial court that refused to conduct a post-verdict hearing on juror coercion, relied on inadmissible information in denying Maria De Jesus Garcia's motion",
+    "Maria De Jesus Garcia's defense counsel": "legal representative of Maria De Jesus Garcia, seeking to interview jurors about their deliberation process, objected to the modified Allen Charge",
+    "TATE": "judge of the United States Court of Appeals for the Fifth Circuit, dissenting from the majority opinion",
+    "the United States Court of Appeals for the Fifth Circuit Judge": "judge presiding over the appeal of Maria De Jesus Garcia's case",
+    "stop of Maria De Jesus Garcia's Vehicle": "a stop made by Stanley Pruszenski and Alfred Baron on an interstate highway in Texas, 115 miles north of the United States-Mexico Border",
+    "United States District Court Jury": "trial court jury responsible for deciding cases based on evidence and law, consisting of jurors who deliberate to reach a verdict, experienced deadlock during deliberation",
+    "the United States District Court Judge": "judge presiding over the trial, providing guidance and instructions to the jury during deliberation, repeated original instructions to clarify terms for the jury"
+  }
+}

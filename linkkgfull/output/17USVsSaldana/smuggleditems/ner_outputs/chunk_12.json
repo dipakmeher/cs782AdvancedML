@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a set of tools",
+      "clothes",
+      "narcotics"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

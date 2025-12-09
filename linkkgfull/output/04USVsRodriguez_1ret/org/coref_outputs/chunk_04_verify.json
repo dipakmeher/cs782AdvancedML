@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "the Freer immigration checkpoint building": "Freer Immigration Checkpoint Building",
+    "the Border Patrol station parking lot": "Border Patrol Station Parking Lot"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducted a vehicle stop and was involved in the arrest of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "U.S. Highway 59": "highway where vehicles were inspected by United States Border Patrol and location of Freer immigration checkpoint; location of the traffic stop; part of route used to avoid checkpoints",
+    "Freer Immigration Checkpoint": "location where Agent Trevino was stationed and conducted inspections; checkpoint avoided by smugglers; location where IGNACIO RODRIGUEZ, JR. was transported for further questioning",
+    "Freer Immigration Checkpoint Building": "building where Agent Trevino processed undocumented individuals",
+    "Border Patrol Station Parking Lot": "parking lot adjacent to the Freer immigration checkpoint"
+  }
+}

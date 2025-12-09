@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Henderson": "Bruce Henderson",
+    "Defendant": "Yusif Ahmed Rufied",
+    "the defendant": "Yusif Ahmed Rufied",
+    "a person of ordinary prudence and caution": null,
+    "the government": null,
+    "the magistrate": "Adriana Arce Flores",
+    "the accused": "Yusif Ahmed Rufied"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Yusif Ahmed Rufied": "defendant charged with unlawfully transporting illegal aliens, claimed to be a driver in training, received $1000 from Codefendant, wore an orange jumpsuit in court, claimed they were going to McAllen, Texas, helped load undocumented aliens into the trailer, slept in the tractor from Midnight to 6:00 a.m., was awake in the front seat when they went to Diesel 2000, rode in the passenger seat of the tractor trailer",
+    "Bruce Henderson": "Immigration and Customs Enforcement (ICE) Agent and witness, testified against Defendant, described terrain and events related to the smuggling case, stated Codefendant's statements about payments, primary agent on the scene, government witness, worked with ICE Agent Joe Silva, testified that Codefendant described the area surrounding Diesel 2000",
+    "Adriana Arce Flores": "United States Magistrate Judge who signed the document finding probable cause to hold the defendant"
+  }
+}

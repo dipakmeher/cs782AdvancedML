@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens",
+      "foreign nationals"
+    ],
+    "NOUN_PHRASE": [
+      "the numerous foreign nationals",
+      "the illegal aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "individuals being smuggled",
+    "foreign nationals": "persons held for ransom"
+  }
+}

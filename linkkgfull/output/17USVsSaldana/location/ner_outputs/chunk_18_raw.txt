@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo", "San Antonio", "Daniel Martin Huerta", "Dallas"],
+    "NOUN_PHRASE": ["this sort of truck and trailer combination", "the truck", "the trailer", "the scissor lift", "the battery charger area", "the tires of the scissor left"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location where the trailer's license plate was registered",
+    "San Antonio": "location where the truck's license plate was registered",
+    "Dallas": "ultimate destination of Federico Saldana's trip"
+  }
+}

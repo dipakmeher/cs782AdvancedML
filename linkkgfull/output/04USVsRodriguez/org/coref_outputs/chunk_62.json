@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the undersigned": "J. Scott Hacker",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "Agent Trevino": "United States Border Patrol",
+    "Jorge Luis Trevino": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, signed the document",
+    "United States Border Patrol": "conducted a vehicle stop as part of an investigation into human smuggling, operated the Freer immigration checkpoint, noticed drop-offs on Farm-to-Market Road 2050 to avoid checkpoints, monitors traffic on Farm-to-Market Road 2050 which is mostly used by ranchers and oil field workers, followed suspicious vehicles, recognizes vehicles associated with the wind farm on Farm-to-Market Road 2050, identified rental cars as commonly used by smugglers, observed a white Malibu sedan with suspicious behavior, stopped a vehicle transporting illegals, received a phone call regarding a traffic stop and arrived at the scene, transported an individual to the Freer immigration checkpoint for further questioning, conducted the initial traffic stop and had an agent present during interviews, interviewed IGNACIO RODRIGUEZ, JR. after he waived his rights, conducted a roving stop of RICARDO RODRIGUEZ, JR., governed by the standard articulated in reasonable suspicion cases, stopped vehicles near the United States-Mexico border, familiar with most of the ordinary traffic in a sparsely populated area like Farm-to-Market Road 2050, aware that Farm-to-Market Road 2050 is frequently used to circumvent checkpoints, has agents with experience in detecting illegal entry and smuggling, considered driving patterns such as traveling in tandem as indicative of potential smuggling activity, followed the black Dodge pickup truck for about five minutes and the white Malibu sedan for a little while after running each of their plates, conducted a roving stop based on observations of passenger behavior, used reasonable suspicion standard to investigate suspicious activities, obtained consent to search a vehicle from an individual who exhibited extreme nervousness, transported IGNACIO RODRIGUEZ, JR. to the Freer immigration checkpoint for further questioning, knew about Agent Trevino's encounter with illegals in a white Malibu sedan on Farm-to-Market Road 2050, had sufficient evidence to conclude that two vehicles were driving in tandem and thus had probable cause to arrest, agents were to arrive",
+    "J. Scott Hacker": "United States Magistrate Judge who does not consider the fact that the black Dodge pickup truck was riding low as contributing to reasonable suspicion for a traffic stop",
+    "black Dodge pickup truck": "vehicle mentioned with no contribution to reasonable suspicion due to its low ride height",
+    "white Malibu sedan": "vehicle with five passengers, stopped by Agent Trevino who presumed it was riding low due to the number of people inside"
+  }
+}

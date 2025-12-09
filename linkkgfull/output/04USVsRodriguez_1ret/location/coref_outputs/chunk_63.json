@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo International Airport": "Laredo International Airport",
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "Laredo": "Laredo, Texas",
+    "New York": "New York",
+    "Florida": "Florida",
+    "Louisiana": "Louisiana",
+    "Dallas, Texas": "Dallas, Texas",
+    "one location": null,
+    "another city or state": null,
+    "the Laredo airport location": "Laredo International Airport",
+    "the company": null,
+    "the car": null,
+    "the location": null,
+    "the rental car places": null,
+    "distant locations": null,
+    "the Dallas area": "Dallas, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo International Airport": "location where Defendant IGNACIO RODRIGUEZ, JR. rented the vehicle",
+    "Dallas-Fort Worth": "registration location of the white vehicle",
+    "Laredo, Texas": "city where the Laredo International Airport is located",
+    "New York": "state where some rental cars are registered",
+    "Florida": "state where some rental cars are registered",
+    "Louisiana": "state where some rental cars are registered",
+    "Dallas, Texas": "location mentioned by JORGE LUIS TREVINO as the origin of the white sedan"
+  }
+}

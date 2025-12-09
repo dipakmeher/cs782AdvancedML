@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Mexico", "San Diego", "United States", "Ninth Circuit"],
+    "NOUN_PHRASE": ["the mountains", "the journey", "the scene", "the court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mexico": "country of origin for illegal aliens",
+    "San Diego": "destination in the United States for illegal aliens",
+    "United States": "country where illegal aliens were being transported to",
+    "Ninth Circuit": "court of appeals that upheld the application of a factual scenario"
+  }
+}

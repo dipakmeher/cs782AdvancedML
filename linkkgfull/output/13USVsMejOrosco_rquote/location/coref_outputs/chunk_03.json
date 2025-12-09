@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Guatemala": "Guatemala",
+    "the district court": null,
+    "the record": null,
+    "the court of appeals": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where aliens were transported, destination of illegal transportation",
+    "Guatemala": "country of origin of the transported aliens, origin of curios transported by Juventino Mejia-Orosco"
+  }
+}

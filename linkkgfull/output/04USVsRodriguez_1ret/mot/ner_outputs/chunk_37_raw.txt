@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["IGNACIO RODRIGUEZ, JR.'s vehicle", "the Defendant's vehicle", "the vehicle", "a local vehicle", "two vehicles", "the two vehicles", "the Defendant's pickup", "the marked patrol car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

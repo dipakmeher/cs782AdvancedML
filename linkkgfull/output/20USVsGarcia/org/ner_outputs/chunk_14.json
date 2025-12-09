@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "5th Circuit Court of Appeals",
+      "Maria De Jesus Garcia"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "held that the giving of the Allen charge was not error",
+    "Maria De Jesus Garcia": "defendant in the case"
+  }
+}

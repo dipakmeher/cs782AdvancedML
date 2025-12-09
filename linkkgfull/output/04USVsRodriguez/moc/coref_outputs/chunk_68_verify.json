@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the device": "a cellular phone",
+    "United States Border Patrol Agent Trevino's communication device": "the United States Border Patrol radio",
+    "RICARDO RODRIGUEZ, JR.'s vehicle's device": null,
+    "IGNACIO RODRIGUEZ, JR.'s phone": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication",
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations"
+  }
+}

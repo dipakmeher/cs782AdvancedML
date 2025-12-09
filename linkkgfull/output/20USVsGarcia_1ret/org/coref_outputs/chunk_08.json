@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "United States district court": "United States District Court",
+    "the government": "United States Government",
+    "the federal district court": "United States District Court",
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol",
+    "border patrol": "United States Border Patrol",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States-Mexican border": "United States-Mexico Border",
+    "roving border patrol agents": "United States Border Patrol",
+    "the Court": "United States Court of Appeals for the Fifth Circuit",
+    "the agent": "United States Border Patrol",
+    "Brignoni-Ponce": "Brignoni-Ponce Standard",
+    "Border Patrol": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the case is being tried",
+    "United States District Court": "court that convicted Maria De Jesus Garcia, involved in the appeal of her case, and made oral findings of fact regarding the constitutionality of the stop and search",
+    "United States Government": "government whose agents conducted the stop and search, defendant in the appeal",
+    "United States Border Patrol": "law enforcement agency involved in the stop and search of a pickup truck camper, conducted immigration inspections and roving patrols near the United States-Mexican border, had agents who apprehended illegal alien smugglers",
+    "United States Court of Appeals for the Fifth Circuit": "a court that articulated principles for investigatory stops, relied upon an agent's observation, and is handling the appeal of Maria De Jesus Garcia's case",
+    "United States-Mexico Border": "geographic location related to the case, relevant for determining the origin of vehicles and individuals",
+    "Brignoni-Ponce Standard": "legal standard or precedent used to determine reasonable suspicion in immigration inspections and stops"
+  }
+}

@@ -1,0 +1,1 @@
+Given that "a white one" maps to "RICARDO RODRIGUEZ, JR.'s white Malibu sedan", "a black one" maps to "the black Dodge pickup truck", and considering other mappings:

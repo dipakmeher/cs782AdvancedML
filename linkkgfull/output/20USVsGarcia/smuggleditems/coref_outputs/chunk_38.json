@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the verdict": null,
+    "conscientious conviction": null,
+    "the juror": null,
+    "the verdict of each juror individually": null,
+    "the conclusions and convictions": null,
+    "the conclusion of others": null,
+    "the evidence": null,
+    "the 5th Circuit Court of Appeals's previous instructions": "5th Circuit Court of Appeals",
+    "the instructions": null,
+    "the 5th Circuit Court of Appeals": "5th Circuit Court of Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, potentially hidden in a pickup truck camper with fogged windows, appearing unwashed and unkempt, including Mexican citizens and illegal aliens found during an immigration inspection on Interstate Highway 35, exhibiting efforts to avoid detection, described as dirty appearing Hispanic-descended workmen, attempting to hide by moving and slouching low, scrambling around to get out of the light, taking actions such as ducking and scrambling or slouching and hunkering down in response to being observed, and trying to avoid eye contact with a flashlight shone into the pickup truck camper",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents, located near where Maria De Jesus Garcia was stopped",
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents near the location of the instant stop",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for smuggling twenty-two people, with heavily loaded appearance, fogged windows, and unusual slow speed on Interstate Highway 35, searched by United States Border Patrol agents after an investigatory stop",
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge, arguing its coercive effect on the jury's decision",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, finding no abuse of discretion in this case, providing instructions for jury deliberation",
+    "United States v. Garcia": "a case related to the use of the Allen charge in trials, decided by the 5th Circuit Court of Appeals, involving the smuggling of undocumented aliens",
+    "Judge TATE": "dissenting judge in the case of United States v. Garcia, questioning the lawfulness of the stop based on speculation about poor and dirty Hispanic appearing persons being Mexican aliens",
+    "United States Border Patrol": "law enforcement agency stopping Maria De Jesus Garcia's pickup truck camper, with agents including Stanley Pruszenski and Alfred Baron, having received specialized training and participated in numerous incidents involving arrests for transporting illegal aliens",
+    "Maria De Jesus Garcia's pickup truck camper's occupants": "occupants of a pickup truck camper, described as appearing dirty or unkempt",
+    "illegal alien": "a person illegally present in a country, with appearance subject to subjective perceptions",
+    "Orona-Sanchez case": "legal case where passengers' behavior was deemed insufficient to justify an investigatory stop",
+    "Lamas case": "legal case where passengers' slouching down in the back seat was considered suspicious but not sufficient for an investigatory stop",
+    "Pacheco case": "legal case with similar testimony of passengers hunkering down, also deemed insufficient for an investigatory stop",
+    "Pena-Cantu case": "legal case used as a reference point for evaluating passenger behavior in the context of investigatory stops",
+    "twenty-two undocumented aliens": "smuggled individuals carried by Maria De Jesus Garcia's pickup truck camper, causing obvious overloading and weaving of the vehicle"
+  }
+}

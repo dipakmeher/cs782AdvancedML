@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Cox": "Jason Cox",
+    "Vargas": "Heather Vargas",
+    "Saldana": "Federico Saldana",
+    "the K-9 unit": null,
+    "the dog": null,
+    "the trailer and truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Gary Haston": "conducted search, interviewed Saldana, and arranged for a K-9 unit to meet them",
+    "Jason Cox": "involved in the traffic stop and investigation of Saldana, searched for registration documents in the truck",
+    "Heather Vargas": "participated in search, involved in providing information that led to the traffic stop",
+    "Federico Saldana": "truck driver who was stopped by Deputy Cox, identified himself and stated he was not used to driving a truck with a trailer attached, has a history of arrests including drug smuggling, denied presence of dope during questioning, served 9 years in federal prison"
+  }
+}

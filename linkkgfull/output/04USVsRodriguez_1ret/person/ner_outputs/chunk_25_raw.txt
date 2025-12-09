@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the officer", "the inspector", "Border Patrol agents", "the owners", "the employees", "Defendants"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

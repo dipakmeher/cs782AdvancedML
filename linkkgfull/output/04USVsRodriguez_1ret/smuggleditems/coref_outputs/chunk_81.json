@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendants' driving": null,
+    "Farm-to-Market Road 2050": null,
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "RICARDO RODRIGUEZ, JR.'s testimony": null,
+    "IGNACIO RODRIGUEZ, JR.'s testimony": null,
+    "United States Border Patrol Agent Jorge Luis Trevino's observations": null,
+    "the defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol Agent who stopped RICARDO RODRIGUEZ, JR.'s white Malibu sedan and testified about his knowledge of rental car companies and his observations of the defendants' driving",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants with motions to suppress recommended for denial by the United States Magistrate Judge, whose driving behavior was observed by United States Border Patrol Agent Jorge Luis Trevino",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop on Farm-to-Market Road 2050, driven by IGNACIO RODRIGUEZ, JR., and possibly equipped with a camper shell, used by smugglers, which was driving \"on and off the road\""
+  }
+}

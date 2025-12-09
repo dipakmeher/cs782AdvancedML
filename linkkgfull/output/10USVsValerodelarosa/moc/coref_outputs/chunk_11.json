@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa's phone": null,
+    "Rogelio Valero-De La Rosa's device": null,
+    "the phone": null,
+    "the device": null,
+    "the Report": "the presentence report",
+    "the Recommendation": null,
+    "a presentence report": "the presentence report",
+    "the United States Sentencing Commission": "the United States Sentencing Commission",
+    "the United States Probation Office": "the United States Probation Office",
+    "character letters": null,
+    "the United States District Court for the Southern District of Texas": "the United States District Court for the Southern District of Texas",
+    "the Bureau of Prisons": "the Bureau of Prisons"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa's phone": "",
+    "Rogelio Valero-De La Rosa's device": "",
+    "the phone": "",
+    "the device": "",
+    "the presentence report": "a document prepared by the United States Probation Office to calculate the advisory imprisonment range",
+    "the United States Sentencing Commission": "a commission that provides guidelines for sentencing",
+    "the United States Probation Office": "an office responsible for preparing presentence reports and supervising defendants",
+    "the United States District Court for the Southern District of Texas": "a court that sentenced Rogelio Valero-De La Rosa",
+    "the Bureau of Prisons": "an agency responsible for holding Rogelio Valero-De La Rosa in custody"
+  }
+}

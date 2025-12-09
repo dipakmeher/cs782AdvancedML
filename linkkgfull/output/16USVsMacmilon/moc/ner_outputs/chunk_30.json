@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the cellular Bluetooth Device",
+      "the tractor-trailer",
+      "the checkpoint"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

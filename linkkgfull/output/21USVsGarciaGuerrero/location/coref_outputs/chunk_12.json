@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the court": "United States",
+    "South Texas": "South Texas",
+    "House": "House",
+    "the Report": "House Conference Report"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Luis, Potosi, Mexico": "starting point of the undocumented aliens' journey",
+    "United States": "country where illegal aliens were being transported to, destination country of the undocumented aliens and country where unlawful aliens were being transported",
+    "San Antonio": "intended destination within the United States and destination of the group",
+    "Nuevo Laredo": "location where the group purchased supplies and crossed the river",
+    "Rio Grande River": "border crossing point between Mexico and the United States",
+    "Laredo South Station": "location of border patrol agents",
+    "La Moca Ranch": "location where undocumented female alien was found",
+    "South Texas": "region where guiding aliens through desert-like brush is considered reckless conduct, region where Inocencio Garcia-Guerrero transported aliens, region where trafficking of illegal aliens occurred, and location where reckless conduct occurred, characterized by high temperatures and hot desert, region where aliens were transported",
+    "Mexico": "country of origin for illegal aliens",
+    "San Diego": "destination in the United States for illegal aliens",
+    "Ninth Circuit": "court of appeals that upheld the application of a factual scenario",
+    "Cuyler": "location of a referenced court case",
+    "House Conference Report": "report referencing guidelines on alien smuggling offenses"
+  }
+}

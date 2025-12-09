@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "pickup truck camper": "pickup truck camper",
+    "Maria De Jesus Garcia's pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "the pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "the pickup truck camper attachment": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia\u2019s pickup truck": "Vehicle used in the transportation of undocumented aliens, stopped by border patrol for immigration inspection, and subject to a suppression motion regarding evidence obtained from the stop and search. Exhibited signs of heavy loading, including squashed tires and angled headlights, and was driven at a slow speed. Involved in an appeal case where the defendant alleges an unconstitutional stop and search. Subject of a suppression motion to exclude evidence obtained during the stop. Stopped more than 100 miles from the United States-Mexican border. Came from the United States-Mexican border area. Occupants were unwashed, unkempt, and attempted to evade detection. Raised suspicion due to its unusually heavy and overloaded appearance, fogged windows, and slow speed. Carried three women in the front seat of the truck cab and five or six men in the back seat of the truck. Stopped on an interstate highway in Texas 115 miles north of the United States-Mexican border.",
+    "pickup truck camper": "Vehicle suspected of transporting living beings, possibly people, due to fogged windows and heavy loading; found to be carrying multiple undocumented aliens, and subject to a search. Frequently used for transporting illegal aliens. Was heavily loaded when stopped."
+  }
+}

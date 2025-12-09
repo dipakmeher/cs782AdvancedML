@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the person", "the agent", "border patrol agents", "the defendant", "the vehicle's occupants", "my brethren"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

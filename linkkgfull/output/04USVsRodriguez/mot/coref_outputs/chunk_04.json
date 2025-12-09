@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his vehicle": null,
+    "the stop of his vehicle": null,
+    "a traffic stop": null,
+    "the vehicle": null,
+    "Malibu": "white Malibu sedan",
+    "Dodge truck": "black Dodge truck",
+    "a white one": "white Malibu sedan",
+    "a black one": "black Dodge truck",
+    "the two vehicles": "white Malibu sedan and black Dodge truck",
+    "a white Malibu sedan": "white Malibu sedan",
+    "a black Dodge truck": "black Dodge truck",
+    "the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white",
+    "black Dodge truck": "a vehicle involved in the incident, described as black",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident"
+  }
+}

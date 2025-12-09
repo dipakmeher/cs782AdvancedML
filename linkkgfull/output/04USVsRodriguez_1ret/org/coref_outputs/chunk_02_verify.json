@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducted a vehicle stop and was involved in the arrest of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Freer Police Department": "conducted a traffic stop of Defendant IGNACIO RODRIGUEZ, JR. and cooperated with United States Border Patrol during the stop",
+    "United States District Court": "heard motions to suppress evidence obtained from the vehicle stops and arrests of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Fifth Circuit", "United States Sentencing Guidelines Manual"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "court circuit",
+    "United States Sentencing Guidelines Manual": "legal guidelines document"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ignacio Rodriguez, Jr.": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "Terry's second prong": null,
+    "a detention": null,
+    "the stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the interrogation": null,
+    "a traffic stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the purpose of the stop": null,
+    "further reasonable suspicion": null,
+    "articulable facts": null,
+    "an officer": "Officer Reymundo Reyes",
+    "a driver's license": null,
+    "insurance papers": null,
+    "the black Dodge pickup truck registration": null,
+    "a computer check": null,
+    "his citation": null,
+    "the subjects of a traffic stop": "undocumented aliens",
+    "a United States Court": "United States Department of Homeland Security",
+    "the particular questions asked": null,
+    "the duration of the stop": null,
+    "Mere questioning": null,
+    "a search": null,
+    "a seizure": null,
+    "detention": null,
+    "the evil at which Terry's second prong is aimed": null,
+    "The United States Court": "United States Department of Homeland Security",
+    "the scope of a given detention": null,
+    "the totality of the circumstances": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the stop of his vehicle by Officer Reymundo Reyes",
+    "Officer Reymundo Reyes": "Freer Police Department officer who stopped IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "undocumented aliens": "individuals being transported in vehicles, displaying suspicious behavior such as sitting stiff and not communicating with each other",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Highway 16 for failing to use a turn signal, where Officer Reymundo Reyes confirmed the license plate matched a BOLO description",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident"
+  }
+}

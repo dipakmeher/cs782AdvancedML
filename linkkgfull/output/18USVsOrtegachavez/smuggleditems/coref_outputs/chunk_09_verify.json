@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the trial judge": "Judge Kazen",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "this district court": "district court",
+    "Judge Kazen": "Judge Kazen",
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "Ms. Salinas' law firm": "Ms. Salinas' law firm",
+    "Mrs. Guerrero": "Mrs. Guerrero",
+    "Defense counsel": "Ms. Salinas' law firm",
+    "the U.S. Government Attorney and Alfredo Ortega-Chavez": "U.S. Government Attorney and Alfredo Ortega-Chavez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Judge Kazen": "trial judge who handled the case commendably, conducted an inquiry into a juror's ability to remain impartial",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States, objected to juror questioning",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses",
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, asked juror about potential bias due to friendship with another lawyer",
+    "Ms. Salinas' law firm": "law firm representing Alfredo Ortega-Chavez, did not object to juror questioning or indicate dissatisfaction",
+    "Mrs. Guerrero": "juror who knew Ms. Salinas' law firm and was questioned by Judge Kazen and the U.S. Government Attorney about her ability to be impartial, stated she could be fair and impartial",
+    "U.S. Government Attorney and Alfredo Ortega-Chavez": "parties in the trial, subject to inquiry regarding juror impartiality"
+  }
+}

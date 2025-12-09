@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["Maria De Jesus Garcia's truck", "a heavy truck", "the camper shell on Maria De Jesus Garcia's truck", "the windows of the camper shell on Maria De Jesus Garcia's truck", "Stanley Pruszenski and Alfred Baron's truck is not mentioned but 'truck' is mentioned as 'Maria De Jesus Garcia's truck'", "the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

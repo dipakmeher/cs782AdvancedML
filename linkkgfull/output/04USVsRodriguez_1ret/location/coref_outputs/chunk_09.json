@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Bruni": "Bruni",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 16": "Highway 16",
+    "Houston": "Houston",
+    "San Antonio": "San Antonio",
+    "Freer": "Freer, Texas",
+    "U.S. 59": "U.S. 59",
+    "Hebbronville": "Hebbronville",
+    "U.S. 359": "U.S. 359",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the loop": null,
+    "the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr.",
+    "Freer Police Department": "law enforcement agency involved in the traffic stop of Defendant Ignacio Rodriguez, Jr.",
+    "Freer, Texas": "location of immigration checkpoint on U.S. 59",
+    "Texas": "state where events occurred",
+    "U.S. 59": "highway where Freer immigration checkpoint is located",
+    "Freer immigration checkpoint": "location of border patrol activity where Agent Jorge Luis Trevino was stationed, with drop-offs occurring on nearby FM 2050 to avoid checkpoints",
+    "Corpus": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Houston": "destination city for smuggled aliens, accessible via Highway 16",
+    "Farm-to-Market Road 2050": "road where drop-offs of undocumented aliens occur to avoid checkpoints, intersecting with U.S. 59 and U.S. 359",
+    "Freer immigration checkpoint building": "building where border patrol agents process undocumented individuals",
+    "Border Patrol station parking lot": "parking area near the Freer immigration checkpoint",
+    "Freer immigration checkpoint office": "office where border patrol agents inspect vehicles and process individuals",
+    "Bruni": "reference point for drop-offs of undocumented aliens, located between the Freer checkpoint and the drop-off points on FM 2050",
+    "Hebbronville": "location of a checkpoint on U.S. 359, which smugglers try to avoid by taking alternative routes like the loop",
+    "Highway 16": "route where smuggled aliens are picked up after being dropped off near FM 2050 and then transported to destinations like Houston or San Antonio",
+    "San Antonio": "destination city for smuggled aliens, accessible via Highway 16"
+  }
+}

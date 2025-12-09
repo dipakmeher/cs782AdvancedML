@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Cox": "Jason Cox",
+    "Saldana": "Federico Saldana",
+    "the officer": "Jason Cox",
+    "the driver": "Federico Saldana"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "driver of the truck and trailer, gave consent to search the vehicle, was detained during the traffic stop",
+    "Gary Haston": "officer conducting questioning about ownership and trip nature, involved in the detention process",
+    "Jason Cox": "officer searching for registration papers and clarifying search consent, gathering information to complete the warning paperwork"
+  }
+}

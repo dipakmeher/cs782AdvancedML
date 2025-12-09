@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the area": "United States/Mexican border",
+    "the border": "United States/Mexican border",
+    "U.S.-Mexico border": "United States/Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States/Mexican border": "area relevant to determining reasonable suspicion and proximity to which is a factor in analyzing reasonable suspicion for vehicle stops"
+  }
+}

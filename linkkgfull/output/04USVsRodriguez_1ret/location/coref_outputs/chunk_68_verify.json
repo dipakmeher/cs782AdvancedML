@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas": "Dallas, Texas",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "origin of IGNACIO RODRIGUEZ, JR.'s travel, city in Texas with a significant role in smuggling cases",
+    "Dallas, Texas": "destination of IGNACIO RODRIGUEZ, JR.'s travel, location mentioned by JORGE LUIS TREVINO as the origin of the white sedan"
+  }
+}

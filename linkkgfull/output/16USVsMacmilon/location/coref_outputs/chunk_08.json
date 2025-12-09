@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "district court": "district court",
+    "checkpoint": "Freer, Texas",
+    "checkpoint stop": "Freer, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where travels took place",
+    "Houston": "starting point of travel",
+    "San Antonio": "destination for construction job",
+    "Laredo": "destination to pick up commercial equipment",
+    "Freer, Texas": "location where an immigration checkpoint is situated",
+    "United States": "location where aliens were transported",
+    "district court": "court that denied Raymond McMillon's motion to suppress evidence"
+  }
+}

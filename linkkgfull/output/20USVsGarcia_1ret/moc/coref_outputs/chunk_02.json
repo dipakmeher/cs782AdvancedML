@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "the pickup truck camper": "the pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol sedan": "Vehicle used by agents Stanley Pruszenski and Alfred Baron for patrol duties",
+    "the pickup truck camper": "Vehicle suspected of carrying smuggled individuals due to its heavily loaded condition and fogged windows"
+  }
+}

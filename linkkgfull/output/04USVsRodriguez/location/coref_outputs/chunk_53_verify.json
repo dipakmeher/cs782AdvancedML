@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Texas": "Texas",
+    "Moglia": "Moglia ranch house",
+    "San Pablo Road": "San Pablo Road",
+    "the ranch house": "Moglia ranch house",
+    "the trailer": "Stag ranch trailer",
+    "the land": null,
+    "the various houses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border where the sun set at a specific time",
+    "Texas": "State where Laredo is located and part of the United States",
+    "Moglia ranch house": "Ranch house on San Pablo Road, near the wind farm on FM 2050, with unknown occupants",
+    "San Pablo Road": "Road where houses are located, including the Moglia ranch house and Stag ranch trailer",
+    "Stag ranch trailer": "Trailer on San Pablo Road, near the wind farm on FM 2050, with unknown occupants"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": null,
+    "this court": null,
+    "another person": null,
+    "Garcia": "Inocencio Garcia-Guerrero",
+    "Simon-Fernandez": "Alma Delia Simon-Fernandez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Inocencio Garcia-Guerrero": "Defendant involved in a case of reckless endangerment and death enhancements while transporting unlawful aliens into the United States, with a base offense level enhanced due to the death of Alma Delia Simon-Fernandez",
+    "Alma Delia Simon-Fernandez": "Undocumented female alien who died due to heat stroke during transportation by Inocencio Garcia-Guerrero"
+  }
+}

@@ -1,0 +1,93 @@
+
+-Goal-
+Given a text document that is potentially relevant to this activity and a list of entity types, identify all entities of those types from the text and all relationships among the identified entities.
+ 
+-Steps-
+1. Identify all entities. For each identified entity, extract the following information:
+- entity_name: Name of the entity, capitalized
+- entity_type: One of the following types: [{entity_types}]
+- entity_description: Comprehensive description of the entitys attributes and activities
+Format each entity as ("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+ 
+2. From the entities identified in step 1, identify all pairs of (source_entity, target_entity) that are *clearly related* to each other.
+For each pair of related entities, extract the following information:
+- source_entity: name of the source entity, as identified in step 1
+- target_entity: name of the target entity, as identified in step 1
+- relationship_description: explanation as to why you think the source entity and the target entity are related to each other
+- relationship_strength: a numeric score indicating strength of the relationship between the source entity and target entity
+ Format each relationship as ("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+ 
+3. Return output in English as a single list of all the entities and relationships identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+ 
+4. When finished, output {completion_delimiter}
+
+ 
+######################
+-Examples-
+######################
+Example 01:
+Entity_types: ROUTES, LOCATION
+Text: 
+On March 12, 2024, a smuggling operation took place using a well-established route through the remote desert roads and a river crossing near Laredo, Texas. The operation started in Nuevo Laredo, where individuals were gathered before moving towards Houston, Texas. The final checkpoint before crossing was near Tucson, Arizona.
+######################
+("entity"{tuple_delimiter}REMOTE DESERT ROADS{tuple_delimiter}ROUTE{tuple_delimiter}A smuggling route used to move people undetected before reaching the river crossing)
+{record_delimiter}
+("entity"{tuple_delimiter}RIVER CROSSING NEAR LAREDO{tuple_delimiter}ROUTE{tuple_delimiter}A crossing point used for unauthorized border movement)
+{record_delimiter}
+("entity"{tuple_delimiter}HOUSTON, TEXAS{tuple_delimiter}LOCATION{tuple_delimiter}A city where individuals arrived after crossing the border)
+{record_delimiter}
+("entity"{tuple_delimiter}NUEVO LAREDO{tuple_delimiter}LOCATION{tuple_delimiter}A border city in Mexico where individuals were gathered before being transported)
+{record_delimiter}
+("entity"{tuple_delimiter}TUCSON, ARIZONA{tuple_delimiter}LOCATION{tuple_delimiter}A location near the final checkpoint before crossing into the U.S.)
+{record_delimiter}
+("relationship"{tuple_delimiter}REMOTE DESERT ROADS{tuple_delimiter}RIVER CROSSING NEAR LAREDO{tuple_delimiter}The desert roads lead to the river crossing used in the operation{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}NUEVO LAREDO{tuple_delimiter}REMOTE DESERT ROADS{tuple_delimiter}The operation started in Nuevo Laredo and followed this route{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}RIVER CROSSING NEAR LAREDO{tuple_delimiter}HOUSTON, TEXAS{tuple_delimiter}The final destination after crossing the border was Houston, Texas{tuple_delimiter}6)
+{record_delimiter}
+{completion_delimiter}
+
+
+######################
+Example 02:
+Entity_types: ROUTES, LOCATION
+Text:
+On June 18, 2023, an intercepted smuggling operation revealed a major trafficking corridor through the Arizona desert, commonly used for unauthorized crossings. The operation, led by cartel members using a fleet of modified trucks, followed a route that started in Hermosillo, Mexico, and passed through the Sonoran desert before reaching a staging point in Nogales, Mexico. From there, individuals attempted to cross via a remote canyon near the U.S.-Mexico border. Federal agents detained three individuals suspected of organizing the movement. Authorities noted that the final destination for most travelers was Phoenix, Arizona. 
+######################
+Output:
+("entity"{tuple_delimiter}ARIZONA DESERT ROUTE{tuple_delimiter}ROUTE{tuple_delimiter}A well-known corridor used for unauthorized border crossings)
+{record_delimiter}
+("entity"{tuple_delimiter}SONORAN DESERT{tuple_delimiter}ROUTE{tuple_delimiter}A desert route used as a key smuggling corridor)
+{record_delimiter}
+("entity"{tuple_delimiter}REMOTE CANYON NEAR U.S.-MEXICO BORDER{tuple_delimiter}ROUTE{tuple_delimiter}A secluded pathway used for crossing the border undetected)
+{record_delimiter}
+("entity"{tuple_delimiter}HERMOSILLO, MEXICO{tuple_delimiter}LOCATION{tuple_delimiter}A city where the smuggling route started)
+{record_delimiter}
+("entity"{tuple_delimiter}NOGALES, MEXICO{tuple_delimiter}LOCATION{tuple_delimiter}A staging point for border crossings)
+{record_delimiter}
+("entity"{tuple_delimiter}PHOENIX, ARIZONA{tuple_delimiter}LOCATION{tuple_delimiter}A common final destination for individuals using this route)
+{record_delimiter}
+("relationship"{tuple_delimiter}HERMOSILLO, MEXICO{tuple_delimiter}SONORAN DESERT{tuple_delimiter}The smuggling route started in Hermosillo and passed through the Sonoran Desert{tuple_delimiter}8)
+{record_delimiter}
+("relationship"{tuple_delimiter}SONORAN DESERT{tuple_delimiter}REMOTE CANYON NEAR U.S.-MEXICO BORDER{tuple_delimiter}The desert route led to the final crossing canyon{tuple_delimiter}7)
+{record_delimiter}
+("relationship"{tuple_delimiter}REMOTE CANYON NEAR U.S.-MEXICO BORDER{tuple_delimiter}PHOENIX, ARIZONA{tuple_delimiter}The final destination for individuals crossing through the canyon was Phoenix{tuple_delimiter}6)
+{record_delimiter}
+{completion_delimiter}
+
+
+####
+IMPORTANT NOTE: The examples provided above are for reference and learning purposes only; DO NOT extract entities or relationships from them in the Output. Extract entities STRICTLY from the input text given below, without incorporating any entities or relationships from the examples. If any entity in the example appears similar to an entity in the input text, treat it as a completely NEW entity without using prior context.
+######################
+-Real Data-
+######################
+Entity_types: {entity_types}
+####
+INPUT TEXT: {input_text}
+######################
+Output:
+
+
+
+

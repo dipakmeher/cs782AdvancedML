@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the black truck", "the white car", "the white sedan", "a small car", "the smaller cars", "the vehicles", "passenger vehicles", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

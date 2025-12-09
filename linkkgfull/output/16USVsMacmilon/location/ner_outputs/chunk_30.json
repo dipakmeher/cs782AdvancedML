@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "an empty parking lot",
+      "the tractor",
+      "the defense table",
+      "the night",
+      "the checkpoint",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where unlawful aliens were discovered"
+  }
+}

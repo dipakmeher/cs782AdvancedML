@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court": "United States District Court",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Zeba Williams": "Zeba Williams",
+    "the continuances": null,
+    "the ends of justice": null,
+    "the public": null,
+    "the Defendants": "Ramon De La Cruz and Zeba Williams",
+    "the Speedy Trial Act": "Speedy Trial Act",
+    "the pretrial motions deadline": null,
+    "the speedy trial case": "Ramon De La Cruz's appeal",
+    "counsel for the respective Defendants": null,
+    "the deadlines": null,
+    "the pretrial motions": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that signed proposed orders and considered factors for granting continuances",
+    "Ramon De La Cruz": "defendant who requested continuances to prepare for trial",
+    "Zeba Williams": "co-defendant of Ramon De La Cruz, also requesting continuances",
+    "Ramon De La Cruz and Zeba Williams": "defendants whose requests for continuances were granted by the United States District Court",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods"
+  }
+}

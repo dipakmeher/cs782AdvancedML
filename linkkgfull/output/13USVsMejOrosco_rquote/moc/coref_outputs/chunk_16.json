@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Juventino Mejia-Orosco's truck": null,
+    "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales' transportation": null,
+    "the phone": null,
+    "the van": "Juventino Mejia-Orosco's van",
+    "the airplane": null,
+    "the motel room": "the motel room in San Antonio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Juventino Mejia-Orosco's van": "Vehicle used by Juventino Mejia-Orosco to transport individuals across the border from Guatemala",
+    "the motel room in San Antonio": "Location where Juventino Mejia-Orosco, Hector Galvencio Paz-Ortega, and Carlos Enrique Cruz-Morales stayed during their time in San Antonio"
+  }
+}

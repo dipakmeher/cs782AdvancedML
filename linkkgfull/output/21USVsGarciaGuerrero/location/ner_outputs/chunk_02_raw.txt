@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["San Luis, Potosi, Mexico", "United States", "San Antonio", "Nuevo Laredo", "Rio Grande River"],
+    "NOUN_PHRASE": ["the brush", "the group", "the intervals", "the trek", "a nearby ranch"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Luis, Potosi, Mexico": "starting point of the undocumented aliens' journey",
+    "United States": "destination country of the undocumented aliens",
+    "San Antonio": "intended destination within the United States",
+    "Nuevo Laredo": "location where the group purchased supplies and crossed the river",
+    "Rio Grande River": "border crossing point between Mexico and the United States"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Pablo Road": "San Pablo Road",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "U.S. 59",
+    "U.S. 359": "U.S. 359",
+    "Highway 16": "Highway 16",
+    "San Antonio": "San Antonio",
+    "Houston": "Houston",
+    "U.S.-Mexico border": "Mexico border",
+    "the wind farm": "wind farm near Farm-to-Market Road 2050",
+    "one of the many ranches": null,
+    "the road": "Farm-to-Market Road 2050",
+    "the loop": "route avoiding checkpoints via FM 2050, U.S. 59, and U.S. 359",
+    "the area": "Farm-to-Market Road 2050 area",
+    "the premises": null,
+    "the checkpoint": "Freer immigration checkpoint",
+    "the gravel lot": null,
+    "the region": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Pablo Road": "location near where Agent Jorge Luis Trevino initiated the stop on FM 2050",
+    "Farm-to-Market Road 2050": "rural road used as a smuggling route, with limited traffic and several legitimate destinations",
+    "U.S. 59": "highway with checkpoints that smugglers try to avoid by taking alternative routes like FM 2050",
+    "U.S. 359": "highway with checkpoints that smugglers try to avoid by taking alternative routes like FM 2050",
+    "Highway 16": "highway allowing access to major highways going north, such as to San Antonio and Houston",
+    "San Antonio": "city that smugglers may be heading towards, accessible via Highway 16",
+    "Houston": "city that smugglers may be heading towards, accessible via Highway 16",
+    "Mexico border": "country border relevant to the smuggling context, where roving Border Patrol stops are governed by a standard requiring specific articulable facts and rational inferences",
+    "wind farm near Farm-to-Market Road 2050": "location near FM 2050 with windmills extending out to the west across various ranches, approximately a mile and a half north of where Agent Trevino initiated a stop",
+    "route avoiding checkpoints via FM 2050, U.S. 59, and U.S. 359": "alternative route used by smugglers to avoid checkpoints on highways like U.S. 59 and U.S. 359",
+    "Farm-to-Market Road 2050 area": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route"
+  }
+}

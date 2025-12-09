@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo"
+    ],
+    "NOUN_PHRASE": [
+      "the presence",
+      "the case"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location where the juror's friend, another female lawyer, is from"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Saldana", "Cox", "Haston", "Federico Saldana"],
+    "NOUN_PHRASE": ["the Court", "the officers", "law enforcement"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "Defendant",
+    "Cox": "Officer",
+    "Haston": "Officer",
+    "Federico Saldana": "Defendant"
+  }
+}

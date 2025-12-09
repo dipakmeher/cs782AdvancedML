@@ -1,0 +1,41 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana's phone": null,
+    "the phone": null,
+    "Williamson County Sheriff's Office video": "Williamson County Sheriff's Office video recording",
+    "the 2008 Chevrolet truck": "the 2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "the flatbed trailer towed by the 2008 Chevrolet truck",
+    "Gary Haston's phone": null,
+    "Heather Vargas' phone": null,
+    "the truck's phone": null,
+    "Daniel Martin Huerta's phone": null,
+    "Daniel A. Huerta's phone": null,
+    "the patrol car": "Josiah Bennett's patrol car",
+    "Gov't": null,
+    "the cab": "the cab of the 2008 Chevrolet truck",
+    "the bed": "the bed of the 2008 Chevrolet truck",
+    "the dog": "K-9 dog used for searching",
+    "some degree of communication": null,
+    "computer": "computer used by Williamson County Sheriff's Office officer",
+    "patrol video": "Deputy Jason Cox's patrol video recording",
+    "DVD": "DVD containing Deputy Jason Cox's patrol video",
+    "the audio": "audio from Deputy Jason Cox's patrol video",
+    "driver's license": "driver's license of Federico Saldana",
+    "registration": "vehicle registration of the 2008 Chevrolet truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Williamson County Sheriff's Office video recording": "Video evidence submitted at the hearing",
+    "the 2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana on the day of the stop and search, with license plate registered in San Antonio on July 31, 2014, to Daniel A. Huerta, outfitted with over-sized tires and after-market rims, involved in a traffic stop due to unsafe driving",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "Trailer towed by the vehicle driven by Federico Saldana, with license plate issued in Laredo on November 20, 2014, to Daniel Martin Huerta, nearly involved in two collisions during the incident",
+    "Josiah Bennett's patrol car": "Vehicle used by Josiah Bennett, part of the Williamson County Sheriff's Office, where the K-9 dog was put after searching the 2008 Chevrolet truck and flatbed trailer",
+    "the cab of the 2008 Chevrolet truck": "The front section of the vehicle driven by Federico Saldana, searched by the K-9 unit",
+    "the bed of the 2008 Chevrolet truck": "The rear section of the vehicle driven by Federico Saldana, searched by the K-9 unit",
+    "K-9 dog used for searching": "Dog used for searching the 2008 Chevrolet truck and flatbed trailer",
+    "computer used by Williamson County Sheriff's Office officer": "Computer used to run checks on driver's license and registration during a valid traffic stop, also used to investigate whether the driver has any outstanding warrants and if the vehicle is stolen",
+    "Deputy Jason Cox's patrol video recording": "Video evidence submitted as Exhibit 1, containing three separate but consecutive clips of the events in question, with audio component used to clarify statements made by Federico Saldana",
+    "DVD containing Deputy Jason Cox's patrol video": "Digital storage medium containing the patrol video recording",
+    "audio from Deputy Jason Cox's patrol video": "Audio component of the patrol video recording used to clarify statements made by Federico Saldana, including the name of the vehicle's owner",
+    "driver's license of Federico Saldana": "License examined by Williamson County Sheriff's Office officer during traffic stop, used to verify identity",
+    "vehicle registration of the 2008 Chevrolet truck": "Registration checked by Williamson County Sheriff's Office officer during traffic stop, confirming vehicle ownership"
+  }
+}

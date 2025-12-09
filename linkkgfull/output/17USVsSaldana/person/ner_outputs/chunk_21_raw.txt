@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Saldana"],
+    "NOUN_PHRASE": ["the officers"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "individual temporarily detained"
+  }
+}

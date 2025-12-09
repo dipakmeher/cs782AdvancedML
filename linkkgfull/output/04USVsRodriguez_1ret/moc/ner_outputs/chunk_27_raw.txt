@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the United States Border Patrol radio"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the United States Border Patrol",
+      "the Freer Police Department",
+      "a law enforcement officer",
+      "the arresting law enforcement officer",
+      "an officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

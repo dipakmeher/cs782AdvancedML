@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Kazen": "Kazen",
+    "Valero": "Rogelio Valero-De La Rosa",
+    "the Defendant": "Rogelio Valero-De La Rosa",
+    "the Court": null,
+    "the United States Magistrate Judge": null,
+    "Senior United States District Judge": "Kazen",
+    "the probation office": null,
+    "Valero's counsel": "counsel"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico, signed the Plea Agreement and Plea Agreement Addendum, pleaded guilty before a United States Magistrate Judge",
+    "Kazen": "Senior United States District Judge who entered an Order adopting the Report and Recommendation of the United States Magistrate Judge, presiding over Valero's case",
+    "counsel": "Valero's lawyer, helped Valero understand the rights he was giving up by pleading guilty, rendered effective assistance according to Valero's express acknowledgment, subject to standards that consider the acuity of hindsight and the art of representation, failed to rely on Guidelines Amendment 742 for calculation of criminal history points at sentencing, allegedly made an error in Ground Three which is not an attack on the validity of the waiver or the plea, did not provide deficient performance by failing to ask for early disposition program benefits, assisted the defendant with his application for derivative citizenship, explained and reviewed the Plea Agreement with Valero, requested a downward variance from the guideline range, recommended signing a plea agreement with waivers of appeal, failed to request 'fast track' downward departure or investigate claim of United States citizenship, did not fail in performance by not arguing for minimizing sentencing disparity caused by fast track programs"
+  }
+}

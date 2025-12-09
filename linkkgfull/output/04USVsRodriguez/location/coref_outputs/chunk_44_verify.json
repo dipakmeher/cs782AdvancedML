@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "Fifth Circuit",
+    "Arizona": "Arizona",
+    "a highway": null,
+    "the morning": null,
+    "the officer's range of vision": null,
+    "the floor": null,
+    "a remote road": null,
+    "an Interstate highway": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Fifth Circuit": "court that has addressed similar cases regarding probable cause for arrests and reasonable suspicion in traffic stops",
+    "Arizona": "state where vehicles were heading, potentially indicating a smuggling route or destination",
+    "Highway 35": "well-traveled interstate highway that could be used by smugglers to transport undocumented aliens"
+  }
+}

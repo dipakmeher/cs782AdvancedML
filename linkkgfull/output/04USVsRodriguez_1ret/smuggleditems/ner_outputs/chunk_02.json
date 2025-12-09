@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "undocumented aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the stop",
+      "the fruits",
+      "the stop",
+      "the interrogation",
+      "the arrest",
+      "the statements",
+      "the evidence",
+      "the warrantless arrest"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "individuals being transported"
+  }
+}

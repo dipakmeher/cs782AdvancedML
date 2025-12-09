@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["sixty undocumented aliens", "fifty-nine aliens", "one alien", "undocumented aliens"],
+    "NOUN_PHRASE": ["the tractor trailer", "the trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "sixty undocumented aliens": "aliens found in the tractor trailer",
+    "fifty-nine aliens": "aliens present at the United States Border Patrol check point",
+    "one alien": "alien in the hospital due to taking an improper medication",
+    "undocumented aliens": "aliens found in the trailer"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a suppression decision", "the motion", "the order", "a stipulated bench trial", "the United States of America's motion", "the district court", "the judgment of acquittal", "the suppression order"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

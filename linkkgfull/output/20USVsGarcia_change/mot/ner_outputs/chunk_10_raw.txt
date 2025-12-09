@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's vehicle"],
+    "NOUN_PHRASE": ["an automobile", "the vehicle", "Maria De Jesus Garcia's vehicle", "the camper"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's vehicle": "contained undocumented aliens and was subject to a search"
+  }
+}

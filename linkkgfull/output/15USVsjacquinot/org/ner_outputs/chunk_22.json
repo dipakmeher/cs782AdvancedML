@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Big Bend National Park"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country involved in the border issue",
+    "Big Bend National Park": "location where two vehicles passed a sensor"
+  }
+}

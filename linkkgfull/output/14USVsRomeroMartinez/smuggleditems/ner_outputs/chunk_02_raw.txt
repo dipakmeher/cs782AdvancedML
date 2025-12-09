@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["six bundles of marijuana"],
+    "NOUN_PHRASE": ["the toolbox", "the crew-cab truck", "the key", "the floorboard", "the border-crosser card", "the proof of citizenship"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "six bundles of marijuana": "illegal drugs found in the toolbox"
+  }
+}

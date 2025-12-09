@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the checkpoint", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

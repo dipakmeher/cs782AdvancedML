@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["illegal aliens"],
+    "NOUN_PHRASE": ["the black Dodge pickup truck", "a white passenger vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "undocumented individuals found in a vehicle"
+  }
+}

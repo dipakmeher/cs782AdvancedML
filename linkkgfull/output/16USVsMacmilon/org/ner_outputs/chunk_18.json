@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Speedy Trial Act"
+    ],
+    "NOUN_PHRASE": [
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Speedy Trial Act": "a statute that excludes certain periods of delay from the trial timeline"
+  }
+}

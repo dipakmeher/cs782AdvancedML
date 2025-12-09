@@ -1,0 +1,9 @@
+Since the provided TEXT_CHUNK does not contain any actual text to resolve, I will assume a sample TEXT_CHUNK is needed for demonstration purposes. Let's consider a hypothetical TEXT_CHUNK:
+
+"The stop occurred near the Freer immigration checkpoint, where Agent Trevino observed the white Malibu sedan and the black Dodge pickup truck. The vehicles were heading towards Highway 16, attempting to avoid the Hebbronville checkpoint. Officer Reyes had previously stopped IGNACIO RODRIGUEZ, JR. for a traffic violation on Farm-to-Market Road 2050."
+
+Using the RESOLVED_ENTITIES dictionary, we replace the aliases with their corresponding full names:
+
+"The stop occurred near the Freer Immigration Checkpoint, where United States Border Patrol Agent Jorge Luis Trevino observed the white Malibu sedan and the black Dodge pickup truck. The vehicles were heading towards Highway 16, attempting to avoid the Hebbronville Checkpoint. Officer Reymundo Reyes had previously stopped IGNACIO RODRIGUEZ, JR. for a traffic violation on Farm-to-Market Road 2050."
+
+Further replacing aliases:

@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Sanchez",
+      "Ortega-Chavez",
+      "Saldana"
+    ],
+    "NOUN_PHRASE": [
+      "the witness",
+      "the defendant",
+      "the appellant",
+      "the trial judge"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sanchez": "testified about prior trips",
+    "Ortega-Chavez": "involved in prior trips with Sanchez",
+    "Saldana": "testified about a prior trip"
+  }
+}

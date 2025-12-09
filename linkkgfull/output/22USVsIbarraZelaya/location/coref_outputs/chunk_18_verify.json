@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this case": null,
+    "the record": null,
+    "the allegations": null,
+    "this instance": null,
+    "the court of appeals": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nancy F. Atlas": "Judge in the case of Jose Marlon Ibarra-Zelaya",
+    "Jose Marlon Ibarra-Zelaya": "Defendant filing a motion to vacate, set aside, or correct sentence, convicted of conspiracy to commit hostage taking and sentenced to 292 months in prison, with a case involving ineffective assistance of counsel claims",
+    "H-07-1251": "Civil action corresponding to Jose Marlon Ibarra-Zelaya's case",
+    "United States": "country where sentencing guidelines are applied and where Jose Marlon Ibarra-Zelaya's case was heard, with a constitution that prohibits ex post facto laws",
+    "United States Court of Appeals for the Fifth Circuit": "court that affirmed conviction and sentence, and rejected appeals regarding sentencing guidelines and enhancements, with established precedent on Ex Post Facto clause application",
+    "United States Supreme Court": "higher court where a petition for a writ of certiorari could be filed regarding Jose Marlon Ibarra-Zelaya's case",
+    "Adrian Almaguer": "Counsel for Jose Marlon Ibarra-Zelaya, defense attorney during trial and sentencing proceeding who did not raise a meritorious objection regarding the Sentencing Guidelines Manual version used",
+    "United States Sentencing Guidelines Manual": "legal document containing provisions like \u00a7 1B1.11 that guide judges in applying sentencing rules without violating the Ex Post Facto clause, with versions issued on November 1, 2003, and November 1, 2004",
+    "United States District Court": "court that may deny a certificate of appealability and where the district court's assessment of constitutional claims is reviewed",
+    "Houston, Texas": "location where the order was signed by Nancy F. Atlas on September 27, 2007",
+    "Texas": "state where the court is located and where Jose Marlon Ibarra-Zelaya's case was heard"
+  }
+}

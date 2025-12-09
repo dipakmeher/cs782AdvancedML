@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the Government": "United States of America",
+    "district court": "district court",
+    "Laredo, Texas": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "U.S.": "United States of America",
+    "San Antonio": "San Antonio",
+    "the border patrol checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "the primary inspection lane": "primary inspection lane at the border patrol checkpoint on I-35 near Laredo, Texas",
+    "the secondary inspection area": "secondary inspection area at the border patrol checkpoint on I-35 near Laredo, Texas",
+    "I-35": "I-35",
+    "the border checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas",
+    "a court of appeals": "court of appeals",
+    "a district court": "district court",
+    "this Court": "court of appeals",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country involved in the legal case, filing notice to appeal and reinstating its original appeal, also the party conceding to a deadline failure and arguing the materiality requirement, acting as prosecutor",
+    "district court": "court that made the judgment of acquittal in favor of Raul Rafael Arce-Jasso and the court from which the appeal is taken",
+    "Laredo, Texas": "location where a federal grand jury returned an indictment and where Raul Rafael Arce-Jasso was stopped by a border patrol checkpoint, 15 miles south of which the checkpoint is located on I-35",
+    "San Antonio": "destination Raul Rafael Arce-Jasso claimed to be heading to",
+    "border patrol checkpoint on I-35 near Laredo, Texas": "checkpoint where Raul Rafael Arce-Jasso's detention was argued to be unconstitutionally lengthy",
+    "primary inspection lane at the border patrol checkpoint on I-35 near Laredo, Texas": "lane where Agent Jesus Garcia was manning when Raul Rafael Arce-Jasso pulled up",
+    "secondary inspection area at the border patrol checkpoint on I-35 near Laredo, Texas": "area where a canine alerted and agents discovered cocaine hidden in the side panel of the car",
+    "I-35": "highway where the border patrol checkpoint is located",
+    "court of appeals": "court to which the United States of America must appeal from a decision or order of a district court suppressing or excluding evidence, with jurisdiction over timing requirements for filing notices of appeal"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Supreme Court"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Supreme Court": "the highest court in the land that has long held that reasonableness is the touchstone of analysis"
+  }
+}

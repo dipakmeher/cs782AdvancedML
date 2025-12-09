@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mexican citizens",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the driver",
+      "several passengers",
+      "fourteen additional males",
+      "the remaining passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mexican citizens": "undocumented individuals",
+    "illegal aliens": "smuggled persons"
+  }
+}

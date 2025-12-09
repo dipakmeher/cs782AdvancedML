@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["RICARDO RODRIGUEZ, JR.", "IGNACIO RODRIGUEZ, JR."],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "RICARDO RODRIGUEZ, JR.": "defendant",
+    "IGNACIO RODRIGUEZ, JR.": "defendant"
+  }
+}

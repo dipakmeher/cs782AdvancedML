@@ -1,0 +1,1435 @@
+[2025-08-25 10:49:34] Starting Chunking Step...
+[2025-08-25 10:49:34] Starting chunking for ./output/04USVsRodriguez/org/org_resolved_04USVsRodriguez.txt...
+[2025-08-25 10:49:37] Loading GPT-2 tokenizer...
+[2025-08-25 10:49:37] Last chunk too small (39 words). Merging with previous.
+[2025-08-25 10:49:37] Saved chunk 01 (21 words)
+[2025-08-25 10:49:37] Saved chunk 02 (273 words)
+[2025-08-25 10:49:37] Saved chunk 03 (2 words)
+[2025-08-25 10:49:37] Saved chunk 04 (225 words)
+[2025-08-25 10:49:37] Saved chunk 05 (240 words)
+[2025-08-25 10:49:37] Saved chunk 06 (46 words)
+[2025-08-25 10:49:37] Saved chunk 07 (260 words)
+[2025-08-25 10:49:37] Saved chunk 08 (228 words)
+[2025-08-25 10:49:37] Saved chunk 09 (371 words)
+[2025-08-25 10:49:37] Saved chunk 10 (230 words)
+[2025-08-25 10:49:37] Saved chunk 11 (224 words)
+[2025-08-25 10:49:37] Saved chunk 12 (292 words)
+[2025-08-25 10:49:37] Saved chunk 13 (320 words)
+[2025-08-25 10:49:37] Saved chunk 14 (238 words)
+[2025-08-25 10:49:37] Saved chunk 15 (291 words)
+[2025-08-25 10:49:37] Saved chunk 16 (351 words)
+[2025-08-25 10:49:37] Saved chunk 17 (278 words)
+[2025-08-25 10:49:37] Saved chunk 18 (315 words)
+[2025-08-25 10:49:38] Saved chunk 19 (176 words)
+[2025-08-25 10:49:38] Saved chunk 20 (234 words)
+[2025-08-25 10:49:38] Saved chunk 21 (2 words)
+[2025-08-25 10:49:38] Saved chunk 22 (371 words)
+[2025-08-25 10:49:38] Saved chunk 23 (12 words)
+[2025-08-25 10:49:38] Saved chunk 24 (372 words)
+[2025-08-25 10:49:38] Saved chunk 25 (303 words)
+[2025-08-25 10:49:38] Saved chunk 26 (444 words)
+[2025-08-25 10:49:38] Saved chunk 27 (352 words)
+[2025-08-25 10:49:38] Saved chunk 28 (505 words)
+[2025-08-25 10:49:38] Saved chunk 29 (320 words)
+[2025-08-25 10:49:38] Saved chunk 30 (417 words)
+[2025-08-25 10:49:38] Saved chunk 31 (310 words)
+[2025-08-25 10:49:38] Saved chunk 32 (232 words)
+[2025-08-25 10:49:38] Saved chunk 33 (318 words)
+[2025-08-25 10:49:38] Saved chunk 34 (202 words)
+[2025-08-25 10:49:38] Saved chunk 35 (173 words)
+[2025-08-25 10:49:38] Saved chunk 36 (238 words)
+[2025-08-25 10:49:38] Saved chunk 37 (305 words)
+[2025-08-25 10:49:38] Saved chunk 38 (218 words)
+[2025-08-25 10:49:38] Saved chunk 39 (242 words)
+[2025-08-25 10:49:38] Saved chunk 40 (268 words)
+[2025-08-25 10:49:38] Saved chunk 41 (91 words)
+[2025-08-25 10:49:38] Saved chunk 42 (220 words)
+[2025-08-25 10:49:38] Saved chunk 43 (305 words)
+[2025-08-25 10:49:38] Saved chunk 44 (245 words)
+[2025-08-25 10:49:38] Saved chunk 45 (283 words)
+[2025-08-25 10:49:38] Saved chunk 46 (97 words)
+[2025-08-25 10:49:38] Saved chunk 47 (152 words)
+[2025-08-25 10:49:38] Saved chunk 48 (238 words)
+[2025-08-25 10:49:38] Saved chunk 49 (114 words)
+[2025-08-25 10:49:38] Saved chunk 50 (166 words)
+[2025-08-25 10:49:38] Saved chunk 51 (109 words)
+[2025-08-25 10:49:38] Saved chunk 52 (119 words)
+[2025-08-25 10:49:38] Saved chunk 53 (105 words)
+[2025-08-25 10:49:38] Saved chunk 54 (107 words)
+[2025-08-25 10:49:38] Saved chunk 55 (198 words)
+[2025-08-25 10:49:38] Saved chunk 56 (195 words)
+[2025-08-25 10:49:38] Saved chunk 57 (207 words)
+[2025-08-25 10:49:38] Saved chunk 58 (198 words)
+[2025-08-25 10:49:38] Saved chunk 59 (153 words)
+[2025-08-25 10:49:38] Saved chunk 60 (121 words)
+[2025-08-25 10:49:38] Saved chunk 61 (61 words)
+[2025-08-25 10:49:38] Saved chunk 62 (344 words)
+[2025-08-25 10:49:38] Saved chunk 63 (113 words)
+[2025-08-25 10:49:38] Saved chunk 64 (354 words)
+[2025-08-25 10:49:38] Saved chunk 65 (233 words)
+[2025-08-25 10:49:38] Saved chunk 66 (225 words)
+[2025-08-25 10:49:38] Saved chunk 67 (206 words)
+[2025-08-25 10:49:38] Saved chunk 68 (181 words)
+[2025-08-25 10:49:38] Saved chunk 69 (193 words)
+[2025-08-25 10:49:38] Saved chunk 70 (338 words)
+[2025-08-25 10:49:38] Saved chunk 71 (78 words)
+[2025-08-25 10:49:38] Saved chunk 72 (218 words)
+[2025-08-25 10:49:38] Successfully created 72 chunks in 'output/04USVsRodriguez/moc/chunk_outputs'.
+[2025-08-25 10:49:38] Total time taken: 3.64 seconds.
+[2025-08-25 10:49:38] Chunking completed in 3.72 seconds.
+[2025-08-25 10:49:38] Cumulative time after Chunking: 3.73 seconds.
+[2025-08-25 10:49:38] Starting NER Step...
+[2025-08-25 10:49:38] Found 72 chunk files.
+[2025-08-25 10:49:38] Running NER on chunk_01.txt (attempt 1)...
+[2025-08-25 10:49:38] Prompt length (chars): 3285
+[2025-08-25 10:49:41] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_01.json
+[2025-08-25 10:49:41] Running NER on chunk_02.txt (attempt 1)...
+[2025-08-25 10:49:41] Prompt length (chars): 4797
+[2025-08-25 10:49:43] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_02.json
+[2025-08-25 10:49:43] Running NER on chunk_03.txt (attempt 1)...
+[2025-08-25 10:49:43] Prompt length (chars): 3157
+[2025-08-25 10:49:45] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_03.json
+[2025-08-25 10:49:45] Running NER on chunk_04.txt (attempt 1)...
+[2025-08-25 10:49:45] Prompt length (chars): 4398
+[2025-08-25 10:49:47] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_04.json
+[2025-08-25 10:49:47] Running NER on chunk_05.txt (attempt 1)...
+[2025-08-25 10:49:47] Prompt length (chars): 4579
+[2025-08-25 10:49:50] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_05.json
+[2025-08-25 10:49:50] Running NER on chunk_06.txt (attempt 1)...
+[2025-08-25 10:49:50] Prompt length (chars): 3441
+[2025-08-25 10:49:51] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_06.json
+[2025-08-25 10:49:51] Running NER on chunk_07.txt (attempt 1)...
+[2025-08-25 10:49:51] Prompt length (chars): 4696
+[2025-08-25 10:49:54] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_07.json
+[2025-08-25 10:49:54] Running NER on chunk_08.txt (attempt 1)...
+[2025-08-25 10:49:54] Prompt length (chars): 4410
+[2025-08-25 10:49:56] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_08.json
+[2025-08-25 10:49:56] Running NER on chunk_09.txt (attempt 1)...
+[2025-08-25 10:49:56] Prompt length (chars): 5178
+[2025-08-25 10:49:59] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_09.json
+[2025-08-25 10:49:59] Running NER on chunk_10.txt (attempt 1)...
+[2025-08-25 10:49:59] Prompt length (chars): 4459
+[2025-08-25 10:50:01] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_10.json
+[2025-08-25 10:50:01] Running NER on chunk_11.txt (attempt 1)...
+[2025-08-25 10:50:01] Prompt length (chars): 4422
+[2025-08-25 10:50:03] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_11.json
+[2025-08-25 10:50:03] Running NER on chunk_12.txt (attempt 1)...
+[2025-08-25 10:50:03] Prompt length (chars): 4834
+[2025-08-25 10:50:06] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_12.json
+[2025-08-25 10:50:06] Running NER on chunk_13.txt (attempt 1)...
+[2025-08-25 10:50:06] Prompt length (chars): 5032
+[2025-08-25 10:50:09] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_13.json
+[2025-08-25 10:50:09] Running NER on chunk_14.txt (attempt 1)...
+[2025-08-25 10:50:09] Prompt length (chars): 4501
+[2025-08-25 10:50:11] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_14.json
+[2025-08-25 10:50:11] Running NER on chunk_15.txt (attempt 1)...
+[2025-08-25 10:50:11] Prompt length (chars): 4772
+[2025-08-25 10:50:16] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 10:50:16] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not mentioned but "dispatch" implies a means of communication, however "dispatch" itself is more related to the service or action rather th
+[2025-08-25 10:50:16] Running NER on chunk_15.txt (attempt 2)...
+[2025-08-25 10:50:16] Prompt length (chars): 5489
+[2025-08-25 10:50:22] Format issue on attempt 2: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 10:50:22] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not present but "dispatch" can be related to a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 10:50:22] Running NER on chunk_15.txt (attempt 3)...
+[2025-08-25 10:50:22] Prompt length (chars): 5489
+[2025-08-25 10:50:25] Format issue on attempt 3: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 10:50:25] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not present but "dispatch" can be related to a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 10:50:25] Running NER on chunk_15.txt (attempt 4)...
+[2025-08-25 10:50:25] Prompt length (chars): 5489
+[2025-08-25 10:50:28] Format issue on attempt 4: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 10:50:28] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not present but "dispatch" can be related to a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 10:50:28] NER failed.
+[2025-08-25 17:37:22] Starting Chunking Step...
+[2025-08-25 17:37:22] Starting chunking for ./output/04USVsRodriguez/org/org_resolved_04USVsRodriguez.txt...
+[2025-08-25 17:37:28] Loading GPT-2 tokenizer...
+[2025-08-25 17:37:28] Last chunk too small (39 words). Merging with previous.
+[2025-08-25 17:37:28] Saved chunk 01 (21 words)
+[2025-08-25 17:37:28] Saved chunk 02 (273 words)
+[2025-08-25 17:37:28] Saved chunk 03 (2 words)
+[2025-08-25 17:37:28] Saved chunk 04 (225 words)
+[2025-08-25 17:37:28] Saved chunk 05 (240 words)
+[2025-08-25 17:37:28] Saved chunk 06 (46 words)
+[2025-08-25 17:37:28] Saved chunk 07 (260 words)
+[2025-08-25 17:37:28] Saved chunk 08 (228 words)
+[2025-08-25 17:37:28] Saved chunk 09 (371 words)
+[2025-08-25 17:37:28] Saved chunk 10 (230 words)
+[2025-08-25 17:37:28] Saved chunk 11 (224 words)
+[2025-08-25 17:37:28] Saved chunk 12 (292 words)
+[2025-08-25 17:37:28] Saved chunk 13 (320 words)
+[2025-08-25 17:37:28] Saved chunk 14 (238 words)
+[2025-08-25 17:37:28] Saved chunk 15 (291 words)
+[2025-08-25 17:37:28] Saved chunk 16 (351 words)
+[2025-08-25 17:37:28] Saved chunk 17 (278 words)
+[2025-08-25 17:37:28] Saved chunk 18 (315 words)
+[2025-08-25 17:37:28] Saved chunk 19 (176 words)
+[2025-08-25 17:37:28] Saved chunk 20 (234 words)
+[2025-08-25 17:37:28] Saved chunk 21 (2 words)
+[2025-08-25 17:37:28] Saved chunk 22 (371 words)
+[2025-08-25 17:37:28] Saved chunk 23 (12 words)
+[2025-08-25 17:37:28] Saved chunk 24 (372 words)
+[2025-08-25 17:37:28] Saved chunk 25 (303 words)
+[2025-08-25 17:37:28] Saved chunk 26 (444 words)
+[2025-08-25 17:37:28] Saved chunk 27 (352 words)
+[2025-08-25 17:37:28] Saved chunk 28 (505 words)
+[2025-08-25 17:37:28] Saved chunk 29 (320 words)
+[2025-08-25 17:37:28] Saved chunk 30 (417 words)
+[2025-08-25 17:37:28] Saved chunk 31 (310 words)
+[2025-08-25 17:37:28] Saved chunk 32 (232 words)
+[2025-08-25 17:37:28] Saved chunk 33 (318 words)
+[2025-08-25 17:37:28] Saved chunk 34 (202 words)
+[2025-08-25 17:37:28] Saved chunk 35 (173 words)
+[2025-08-25 17:37:29] Saved chunk 36 (238 words)
+[2025-08-25 17:37:29] Saved chunk 37 (305 words)
+[2025-08-25 17:37:29] Saved chunk 38 (218 words)
+[2025-08-25 17:37:29] Saved chunk 39 (242 words)
+[2025-08-25 17:37:29] Saved chunk 40 (268 words)
+[2025-08-25 17:37:29] Saved chunk 41 (91 words)
+[2025-08-25 17:37:29] Saved chunk 42 (220 words)
+[2025-08-25 17:37:29] Saved chunk 43 (305 words)
+[2025-08-25 17:37:29] Saved chunk 44 (245 words)
+[2025-08-25 17:37:29] Saved chunk 45 (283 words)
+[2025-08-25 17:37:29] Saved chunk 46 (97 words)
+[2025-08-25 17:37:29] Saved chunk 47 (152 words)
+[2025-08-25 17:37:29] Saved chunk 48 (238 words)
+[2025-08-25 17:37:29] Saved chunk 49 (114 words)
+[2025-08-25 17:37:29] Saved chunk 50 (166 words)
+[2025-08-25 17:37:29] Saved chunk 51 (109 words)
+[2025-08-25 17:37:29] Saved chunk 52 (119 words)
+[2025-08-25 17:37:29] Saved chunk 53 (105 words)
+[2025-08-25 17:37:29] Saved chunk 54 (107 words)
+[2025-08-25 17:37:29] Saved chunk 55 (198 words)
+[2025-08-25 17:37:29] Saved chunk 56 (195 words)
+[2025-08-25 17:37:29] Saved chunk 57 (207 words)
+[2025-08-25 17:37:29] Saved chunk 58 (198 words)
+[2025-08-25 17:37:29] Saved chunk 59 (153 words)
+[2025-08-25 17:37:29] Saved chunk 60 (121 words)
+[2025-08-25 17:37:29] Saved chunk 61 (61 words)
+[2025-08-25 17:37:29] Saved chunk 62 (344 words)
+[2025-08-25 17:37:29] Saved chunk 63 (113 words)
+[2025-08-25 17:37:29] Saved chunk 64 (354 words)
+[2025-08-25 17:37:29] Saved chunk 65 (233 words)
+[2025-08-25 17:37:29] Saved chunk 66 (225 words)
+[2025-08-25 17:37:29] Saved chunk 67 (206 words)
+[2025-08-25 17:37:29] Saved chunk 68 (181 words)
+[2025-08-25 17:37:29] Saved chunk 69 (193 words)
+[2025-08-25 17:37:29] Saved chunk 70 (338 words)
+[2025-08-25 17:37:29] Saved chunk 71 (78 words)
+[2025-08-25 17:37:29] Saved chunk 72 (218 words)
+[2025-08-25 17:37:29] Successfully created 72 chunks in 'output/04USVsRodriguez/moc/chunk_outputs'.
+[2025-08-25 17:37:29] Total time taken: 6.35 seconds.
+[2025-08-25 17:37:29] Chunking completed in 6.45 seconds.
+[2025-08-25 17:37:29] Cumulative time after Chunking: 6.46 seconds.
+[2025-08-25 17:37:29] Starting NER Step...
+[2025-08-25 17:37:29] Found 72 chunk files.
+[2025-08-25 17:37:29] Running NER on chunk_01.txt (attempt 1)...
+[2025-08-25 17:37:29] Prompt length (chars): 3402
+[2025-08-25 17:38:51] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_01.json
+[2025-08-25 17:38:51] Running NER on chunk_02.txt (attempt 1)...
+[2025-08-25 17:38:51] Prompt length (chars): 4914
+[2025-08-25 17:38:53] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_02.json
+[2025-08-25 17:38:53] Running NER on chunk_03.txt (attempt 1)...
+[2025-08-25 17:38:53] Prompt length (chars): 3274
+[2025-08-25 17:38:55] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_03.json
+[2025-08-25 17:38:55] Running NER on chunk_04.txt (attempt 1)...
+[2025-08-25 17:38:55] Prompt length (chars): 4515
+[2025-08-25 17:38:57] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_04.json
+[2025-08-25 17:38:57] Running NER on chunk_05.txt (attempt 1)...
+[2025-08-25 17:38:57] Prompt length (chars): 4696
+[2025-08-25 17:39:00] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_05.json
+[2025-08-25 17:39:00] Running NER on chunk_06.txt (attempt 1)...
+[2025-08-25 17:39:00] Prompt length (chars): 3558
+[2025-08-25 17:39:01] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_06.json
+[2025-08-25 17:39:01] Running NER on chunk_07.txt (attempt 1)...
+[2025-08-25 17:39:01] Prompt length (chars): 4813
+[2025-08-25 17:39:04] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_07.json
+[2025-08-25 17:39:04] Running NER on chunk_08.txt (attempt 1)...
+[2025-08-25 17:39:04] Prompt length (chars): 4527
+[2025-08-25 17:39:06] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_08.json
+[2025-08-25 17:39:06] Running NER on chunk_09.txt (attempt 1)...
+[2025-08-25 17:39:06] Prompt length (chars): 5295
+[2025-08-25 17:39:09] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_09.json
+[2025-08-25 17:39:09] Running NER on chunk_10.txt (attempt 1)...
+[2025-08-25 17:39:09] Prompt length (chars): 4576
+[2025-08-25 17:39:11] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_10.json
+[2025-08-25 17:39:11] Running NER on chunk_11.txt (attempt 1)...
+[2025-08-25 17:39:11] Prompt length (chars): 4539
+[2025-08-25 17:39:14] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_11.json
+[2025-08-25 17:39:14] Running NER on chunk_12.txt (attempt 1)...
+[2025-08-25 17:39:14] Prompt length (chars): 4951
+[2025-08-25 17:39:16] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_12.json
+[2025-08-25 17:39:16] Running NER on chunk_13.txt (attempt 1)...
+[2025-08-25 17:39:16] Prompt length (chars): 5149
+[2025-08-25 17:39:19] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_13.json
+[2025-08-25 17:39:19] Running NER on chunk_14.txt (attempt 1)...
+[2025-08-25 17:39:19] Prompt length (chars): 4618
+[2025-08-25 17:39:21] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_14.json
+[2025-08-25 17:39:21] Running NER on chunk_15.txt (attempt 1)...
+[2025-08-25 17:39:21] Prompt length (chars): 4889
+[2025-08-25 17:39:26] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 17:39:26] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not mentioned but "dispatch" implies a means of communication, so "dispatch"]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 17:39:26] Running NER on chunk_15.txt (attempt 2)...
+[2025-08-25 17:39:26] Prompt length (chars): 5606
+[2025-08-25 17:39:32] Format issue on attempt 2: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 17:39:32] [Invalid JSON Preview on attempt 2] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not present but "dispatch" can be related to a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 17:39:32] Running NER on chunk_15.txt (attempt 3)...
+[2025-08-25 17:39:32] Prompt length (chars): 5606
+[2025-08-25 17:39:35] Format issue on attempt 3: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 17:39:35] [Invalid JSON Preview on attempt 3] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not present but "dispatch" can be related to a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 17:39:35] Running NER on chunk_15.txt (attempt 4)...
+[2025-08-25 17:39:35] Prompt length (chars): 5606
+[2025-08-25 17:39:38] Format issue on attempt 4: Invalid JSON format. Expecting ',' delimiter: line 4 column 118 (char 158)
+[2025-08-25 17:39:38] [Invalid JSON Preview on attempt 4] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his wallet", "the glove box", "the passenger side", "the black Dodge pickup truck", "the phone" is not present but "dispatch" can be related to a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-25 17:39:38] NER failed.
+[2025-08-29 20:22:21] Starting Chunking Step...
+[2025-08-29 20:22:21] Starting chunking for ./output/04USVsRodriguez/org/org_resolved_04USVsRodriguez.txt...
+[2025-08-29 20:22:29] Loading GPT-2 tokenizer...
+[2025-08-29 20:22:30] Last chunk too small (39 words). Merging with previous.
+[2025-08-29 20:22:30] Saved chunk 01 (21 words)
+[2025-08-29 20:22:30] Saved chunk 02 (273 words)
+[2025-08-29 20:22:30] Saved chunk 03 (2 words)
+[2025-08-29 20:22:30] Saved chunk 04 (225 words)
+[2025-08-29 20:22:30] Saved chunk 05 (240 words)
+[2025-08-29 20:22:30] Saved chunk 06 (46 words)
+[2025-08-29 20:22:30] Saved chunk 07 (260 words)
+[2025-08-29 20:22:30] Saved chunk 08 (228 words)
+[2025-08-29 20:22:30] Saved chunk 09 (371 words)
+[2025-08-29 20:22:30] Saved chunk 10 (230 words)
+[2025-08-29 20:22:30] Saved chunk 11 (224 words)
+[2025-08-29 20:22:30] Saved chunk 12 (292 words)
+[2025-08-29 20:22:30] Saved chunk 13 (320 words)
+[2025-08-29 20:22:30] Saved chunk 14 (238 words)
+[2025-08-29 20:22:30] Saved chunk 15 (291 words)
+[2025-08-29 20:22:30] Saved chunk 16 (351 words)
+[2025-08-29 20:22:30] Saved chunk 17 (278 words)
+[2025-08-29 20:22:30] Saved chunk 18 (315 words)
+[2025-08-29 20:22:30] Saved chunk 19 (176 words)
+[2025-08-29 20:22:30] Saved chunk 20 (234 words)
+[2025-08-29 20:22:30] Saved chunk 21 (2 words)
+[2025-08-29 20:22:30] Saved chunk 22 (371 words)
+[2025-08-29 20:22:30] Saved chunk 23 (12 words)
+[2025-08-29 20:22:30] Saved chunk 24 (372 words)
+[2025-08-29 20:22:30] Saved chunk 25 (303 words)
+[2025-08-29 20:22:30] Saved chunk 26 (444 words)
+[2025-08-29 20:22:30] Saved chunk 27 (352 words)
+[2025-08-29 20:22:30] Saved chunk 28 (505 words)
+[2025-08-29 20:22:30] Saved chunk 29 (320 words)
+[2025-08-29 20:22:30] Saved chunk 30 (417 words)
+[2025-08-29 20:22:30] Saved chunk 31 (310 words)
+[2025-08-29 20:22:30] Saved chunk 32 (232 words)
+[2025-08-29 20:22:30] Saved chunk 33 (318 words)
+[2025-08-29 20:22:30] Saved chunk 34 (202 words)
+[2025-08-29 20:22:30] Saved chunk 35 (173 words)
+[2025-08-29 20:22:30] Saved chunk 36 (238 words)
+[2025-08-29 20:22:30] Saved chunk 37 (305 words)
+[2025-08-29 20:22:30] Saved chunk 38 (218 words)
+[2025-08-29 20:22:30] Saved chunk 39 (242 words)
+[2025-08-29 20:22:30] Saved chunk 40 (268 words)
+[2025-08-29 20:22:30] Saved chunk 41 (91 words)
+[2025-08-29 20:22:30] Saved chunk 42 (220 words)
+[2025-08-29 20:22:30] Saved chunk 43 (305 words)
+[2025-08-29 20:22:30] Saved chunk 44 (245 words)
+[2025-08-29 20:22:30] Saved chunk 45 (283 words)
+[2025-08-29 20:22:30] Saved chunk 46 (97 words)
+[2025-08-29 20:22:30] Saved chunk 47 (152 words)
+[2025-08-29 20:22:30] Saved chunk 48 (238 words)
+[2025-08-29 20:22:30] Saved chunk 49 (114 words)
+[2025-08-29 20:22:30] Saved chunk 50 (166 words)
+[2025-08-29 20:22:30] Saved chunk 51 (109 words)
+[2025-08-29 20:22:30] Saved chunk 52 (119 words)
+[2025-08-29 20:22:30] Saved chunk 53 (105 words)
+[2025-08-29 20:22:30] Saved chunk 54 (107 words)
+[2025-08-29 20:22:30] Saved chunk 55 (198 words)
+[2025-08-29 20:22:30] Saved chunk 56 (195 words)
+[2025-08-29 20:22:30] Saved chunk 57 (207 words)
+[2025-08-29 20:22:30] Saved chunk 58 (198 words)
+[2025-08-29 20:22:30] Saved chunk 59 (153 words)
+[2025-08-29 20:22:30] Saved chunk 60 (121 words)
+[2025-08-29 20:22:30] Saved chunk 61 (61 words)
+[2025-08-29 20:22:30] Saved chunk 62 (344 words)
+[2025-08-29 20:22:30] Saved chunk 63 (113 words)
+[2025-08-29 20:22:30] Saved chunk 64 (354 words)
+[2025-08-29 20:22:30] Saved chunk 65 (233 words)
+[2025-08-29 20:22:30] Saved chunk 66 (225 words)
+[2025-08-29 20:22:30] Saved chunk 67 (206 words)
+[2025-08-29 20:22:30] Saved chunk 68 (181 words)
+[2025-08-29 20:22:30] Saved chunk 69 (193 words)
+[2025-08-29 20:22:30] Saved chunk 70 (338 words)
+[2025-08-29 20:22:30] Saved chunk 71 (78 words)
+[2025-08-29 20:22:30] Saved chunk 72 (218 words)
+[2025-08-29 20:22:30] Successfully created 72 chunks in 'output/04USVsRodriguez/moc/chunk_outputs'.
+[2025-08-29 20:22:30] Total time taken: 9.38 seconds.
+[2025-08-29 20:22:31] Chunking completed in 9.50 seconds.
+[2025-08-29 20:22:31] Cumulative time after Chunking: 9.51 seconds.
+[2025-08-29 20:22:31] Starting NER Step...
+[2025-08-29 20:22:31] Found 72 chunk files.
+[2025-08-29 20:22:31] Running NER on chunk_01.txt (attempt 1)...
+[2025-08-29 20:22:31] Prompt length (chars): 3402
+[2025-08-29 20:24:31] Format issue on attempt 1: Ollama inference timed out.
+[2025-08-29 20:24:31] Running NER on chunk_01.txt (attempt 2)...
+[2025-08-29 20:24:31] Prompt length (chars): 4119
+[2025-08-29 20:24:31] Format issue on attempt 2: HTTP error occurred: 500 Server Error: Internal Server Error for url: http://127.0.0.1:11492/api/generate - {"error":"unexpected server status: llm server loading model"}
+[2025-08-29 20:24:31] Running NER on chunk_01.txt (attempt 3)...
+[2025-08-29 20:24:31] Prompt length (chars): 4119
+[2025-08-29 20:25:32] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_01.json
+[2025-08-29 20:25:32] Running NER on chunk_02.txt (attempt 1)...
+[2025-08-29 20:25:32] Prompt length (chars): 4914
+[2025-08-29 20:25:36] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_02.json
+[2025-08-29 20:25:36] Running NER on chunk_03.txt (attempt 1)...
+[2025-08-29 20:25:36] Prompt length (chars): 3274
+[2025-08-29 20:25:37] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_03.json
+[2025-08-29 20:25:37] Running NER on chunk_04.txt (attempt 1)...
+[2025-08-29 20:25:37] Prompt length (chars): 4515
+[2025-08-29 20:25:40] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_04.json
+[2025-08-29 20:25:40] Running NER on chunk_05.txt (attempt 1)...
+[2025-08-29 20:25:40] Prompt length (chars): 4696
+[2025-08-29 20:25:42] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_05.json
+[2025-08-29 20:25:42] Running NER on chunk_06.txt (attempt 1)...
+[2025-08-29 20:25:42] Prompt length (chars): 3558
+[2025-08-29 20:25:44] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_06.json
+[2025-08-29 20:25:44] Running NER on chunk_07.txt (attempt 1)...
+[2025-08-29 20:25:44] Prompt length (chars): 4813
+[2025-08-29 20:25:46] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_07.json
+[2025-08-29 20:25:46] Running NER on chunk_08.txt (attempt 1)...
+[2025-08-29 20:25:46] Prompt length (chars): 4527
+[2025-08-29 20:25:48] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_08.json
+[2025-08-29 20:25:48] Running NER on chunk_09.txt (attempt 1)...
+[2025-08-29 20:25:48] Prompt length (chars): 5295
+[2025-08-29 20:25:51] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_09.json
+[2025-08-29 20:25:51] Running NER on chunk_10.txt (attempt 1)...
+[2025-08-29 20:25:51] Prompt length (chars): 4576
+[2025-08-29 20:25:54] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_10.json
+[2025-08-29 20:25:54] Running NER on chunk_11.txt (attempt 1)...
+[2025-08-29 20:25:54] Prompt length (chars): 4539
+[2025-08-29 20:25:56] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_11.json
+[2025-08-29 20:25:56] Running NER on chunk_12.txt (attempt 1)...
+[2025-08-29 20:25:56] Prompt length (chars): 4951
+[2025-08-29 20:25:59] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_12.json
+[2025-08-29 20:25:59] Running NER on chunk_13.txt (attempt 1)...
+[2025-08-29 20:25:59] Prompt length (chars): 5149
+[2025-08-29 20:26:01] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_13.json
+[2025-08-29 20:26:01] Running NER on chunk_14.txt (attempt 1)...
+[2025-08-29 20:26:01] Prompt length (chars): 4618
+[2025-08-29 20:26:04] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_14.json
+[2025-08-29 20:26:04] Running NER on chunk_15.txt (attempt 1)...
+[2025-08-29 20:26:04] Prompt length (chars): 4889
+[2025-08-29 20:26:07] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_15.json
+[2025-08-29 20:26:07] Running NER on chunk_16.txt (attempt 1)...
+[2025-08-29 20:26:07] Prompt length (chars): 5332
+[2025-08-29 20:26:10] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_16.json
+[2025-08-29 20:26:10] Running NER on chunk_17.txt (attempt 1)...
+[2025-08-29 20:26:10] Prompt length (chars): 4898
+[2025-08-29 20:26:13] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_17.json
+[2025-08-29 20:26:13] Running NER on chunk_18.txt (attempt 1)...
+[2025-08-29 20:26:13] Prompt length (chars): 5195
+[2025-08-29 20:26:16] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_18.json
+[2025-08-29 20:26:16] Running NER on chunk_19.txt (attempt 1)...
+[2025-08-29 20:26:16] Prompt length (chars): 4404
+[2025-08-29 20:26:18] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_19.json
+[2025-08-29 20:26:18] Running NER on chunk_20.txt (attempt 1)...
+[2025-08-29 20:26:18] Prompt length (chars): 4657
+[2025-08-29 20:26:20] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_20.json
+[2025-08-29 20:26:20] Running NER on chunk_21.txt (attempt 1)...
+[2025-08-29 20:26:20] Prompt length (chars): 3275
+[2025-08-29 20:26:22] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_21.json
+[2025-08-29 20:26:22] Running NER on chunk_22.txt (attempt 1)...
+[2025-08-29 20:26:22] Prompt length (chars): 5606
+[2025-08-29 20:26:25] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_22.json
+[2025-08-29 20:26:25] Running NER on chunk_23.txt (attempt 1)...
+[2025-08-29 20:26:25] Prompt length (chars): 3334
+[2025-08-29 20:26:26] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_23.json
+[2025-08-29 20:26:26] Running NER on chunk_24.txt (attempt 1)...
+[2025-08-29 20:26:26] Prompt length (chars): 5808
+[2025-08-29 20:26:31] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_24.json
+[2025-08-29 20:26:31] Running NER on chunk_25.txt (attempt 1)...
+[2025-08-29 20:26:31] Prompt length (chars): 5217
+[2025-08-29 20:26:33] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_25.json
+[2025-08-29 20:26:33] Running NER on chunk_26.txt (attempt 1)...
+[2025-08-29 20:26:33] Prompt length (chars): 5989
+[2025-08-29 20:26:36] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_26.json
+[2025-08-29 20:26:36] Running NER on chunk_27.txt (attempt 1)...
+[2025-08-29 20:26:36] Prompt length (chars): 5464
+[2025-08-29 20:26:38] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_27.json
+[2025-08-29 20:26:38] Running NER on chunk_28.txt (attempt 1)...
+[2025-08-29 20:26:38] Prompt length (chars): 6332
+[2025-08-29 20:26:42] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_28.json
+[2025-08-29 20:26:42] Running NER on chunk_29.txt (attempt 1)...
+[2025-08-29 20:26:42] Prompt length (chars): 5206
+[2025-08-29 20:26:44] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_29.json
+[2025-08-29 20:26:44] Running NER on chunk_30.txt (attempt 1)...
+[2025-08-29 20:26:44] Prompt length (chars): 5783
+[2025-08-29 20:26:48] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_30.json
+[2025-08-29 20:26:48] Running NER on chunk_31.txt (attempt 1)...
+[2025-08-29 20:26:48] Prompt length (chars): 5172
+[2025-08-29 20:26:52] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_31.json
+[2025-08-29 20:26:52] Running NER on chunk_32.txt (attempt 1)...
+[2025-08-29 20:26:52] Prompt length (chars): 4760
+[2025-08-29 20:26:54] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_32.json
+[2025-08-29 20:26:54] Running NER on chunk_33.txt (attempt 1)...
+[2025-08-29 20:26:54] Prompt length (chars): 5337
+[2025-08-29 20:26:57] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_33.json
+[2025-08-29 20:26:57] Running NER on chunk_34.txt (attempt 1)...
+[2025-08-29 20:26:57] Prompt length (chars): 4564
+[2025-08-29 20:26:59] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_34.json
+[2025-08-29 20:26:59] Running NER on chunk_35.txt (attempt 1)...
+[2025-08-29 20:26:59] Prompt length (chars): 4333
+[2025-08-29 20:27:01] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_35.json
+[2025-08-29 20:27:01] Running NER on chunk_36.txt (attempt 1)...
+[2025-08-29 20:27:01] Prompt length (chars): 4732
+[2025-08-29 20:27:07] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 41 (char 81)
+[2025-08-29 20:27:07] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["computer", "phone" is not mentioned, however "computer" can be related to a means of communication in some contexts but here it seems more related to a tool for checking, hence it's not clear if it should be included. Given the strict ins
+[2025-08-29 20:27:07] Running NER on chunk_36.txt (attempt 2)...
+[2025-08-29 20:27:07] Prompt length (chars): 5449
+[2025-08-29 20:27:11] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_36.json
+[2025-08-29 20:27:11] Running NER on chunk_37.txt (attempt 1)...
+[2025-08-29 20:27:11] Prompt length (chars): 5155
+[2025-08-29 20:27:17] Format issue on attempt 1: Invalid JSON format. Expecting ',' delimiter: line 4 column 96 (char 136)
+[2025-08-29 20:27:17] [Invalid JSON Preview on attempt 1] {   "ENTITIES": {     "PROPER_NOUN": [],     "NOUN_PHRASE": ["his driver's license", "the glove box", "the computer check", "the phone" is not present, but "dispatch" can be considered as a means of communication]   },   "PROPER_NOUN_DESCRIPTION": {} }
+[2025-08-29 20:27:17] Running NER on chunk_37.txt (attempt 2)...
+[2025-08-29 20:27:17] Prompt length (chars): 5872
+[2025-08-29 20:27:21] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_37.json
+[2025-08-29 20:27:21] Running NER on chunk_38.txt (attempt 1)...
+[2025-08-29 20:27:21] Prompt length (chars): 4608
+[2025-08-29 20:27:24] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_38.json
+[2025-08-29 20:27:24] Running NER on chunk_39.txt (attempt 1)...
+[2025-08-29 20:27:24] Prompt length (chars): 4772
+[2025-08-29 20:27:27] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_39.json
+[2025-08-29 20:27:27] Running NER on chunk_40.txt (attempt 1)...
+[2025-08-29 20:27:27] Prompt length (chars): 4920
+[2025-08-29 20:27:29] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_40.json
+[2025-08-29 20:27:29] Running NER on chunk_41.txt (attempt 1)...
+[2025-08-29 20:27:29] Prompt length (chars): 3861
+[2025-08-29 20:27:31] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_41.json
+[2025-08-29 20:27:31] Running NER on chunk_42.txt (attempt 1)...
+[2025-08-29 20:27:31] Prompt length (chars): 4659
+[2025-08-29 20:27:34] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_42.json
+[2025-08-29 20:27:34] Running NER on chunk_43.txt (attempt 1)...
+[2025-08-29 20:27:34] Prompt length (chars): 5111
+[2025-08-29 20:27:37] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_43.json
+[2025-08-29 20:27:37] Running NER on chunk_44.txt (attempt 1)...
+[2025-08-29 20:27:37] Prompt length (chars): 4837
+[2025-08-29 20:27:39] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_44.json
+[2025-08-29 20:27:39] Running NER on chunk_45.txt (attempt 1)...
+[2025-08-29 20:27:39] Prompt length (chars): 5002
+[2025-08-29 20:27:42] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_45.json
+[2025-08-29 20:27:42] Running NER on chunk_46.txt (attempt 1)...
+[2025-08-29 20:27:42] Prompt length (chars): 3930
+[2025-08-29 20:27:44] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_46.json
+[2025-08-29 20:27:44] Running NER on chunk_47.txt (attempt 1)...
+[2025-08-29 20:27:44] Prompt length (chars): 4239
+[2025-08-29 20:27:46] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_47.json
+[2025-08-29 20:27:46] Running NER on chunk_48.txt (attempt 1)...
+[2025-08-29 20:27:46] Prompt length (chars): 4489
+[2025-08-29 20:27:48] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_48.json
+[2025-08-29 20:27:48] Running NER on chunk_49.txt (attempt 1)...
+[2025-08-29 20:27:48] Prompt length (chars): 3963
+[2025-08-29 20:27:50] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_49.json
+[2025-08-29 20:27:50] Running NER on chunk_50.txt (attempt 1)...
+[2025-08-29 20:27:50] Prompt length (chars): 4247
+[2025-08-29 20:27:52] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_50.json
+[2025-08-29 20:27:52] Running NER on chunk_51.txt (attempt 1)...
+[2025-08-29 20:27:52] Prompt length (chars): 3879
+[2025-08-29 20:27:54] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_51.json
+[2025-08-29 20:27:54] Running NER on chunk_52.txt (attempt 1)...
+[2025-08-29 20:27:54] Prompt length (chars): 3875
+[2025-08-29 20:27:56] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_52.json
+[2025-08-29 20:27:56] Running NER on chunk_53.txt (attempt 1)...
+[2025-08-29 20:27:56] Prompt length (chars): 3912
+[2025-08-29 20:27:58] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_53.json
+[2025-08-29 20:27:58] Running NER on chunk_54.txt (attempt 1)...
+[2025-08-29 20:27:58] Prompt length (chars): 4003
+[2025-08-29 20:28:00] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_54.json
+[2025-08-29 20:28:00] Running NER on chunk_55.txt (attempt 1)...
+[2025-08-29 20:28:00] Prompt length (chars): 4533
+[2025-08-29 20:28:02] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_55.json
+[2025-08-29 20:28:02] Running NER on chunk_56.txt (attempt 1)...
+[2025-08-29 20:28:02] Prompt length (chars): 4347
+[2025-08-29 20:28:04] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_56.json
+[2025-08-29 20:28:04] Running NER on chunk_57.txt (attempt 1)...
+[2025-08-29 20:28:04] Prompt length (chars): 4402
+[2025-08-29 20:28:07] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_57.json
+[2025-08-29 20:28:07] Running NER on chunk_58.txt (attempt 1)...
+[2025-08-29 20:28:07] Prompt length (chars): 4413
+[2025-08-29 20:28:09] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_58.json
+[2025-08-29 20:28:09] Running NER on chunk_59.txt (attempt 1)...
+[2025-08-29 20:28:09] Prompt length (chars): 4182
+[2025-08-29 20:28:11] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_59.json
+[2025-08-29 20:28:11] Running NER on chunk_60.txt (attempt 1)...
+[2025-08-29 20:28:11] Prompt length (chars): 3943
+[2025-08-29 20:28:13] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_60.json
+[2025-08-29 20:28:13] Running NER on chunk_61.txt (attempt 1)...
+[2025-08-29 20:28:13] Prompt length (chars): 3636
+[2025-08-29 20:28:15] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_61.json
+[2025-08-29 20:28:15] Running NER on chunk_62.txt (attempt 1)...
+[2025-08-29 20:28:15] Prompt length (chars): 5280
+[2025-08-29 20:28:17] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_62.json
+[2025-08-29 20:28:17] Running NER on chunk_63.txt (attempt 1)...
+[2025-08-29 20:28:17] Prompt length (chars): 3921
+[2025-08-29 20:28:19] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_63.json
+[2025-08-29 20:28:19] Running NER on chunk_64.txt (attempt 1)...
+[2025-08-29 20:28:19] Prompt length (chars): 5468
+[2025-08-29 20:28:22] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_64.json
+[2025-08-29 20:28:22] Running NER on chunk_65.txt (attempt 1)...
+[2025-08-29 20:28:22] Prompt length (chars): 4699
+[2025-08-29 20:28:25] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_65.json
+[2025-08-29 20:28:25] Running NER on chunk_66.txt (attempt 1)...
+[2025-08-29 20:28:25] Prompt length (chars): 4629
+[2025-08-29 20:28:28] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_66.json
+[2025-08-29 20:28:28] Running NER on chunk_67.txt (attempt 1)...
+[2025-08-29 20:28:28] Prompt length (chars): 4569
+[2025-08-29 20:28:30] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_67.json
+[2025-08-29 20:28:30] Running NER on chunk_68.txt (attempt 1)...
+[2025-08-29 20:28:30] Prompt length (chars): 4406
+[2025-08-29 20:28:32] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_68.json
+[2025-08-29 20:28:32] Running NER on chunk_69.txt (attempt 1)...
+[2025-08-29 20:28:32] Prompt length (chars): 4456
+[2025-08-29 20:28:34] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_69.json
+[2025-08-29 20:28:34] Running NER on chunk_70.txt (attempt 1)...
+[2025-08-29 20:28:34] Prompt length (chars): 5377
+[2025-08-29 20:28:37] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_70.json
+[2025-08-29 20:28:37] Running NER on chunk_71.txt (attempt 1)...
+[2025-08-29 20:28:37] Prompt length (chars): 3759
+[2025-08-29 20:28:39] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_71.json
+[2025-08-29 20:28:39] Running NER on chunk_72.txt (attempt 1)...
+[2025-08-29 20:28:39] Prompt length (chars): 4490
+[2025-08-29 20:28:41] Saved: output/04USVsRodriguez/moc/ner_outputs/chunk_72.json
+[2025-08-29 20:28:41] NER completed in 370.66 seconds.
+[2025-08-29 20:28:41] Cumulative time after NER: 380.17 seconds.
+[2025-08-29 20:28:41] Starting Coreference Resolution Step...
+[2025-08-29 20:28:42] Processing chunk_01 (verification=False)...
+[2025-08-29 20:28:42] Prompt length (chars): 6133
+[2025-08-29 20:28:49] [Attempt 1] Response received in 7.66 seconds for chunk_01
+[2025-08-29 20:28:49] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_01.json
+[2025-08-29 20:28:49] Processing chunk_02 (verification=False)...
+[2025-08-29 20:28:49] Prompt length (chars): 7871
+[2025-08-29 20:28:56] [Attempt 1] Response received in 6.66 seconds for chunk_02
+[2025-08-29 20:28:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_02.json
+[2025-08-29 20:28:56] Processing chunk_03 (verification=False)...
+[2025-08-29 20:28:56] Prompt length (chars): 6227
+[2025-08-29 20:29:02] [Attempt 1] Response received in 5.6 seconds for chunk_03
+[2025-08-29 20:29:02] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_03.json
+[2025-08-29 20:29:02] Processing chunk_04 (verification=False)...
+[2025-08-29 20:29:02] Prompt length (chars): 7495
+[2025-08-29 20:29:08] [Attempt 1] Response received in 6.13 seconds for chunk_04
+[2025-08-29 20:29:08] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_04.json
+[2025-08-29 20:29:08] Processing chunk_05 (verification=False)...
+[2025-08-29 20:29:08] Prompt length (chars): 7649
+[2025-08-29 20:29:14] [Attempt 1] Response received in 6.12 seconds for chunk_05
+[2025-08-29 20:29:14] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_05.json
+[2025-08-29 20:29:14] Processing chunk_06 (verification=False)...
+[2025-08-29 20:29:14] Prompt length (chars): 6511
+[2025-08-29 20:29:19] [Attempt 1] Response received in 5.53 seconds for chunk_06
+[2025-08-29 20:29:19] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_06.json
+[2025-08-29 20:29:19] Processing chunk_07 (verification=False)...
+[2025-08-29 20:29:19] Prompt length (chars): 7771
+[2025-08-29 20:29:26] [Attempt 1] Response received in 6.27 seconds for chunk_07
+[2025-08-29 20:29:26] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_07.json
+[2025-08-29 20:29:26] Processing chunk_08 (verification=False)...
+[2025-08-29 20:29:26] Prompt length (chars): 7480
+[2025-08-29 20:29:32] [Attempt 1] Response received in 6.26 seconds for chunk_08
+[2025-08-29 20:29:32] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_08.json
+[2025-08-29 20:29:32] Processing chunk_09 (verification=False)...
+[2025-08-29 20:29:32] Prompt length (chars): 8248
+[2025-08-29 20:29:41] [Attempt 1] Response received in 9.14 seconds for chunk_09
+[2025-08-29 20:29:41] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_09.json
+[2025-08-29 20:29:41] Processing chunk_10 (verification=False)...
+[2025-08-29 20:29:41] Prompt length (chars): 7829
+[2025-08-29 20:29:50] [Attempt 1] Response received in 9.13 seconds for chunk_10
+[2025-08-29 20:29:50] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_10.json
+[2025-08-29 20:29:50] Processing chunk_11 (verification=False)...
+[2025-08-29 20:29:50] Prompt length (chars): 7794
+[2025-08-29 20:30:01] [Attempt 1] Response received in 10.29 seconds for chunk_11
+[2025-08-29 20:30:01] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_11.json
+[2025-08-29 20:30:01] Processing chunk_12 (verification=False)...
+[2025-08-29 20:30:01] Prompt length (chars): 8314
+[2025-08-29 20:30:30] [Attempt 1] Response received in 29.59 seconds for chunk_12
+[2025-08-29 20:30:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_12.json
+[2025-08-29 20:30:30] Processing chunk_13 (verification=False)...
+[2025-08-29 20:30:30] Prompt length (chars): 10123
+[2025-08-29 20:31:03] [Attempt 1] Response received in 32.35 seconds for chunk_13
+[2025-08-29 20:31:03] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_13.json
+[2025-08-29 20:31:03] Processing chunk_14 (verification=False)...
+[2025-08-29 20:31:03] Prompt length (chars): 9761
+[2025-08-29 20:31:35] [Attempt 1] Response received in 32.67 seconds for chunk_14
+[2025-08-29 20:31:35] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_14.json
+[2025-08-29 20:31:35] Processing chunk_15 (verification=False)...
+[2025-08-29 20:31:35] Prompt length (chars): 10267
+[2025-08-29 20:32:11] [Attempt 1] Response received in 35.76 seconds for chunk_15
+[2025-08-29 20:32:11] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_15.json
+[2025-08-29 20:32:11] Processing chunk_16 (verification=False)...
+[2025-08-29 20:32:11] Prompt length (chars): 10812
+[2025-08-29 20:32:46] [Attempt 1] Response received in 34.49 seconds for chunk_16
+[2025-08-29 20:32:46] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_16.json
+[2025-08-29 20:32:46] Processing chunk_17 (verification=False)...
+[2025-08-29 20:32:46] Prompt length (chars): 10400
+[2025-08-29 20:33:21] [Attempt 1] Response received in 35.73 seconds for chunk_17
+[2025-08-29 20:33:21] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_17.json
+[2025-08-29 20:33:21] Processing chunk_18 (verification=False)...
+[2025-08-29 20:33:21] Prompt length (chars): 10770
+[2025-08-29 20:33:58] [Attempt 1] Response received in 36.92 seconds for chunk_18
+[2025-08-29 20:33:58] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_18.json
+[2025-08-29 20:33:58] Processing chunk_19 (verification=False)...
+[2025-08-29 20:33:58] Prompt length (chars): 9980
+[2025-08-29 20:34:34] [Attempt 1] Response received in 36.22 seconds for chunk_19
+[2025-08-29 20:34:34] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_19.json
+[2025-08-29 20:34:34] Processing chunk_20 (verification=False)...
+[2025-08-29 20:34:34] Prompt length (chars): 10295
+[2025-08-29 20:35:12] [Attempt 1] Response received in 37.28 seconds for chunk_20
+[2025-08-29 20:35:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_20.json
+[2025-08-29 20:35:12] Processing chunk_21 (verification=False)...
+[2025-08-29 20:35:12] Prompt length (chars): 8913
+[2025-08-29 20:35:47] [Attempt 1] Response received in 35.13 seconds for chunk_21
+[2025-08-29 20:35:47] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_21.json
+[2025-08-29 20:35:47] Processing chunk_22 (verification=False)...
+[2025-08-29 20:35:47] Prompt length (chars): 11271
+[2025-08-29 20:36:24] [Attempt 1] Response received in 36.84 seconds for chunk_22
+[2025-08-29 20:36:24] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_22.json
+[2025-08-29 20:36:24] Processing chunk_23 (verification=False)...
+[2025-08-29 20:36:24] Prompt length (chars): 8960
+[2025-08-29 20:37:04] [Attempt 1] Response received in 40.12 seconds for chunk_23
+[2025-08-29 20:37:04] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_23.json
+[2025-08-29 20:37:04] Processing chunk_24 (verification=False)...
+[2025-08-29 20:37:04] Prompt length (chars): 11937
+[2025-08-29 20:37:48] [Attempt 1] Response received in 44.13 seconds for chunk_24
+[2025-08-29 20:37:48] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_24.json
+[2025-08-29 20:37:48] Processing chunk_25 (verification=False)...
+[2025-08-29 20:37:48] Prompt length (chars): 11397
+[2025-08-29 20:38:32] [Attempt 1] Response received in 43.82 seconds for chunk_25
+[2025-08-29 20:38:32] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_25.json
+[2025-08-29 20:38:32] Processing chunk_26 (verification=False)...
+[2025-08-29 20:38:32] Prompt length (chars): 12206
+[2025-08-29 20:39:15] [Attempt 1] Response received in 43.35 seconds for chunk_26
+[2025-08-29 20:39:15] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_26.json
+[2025-08-29 20:39:15] Processing chunk_27 (verification=False)...
+[2025-08-29 20:39:15] Prompt length (chars): 11645
+[2025-08-29 20:39:58] [Attempt 1] Response received in 42.73 seconds for chunk_27
+[2025-08-29 20:39:58] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_27.json
+[2025-08-29 20:39:58] Processing chunk_28 (verification=False)...
+[2025-08-29 20:39:58] Prompt length (chars): 12561
+[2025-08-29 20:40:41] [Attempt 1] Response received in 42.6 seconds for chunk_28
+[2025-08-29 20:40:41] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_28.json
+[2025-08-29 20:40:41] Processing chunk_29 (verification=False)...
+[2025-08-29 20:40:41] Prompt length (chars): 11445
+[2025-08-29 20:41:25] [Attempt 1] Response received in 44.12 seconds for chunk_29
+[2025-08-29 20:41:25] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_29.json
+[2025-08-29 20:41:25] Processing chunk_30 (verification=False)...
+[2025-08-29 20:41:25] Prompt length (chars): 12277
+[2025-08-29 20:42:12] [Attempt 1] Response received in 47.57 seconds for chunk_30
+[2025-08-29 20:42:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_30.json
+[2025-08-29 20:42:12] Processing chunk_31 (verification=False)...
+[2025-08-29 20:42:12] Prompt length (chars): 11871
+[2025-08-29 20:43:04] [Attempt 1] Response received in 51.84 seconds for chunk_31
+[2025-08-29 20:43:04] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_31.json
+[2025-08-29 20:43:04] Processing chunk_32 (verification=False)...
+[2025-08-29 20:43:04] Prompt length (chars): 11710
+[2025-08-29 20:43:56] [Attempt 1] Response received in 51.41 seconds for chunk_32
+[2025-08-29 20:43:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_32.json
+[2025-08-29 20:43:56] Processing chunk_33 (verification=False)...
+[2025-08-29 20:43:56] Prompt length (chars): 12297
+[2025-08-29 20:44:48] [Attempt 1] Response received in 52.7 seconds for chunk_33
+[2025-08-29 20:44:48] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_33.json
+[2025-08-29 20:44:48] Processing chunk_34 (verification=False)...
+[2025-08-29 20:44:48] Prompt length (chars): 11652
+[2025-08-29 20:45:42] [Attempt 1] Response received in 53.58 seconds for chunk_34
+[2025-08-29 20:45:42] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_34.json
+[2025-08-29 20:45:42] Processing chunk_35 (verification=False)...
+[2025-08-29 20:45:42] Prompt length (chars): 11421
+[2025-08-29 20:46:34] [Attempt 1] Response received in 52.08 seconds for chunk_35
+[2025-08-29 20:46:34] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_35.json
+[2025-08-29 20:46:34] Processing chunk_36 (verification=False)...
+[2025-08-29 20:46:34] Prompt length (chars): 11956
+[2025-08-29 20:47:32] [Attempt 1] Response received in 57.88 seconds for chunk_36
+[2025-08-29 20:47:32] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_36.json
+[2025-08-29 20:47:32] Processing chunk_37 (verification=False)...
+[2025-08-29 20:47:32] Prompt length (chars): 12878
+[2025-08-29 20:48:34] [Attempt 1] Response received in 61.93 seconds for chunk_37
+[2025-08-29 20:48:34] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_37.json
+[2025-08-29 20:48:34] Processing chunk_38 (verification=False)...
+[2025-08-29 20:48:34] Prompt length (chars): 12432
+[2025-08-29 20:49:35] [Attempt 1] Response received in 61.65 seconds for chunk_38
+[2025-08-29 20:49:35] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_38.json
+[2025-08-29 20:49:35] Processing chunk_39 (verification=False)...
+[2025-08-29 20:49:35] Prompt length (chars): 12622
+[2025-08-29 20:50:36] [Attempt 1] Response received in 60.84 seconds for chunk_39
+[2025-08-29 20:50:36] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_39.json
+[2025-08-29 20:50:36] Processing chunk_40 (verification=False)...
+[2025-08-29 20:50:36] Prompt length (chars): 12861
+[2025-08-29 20:51:39] [Attempt 1] Response received in 62.51 seconds for chunk_40
+[2025-08-29 20:51:39] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_40.json
+[2025-08-29 20:51:39] Processing chunk_41 (verification=False)...
+[2025-08-29 20:51:39] Prompt length (chars): 11802
+[2025-08-29 20:52:39] [Attempt 1] Response received in 59.99 seconds for chunk_41
+[2025-08-29 20:52:39] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_41.json
+[2025-08-29 20:52:39] Processing chunk_42 (verification=False)...
+[2025-08-29 20:52:39] Prompt length (chars): 12796
+[2025-08-29 20:53:43] [Attempt 1] Response received in 63.87 seconds for chunk_42
+[2025-08-29 20:53:43] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_42.json
+[2025-08-29 20:53:43] Processing chunk_43 (verification=False)...
+[2025-08-29 20:53:43] Prompt length (chars): 13436
+[2025-08-29 20:54:50] [Attempt 1] Response received in 67.66 seconds for chunk_43
+[2025-08-29 20:54:50] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_43.json
+[2025-08-29 20:54:50] Processing chunk_44 (verification=False)...
+[2025-08-29 20:54:50] Prompt length (chars): 13155
+[2025-08-29 20:55:56] [Attempt 1] Response received in 65.85 seconds for chunk_44
+[2025-08-29 20:55:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_44.json
+[2025-08-29 20:55:56] Processing chunk_45 (verification=False)...
+[2025-08-29 20:55:56] Prompt length (chars): 13373
+[2025-08-29 20:57:03] [Attempt 1] Response received in 66.81 seconds for chunk_45
+[2025-08-29 20:57:03] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_45.json
+[2025-08-29 20:57:03] Processing chunk_46 (verification=False)...
+[2025-08-29 20:57:03] Prompt length (chars): 12465
+[2025-08-29 20:58:11] [Attempt 1] Response received in 67.67 seconds for chunk_46
+[2025-08-29 20:58:11] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_46.json
+[2025-08-29 20:58:11] Processing chunk_47 (verification=False)...
+[2025-08-29 20:58:11] Prompt length (chars): 12775
+[2025-08-29 20:59:17] [Attempt 1] Response received in 66.13 seconds for chunk_47
+[2025-08-29 20:59:17] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_47.json
+[2025-08-29 20:59:17] Processing chunk_48 (verification=False)...
+[2025-08-29 20:59:17] Prompt length (chars): 13018
+[2025-08-29 21:00:24] [Attempt 1] Response received in 66.97 seconds for chunk_48
+[2025-08-29 21:00:24] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_48.json
+[2025-08-29 21:00:24] Processing chunk_49 (verification=False)...
+[2025-08-29 21:00:24] Prompt length (chars): 12531
+[2025-08-29 21:01:36] [Attempt 1] Response received in 72.04 seconds for chunk_49
+[2025-08-29 21:01:36] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_49.json
+[2025-08-29 21:01:36] Processing chunk_50 (verification=False)...
+[2025-08-29 21:01:36] Prompt length (chars): 13219
+[2025-08-29 21:02:51] [Attempt 1] Response received in 74.72 seconds for chunk_50
+[2025-08-29 21:02:51] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_50.json
+[2025-08-29 21:02:51] Processing chunk_51 (verification=False)...
+[2025-08-29 21:02:51] Prompt length (chars): 12976
+[2025-08-29 21:04:05] [Attempt 1] Response received in 74.04 seconds for chunk_51
+[2025-08-29 21:04:05] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_51.json
+[2025-08-29 21:04:05] Processing chunk_52 (verification=False)...
+[2025-08-29 21:04:05] Prompt length (chars): 12966
+[2025-08-29 21:05:17] [Attempt 1] Response received in 72.5 seconds for chunk_52
+[2025-08-29 21:05:17] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_52.json
+[2025-08-29 21:05:17] Processing chunk_53 (verification=False)...
+[2025-08-29 21:05:17] Prompt length (chars): 13003
+[2025-08-29 21:06:30] [Attempt 1] Response received in 72.39 seconds for chunk_53
+[2025-08-29 21:06:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_53.json
+[2025-08-29 21:06:30] Processing chunk_54 (verification=False)...
+[2025-08-29 21:06:30] Prompt length (chars): 13094
+[2025-08-29 21:06:33] [Attempt 1] Response received in 3.74 seconds for chunk_54
+[2025-08-29 21:06:33] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_54.json
+[2025-08-29 21:06:33] Processing chunk_55 (verification=False)...
+[2025-08-29 21:06:33] Prompt length (chars): 13676
+[2025-08-29 21:07:49] [Attempt 1] Response received in 76.03 seconds for chunk_55
+[2025-08-29 21:07:49] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_55.json
+[2025-08-29 21:07:49] Processing chunk_56 (verification=False)...
+[2025-08-29 21:07:49] Prompt length (chars): 13490
+[2025-08-29 21:09:04] [Attempt 1] Response received in 74.26 seconds for chunk_56
+[2025-08-29 21:09:04] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_56.json
+[2025-08-29 21:09:04] Processing chunk_57 (verification=False)...
+[2025-08-29 21:09:04] Prompt length (chars): 13591
+[2025-08-29 21:10:18] [Attempt 1] Response received in 74.39 seconds for chunk_57
+[2025-08-29 21:10:18] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_57.json
+[2025-08-29 21:10:18] Processing chunk_58 (verification=False)...
+[2025-08-29 21:10:18] Prompt length (chars): 13544
+[2025-08-29 21:11:36] [Attempt 1] Response received in 77.49 seconds for chunk_58
+[2025-08-29 21:11:36] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_58.json
+[2025-08-29 21:11:36] Processing chunk_59 (verification=False)...
+[2025-08-29 21:11:36] Prompt length (chars): 13311
+[2025-08-29 21:12:50] [Attempt 1] Response received in 74.13 seconds for chunk_59
+[2025-08-29 21:12:50] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_59.json
+[2025-08-29 21:12:50] Processing chunk_60 (verification=False)...
+[2025-08-29 21:12:50] Prompt length (chars): 13119
+[2025-08-29 21:14:06] [Attempt 1] Response received in 75.73 seconds for chunk_60
+[2025-08-29 21:14:06] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_60.json
+[2025-08-29 21:14:06] Processing chunk_61 (verification=False)...
+[2025-08-29 21:14:06] Prompt length (chars): 12890
+[2025-08-29 21:15:23] [Attempt 1] Response received in 77.06 seconds for chunk_61
+[2025-08-29 21:15:23] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_61.json
+[2025-08-29 21:15:23] Processing chunk_62 (verification=False)...
+[2025-08-29 21:15:23] Prompt length (chars): 14534
+[2025-08-29 21:16:40] [Attempt 1] Response received in 76.93 seconds for chunk_62
+[2025-08-29 21:16:40] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_62.json
+[2025-08-29 21:16:40] Processing chunk_63 (verification=False)...
+[2025-08-29 21:16:40] Prompt length (chars): 13175
+[2025-08-29 21:17:55] [Attempt 1] Response received in 75.5 seconds for chunk_63
+[2025-08-29 21:17:55] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_63.json
+[2025-08-29 21:17:55] Processing chunk_64 (verification=False)...
+[2025-08-29 21:17:55] Prompt length (chars): 14771
+[2025-08-29 21:19:12] [Attempt 1] Response received in 77.14 seconds for chunk_64
+[2025-08-29 21:19:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_64.json
+[2025-08-29 21:19:12] Processing chunk_65 (verification=False)...
+[2025-08-29 21:19:12] Prompt length (chars): 13953
+[2025-08-29 21:20:29] [Attempt 1] Response received in 76.77 seconds for chunk_65
+[2025-08-29 21:20:29] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_65.json
+[2025-08-29 21:20:29] Processing chunk_66 (verification=False)...
+[2025-08-29 21:20:29] Prompt length (chars): 14097
+[2025-08-29 21:21:50] [Attempt 1] Response received in 80.64 seconds for chunk_66
+[2025-08-29 21:21:50] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_66.json
+[2025-08-29 21:21:50] Processing chunk_67 (verification=False)...
+[2025-08-29 21:21:50] Prompt length (chars): 14042
+[2025-08-29 21:23:11] [Attempt 1] Response received in 81.16 seconds for chunk_67
+[2025-08-29 21:23:11] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_67.json
+[2025-08-29 21:23:11] Processing chunk_68 (verification=False)...
+[2025-08-29 21:23:11] Prompt length (chars): 13927
+[2025-08-29 21:24:31] [Attempt 1] Response received in 80.3 seconds for chunk_68
+[2025-08-29 21:24:31] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_68.json
+[2025-08-29 21:24:31] Processing chunk_69 (verification=False)...
+[2025-08-29 21:24:31] Prompt length (chars): 13979
+[2025-08-29 21:25:53] [Attempt 1] Response received in 81.71 seconds for chunk_69
+[2025-08-29 21:25:53] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_69.json
+[2025-08-29 21:25:53] Processing chunk_70 (verification=False)...
+[2025-08-29 21:25:53] Prompt length (chars): 15148
+[2025-08-29 21:27:19] [Attempt 1] Response received in 86.16 seconds for chunk_70
+[2025-08-29 21:27:19] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_70.json
+[2025-08-29 21:27:19] Processing chunk_71 (verification=False)...
+[2025-08-29 21:27:19] Prompt length (chars): 13530
+[2025-08-29 21:28:40] [Attempt 1] Response received in 81.17 seconds for chunk_71
+[2025-08-29 21:28:40] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_71.json
+[2025-08-29 21:28:40] Processing chunk_72 (verification=False)...
+[2025-08-29 21:28:40] Prompt length (chars): 14290
+[2025-08-29 21:30:03] [Attempt 1] Response received in 82.61 seconds for chunk_72
+[2025-08-29 21:30:03] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_72.json
+[2025-08-29 21:30:03] Final memory saved to: output/04USVsRodriguez/moc/final_memory.json
+[2025-08-29 21:30:03] Starting verification pass 1...
+[2025-08-29 21:30:03] Processing chunk_01 (verification=True)...
+[2025-08-29 21:30:03] Prompt length (chars): 13245
+[2025-08-29 21:31:25] [Attempt 1] Response received in 82.47 seconds for chunk_01
+[2025-08-29 21:31:25] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_01_verify.json
+[2025-08-29 21:31:25] Processing chunk_02 (verification=True)...
+[2025-08-29 21:31:25] Prompt length (chars): 14781
+[2025-08-29 21:32:49] [Attempt 1] Response received in 83.16 seconds for chunk_02
+[2025-08-29 21:32:49] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_02_verify.json
+[2025-08-29 21:32:49] Processing chunk_03 (verification=True)...
+[2025-08-29 21:32:49] Prompt length (chars): 13114
+[2025-08-29 21:34:10] [Attempt 1] Response received in 81.32 seconds for chunk_03
+[2025-08-29 21:34:10] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_03_verify.json
+[2025-08-29 21:34:10] Processing chunk_04 (verification=True)...
+[2025-08-29 21:34:10] Prompt length (chars): 14382
+[2025-08-29 21:35:33] [Attempt 1] Response received in 82.69 seconds for chunk_04
+[2025-08-29 21:35:33] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_04_verify.json
+[2025-08-29 21:35:33] Processing chunk_05 (verification=True)...
+[2025-08-29 21:35:33] Prompt length (chars): 14536
+[2025-08-29 21:36:57] [Attempt 1] Response received in 84.22 seconds for chunk_05
+[2025-08-29 21:36:57] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_05_verify.json
+[2025-08-29 21:36:57] Processing chunk_06 (verification=True)...
+[2025-08-29 21:36:57] Prompt length (chars): 13555
+[2025-08-29 21:38:23] [Attempt 1] Response received in 85.86 seconds for chunk_06
+[2025-08-29 21:38:23] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_06_verify.json
+[2025-08-29 21:38:23] Processing chunk_07 (verification=True)...
+[2025-08-29 21:38:23] Prompt length (chars): 14815
+[2025-08-29 21:39:47] [Attempt 1] Response received in 84.58 seconds for chunk_07
+[2025-08-29 21:39:47] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_07_verify.json
+[2025-08-29 21:39:47] Processing chunk_08 (verification=True)...
+[2025-08-29 21:39:47] Prompt length (chars): 14524
+[2025-08-29 21:41:12] [Attempt 1] Response received in 84.5 seconds for chunk_08
+[2025-08-29 21:41:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_08_verify.json
+[2025-08-29 21:41:12] Processing chunk_09 (verification=True)...
+[2025-08-29 21:41:12] Prompt length (chars): 15292
+[2025-08-29 21:42:37] [Attempt 1] Response received in 85.12 seconds for chunk_09
+[2025-08-29 21:42:37] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_09_verify.json
+[2025-08-29 21:42:37] Processing chunk_10 (verification=True)...
+[2025-08-29 21:42:37] Prompt length (chars): 14600
+[2025-08-29 21:44:03] [Attempt 1] Response received in 85.73 seconds for chunk_10
+[2025-08-29 21:44:03] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_10_verify.json
+[2025-08-29 21:44:03] Processing chunk_11 (verification=True)...
+[2025-08-29 21:44:03] Prompt length (chars): 14690
+[2025-08-29 21:45:31] [Attempt 1] Response received in 88.54 seconds for chunk_11
+[2025-08-29 21:45:31] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_11_verify.json
+[2025-08-29 21:45:31] Processing chunk_12 (verification=True)...
+[2025-08-29 21:45:31] Prompt length (chars): 15129
+[2025-08-29 21:47:06] [Attempt 1] Response received in 94.91 seconds for chunk_12
+[2025-08-29 21:47:06] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_12_verify.json
+[2025-08-29 21:47:06] Processing chunk_13 (verification=True)...
+[2025-08-29 21:47:06] Prompt length (chars): 15859
+[2025-08-29 21:48:41] [Attempt 1] Response received in 94.58 seconds for chunk_13
+[2025-08-29 21:48:41] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_13_verify.json
+[2025-08-29 21:48:41] Processing chunk_14 (verification=True)...
+[2025-08-29 21:48:41] Prompt length (chars): 15552
+[2025-08-29 21:50:16] [Attempt 1] Response received in 95.49 seconds for chunk_14
+[2025-08-29 21:50:16] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_14_verify.json
+[2025-08-29 21:50:16] Processing chunk_15 (verification=True)...
+[2025-08-29 21:50:16] Prompt length (chars): 15940
+[2025-08-29 21:51:55] [Attempt 1] Response received in 98.64 seconds for chunk_15
+[2025-08-29 21:51:55] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_15_verify.json
+[2025-08-29 21:51:55] Processing chunk_16 (verification=True)...
+[2025-08-29 21:51:55] Prompt length (chars): 16741
+[2025-08-29 21:53:39] [Attempt 1] Response received in 104.09 seconds for chunk_16
+[2025-08-29 21:53:39] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_16_verify.json
+[2025-08-29 21:53:39] Processing chunk_17 (verification=True)...
+[2025-08-29 21:53:39] Prompt length (chars): 16329
+[2025-08-29 21:55:21] [Attempt 1] Response received in 102.31 seconds for chunk_17
+[2025-08-29 21:55:21] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_17_verify.json
+[2025-08-29 21:55:21] Processing chunk_18 (verification=True)...
+[2025-08-29 21:55:21] Prompt length (chars): 16842
+[2025-08-29 21:55:30] [Attempt 1] Response received in 8.09 seconds for chunk_18
+[2025-08-29 21:55:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_18_verify.json
+[2025-08-29 21:55:30] Processing chunk_19 (verification=True)...
+[2025-08-29 21:55:30] Prompt length (chars): 16017
+[2025-08-29 21:57:14] [Attempt 1] Response received in 104.95 seconds for chunk_19
+[2025-08-29 21:57:14] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_19_verify.json
+[2025-08-29 21:57:14] Processing chunk_20 (verification=True)...
+[2025-08-29 21:57:14] Prompt length (chars): 16472
+[2025-08-29 21:57:36] [Attempt 1] Response received in 21.2 seconds for chunk_20
+[2025-08-29 21:57:36] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_20_verify.json
+[2025-08-29 21:57:36] Processing chunk_21 (verification=True)...
+[2025-08-29 21:57:36] Prompt length (chars): 16450
+[2025-08-29 21:59:36] [Attempt 1] Failed to process chunk_21: Ollama inference timed out.
+[2025-08-29 21:59:36] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:01:34] [Extended Timeout] Response received in 118.46 seconds for chunk_21
+[2025-08-29 22:01:34] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_21_verify.json
+[2025-08-29 22:01:34] Processing chunk_22 (verification=True)...
+[2025-08-29 22:01:34] Prompt length (chars): 18808
+[2025-08-29 22:03:34] [Attempt 1] Failed to process chunk_22: Ollama inference timed out.
+[2025-08-29 22:03:34] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:05:34] [Extended Timeout] Response received in 120.07 seconds for chunk_22
+[2025-08-29 22:05:34] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_22_verify.json
+[2025-08-29 22:05:34] Processing chunk_23 (verification=True)...
+[2025-08-29 22:05:34] Prompt length (chars): 16509
+[2025-08-29 22:07:33] [Attempt 1] Response received in 118.63 seconds for chunk_23
+[2025-08-29 22:07:33] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_23_verify.json
+[2025-08-29 22:07:33] Processing chunk_24 (verification=True)...
+[2025-08-29 22:07:33] Prompt length (chars): 19226
+[2025-08-29 22:07:41] [Attempt 1] Response received in 7.93 seconds for chunk_24
+[2025-08-29 22:07:41] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_24_verify.json
+[2025-08-29 22:07:41] Processing chunk_25 (verification=True)...
+[2025-08-29 22:07:41] Prompt length (chars): 18392
+[2025-08-29 22:08:05] [Attempt 1] Response received in 23.63 seconds for chunk_25
+[2025-08-29 22:08:05] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_25_verify.json
+[2025-08-29 22:08:05] Processing chunk_26 (verification=True)...
+[2025-08-29 22:08:05] Prompt length (chars): 20255
+[2025-08-29 22:10:01] [Attempt 1] Response received in 116.48 seconds for chunk_26
+[2025-08-29 22:10:01] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_26_verify.json
+[2025-08-29 22:10:01] Processing chunk_27 (verification=True)...
+[2025-08-29 22:10:01] Prompt length (chars): 19982
+[2025-08-29 22:12:01] [Attempt 1] Failed to process chunk_27: Ollama inference timed out.
+[2025-08-29 22:12:01] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:14:16] [Extended Timeout] Response received in 134.3 seconds for chunk_27
+[2025-08-29 22:14:16] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_27_verify.json
+[2025-08-29 22:14:16] Processing chunk_28 (verification=True)...
+[2025-08-29 22:14:16] Prompt length (chars): 20898
+[2025-08-29 22:16:16] [Attempt 1] Failed to process chunk_28: Ollama inference timed out.
+[2025-08-29 22:16:16] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:18:33] [Extended Timeout] Response received in 137.38 seconds for chunk_28
+[2025-08-29 22:18:33] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_28_verify.json
+[2025-08-29 22:18:33] Processing chunk_29 (verification=True)...
+[2025-08-29 22:18:33] Prompt length (chars): 19809
+[2025-08-29 22:18:57] [Attempt 1] Response received in 24.08 seconds for chunk_29
+[2025-08-29 22:18:57] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_29_verify.json
+[2025-08-29 22:18:57] Processing chunk_30 (verification=True)...
+[2025-08-29 22:18:57] Prompt length (chars): 21288
+[2025-08-29 22:20:57] [Attempt 1] Failed to process chunk_30: Ollama inference timed out.
+[2025-08-29 22:20:57] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:23:27] [Extended Timeout] Response received in 149.27 seconds for chunk_30
+[2025-08-29 22:23:27] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_30_verify.json
+[2025-08-29 22:23:27] Processing chunk_31 (verification=True)...
+[2025-08-29 22:23:27] Prompt length (chars): 20970
+[2025-08-29 22:23:35] [Attempt 1] Response received in 8.78 seconds for chunk_31
+[2025-08-29 22:23:35] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_31_verify.json
+[2025-08-29 22:23:35] Processing chunk_32 (verification=True)...
+[2025-08-29 22:23:35] Prompt length (chars): 20518
+[2025-08-29 22:23:45] [Attempt 1] Response received in 9.46 seconds for chunk_32
+[2025-08-29 22:23:45] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_32_verify.json
+[2025-08-29 22:23:45] Processing chunk_33 (verification=True)...
+[2025-08-29 22:23:45] Prompt length (chars): 21105
+[2025-08-29 22:23:51] [Attempt 1] Response received in 5.63 seconds for chunk_33
+[2025-08-29 22:23:51] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_33_verify.json
+[2025-08-29 22:23:51] Processing chunk_34 (verification=True)...
+[2025-08-29 22:23:51] Prompt length (chars): 20276
+[2025-08-29 22:24:12] [Attempt 1] Response received in 21.92 seconds for chunk_34
+[2025-08-29 22:24:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_34_verify.json
+[2025-08-29 22:24:12] Processing chunk_35 (verification=True)...
+[2025-08-29 22:24:12] Prompt length (chars): 21574
+[2025-08-29 22:26:13] [Attempt 1] Failed to process chunk_35: Ollama inference timed out.
+[2025-08-29 22:26:13] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:28:59] [Extended Timeout] Response received in 165.93 seconds for chunk_35
+[2025-08-29 22:28:59] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_35_verify.json
+[2025-08-29 22:28:59] Processing chunk_36 (verification=True)...
+[2025-08-29 22:28:59] Prompt length (chars): 22109
+[2025-08-29 22:29:08] [Attempt 1] Response received in 9.08 seconds for chunk_36
+[2025-08-29 22:29:08] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_36_verify.json
+[2025-08-29 22:29:08] Processing chunk_37 (verification=True)...
+[2025-08-29 22:29:08] Prompt length (chars): 22509
+[2025-08-29 22:29:15] [Attempt 1] Response received in 7.18 seconds for chunk_37
+[2025-08-29 22:29:15] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_37_verify.json
+[2025-08-29 22:29:15] Processing chunk_38 (verification=True)...
+[2025-08-29 22:29:15] Prompt length (chars): 21911
+[2025-08-29 22:31:15] [Attempt 1] Failed to process chunk_38: Ollama inference timed out.
+[2025-08-29 22:31:15] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:33:44] [Extended Timeout] Response received in 148.6 seconds for chunk_38
+[2025-08-29 22:33:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_38_verify.json
+[2025-08-29 22:33:44] Processing chunk_39 (verification=True)...
+[2025-08-29 22:33:44] Prompt length (chars): 23058
+[2025-08-29 22:33:53] [Attempt 1] Response received in 9.06 seconds for chunk_39
+[2025-08-29 22:33:53] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_39_verify.json
+[2025-08-29 22:33:53] Processing chunk_40 (verification=True)...
+[2025-08-29 22:33:53] Prompt length (chars): 23181
+[2025-08-29 22:34:09] [Attempt 1] Response received in 16.36 seconds for chunk_40
+[2025-08-29 22:34:09] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_40_verify.json
+[2025-08-29 22:34:09] Processing chunk_41 (verification=True)...
+[2025-08-29 22:34:09] Prompt length (chars): 22298
+[2025-08-29 22:36:09] [Attempt 1] Failed to process chunk_41: Ollama inference timed out.
+[2025-08-29 22:36:09] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:39:15] [Extended Timeout] Response received in 185.81 seconds for chunk_41
+[2025-08-29 22:39:15] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_41_verify.json
+[2025-08-29 22:39:15] Processing chunk_42 (verification=True)...
+[2025-08-29 22:39:15] Prompt length (chars): 23292
+[2025-08-29 22:39:22] [Attempt 1] Response received in 7.39 seconds for chunk_42
+[2025-08-29 22:39:22] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_42_verify.json
+[2025-08-29 22:39:22] Processing chunk_43 (verification=True)...
+[2025-08-29 22:39:22] Prompt length (chars): 23828
+[2025-08-29 22:39:31] [Attempt 1] Response received in 8.97 seconds for chunk_43
+[2025-08-29 22:39:31] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_43_verify.json
+[2025-08-29 22:39:31] Processing chunk_44 (verification=True)...
+[2025-08-29 22:39:31] Prompt length (chars): 23522
+[2025-08-29 22:41:32] [Attempt 1] Failed to process chunk_44: Ollama inference timed out.
+[2025-08-29 22:41:32] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:44:38] [Extended Timeout] Response received in 186.2 seconds for chunk_44
+[2025-08-29 22:44:38] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_44_verify.json
+[2025-08-29 22:44:38] Processing chunk_45 (verification=True)...
+[2025-08-29 22:44:38] Prompt length (chars): 23740
+[2025-08-29 22:44:44] [Attempt 1] Response received in 5.98 seconds for chunk_45
+[2025-08-29 22:44:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_45_verify.json
+[2025-08-29 22:44:44] Processing chunk_46 (verification=True)...
+[2025-08-29 22:44:44] Prompt length (chars): 22707
+[2025-08-29 22:44:56] [Attempt 1] Response received in 12.12 seconds for chunk_46
+[2025-08-29 22:44:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_46_verify.json
+[2025-08-29 22:44:56] Processing chunk_47 (verification=True)...
+[2025-08-29 22:44:56] Prompt length (chars): 22799
+[2025-08-29 22:45:12] [Attempt 1] Response received in 16.44 seconds for chunk_47
+[2025-08-29 22:45:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_47_verify.json
+[2025-08-29 22:45:12] Processing chunk_48 (verification=True)...
+[2025-08-29 22:45:12] Prompt length (chars): 23486
+[2025-08-29 22:47:12] [Attempt 1] Failed to process chunk_48: Ollama inference timed out.
+[2025-08-29 22:47:12] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:50:28] [Extended Timeout] Response received in 195.41 seconds for chunk_48
+[2025-08-29 22:50:28] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_48_verify.json
+[2025-08-29 22:50:28] Processing chunk_49 (verification=True)...
+[2025-08-29 22:50:28] Prompt length (chars): 22962
+[2025-08-29 22:50:35] [Attempt 1] Response received in 7.1 seconds for chunk_49
+[2025-08-29 22:50:35] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_49_verify.json
+[2025-08-29 22:50:35] Processing chunk_50 (verification=True)...
+[2025-08-29 22:50:35] Prompt length (chars): 23193
+[2025-08-29 22:50:56] [Attempt 1] Response received in 20.55 seconds for chunk_50
+[2025-08-29 22:50:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_50_verify.json
+[2025-08-29 22:50:56] Processing chunk_51 (verification=True)...
+[2025-08-29 22:50:56] Prompt length (chars): 23084
+[2025-08-29 22:52:56] [Attempt 1] Failed to process chunk_51: Ollama inference timed out.
+[2025-08-29 22:52:56] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 22:55:46] [Extended Timeout] Response received in 170.46 seconds for chunk_51
+[2025-08-29 22:55:46] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_51_verify.json
+[2025-08-29 22:55:46] Processing chunk_52 (verification=True)...
+[2025-08-29 22:55:46] Prompt length (chars): 23216
+[2025-08-29 22:57:46] [Attempt 1] Failed to process chunk_52: Ollama inference timed out.
+[2025-08-29 22:57:46] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:00:37] [Extended Timeout] Response received in 171.01 seconds for chunk_52
+[2025-08-29 23:00:37] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_52_verify.json
+[2025-08-29 23:00:37] Processing chunk_53 (verification=True)...
+[2025-08-29 23:00:37] Prompt length (chars): 23308
+[2025-08-29 23:02:38] [Attempt 1] Failed to process chunk_53: Ollama inference timed out.
+[2025-08-29 23:02:38] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:05:31] [Extended Timeout] Response received in 173.14 seconds for chunk_53
+[2025-08-29 23:05:31] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_53_verify.json
+[2025-08-29 23:05:31] Processing chunk_54 (verification=True)...
+[2025-08-29 23:05:31] Prompt length (chars): 23536
+[2025-08-29 23:05:36] [Attempt 1] Response received in 5.54 seconds for chunk_54
+[2025-08-29 23:05:36] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_54_verify.json
+[2025-08-29 23:05:36] Processing chunk_55 (verification=True)...
+[2025-08-29 23:05:36] Prompt length (chars): 24072
+[2025-08-29 23:05:42] [Attempt 1] Response received in 5.54 seconds for chunk_55
+[2025-08-29 23:05:42] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_55_verify.json
+[2025-08-29 23:05:42] Processing chunk_56 (verification=True)...
+[2025-08-29 23:05:42] Prompt length (chars): 23886
+[2025-08-29 23:07:42] [Attempt 1] Failed to process chunk_56: Ollama inference timed out.
+[2025-08-29 23:07:42] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:11:05] [Extended Timeout] Response received in 203.09 seconds for chunk_56
+[2025-08-29 23:11:05] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_56_verify.json
+[2025-08-29 23:11:05] Processing chunk_57 (verification=True)...
+[2025-08-29 23:11:05] Prompt length (chars): 23987
+[2025-08-29 23:11:12] [Attempt 1] Response received in 6.81 seconds for chunk_57
+[2025-08-29 23:11:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_57_verify.json
+[2025-08-29 23:11:12] Processing chunk_58 (verification=True)...
+[2025-08-29 23:11:12] Prompt length (chars): 23952
+[2025-08-29 23:13:12] [Attempt 1] Failed to process chunk_58: Ollama inference timed out.
+[2025-08-29 23:13:12] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:16:35] [Extended Timeout] Response received in 203.28 seconds for chunk_58
+[2025-08-29 23:16:35] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_58_verify.json
+[2025-08-29 23:16:35] Processing chunk_59 (verification=True)...
+[2025-08-29 23:16:35] Prompt length (chars): 23719
+[2025-08-29 23:18:35] [Attempt 1] Failed to process chunk_59: Ollama inference timed out.
+[2025-08-29 23:18:35] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:21:59] [Extended Timeout] Response received in 203.6 seconds for chunk_59
+[2025-08-29 23:21:59] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_59_verify.json
+[2025-08-29 23:21:59] Processing chunk_60 (verification=True)...
+[2025-08-29 23:21:59] Prompt length (chars): 23562
+[2025-08-29 23:22:09] [Attempt 1] Response received in 9.93 seconds for chunk_60
+[2025-08-29 23:22:09] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_60_verify.json
+[2025-08-29 23:22:09] Processing chunk_61 (verification=True)...
+[2025-08-29 23:22:09] Prompt length (chars): 23249
+[2025-08-29 23:24:09] [Attempt 1] Failed to process chunk_61: Ollama inference timed out.
+[2025-08-29 23:24:09] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:27:05] [Extended Timeout] Response received in 176.04 seconds for chunk_61
+[2025-08-29 23:27:05] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_61_verify.json
+[2025-08-29 23:27:05] Processing chunk_62 (verification=True)...
+[2025-08-29 23:27:05] Prompt length (chars): 25043
+[2025-08-29 23:27:18] [Attempt 1] Response received in 12.27 seconds for chunk_62
+[2025-08-29 23:27:18] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_62_verify.json
+[2025-08-29 23:27:18] Processing chunk_63 (verification=True)...
+[2025-08-29 23:27:18] Prompt length (chars): 24009
+[2025-08-29 23:29:18] [Attempt 1] Failed to process chunk_63: Ollama inference timed out.
+[2025-08-29 23:29:18] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:32:44] [Extended Timeout] Response received in 206.17 seconds for chunk_63
+[2025-08-29 23:32:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_63_verify.json
+[2025-08-29 23:32:44] Processing chunk_64 (verification=True)...
+[2025-08-29 23:32:44] Prompt length (chars): 25605
+[2025-08-29 23:32:48] [Attempt 1] Response received in 4.51 seconds for chunk_64
+[2025-08-29 23:32:48] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_64_verify.json
+[2025-08-29 23:32:48] Processing chunk_65 (verification=True)...
+[2025-08-29 23:32:48] Prompt length (chars): 24752
+[2025-08-29 23:33:20] [Attempt 1] Response received in 31.91 seconds for chunk_65
+[2025-08-29 23:33:20] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_65_verify.json
+[2025-08-29 23:33:20] Processing chunk_66 (verification=True)...
+[2025-08-29 23:33:20] Prompt length (chars): 25517
+[2025-08-29 23:33:35] [Attempt 1] Response received in 14.83 seconds for chunk_66
+[2025-08-29 23:33:35] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_66_verify.json
+[2025-08-29 23:33:35] Processing chunk_67 (verification=True)...
+[2025-08-29 23:33:35] Prompt length (chars): 25337
+[2025-08-29 23:35:35] [Attempt 1] Failed to process chunk_67: Ollama inference timed out.
+[2025-08-29 23:35:35] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:38:48] [Extended Timeout] Response received in 192.6 seconds for chunk_67
+[2025-08-29 23:38:48] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_67_verify.json
+[2025-08-29 23:38:48] Processing chunk_68 (verification=True)...
+[2025-08-29 23:38:48] Prompt length (chars): 25174
+[2025-08-29 23:38:56] [Attempt 1] Response received in 7.79 seconds for chunk_68
+[2025-08-29 23:38:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_68_verify.json
+[2025-08-29 23:38:56] Processing chunk_69 (verification=True)...
+[2025-08-29 23:38:56] Prompt length (chars): 25305
+[2025-08-29 23:39:09] [Attempt 1] Response received in 13.49 seconds for chunk_69
+[2025-08-29 23:39:09] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_69_verify.json
+[2025-08-29 23:39:09] Processing chunk_70 (verification=True)...
+[2025-08-29 23:39:09] Prompt length (chars): 26393
+[2025-08-29 23:39:31] [Attempt 1] Response received in 21.75 seconds for chunk_70
+[2025-08-29 23:39:31] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_70_verify.json
+[2025-08-29 23:39:31] Processing chunk_71 (verification=True)...
+[2025-08-29 23:39:31] Prompt length (chars): 24813
+[2025-08-29 23:39:44] [Attempt 1] Response received in 12.52 seconds for chunk_71
+[2025-08-29 23:39:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_71_verify.json
+[2025-08-29 23:39:44] Processing chunk_72 (verification=True)...
+[2025-08-29 23:39:44] Prompt length (chars): 25659
+[2025-08-29 23:39:53] [Attempt 1] Response received in 9.1 seconds for chunk_72
+[2025-08-29 23:39:53] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_72_verify.json
+[2025-08-29 23:39:53] Final memory saved to: output/04USVsRodriguez/moc/final_memory.json
+[2025-08-29 23:39:53] Starting verification pass 2...
+[2025-08-29 23:39:53] Processing chunk_01 (verification=True)...
+[2025-08-29 23:39:53] Prompt length (chars): 24613
+[2025-08-29 23:41:53] [Attempt 1] Failed to process chunk_01: Ollama inference timed out.
+[2025-08-29 23:41:53] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:45:41] [Extended Timeout] Response received in 227.68 seconds for chunk_01
+[2025-08-29 23:45:41] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_01_verify.json
+[2025-08-29 23:45:41] Processing chunk_02 (verification=True)...
+[2025-08-29 23:45:41] Prompt length (chars): 26149
+[2025-08-29 23:45:44] [Attempt 1] Response received in 3.57 seconds for chunk_02
+[2025-08-29 23:45:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_02_verify.json
+[2025-08-29 23:45:44] Processing chunk_03 (verification=True)...
+[2025-08-29 23:45:44] Prompt length (chars): 24482
+[2025-08-29 23:47:45] [Attempt 1] Failed to process chunk_03: Ollama inference timed out.
+[2025-08-29 23:47:45] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:51:32] [Extended Timeout] Response received in 227.3 seconds for chunk_03
+[2025-08-29 23:51:32] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_03_verify.json
+[2025-08-29 23:51:32] Processing chunk_04 (verification=True)...
+[2025-08-29 23:51:32] Prompt length (chars): 25750
+[2025-08-29 23:51:58] [Attempt 1] Response received in 25.98 seconds for chunk_04
+[2025-08-29 23:51:58] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_04_verify.json
+[2025-08-29 23:51:58] Processing chunk_05 (verification=True)...
+[2025-08-29 23:51:58] Prompt length (chars): 26994
+[2025-08-29 23:52:33] [Attempt 1] Response received in 35.43 seconds for chunk_05
+[2025-08-29 23:52:33] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_05_verify.json
+[2025-08-29 23:52:34] Processing chunk_06 (verification=True)...
+[2025-08-29 23:52:34] Prompt length (chars): 26537
+[2025-08-29 23:54:34] [Attempt 1] Failed to process chunk_06: Ollama inference timed out.
+[2025-08-29 23:54:34] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-29 23:58:44] [Extended Timeout] Response received in 250.1 seconds for chunk_06
+[2025-08-29 23:58:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_06_verify.json
+[2025-08-29 23:58:44] Processing chunk_07 (verification=True)...
+[2025-08-29 23:58:44] Prompt length (chars): 27797
+[2025-08-29 23:58:52] [Attempt 1] Response received in 7.73 seconds for chunk_07
+[2025-08-29 23:58:52] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_07_verify.json
+[2025-08-29 23:58:52] Processing chunk_08 (verification=True)...
+[2025-08-29 23:58:52] Prompt length (chars): 27602
+[2025-08-29 23:59:05] [Attempt 1] Response received in 13.75 seconds for chunk_08
+[2025-08-29 23:59:05] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_08_verify.json
+[2025-08-29 23:59:05] Processing chunk_09 (verification=True)...
+[2025-08-29 23:59:05] Prompt length (chars): 28370
+[2025-08-30 00:01:06] [Attempt 1] Failed to process chunk_09: Ollama inference timed out.
+[2025-08-30 00:01:06] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-30 00:05:18] [Extended Timeout] Response received in 252.4 seconds for chunk_09
+[2025-08-30 00:05:18] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_09_verify.json
+[2025-08-30 00:05:18] Processing chunk_10 (verification=True)...
+[2025-08-30 00:05:18] Prompt length (chars): 27672
+[2025-08-30 00:05:59] [Attempt 1] Response received in 41.21 seconds for chunk_10
+[2025-08-30 00:05:59] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_10_verify.json
+[2025-08-30 00:05:59] Processing chunk_11 (verification=True)...
+[2025-08-30 00:05:59] Prompt length (chars): 28168
+[2025-08-30 00:06:15] [Attempt 1] Response received in 15.92 seconds for chunk_11
+[2025-08-30 00:06:15] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_11_verify.json
+[2025-08-30 00:06:15] Processing chunk_12 (verification=True)...
+[2025-08-30 00:06:15] Prompt length (chars): 28626
+[2025-08-30 00:06:48] [Attempt 1] Response received in 32.33 seconds for chunk_12
+[2025-08-30 00:06:48] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_12_verify.json
+[2025-08-30 00:06:48] Processing chunk_13 (verification=True)...
+[2025-08-30 00:06:48] Prompt length (chars): 28879
+[2025-08-30 00:07:11] [Attempt 1] Response received in 23.48 seconds for chunk_13
+[2025-08-30 00:07:11] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_13_verify.json
+[2025-08-30 00:07:11] Processing chunk_14 (verification=True)...
+[2025-08-30 00:07:11] Prompt length (chars): 28388
+[2025-08-30 00:07:42] [Attempt 1] Response received in 30.46 seconds for chunk_14
+[2025-08-30 00:07:42] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_14_verify.json
+[2025-08-30 00:07:42] Processing chunk_15 (verification=True)...
+[2025-08-30 00:07:42] Prompt length (chars): 29720
+[2025-08-30 00:08:06] [Attempt 1] Response received in 24.14 seconds for chunk_15
+[2025-08-30 00:08:06] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_15_verify.json
+[2025-08-30 00:08:06] Processing chunk_16 (verification=True)...
+[2025-08-30 00:08:06] Prompt length (chars): 30218
+[2025-08-30 00:08:11] [Attempt 1] Response received in 4.87 seconds for chunk_16
+[2025-08-30 00:08:11] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_16_verify.json
+[2025-08-30 00:08:11] Processing chunk_17 (verification=True)...
+[2025-08-30 00:08:11] Prompt length (chars): 29895
+[2025-08-30 00:08:21] [Attempt 1] Response received in 10.58 seconds for chunk_17
+[2025-08-30 00:08:21] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_17_verify.json
+[2025-08-30 00:08:21] Processing chunk_18 (verification=True)...
+[2025-08-30 00:08:21] Prompt length (chars): 30240
+[2025-08-30 00:08:30] [Attempt 1] Response received in 8.3 seconds for chunk_18
+[2025-08-30 00:08:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_18_verify.json
+[2025-08-30 00:08:30] Processing chunk_19 (verification=True)...
+[2025-08-30 00:08:30] Prompt length (chars): 29450
+[2025-08-30 00:08:36] [Attempt 1] Response received in 5.95 seconds for chunk_19
+[2025-08-30 00:08:36] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_19_verify.json
+[2025-08-30 00:08:36] Processing chunk_20 (verification=True)...
+[2025-08-30 00:08:36] Prompt length (chars): 29835
+[2025-08-30 00:09:03] [Attempt 1] Response received in 27.72 seconds for chunk_20
+[2025-08-30 00:09:03] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_20_verify.json
+[2025-08-30 00:09:03] Processing chunk_21 (verification=True)...
+[2025-08-30 00:09:03] Prompt length (chars): 28864
+[2025-08-30 00:11:04] [Attempt 1] Failed to process chunk_21: Ollama inference timed out.
+[2025-08-30 00:11:04] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-30 00:15:50] [Extended Timeout] Response received in 286.62 seconds for chunk_21
+[2025-08-30 00:15:50] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_21_verify.json
+[2025-08-30 00:15:50] Processing chunk_22 (verification=True)...
+[2025-08-30 00:15:50] Prompt length (chars): 31257
+[2025-08-30 00:16:00] [Attempt 1] Response received in 9.42 seconds for chunk_22
+[2025-08-30 00:16:00] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_22_verify.json
+[2025-08-30 00:16:00] Processing chunk_23 (verification=True)...
+[2025-08-30 00:16:00] Prompt length (chars): 28958
+[2025-08-30 00:18:00] [Attempt 1] Failed to process chunk_23: Ollama inference timed out.
+[2025-08-30 00:18:00] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-30 00:22:44] [Extended Timeout] Response received in 283.95 seconds for chunk_23
+[2025-08-30 00:22:44] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_23_verify.json
+[2025-08-30 00:22:44] Processing chunk_24 (verification=True)...
+[2025-08-30 00:22:44] Prompt length (chars): 31675
+[2025-08-30 00:22:53] [Attempt 1] Response received in 9.3 seconds for chunk_24
+[2025-08-30 00:22:53] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_24_verify.json
+[2025-08-30 00:22:53] Processing chunk_25 (verification=True)...
+[2025-08-30 00:22:53] Prompt length (chars): 30841
+[2025-08-30 00:23:19] [Attempt 1] Response received in 26.15 seconds for chunk_25
+[2025-08-30 00:23:19] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_25_verify.json
+[2025-08-30 00:23:19] Processing chunk_26 (verification=True)...
+[2025-08-30 00:23:19] Prompt length (chars): 31575
+[2025-08-30 00:23:30] [Attempt 1] Response received in 10.63 seconds for chunk_26
+[2025-08-30 00:23:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_26_verify.json
+[2025-08-30 00:23:30] Processing chunk_27 (verification=True)...
+[2025-08-30 00:23:30] Prompt length (chars): 31014
+[2025-08-30 00:24:08] [Attempt 1] Response received in 37.97 seconds for chunk_27
+[2025-08-30 00:24:08] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_27_verify.json
+[2025-08-30 00:24:08] Processing chunk_28 (verification=True)...
+[2025-08-30 00:24:08] Prompt length (chars): 33142
+[2025-08-30 00:24:21] [Attempt 1] Response received in 12.37 seconds for chunk_28
+[2025-08-30 00:24:21] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_28_verify.json
+[2025-08-30 00:24:21] Processing chunk_29 (verification=True)...
+[2025-08-30 00:24:21] Prompt length (chars): 31967
+[2025-08-30 00:24:40] [Attempt 1] Response received in 19.37 seconds for chunk_29
+[2025-08-30 00:24:40] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_29_verify.json
+[2025-08-30 00:24:40] Processing chunk_30 (verification=True)...
+[2025-08-30 00:24:40] Prompt length (chars): 33035
+[2025-08-30 00:25:09] [Attempt 1] Response received in 28.51 seconds for chunk_30
+[2025-08-30 00:25:09] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_30_verify.json
+[2025-08-30 00:25:09] Processing chunk_31 (verification=True)...
+[2025-08-30 00:25:09] Prompt length (chars): 32333
+[2025-08-30 00:25:30] [Attempt 1] Response received in 21.56 seconds for chunk_31
+[2025-08-30 00:25:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_31_verify.json
+[2025-08-30 00:25:30] Processing chunk_32 (verification=True)...
+[2025-08-30 00:25:30] Prompt length (chars): 31958
+[2025-08-30 00:25:37] [Attempt 1] Response received in 6.84 seconds for chunk_32
+[2025-08-30 00:25:37] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_32_verify.json
+[2025-08-30 00:25:37] Processing chunk_33 (verification=True)...
+[2025-08-30 00:25:37] Prompt length (chars): 32539
+[2025-08-30 00:25:56] [Attempt 1] Response received in 19.24 seconds for chunk_33
+[2025-08-30 00:25:56] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_33_verify.json
+[2025-08-30 00:25:56] Processing chunk_34 (verification=True)...
+[2025-08-30 00:25:56] Prompt length (chars): 31710
+[2025-08-30 00:26:23] [Attempt 1] Response received in 26.47 seconds for chunk_34
+[2025-08-30 00:26:23] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_34_verify.json
+[2025-08-30 00:26:23] Processing chunk_35 (verification=True)...
+[2025-08-30 00:26:23] Prompt length (chars): 32077
+[2025-08-30 00:26:42] [Attempt 1] Response received in 18.9 seconds for chunk_35
+[2025-08-30 00:26:42] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_35_verify.json
+[2025-08-30 00:26:42] Processing chunk_36 (verification=True)...
+[2025-08-30 00:26:42] Prompt length (chars): 32635
+[2025-08-30 00:26:59] [Attempt 1] Response received in 17.39 seconds for chunk_36
+[2025-08-30 00:26:59] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_36_verify.json
+[2025-08-30 00:26:59] Processing chunk_37 (verification=True)...
+[2025-08-30 00:26:59] Prompt length (chars): 32969
+[2025-08-30 00:27:06] [Attempt 1] Response received in 6.17 seconds for chunk_37
+[2025-08-30 00:27:06] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_37_verify.json
+[2025-08-30 00:27:06] Processing chunk_38 (verification=True)...
+[2025-08-30 00:27:06] Prompt length (chars): 32371
+[2025-08-30 00:27:18] [Attempt 1] Response received in 12.35 seconds for chunk_38
+[2025-08-30 00:27:18] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_38_verify.json
+[2025-08-30 00:27:18] Processing chunk_39 (verification=True)...
+[2025-08-30 00:27:18] Prompt length (chars): 32561
+[2025-08-30 00:27:22] [Attempt 1] Response received in 3.92 seconds for chunk_39
+[2025-08-30 00:27:22] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_39_verify.json
+[2025-08-30 00:27:22] Processing chunk_40 (verification=True)...
+[2025-08-30 00:27:22] Prompt length (chars): 32562
+[2025-08-30 00:27:38] [Attempt 1] Response received in 16.01 seconds for chunk_40
+[2025-08-30 00:27:38] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_40_verify.json
+[2025-08-30 00:27:38] Processing chunk_41 (verification=True)...
+[2025-08-30 00:27:38] Prompt length (chars): 31638
+[2025-08-30 00:27:55] [Attempt 1] Response received in 16.58 seconds for chunk_41
+[2025-08-30 00:27:55] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_41_verify.json
+[2025-08-30 00:27:55] Processing chunk_42 (verification=True)...
+[2025-08-30 00:27:55] Prompt length (chars): 32632
+[2025-08-30 00:28:02] [Attempt 1] Response received in 7.63 seconds for chunk_42
+[2025-08-30 00:28:02] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_42_verify.json
+[2025-08-30 00:28:02] Processing chunk_43 (verification=True)...
+[2025-08-30 00:28:02] Prompt length (chars): 32920
+[2025-08-30 00:28:08] [Attempt 1] Response received in 5.24 seconds for chunk_43
+[2025-08-30 00:28:08] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_43_verify.json
+[2025-08-30 00:28:08] Processing chunk_44 (verification=True)...
+[2025-08-30 00:28:08] Prompt length (chars): 32614
+[2025-08-30 00:28:17] [Attempt 1] Response received in 8.92 seconds for chunk_44
+[2025-08-30 00:28:17] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_44_verify.json
+[2025-08-30 00:28:17] Processing chunk_45 (verification=True)...
+[2025-08-30 00:28:17] Prompt length (chars): 33059
+[2025-08-30 00:28:30] [Attempt 1] Response received in 13.14 seconds for chunk_45
+[2025-08-30 00:28:30] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_45_verify.json
+[2025-08-30 00:28:30] Processing chunk_46 (verification=True)...
+[2025-08-30 00:28:30] Prompt length (chars): 31926
+[2025-08-30 00:28:43] [Attempt 1] Response received in 13.36 seconds for chunk_46
+[2025-08-30 00:28:43] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_46_verify.json
+[2025-08-30 00:28:43] Processing chunk_47 (verification=True)...
+[2025-08-30 00:28:43] Prompt length (chars): 32236
+[2025-08-30 00:28:52] [Attempt 1] Response received in 8.66 seconds for chunk_47
+[2025-08-30 00:28:52] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_47_verify.json
+[2025-08-30 00:28:52] Processing chunk_48 (verification=True)...
+[2025-08-30 00:28:52] Prompt length (chars): 32479
+[2025-08-30 00:30:52] [Attempt 1] Failed to process chunk_48: Ollama inference timed out.
+[2025-08-30 00:30:52] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-30 00:34:51] [Extended Timeout] Response received in 238.95 seconds for chunk_48
+[2025-08-30 00:34:51] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_48_verify.json
+[2025-08-30 00:34:51] Processing chunk_49 (verification=True)...
+[2025-08-30 00:34:51] Prompt length (chars): 32630
+[2025-08-30 00:35:12] [Attempt 1] Response received in 20.84 seconds for chunk_49
+[2025-08-30 00:35:12] Saved coref output: output/04USVsRodriguez/moc/coref_outputs/chunk_49_verify.json
+[2025-08-30 00:35:12] Processing chunk_50 (verification=True)...
+[2025-08-30 00:35:12] Prompt length (chars): 32914
+[2025-08-30 00:37:12] [Attempt 1] Failed to process chunk_50: Ollama inference timed out.
+[2025-08-30 00:37:12] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-30 00:42:12] [Extended Timeout] Failed after 300.1 seconds for chunk_50: Ollama inference timed out.
+[2025-08-30 00:42:12] Retry after timeout also failed: Ollama inference timed out.
+[2025-08-30 00:42:12] Prompt length (chars): 32914
+[2025-08-30 00:44:12] [Attempt 3] Failed to process chunk_50: Ollama inference timed out.
+[2025-08-30 00:44:12] Maximum retries reached for chunk_50. Skipping.
+[2025-08-30 00:44:12] Coreference Resolution failed.

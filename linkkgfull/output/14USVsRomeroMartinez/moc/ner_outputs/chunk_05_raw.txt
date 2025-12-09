@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["his rear-view mirror", "the wheel", "the door jamb", "the front door", "the crew-cab truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

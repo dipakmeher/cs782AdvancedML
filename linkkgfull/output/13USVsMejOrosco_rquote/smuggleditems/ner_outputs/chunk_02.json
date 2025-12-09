@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the group",
+      "the family members",
+      "the three",
+      "the motel room",
+      "the key",
+      "the airline tickets",
+      "the airport",
+      "the airplane",
+      "the van"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

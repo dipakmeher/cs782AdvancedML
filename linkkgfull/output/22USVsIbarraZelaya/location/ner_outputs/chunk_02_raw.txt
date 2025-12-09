@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States"],
+    "NOUN_PHRASE": ["this district"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where illegal alien smuggling venture occurred"
+  }
+}

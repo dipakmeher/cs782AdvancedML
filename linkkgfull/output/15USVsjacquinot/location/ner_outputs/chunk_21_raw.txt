@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas", "Kansas"],
+    "NOUN_PHRASE": ["the southern border area", "the border", "a school zone", "the park", "a Stop sign"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas": "location of the southern border area",
+    "Kansas": "state of license plate origin"
+  }
+}

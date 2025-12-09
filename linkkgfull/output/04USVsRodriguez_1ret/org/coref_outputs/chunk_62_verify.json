@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agency": "United States Border Patrol",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Agent Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "Laredo, Texas": "Laredo, Texas",
+    "Dallas, Texas": "Dallas, Texas",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "Highway 16": "Highway 16",
+    "white Malibu sedan": "white Malibu sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the arrest and investigation of human smuggling cases, with agents conducting patrols and stops on highways such as U.S. Highway 59 and Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.": "defendant associated with the white Malibu sedan, arrested for transporting illegal aliens and providing statements during the hearing about the convenience of the route from Laredo, Texas to Dallas, Texas for smugglers",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who conducted the cross-examination and provided testimony about the suspicious behavior of the vehicles involved in the smuggling operation",
+    "Laredo, Texas": "location at the southern terminus of the route taken by smugglers, mentioned as a starting point for the journey to Dallas, Texas",
+    "Dallas, Texas": "destination city for smuggled individuals, located at the northern end of the route taken by smugglers",
+    "U.S. Highway 59": "highway with a checkpoint that can be avoided by taking Farm-to-Market Road 2050, mentioned as part of the route taken by smugglers",
+    "Farm-to-Market Road 2050": "farm-to-market road used by smugglers to avoid checkpoints on U.S. Highway 59 and Highway 16, exhibiting suspicious behavior such as going on and off the road multiple times",
+    "San Pablo Road": "road that can be used to access Highway 16, providing an alternative route for smugglers to avoid checkpoints",
+    "Highway 16": "highway that can be used by smugglers to reach major highways going north, considered a safer route once reached due to the absence of additional checkpoints",
+    "white Malibu sedan": "vehicle involved in the smuggling operation, driven by RICARDO RODRIGUEZ, JR. and exhibiting suspicious behavior such as driving in tandem with another vehicle"
+  }
+}

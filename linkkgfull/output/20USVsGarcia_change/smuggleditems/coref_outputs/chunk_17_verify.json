@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "Hispanic residents and citizens": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals suspected of crossing the border illegally, potentially traveling in a crowded pickup truck camper"
+  }
+}

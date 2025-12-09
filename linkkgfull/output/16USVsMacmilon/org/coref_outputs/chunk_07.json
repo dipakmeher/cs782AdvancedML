@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Government": "United States Government",
+    "Government": "United States Government",
+    "the district court": "United States District Court",
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "discovered undocumented aliens hidden in a tractor-trailer and conducted a stop of Zeba Williams' vehicle",
+    "United States Government": "prevailing party in the district court, proffered testimony during the trial",
+    "United States District Court": "court where the defendant's motion to suppress evidence was denied, where the case was heard, and where sentencing occurred",
+    "Raymond McMillon": "co-defendant who accompanied Zeba Williams on a trip to Laredo and was present during the Border Patrol stop",
+    "Zeba Williams": "defendant who asked Raymond McMillon to accompany him on a trip to Laredo and was driving the tractor-trailer during the stop",
+    "Luis Pena": "Border Patrol Agent who initiated the stop of Zeba Williams' vehicle, questioned the defendants about their travel plans, and discovered hidden undocumented aliens",
+    "Manuel Hernandez": "Border Patrol Agent who participated in the stop with his canine, Aroxa, and alerted to potential contraband in the tractor-trailer",
+    "Luis Pena and Manuel Hernandez": "agents involved in the arrest of Zeba Williams and Raymond McMillon, and the discovery of undocumented aliens hidden in the tractor-trailer"
+  }
+}

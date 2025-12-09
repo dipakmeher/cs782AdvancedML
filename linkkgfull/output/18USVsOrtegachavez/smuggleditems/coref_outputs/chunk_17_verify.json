@@ -1,0 +1,41 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the inconsistencies": null,
+    "Alfredo Ortega-Chavez's participation in the alien smuggling operation": "Alfredo Ortega-Chavez",
+    "Ramon Gonzalez Sanchez's deposition testimony": "Ramon Gonzalez Sanchez",
+    "Ms. Salinas' law firm": "Ms. Salinas' law firm",
+    "Judge Kazen's statement": "Judge Kazen",
+    "the third U.S. Government Attorney witness": null,
+    "the witnesses": null,
+    "Alfredo Ortega-Chavez's trial": "Alfredo Ortega-Chavez",
+    "Ms. Salinas' law firm's indication of dissatisfaction": null,
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled into the United States, brought in using a van with a hidden compartment and pinatas as cover",
+    "five undocumented aliens": "undocumented immigrants being smuggled, transported in a hidden van compartment",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States",
+    "Graciela Castaneda": "Alfredo Ortega-Chavez's witness providing alibi testimony",
+    "Ramon Gonzalez Sanchez's father": "rebuttal witness testifying against Alfredo Ortega-Chavez's alibi, had previously talked to another U.S. Government Attorney",
+    "Ramon Gonzalez Sanchez's mother": "rebuttal witness testifying against Alfredo Ortega-Chavez's alibi",
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, responsible for disclosing information and witnesses",
+    "Ramon Gonzalez Sanchez's father and Ramon Gonzalez Sanchez's mother": "rebuttal witnesses whose testimony confirmed Alfredo Ortega-Chavez was in Sabinas Hidalgo on November 21 and 22, thus rebutting Graciela Castaneda's alibi",
+    "Ms. Salinas' law firm": "law firm representing Alfredo Ortega-Chavez, conducted cross-examination of rebuttal witnesses",
+    "Judge Kazen": "trial judge who handled the case commendably, conducted an inquiry into a juror's ability to remain impartial",
+    "Mrs. Guerrero": "juror who knew Ms. Salinas' law firm and was questioned by Judge Kazen and the U.S. Government Attorney about her ability to be impartial, stated she could be fair and impartial",
+    "U.S. Government Attorney and Alfredo Ortega-Chavez": "parties in the trial, subject to inquiry regarding juror impartiality",
+    "Ramon Gonzalez Sanchez": "accomplice witness whose testimony revealed inconsistencies but was not incredible as a matter of law, provided deposition testimony implicating Alfredo Ortega-Chavez",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses",
+    "Juan Gonzalez Torres": "witness who testified seeing Alfredo Ortega-Chavez in Sabinas Hidalgo on November 21 and 22, 1980",
+    "Josefina Contreras de Gonzalez": "witness who testified seeing Alfredo Ortega-Chavez in Sabinas Hidalgo on the evening of November 21, 1980",
+    "the merchandise": null,
+    "the hidden compartment": "secret space within the van used for smuggling",
+    "U.S. Government Attorney rebuttal witnesses": "witnesses testifying against Alfredo Ortega-Chavez's alibi, including Ramon Gonzalez Sanchez's father and mother, Juan Gonzalez Torres, and Josefina Contreras de Gonzalez",
+    "Juan Gonzalez Torres and Josefina Contreras de Gonzalez": "witnesses testifying against Alfredo Ortega-Chavez's alibi, placing him in Sabinas Hidalgo on November 21, 1980",
+    "the van used for smuggling": null,
+    "the pinatas": null,
+    "evidence against Alfredo Ortega-Chavez": "testimony and statements used to convict Alfredo Ortega-Chavez, found strong by the court",
+    "entire court record": "complete documentation of proceedings in Alfredo Ortega-Chavez's trial",
+    "proceedings in Alfredo Ortega-Chavez's trial": "events and testimonies that took place during Alfredo Ortega-Chavez's trial"
+  }
+}

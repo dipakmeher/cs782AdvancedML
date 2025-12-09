@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "aliens",
+      "Hector Galvencio Paz-Ortega",
+      "Carlos Enrique Cruz-Morales"
+    ],
+    "NOUN_PHRASE": [
+      "his two passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being illegally transported",
+    "Hector Galvencio Paz-Ortega": "passenger and citizen of Guatemala",
+    "Carlos Enrique Cruz-Morales": "passenger and citizen of Guatemala"
+  }
+}

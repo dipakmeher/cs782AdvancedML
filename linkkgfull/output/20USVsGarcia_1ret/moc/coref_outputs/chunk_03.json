@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the marked United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "the window of the marked United States Border Patrol sedan": "the United States Border Patrol sedan",
+    "Maria De Jesus Garcia's Vehicle": null,
+    "the truck cab": null,
+    "the back seat of the truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol sedan": "Vehicle used by agents Stanley Pruszenski and Alfred Baron for patrol duties",
+    "the pickup truck camper": "Vehicle suspected of carrying smuggled individuals due to its heavily loaded condition and fogged windows"
+  }
+}

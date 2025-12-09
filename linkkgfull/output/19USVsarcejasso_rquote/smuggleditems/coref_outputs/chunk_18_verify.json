@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "certain cities": null,
+    "disposable vehicles": null,
+    "drugs": "cocaine",
+    "cars": null,
+    "illegal aliens": "illegal aliens",
+    "aliens": "aliens",
+    "1996 Mercury Cougar": "1996 Mercury Cougar vehicle used for alien smuggling",
+    "Raul Rafael Arce-Jasso's 1996 Mercury Cougar": "Raul Rafael Arce-Jasso's 1996 Mercury Cougar"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "cocaine": "illicit substance discovered during an immigration stop on Interstate 35, subject of suppression motions and appeals in Raul Rafael Arce-Jasso's case",
+    "United States of America": "party in the appeal, responsible for filing notice of appeal within specified deadlines, considered evidence during bench trial of Raul Rafael Arce-Jasso",
+    "United States Court of Appeals": "court hearing the appeal, bound by the law of the case doctrine, interprets Federal Rule of Appellate Procedure 4(b) in determining jurisdiction and timeliness of appeals, lacks jurisdiction to review suppression decision due to untimely appeal",
+    "defendant Smith": "indicted suspect in an arson case, joined United States of America on the motion to subpoena footage, party meant to be protected by the timing requirements of Federal Rule of Appellate Procedure 4(b), suffered no harm from the United States of America's non-compliance with the precise letter of the law",
+    "Raul Rafael Arce-Jasso": "defendant in a criminal case involving cocaine discovered during an immigration stop, argued against the United States of America's right to appeal the judgment for acquittal",
+    "illegal aliens": "individuals being smuggled into certain cities using disposable vehicles like 1996 Mercury Cougar",
+    "aliens": "persons being smuggled into the United States, often hidden in cars with large trunks and voids in quarter panels",
+    "1996 Mercury Cougar vehicle used for alien smuggling": "vehicle model frequently used for smuggling aliens due to its large trunk and void in quarter panels, found with cocaine hidden in the side panel during a stop at the U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas",
+    "Raul Rafael Arce-Jasso's 1996 Mercury Cougar": "specific vehicle used by Raul Rafael Arce-Jasso, suspected of being used for alien smuggling, found with cocaine hidden in the side panel during a stop at the U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas",
+    "United States District Court": "court issuing decisions subject to appeal within 30 days as required by Federal Rule of Appellate Procedure 4(b), has authority to extend time to file notice of appeal",
+    "Federal Rule of Appellate Procedure 4(b)": "statute governing the timing of appeals, allows for a 30-day additional period under certain conditions, includes materiality requirement and provisions for excusable neglect or good cause",
+    "case of Smith": "arson case where defendant Smith was involved in a motion to subpoena footage"
+  }
+}

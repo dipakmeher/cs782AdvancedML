@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a motor vehicle", "a vessel", "his extended cab pickup truck", "the cab of the truck", "the bed of a pickup truck", "a pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas, Texas": "Dallas, Texas",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "Dallas": "Dallas, Texas",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Highway 359": "U.S. 359",
+    "Highway 59": "U.S. 59",
+    "San Antonio": "San Antonio",
+    "Highway 35": "Highway 35",
+    "the road": "Farm-to-Market Road 2050",
+    "out of town": null,
+    "that same road": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas, Texas": "origin of the rental car and city located north of San Antonio",
+    "Hertz Dallas-Fort Worth": "rental car company used by smugglers",
+    "Farm-to-Market Road 2050": "road where vehicles are seen by Border Patrol agents, rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route",
+    "U.S. 359": "connecting highway and location of Hebbronville checkpoint",
+    "U.S. 59": "connecting highway and location of a checkpoint",
+    "San Antonio": "reference city for direction and potential destination for smuggled aliens",
+    "Highway 35": "alternative route and major highway going north"
+  }
+}

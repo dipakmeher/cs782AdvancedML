@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Sanchez": "Ramon Gonzalez Sanchez",
+    "the judge": "Judge Kazen",
+    "the third government witness": null,
+    "defense counsel": "Ms. Salinas",
+    "counsel": "Ms. Salinas",
+    "the appellant": "Alfredo Ortega-Chavez",
+    "the witnesses": null,
+    "ladies and gentlemen": null,
+    "the jury": null,
+    "the defense": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon Gonzalez Sanchez": "Gave deposition testimony that implicated the appellant in the alien smuggling operation",
+    "Judge Kazen": "Handled the situation commendably and ensured a fair trial by conducting an inquiry into juror Mrs. Guerrero's ability to remain impartial, made proper and helpful remarks during the trial",
+    "Ms. Salinas": "Defense counsel who introduced Sanchez's deposition testimony as part of the evidence, did not indicate any dissatisfaction with the judge's remarks or request any balancing ruling",
+    "Alfredo Ortega-Chavez": "Defendant and appellant convicted of conspiracy to bring or attempt to bring undocumented aliens into the United States, implicated by Sanchez's deposition testimony"
+  }
+}

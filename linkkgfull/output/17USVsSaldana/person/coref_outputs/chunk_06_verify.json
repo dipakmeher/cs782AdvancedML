@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Vargas": "Heather Vargas",
+    "Saldana": "Federico Saldana",
+    "Cox": "Jason Cox",
+    "the officers": "Gary Haston and Jason Cox",
+    "the owner": "Daniel Martin Huerta"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "truck driver who was stopped by Deputy Cox, identified himself and stated he was not used to driving a truck with a trailer attached, has a history of arrests including drug smuggling",
+    "Gary Haston": "narcotics investigator who provided traffic violation information to Deputy Cox, gathered information from Saldana during the stop",
+    "Heather Vargas": "involved in providing information that led to the traffic stop",
+    "Daniel Martin Huerta": "owner of the truck and trailer, first name mentioned by Federico Saldana during the traffic stop",
+    "Jason Cox": "Deputy who initiated the traffic stop, familiar with Haston's work as a narcotics investigator, searched for registration documents in the truck",
+    "Gary Haston and Jason Cox": "officers involved in the traffic stop and investigation of Saldana, received consent to search the truck and trailer, temporarily detained Saldana due to increasing suspicions of drug trafficking"
+  }
+}

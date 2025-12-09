@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino", "Trevino"],
+    "NOUN_PHRASE": ["the passengers", "the vehicle", "the rear", "the roadway", "the sedan", "the officer", "the inspector" ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "Explained reasonable suspicion analysis during the hearing",
+    "Trevino": "Made observations of the passengers"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "camper",
+      "black Dodge pickup truck",
+      "white Malibu sedan",
+      "RICARDO RODRIGUEZ, JR.'s white Malibu sedan"
+    ],
+    "NOUN_PHRASE": [
+      "the camper",
+      "a camper shell",
+      "illegal aliens",
+      "aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "camper": "tool of the smuggling trade",
+    "black Dodge pickup truck": "vehicle potentially used for smuggling",
+    "white Malibu sedan": "vehicle used for transporting aliens",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "vehicle used for transporting aliens"
+  }
+}

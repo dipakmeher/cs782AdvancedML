@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "United States Attorney General",
+      "United States Attorney",
+      "United States District Court",
+      "United States Sentencing Guidelines",
+      "Fifth Circuit",
+      "United States District Court for the Southern District of Texas"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced in relation to the 'fast track' programs and as a party that can make motions",
+    "United States Attorney General": "authorized early disposition programs",
+    "United States Attorney": "authorized early disposition programs",
+    "United States District Court": "where 'fast track' programs were established",
+    "United States Sentencing Guidelines": "guidelines for sentence reduction",
+    "Fifth Circuit": "interprets the United States Sentencing Guidelines",
+    "United States District Court for the Southern District of Texas": "court where 'fast track' programs were initially implemented"
+  }
+}

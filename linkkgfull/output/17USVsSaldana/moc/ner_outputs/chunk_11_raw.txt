@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the phone", "the cab", "the bed", "the flatbed trailer", "the patrol car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

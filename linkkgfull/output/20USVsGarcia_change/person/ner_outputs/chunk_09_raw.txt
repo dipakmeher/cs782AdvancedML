@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agents Pruszenski", "Baron", "Garcia"],
+    "NOUN_PHRASE": ["the agents", "the passengers", "its occupants"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agents Pruszenski": "agent",
+    "Baron": "agent",
+    "Garcia": "driver of the stopped vehicle"
+  }
+}

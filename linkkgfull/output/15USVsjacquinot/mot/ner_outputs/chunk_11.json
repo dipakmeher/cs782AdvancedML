@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the truck",
+      "the vehicle",
+      "a car",
+      "Brignoni-Ponce Jacquinot's car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

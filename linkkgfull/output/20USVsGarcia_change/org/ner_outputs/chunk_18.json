@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S.-Mexico border",
+      "Interstate Highway 35"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "geographical reference to the border",
+    "Interstate Highway 35": "location where the defendant was stopped"
+  }
+}

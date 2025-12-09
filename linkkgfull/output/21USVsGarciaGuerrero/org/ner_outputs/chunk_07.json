@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ninth Circuit",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the commentary",
+      "the court",
+      "the court of appeals",
+      "the Defendants",
+      "the United States"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ninth Circuit": "a court of appeals",
+    "United States": "a country"
+  }
+}

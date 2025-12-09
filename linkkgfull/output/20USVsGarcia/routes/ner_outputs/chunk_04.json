@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate Highway 35"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "location where the stop and search of Maria De Jesus Garcia's vehicle occurred"
+  }
+}

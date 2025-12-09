@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Hugo Benavides": "Hugo Benavides",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Reymundo Reyes",
+    "Agent Benavides": "Hugo Benavides",
+    "his supervisor": null,
+    "the Freer P.D. officer": "Reymundo Reyes",
+    "the canine handler": null,
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Mr. Rodriguez": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who received a phone call regarding the traffic stop of Ignacio Rodriguez and approached him to ask about his citizenship",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez and issued a citation, later impounding the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the application", "a petition", "a character letter"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

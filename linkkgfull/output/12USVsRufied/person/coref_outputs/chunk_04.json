@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Henderson": "Bruce Henderson",
+    "Claudia": "Claudia",
+    "Codefendant": "Martin Adaboh",
+    "Defendant": "Yusif Ahmed Rufied",
+    "the woman": "Claudia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Yusif Ahmed Rufied": "defendant charged with unlawfully transporting illegal aliens, claimed to be a driver in training",
+    "Bruce Henderson": "Immigration and Customs Enforcement (ICE) Agent and witness, testified against Defendant, described terrain and events related to the smuggling case",
+    "Joe Silva": "ICE Agent",
+    "Flores": "Border Patrol Agent",
+    "Martin Adaboh": "Codefendant of Yusif Ahmed Rufied, from Ghana, Africa, lives in Quebec, Montreal, Canada, involved in smuggling aliens, changed mind about speaking with ICE agents",
+    "Claudia": "woman met by Codefendant at the Monterrey Inn, approached Codefendant to smuggle aliens, present during alien loading"
+  }
+}

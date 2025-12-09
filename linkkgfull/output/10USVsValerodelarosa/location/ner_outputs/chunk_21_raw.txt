@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "Fifth Circuit"],
+    "NOUN_PHRASE": ["this ground"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where laws were violated and to which the defendant returned illegally after deportation",
+    "Fifth Circuit": "court that has held that a court may consider a defendant's cultural assimilation"
+  }
+}

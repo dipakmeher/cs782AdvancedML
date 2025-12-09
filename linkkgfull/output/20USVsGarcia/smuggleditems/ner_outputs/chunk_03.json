@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "three females",
+      "five or six men",
+      "the male passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

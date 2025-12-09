@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "Interstate 20", "Interstate 35"],
+    "NOUN_PHRASE": ["an indirect route", "a little-traveled route", "that particular road"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "road where vehicles were traveling",
+    "Interstate 20": "highway where the truck was traveling due east",
+    "Interstate 35": "highway where the defendant was heading north"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "five passengers": "undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan with five passengers, mentioned in the conversation between United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., described as \"riding low\"",
+    "undocumented aliens": "Individuals being transported in vehicles, displaying suspicious behavior such as wearing caps and appearing stiff",
+    "Jorge Luis Trevino": "United States Border Patrol agent who conducted the initial stop and testified about his observations, including the commonality of encountering illegal aliens wearing caps after walking through brush"
+  }
+}

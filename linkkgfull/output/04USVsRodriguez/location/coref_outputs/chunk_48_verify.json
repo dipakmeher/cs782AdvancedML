@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. 59",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "Highway 16": "Highway 16",
+    "this turn": null,
+    "that point": null,
+    "a roving": null,
+    "a major highway going north": "Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. 59": "route for smugglers, connecting highway with a checkpoint in Hebbronville",
+    "Farm-to-Market Road 2050": "rural road where vehicles were traveling, characterized by limited traffic and used for smuggling routes, has a wind farm with an office and entrance on the west side",
+    "San Pablo Road": "alternative route, extends east off of FM 2050, near the wind farm on FM 2050",
+    "Highway 16": "desired route for smugglers to avoid checkpoints, location of traffic stop, route for picked up aliens, allows access to major highways going north",
+    "Highway 35": "well-traveled interstate highway that could be used by smugglers to transport undocumented aliens"
+  }
+}

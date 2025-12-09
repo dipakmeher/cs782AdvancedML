@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States-Mexican border": "United States-Mexico Border",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico Border": "geographic location related to the case, relevant for determining the origin of vehicles and individuals, used as a reference point for distance calculation",
+    "United States Court of Appeals for the Fifth Circuit": "court reviewing the issue of stops by border patrol agents, has made decisions upholding stops by immigration agents that have come close to ignoring fundamental constitutional concepts"
+  }
+}

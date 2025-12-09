@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Pena-Cantu": "Pena-Cantu",
+    "border patrol agents": "Stanley Pruszenski and Alfred Baron",
+    "the occupants": "Maria De Jesus Garcia, Lourdes Rangel-Campos, and others",
+    "the agent": "Stanley Pruszenski and Alfred Baron"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Pena-Cantu": "reference in a legal case",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation and observed the suspicious vehicle, applied the Brignoni-Ponce standard in their assessment, had reason to suspect the presence of illegal aliens due to various factors including the vehicle's appearance and occupant behavior, stopped a pickup truck with a heavily loaded camper attachment on an Interstate Highway in Texas",
+    "Maria De Jesus Garcia, Lourdes Rangel-Campos, and others": "Individuals present in the vehicle stopped by agents Pruszenski and Baron, exhibited suspicious behavior when approached by border patrol agents"
+  }
+}

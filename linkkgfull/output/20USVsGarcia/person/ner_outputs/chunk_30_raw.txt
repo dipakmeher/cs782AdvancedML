@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Pacheco", "Orona-Sanchez", "Garcia", "Baron"],
+    "NOUN_PHRASE": ["the vehicle", "the truck", "the camper"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Pacheco": "",
+    "Orona-Sanchez": "",
+    "Garcia": "vehicle owner",
+    "Baron": "testified about unusual speed"
+  }
+}

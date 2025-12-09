@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "United States Guidelines Manual"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced in relation to increasing the base offense level",
+    "United States Guidelines Manual": "source of commentary interpreting or explaining a guideline"
+  }
+}

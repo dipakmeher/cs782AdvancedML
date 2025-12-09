@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this Court": "United States Court of Appeals for the Fifth Circuit",
+    "district court": "United States district court",
+    "Anglo-American": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "Moore, Texas": "location near the border, approximately 115 miles from the Mexican border, and a point through which Interstate Highway 35 passes before reaching the United States-Mexican border, also a common location for apprehending illegal alien smugglers",
+    "Interstate Highway 35": "highway leading directly to the border, passing through Laredo, Texas, and several other towns before reaching Moore, Texas, known as a common smuggling route, with a history of alien smuggling on certain segments",
+    "Mexican border": "physical boundary relevant to legality of investigatory stop and location near the incident, also referred to as United States-Mexican border",
+    "truck cab": "front part of the truck where three females were seated",
+    "back seat of the truck": "rear part of the truck cab where five or six men were seated",
+    "floor of the camper": "area where fourteen additional males were found lying down",
+    "pickup truck camper": "compartment of the vehicle where evidence was found and is relevant to the suppression motion, often used for transporting illegal aliens",
+    "Laredo, Texas": "city located on Interstate Highway 35, leading directly to the Mexican border, and a point of reference for determining distance from the border",
+    "United States-Mexican border": "geographical boundary between the United States and Mexico, relevant to the case and the Brignoni-Ponce test",
+    "northbound lanes of Interstate Highway 35": "specific segment of the highway with known alien smuggling activity",
+    "United States Court of Appeals for the Fifth Circuit": "federal court that issued a ruling on probable cause for searching vehicles and has upheld the use of the modified Allen charge",
+    "pickup truck": "vehicle searched for undocumented aliens, containing a camper compartment",
+    "United States district court": "federal court that made the original judgment in the case"
+  }
+}

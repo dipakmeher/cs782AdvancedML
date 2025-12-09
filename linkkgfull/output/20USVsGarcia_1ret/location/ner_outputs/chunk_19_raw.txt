@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the location", "the border", "the interstate highway", "the back of it", "the camper shell attachment", "the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

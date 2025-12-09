@@ -1,0 +1,37 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the Court": "Court",
+    "Freer Police Department": "Freer Police Department",
+    "the stop": null,
+    "the traffic stop": null,
+    "the series of vehicle stops": null,
+    "Freer": "Freer, Texas",
+    "Texas": "Texas",
+    "U.S. 59": "U.S. 59",
+    "Echo 43": "Freer immigration checkpoint",
+    "Corpus": "Corpus",
+    "Houston": "Houston",
+    "Freer immigration checkpoint": "Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the checkpoint building": "Freer immigration checkpoint building",
+    "the Border Patrol station parking lot": "Border Patrol station parking lot",
+    "the checkpoint office": "Freer immigration checkpoint office"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr.",
+    "Freer Police Department": "law enforcement agency involved in the traffic stop of Defendant Ignacio Rodriguez, Jr.",
+    "Freer, Texas": "location of immigration checkpoint on U.S. 59",
+    "Texas": "state where events occurred",
+    "U.S. 59": "highway where Freer immigration checkpoint is located",
+    "Freer immigration checkpoint": "location of border patrol activity where Agent Jorge Luis Trevino was stationed",
+    "Corpus": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Houston": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "road adjacent to Border Patrol station parking lot",
+    "Freer immigration checkpoint building": "building where border patrol agents process undocumented individuals",
+    "Border Patrol station parking lot": "parking area near the Freer immigration checkpoint",
+    "Freer immigration checkpoint office": "office where border patrol agents inspect vehicles and process individuals"
+  }
+}

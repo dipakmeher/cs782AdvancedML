@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["F-150", "F-250", "Dodge Rams"],
+    "NOUN_PHRASE": ["vehicles", "vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "F-150": "used by oil companies and encountered by Agent Trevino",
+    "F-250": "encountered by Agent Trevino with head rack in the back",
+    "Dodge Rams": "not typically used by oil companies"
+  }
+}

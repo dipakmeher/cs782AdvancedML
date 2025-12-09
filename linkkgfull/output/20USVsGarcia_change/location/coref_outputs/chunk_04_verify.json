@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the camper compartment": "camper compartment of Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where the trial of Maria De Jesus Garcia took place, the jury deliberated, and post-verdict discovery was denied, also made oral findings of fact regarding the constitutionality of the stop and search",
+    "camper compartment of Maria De Jesus Garcia's vehicle": "location within Maria De Jesus Garcia's vehicle that was searched for evidence, subject of a suppression motion"
+  }
+}

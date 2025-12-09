@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McAllen, Texas", "San Antonio, Texas", "Laredo, Texas", "Canada", "Diesel 2000", "Highway 59 Checkpoint"],
+    "NOUN_PHRASE": ["the area", "the trailer", "the front seat"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McAllen, Texas": "destination claimed by Yusif Ahmed Rufied",
+    "San Antonio, Texas": "destination claimed by Martin Adaboh",
+    "Laredo, Texas": "pickup location for a load",
+    "Canada": "return destination",
+    "Diesel 2000": "location visited by Martin Adaboh and Yusif Ahmed Rufied",
+    "Highway 59 Checkpoint": "location where Yusif Ahmed Rufied was stopped"
+  }
+}

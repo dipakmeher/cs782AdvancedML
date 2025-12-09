@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Sentencing Guidelines": "United States Sentencing Commission",
+    "the probation officer": "United States Probation Office"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission": "issuer of the Guidelines Manual consulted in determining sentence, used for calculating criminal history points and applying applicable guidelines",
+    "United States Probation Office": "office that received the defendant's statement and prepared the PSR report documenting his background, responded to objections, disagreed with certain calculations regarding Rogelio Valero-De La Rosa's case"
+  }
+}

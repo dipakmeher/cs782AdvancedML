@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens",
+      "drugs"
+    ],
+    "NOUN_PHRASE": [
+      "the vehicle registration documents",
+      "the cab of the 2008 Chevrolet truck",
+      "the flatbed trailer",
+      "the 2008 Chevrolet truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "smuggled persons",
+    "drugs": "smuggled substances"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Moore, Texas",
+      "Interstate Highway 35",
+      "Mexican border"
+    ],
+    "NOUN_PHRASE": [
+      "the northbound lanes",
+      "their marked border patrol sedan",
+      "the camper",
+      "the bumper",
+      "the tires",
+      "the wheel wells",
+      "the rear",
+      "the vehicle",
+      "the window",
+      "the truck",
+      "the front end"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of the border patrol agents",
+    "Moore, Texas": "location where the border patrol agents were sitting",
+    "Interstate Highway 35": "highway where the incident occurred",
+    "Mexican border": "border near the location of the incident"
+  }
+}

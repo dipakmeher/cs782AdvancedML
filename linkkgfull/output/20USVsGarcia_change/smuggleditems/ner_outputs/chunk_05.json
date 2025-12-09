@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "aliens",
+      "vehicles",
+      "pickup truck camper",
+      "passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

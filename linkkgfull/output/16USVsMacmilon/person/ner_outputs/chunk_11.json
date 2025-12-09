@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Pena",
+      "Williams",
+      "McMillon",
+      "Portillo-Aguirre",
+      "Machuca-Barrera"
+    ],
+    "NOUN_PHRASE": [
+      "the Border Patrol Agent",
+      "the specific individual officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Pena": "Border Patrol Agent conducting the stop and questioning",
+    "Williams": "United States citizen involved in the checkpoint stop",
+    "McMillon": "United States citizen involved in the checkpoint stop",
+    "Portillo-Aguirre": "reference to a previous decision",
+    "Machuca-Barrera": "reference to a previous decision"
+  }
+}

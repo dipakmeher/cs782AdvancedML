@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the border",
+      "the area",
+      "the road",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

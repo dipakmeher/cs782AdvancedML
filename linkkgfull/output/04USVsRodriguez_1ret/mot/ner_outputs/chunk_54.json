@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "F-150",
+      "F-250",
+      "Dodge Rams"
+    ],
+    "NOUN_PHRASE": [
+      "vehicles",
+      "vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "F-150": "used by oil companies, often white",
+    "F-250": "has head rack in the back",
+    "Dodge Rams": "not typically used by oil companies"
+  }
+}

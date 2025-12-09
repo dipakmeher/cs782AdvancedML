@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agent": "Luis Pena",
+    "a Border Patrol agent": null,
+    "officers": null,
+    "travelers": null,
+    "Martinez-Fuerte": "Martinez-Fuerte"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed, charged with conspiracy to transport aliens within the United States, filed a motion to dismiss the indictment on speedy trial grounds, sentenced to 41 months' imprisonment, argues about the lawfulness of Agent Pena's immigration questions",
+    "Zeba Williams": "individual being questioned by Agent Pena, driver of the tractor-trailer, gave consent for the search, charged with conspiracy to transport aliens within the United States",
+    "Raymond McMillon and Zeba Williams": "pair being questioned by Agent Pena about their travel plans and citizenship",
+    "Luis Pena": "Government agent who questioned Williams and McMillon, asked for consent to search the tractor's sleeper area, testified at the jury trial, asked immigration questions",
+    "Manuel Hernandez": "Government agent working with a dog during the checkpoint stop, alerted Agent Pena to check the back of the tractor, testified at the jury trial",
+    "Ramon De La Cruz": "undocumented alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, entered the United States unlawfully, testified at the jury trial",
+    "Jorge Miguel Hernandez-Gomez": "undocumented alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, entered the United States unlawfully, testified at the jury trial",
+    "Luis Pena and Manuel Hernandez": "agents who conducted the checkpoint stop and search of the tractor-trailer, testified about the events during the suppression hearing",
+    "Martinez-Fuerte": "referenced in a legal context regarding checkpoint stops and detentions",
+    "Tedford": null,
+    "Eric Camacho": "Border Patrol Agent testifying about how aliens or their families commonly pay smugglers indirectly"
+  }
+}

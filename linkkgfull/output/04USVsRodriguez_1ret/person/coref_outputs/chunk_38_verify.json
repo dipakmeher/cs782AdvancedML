@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "a canine handler": null,
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez and issued a citation, later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership. He observed extreme nervousness in Ignacio Rodriguez during the stop and informed him that he wasn't going to allow the vehicle to continue to its destination.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership. He assumed the search would not take more than five minutes based on his previous experience with law enforcement but did not retract his consent once he realized the search would take longer.",
+    "J. Scott Hacker": "United States Magistrate Judge who signed the document and concluded that none of Officer Reyes's actions infringed on Ignacio Rodriguez's rights."
+  }
+}

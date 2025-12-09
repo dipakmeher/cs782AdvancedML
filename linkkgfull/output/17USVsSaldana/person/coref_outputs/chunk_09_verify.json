@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Saldana": "Federico Saldana",
+    "Josiah Bennett": "Josiah Bennett",
+    "the officers": "Gary Haston and Jason Cox",
+    "the K-9 handler": "Josiah Bennett",
+    "the dog": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "truck driver who was stopped by Deputy Cox, identified himself and stated he was not used to driving a truck with a trailer attached, has a history of arrests including drug smuggling, denied presence of dope during questioning, served 9 years in federal prison",
+    "Josiah Bennett": "K-9 handler involved in the search of the truck and trailer, testified about the dog's alerts, understood from the officers that Saldana had given consent to search",
+    "Gary Haston and Jason Cox": "officers involved in the traffic stop and investigation of Saldana, received consent to search the truck and trailer, temporarily detained Saldana due to increasing suspicions of drug trafficking"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Alfredo Ortega-Chavez",
+      "Ortega-Chavez",
+      "Mrs. Castaneda"
+    ],
+    "NOUN_PHRASE": [
+      "the appellant",
+      "these government rebuttal witnesses",
+      "a witness",
+      "the trial court",
+      "a party",
+      "the two rebuttal witnesses",
+      "four previous witnesses"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alfredo Ortega-Chavez": "Appellant",
+    "Ortega-Chavez": "Appellant",
+    "Mrs. Castaneda": "Previous witness"
+  }
+}

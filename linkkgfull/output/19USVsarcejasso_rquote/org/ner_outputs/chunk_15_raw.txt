@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America"],
+    "NOUN_PHRASE": ["the district court", "the Court", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "a party entitled to appeal"
+  }
+}

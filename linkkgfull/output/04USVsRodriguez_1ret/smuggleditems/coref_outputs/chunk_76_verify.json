@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Alberto Ramirez": "Alberto Ramirez",
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "U.S. Highway 59": null,
+    "the district traffic maps": null,
+    "Def. Exs. 6-9": null,
+    "the Transportation, Planning, and Programming Division": null,
+    "Austin": null,
+    "Laredo Division": null,
+    "2011": null,
+    "2013": null,
+    "the average daily traffic data": null,
+    "the type of vehicles traveling on Farm-to-Market Road 2050": null,
+    "the number of vehicles traveling that road": null,
+    "the direction of the vehicles on Farm-to-Market Road 2050": null,
+    "J. Scott Hacker": "J. Scott Hacker",
+    "United States Magistrate Judge": "United States Department of Homeland Security",
+    "May 2nd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., described as \"riding low\"",
+    "Alberto Ramirez": "Director of Transportation, Planning and Development for the Texas Department of Transportation, Laredo Division, who testified about the accuracy of traffic flow data",
+    "Texas Department of Transportation": "Agency responsible for preparing district traffic maps",
+    "Jorge Luis Trevino": "United States Border Patrol agent who conducted the initial stop and testified about his observations, including the commonality of encountering illegal aliens wearing caps after walking through brush",
+    "Farm-to-Market Road 2050": "Paved road with two lanes, one in each direction, and no shoulder, where United States Border Patrol Agent Jorge Luis Trevino encountered the defendants' vehicles",
+    "J. Scott Hacker": "United States Magistrate Judge who signed the Report and Recommendation"
+  }
+}

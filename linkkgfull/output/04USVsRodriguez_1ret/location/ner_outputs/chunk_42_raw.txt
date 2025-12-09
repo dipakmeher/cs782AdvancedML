@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo", "Dallas, Texas"],
+    "NOUN_PHRASE": ["the vehicle", "the route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "origin of travel",
+    "Dallas, Texas": "destination of travel"
+  }
+}

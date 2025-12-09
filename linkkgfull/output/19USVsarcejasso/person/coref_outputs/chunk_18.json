@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Garcia": "Jesus Garcia",
+    "Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "the defendant": "Raul Rafael Arce-Jasso",
+    "the court": "United States of America",
+    "the Government": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raul Rafael Arce-Jasso": "defendant, appellant, and defendant-appellee in a case involving possession of cocaine with intent to distribute, driver of the Mercury Cougar, pleaded not guilty before a magistrate judge, filed motions for reconsideration and suppression of evidence, contends that the Court does not have appellate jurisdiction to review the district court's decision to suppress the cocaine, made a motion for judgment of acquittal, involved in a criminal case where the evidence considered by the district court during the bench trial consisted only of the stipulation of fact, contends that appeals from judgments of acquittal are not permitted, argues that the law of the case doctrine precludes the Government from presenting an adequate case, defendant whose judgment of acquittal was appealed by the Government, owner of a freshly cleaned car",
+    "Jesus Garcia": "border patrol agent manning the primary inspection lane at the border patrol checkpoint, stated questions about common destinations for illegal aliens",
+    "United States of America": "plaintiff-appellant seeking review of the district court's judgment of acquittal and denial of motion for reconsideration, filed a joint notice of appeal regarding the court's judgment of acquittal and order denying the Government's motion for reconsideration, U.S. Attorney involved in the appeal process, concedes failure to meet 30-day deadline if clock started on August 12"
+  }
+}

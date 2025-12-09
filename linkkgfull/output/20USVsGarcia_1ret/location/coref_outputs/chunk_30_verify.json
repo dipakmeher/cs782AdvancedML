@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "that portion": "northbound lanes of Interstate Highway 35",
+    "the vehicle": "pickup truck",
+    "the camper shell": "pickup truck camper",
+    "the truck": "pickup truck",
+    "Interstate 35": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches",
+    "Moore, Texas": "location near the border, approximately 115 miles from the Mexican border, and a point through which Interstate Highway 35 passes before reaching the United States-Mexican border",
+    "Interstate Highway 35": "highway where stops by border patrol agents may occur, commonly used for smuggling of aliens, and known for its reputation as a common smuggling route, with other highways intersecting it near the border",
+    "Mexican border": "reference point for the location of the stop, 115 miles south of where the pickup truck was stopped",
+    "truck cab": "front part of the truck where passengers were seated and where a flashlight was shone",
+    "back seat of the truck": "rear part of the truck cab where passengers were seated and attempting to conceal themselves, also referred to as the back seat or the seat in this context",
+    "floor of the camper": "area where fourteen additional males were found lying down",
+    "pickup truck camper": "compartment of Maria De Jesus Garcia's vehicle where evidence was obtained by the government as a result of the stop and search, found to contain undocumented aliens",
+    "Laredo, Texas": "city located on Interstate Highway 35, leading directly to the Mexican border, and a point of reference for determining distance from the border",
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it",
+    "northbound lanes of Interstate Highway 35": "specific segment of the highway with known alien smuggling activity, where vehicles are unusual to be traveling at slow speeds late at night, and where border patrol agents had recently apprehended illegal alien smugglers",
+    "United States Court of Appeals for the Fifth Circuit": "federal court that reviews cases related to border patrol stops and provides guidance to jurors on their duties and responsibilities, also responsible for giving instructions to the jury",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment, with occupants attempting to evade detection, searched by border patrol agents Stanley Pruszenski and Alfred Baron",
+    "United States district court": "federal court that made the original judgment in the case, allowed the defendant to present evidence pertinent to the suppression motion, and made oral findings of fact regarding the constitutionality of the stop and search",
+    "Texas": "location where the pickup truck was stopped, approximately 115 miles north of the Mexican border",
+    "Interstate Highway": "highways where stops by border patrol agents may occur, subject to constitutional protections against unreasonable searches",
+    "front seat of the truck cab": "part of the truck where three women were seated",
+    "Mexico": "country of origin for illegal migrants",
+    "interior of the pickup truck": "area inside the vehicle where occupants were trying to hide, also referred to as the dark cabin, and where occupants were moving and slouching low to get out of the light, with people scrambling around to avoid detection by a flashlight",
+    "Maria De Jesus Garcia": "owner of the vehicle involved in the case, a camper",
+    "area behind the front seat of the truck cab": "space where passengers were moving and slouching low to get out of the light",
+    "Cotulla, Texas": "location of the border patrol station where agents Stanley Pruszenski and Alfred Baron served, near common smuggling routes",
+    "federal district court jury": "jury that decided the case involving Maria De Jesus Garcia"
+  }
+}

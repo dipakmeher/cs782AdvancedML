@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "contraband": null,
+    "the first vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the second vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the first car": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the other car": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped by United States Border Patrol Agent Jorge Luis Trevino near Farm-to-Market Road 2050, transporting undocumented aliens, including five passengers and two in the trunk, driven on a road primarily used by local residents and oil company employees, registered to Hertz Rental Car Company, exhibiting suspicious behavior such as driving in tandem with another vehicle and repeatedly going on and off Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and involved in a traffic stop on Farm-to-Market Road 2050, transported to the United States Border Patrol station for questioning",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped on Farm-to-Market Road 2050 for failing to use a turn signal, involved in a pretextual traffic stop argument, searched after IGNACIO RODRIGUEZ, JR. gave consent due to his extreme nervousness, and later used to transport IGNACIO RODRIGUEZ, JR. to the Freer Immigration Checkpoint",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, attempting to avoid the Hebbronville Checkpoint, within fifty miles of the Mexico border, with out-of-town registrations, traveling in tandem on Farm-to-Market Road 2050"
+  }
+}

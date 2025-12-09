@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.-Mexican border", "Pena-Cantu"],
+    "NOUN_PHRASE": ["border patrol agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexican border": "geographic boundary",
+    "Pena-Cantu": "court case"
+  }
+}

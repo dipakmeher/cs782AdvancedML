@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["San Pablo Road", "FM 2050", "U.S. 59", "U.S. 359", "Highway 16", "San Antonio", "Houston", "U.S.-Mexico border", "Southern District of Texas", "United States"],
+    "NOUN_PHRASE": ["the wind farm", "one of the many ranches", "the road", "the loop", "the area", "the premises", "the checkpoint", "the gravel lot", "the region"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Pablo Road": "location near where Agent Jorge Luis Trevino initiated the stop",
+    "FM 2050": "road used as a smuggling route",
+    "U.S. 59": "highway with checkpoints that smugglers try to avoid",
+    "U.S. 359": "highway with checkpoints that smugglers try to avoid",
+    "Highway 16": "highway that allows access to major highways going north",
+    "San Antonio": "city that smugglers may be heading towards",
+    "Houston": "city that smugglers may be heading towards"
+  }
+}

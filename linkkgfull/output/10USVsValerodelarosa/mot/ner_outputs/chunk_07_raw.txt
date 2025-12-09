@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a motor vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

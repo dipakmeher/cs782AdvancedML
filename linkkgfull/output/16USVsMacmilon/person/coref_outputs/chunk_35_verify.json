@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Agent Pena": "Luis Pena",
+    "Williams": "Zeba Williams",
+    "the court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "Defendant who allegedly transported aliens with Williams, identified by De La Cruz and Hernandez-Gomez as the person motioning for them to hide, argued against the conspiracy conviction and had his transportation convictions affirmed, seeking a reduction in offense level due to minimal or minor participation, denied a \u00a7 3B1.2 adjustment",
+    "Zeba Williams": "Individual allegedly transporting aliens with McMillon, part of the conspiracy, testified at sentencing that McMillon did not recruit her but they entered a joint partnership, gave consent to open the door during the checkpoint stop",
+    "Luis Pena": "Government agent narrating the checkpoint stop, testified at the jury trial, asked Williams to open the door without ordering him to do so"
+  }
+}

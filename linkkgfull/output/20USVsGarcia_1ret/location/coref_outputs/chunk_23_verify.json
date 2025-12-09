@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the interior": "interior of the pickup truck",
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches",
+    "Maria De Jesus Garcia": "owner of the vehicle involved in the case, a camper",
+    "interior of the pickup truck": "area inside the vehicle where occupants were trying to hide, also referred to as the dark cabin, and where occupants were moving and slouching low to get out of the light",
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it"
+  }
+}

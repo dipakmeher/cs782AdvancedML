@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "the United States of America": "the United States of America",
+    "illegal aliens": "illegal aliens",
+    "foreign nationals": "foreign nationals",
+    "the numerous foreign nationals": "foreign nationals",
+    "the illegal aliens": "illegal aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "Defendant in a criminal case involving alien smuggling and hostage taking",
+    "Nancy F. Atlas": "Judge presiding over the case",
+    "the United States of America": "Plaintiff in the case",
+    "illegal aliens": "individuals being smuggled within the United States for commercial advantage and private financial gain",
+    "foreign nationals": "persons held for ransom and against their will"
+  }
+}

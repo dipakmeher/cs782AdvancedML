@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "an arrest": null,
+    "a warrant": null,
+    "the Constitution": "United States Constitution",
+    "probable cause": null,
+    "a police officer": "law enforcement officer",
+    "the suspect": null,
+    "the defendant": null,
+    "the offense": null,
+    "the arresting officer": "law enforcement officer",
+    "the events": null,
+    "the collective knowledge doctrine": null,
+    "the agents": "law enforcement officers",
+    "the courts": "United States Courts"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Constitution": "supreme law of the land that outlines the framework of the US government and the relationship between the government and its citizens, including protections against unreasonable searches and seizures",
+    "law enforcement officer": "official responsible for enforcing laws and maintaining public order, with a critical role in detecting and preventing smuggling operations, ensuring that detentions are temporary and last no longer than necessary to effectuate the purpose of the stop",
+    "United States Courts": "federal courts responsible for interpreting the law and deciding cases, including those related to immigration, border patrol, and smuggling"
+  }
+}

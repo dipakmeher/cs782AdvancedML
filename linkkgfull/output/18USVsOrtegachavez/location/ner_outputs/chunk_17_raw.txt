@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the presence of the jury", "this regard"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

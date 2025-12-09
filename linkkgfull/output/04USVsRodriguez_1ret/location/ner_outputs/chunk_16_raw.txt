@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["FM 2050", "Mills Bennett Road", "U.S. 59", "San Pablo Road", "Moglia", "Stag", "Santo Nino Road", "Dinn Ranch", "Highway 16"],
+    "NOUN_PHRASE": ["the checkpoint", "the west side", "the wind farm", "the entrance", "the office", "the surroundings", "the ranches", "the east", "the west", "the area"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "road where the wind farm is located",
+    "Mills Bennett Road": "dirt road intersecting FM 2050",
+    "U.S. 59": "highway near the wind farm",
+    "San Pablo Road": "road south of the wind farm",
+    "Moglia": "ranch house near the wind farm",
+    "Stag": "ranch trailer near the wind farm",
+    "Santo Nino Road": "road extending to the east, also known as Dinn Ranch",
+    "Dinn Ranch": "alternative name for Santo Nino Road",
+    "Highway 16": "highway providing vehicle access"
+  }
+}

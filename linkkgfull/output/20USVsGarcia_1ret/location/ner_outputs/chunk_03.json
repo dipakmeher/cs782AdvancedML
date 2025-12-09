@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the window",
+      "the cab",
+      "the back seat",
+      "the brush",
+      "the floor",
+      "the camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

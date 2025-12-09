@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Freer": "Freer, Texas",
+    "the nearby gas station": null,
+    "the Border": "Mexico border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Freer, Texas": "location of a patrolman and immigration checkpoint on U.S. 59",
+    "Mexico border": "country border relevant to the smuggling context"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Graham": "Andrew P. Graham",
+    "Agent Snodgrass": "Jay Snodgrass",
+    "the driver": "Brignoni-Ponce Jacquinot",
+    "his assistant": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Andrew P. Graham": "Border Patrol Agent who stopped the truck based on suspicious behavior and prior observations, including the truck's unusual hour of departure from the park, its Kansas license plate, lack of a park registration sticker, and the driver's evasive actions",
+    "Jay Snodgrass": "Border Patrol Agent whose prior observation of the truck was confirmed by Agent Graham, contributing to the determination of suspicious activity",
+    "Brignoni-Ponce Jacquinot": "Defendant in a drug trafficking case, exhibited suspicious behavior while driving, sole passenger in the truck, found with 286.44 pounds of marijuana and two unloaded handguns, described as a small-framed person wearing a baseball cap"
+  }
+}

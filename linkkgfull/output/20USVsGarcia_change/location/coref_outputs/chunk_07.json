@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "Brignoni-Ponce": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of the border patrol agents and location of the incident",
+    "Moore, Texas": "location near the border where Interstate 35 passes",
+    "Interstate Highway 35": "highway leading directly to the border and passing through Laredo, Texas",
+    "Mexican border": "physical boundary relevant to legality of investigatory stop and location near the incident",
+    "northbound lanes of Interstate Highway 35": "part of the highway where the border patrol agents observed the pickup truck",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence",
+    "United States District Court": "court where the suppression motion was filed and considered",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident",
+    "Laredo, Texas": "city through which Interstate 35 passes and located near the border",
+    "Interstate 35": "highway leading directly to the border and passing through several towns including Laredo, Texas and Moore",
+    "Moore": "location near the border and one of the towns passed by Interstate 35"
+  }
+}

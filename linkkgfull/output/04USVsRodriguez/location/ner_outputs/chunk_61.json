@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the instant case",
+      "the existence",
+      "the ambiguity",
+      "the pickup",
+      "the camper shell",
+      "the vehicle",
+      "the truck",
+      "the rental cars"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

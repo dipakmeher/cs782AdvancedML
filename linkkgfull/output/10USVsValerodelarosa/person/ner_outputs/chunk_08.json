@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Valero"
+    ],
+    "NOUN_PHRASE": [
+      "the Court",
+      "Counsel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "Defendant"
+  }
+}

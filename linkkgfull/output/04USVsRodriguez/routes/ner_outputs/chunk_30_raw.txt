@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050"],
+    "NOUN_PHRASE": ["a smuggling route", "the roadway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a road where the vehicles were traveling"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "Dallas-Fort Worth": "Hertz Dallas-Fort Worth"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "Court that has previously held that certain factors can add to reasonable suspicion, such as vehicle registration and route taken.",
+    "Hertz Dallas-Fort Worth": "Location where a rental vehicle was registered, contributing to Agent Trevino's suspicion due to its out-of-town registration."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the defendant": "RICARDO RODRIGUEZ, JR.",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "his counsel": null,
+    "a smuggler": null,
+    "a Border Patrolman": null,
+    "a policeman": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who appeared to concede that the route taken would be convenient for smugglers and suggested alternative routes for smugglers to avoid detection",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose arrest was justified due to sufficient evidence of involvement in drug-smuggling activity",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who was cross-examined during the hearing and provided testimony about his encounter with the defendant"
+  }
+}

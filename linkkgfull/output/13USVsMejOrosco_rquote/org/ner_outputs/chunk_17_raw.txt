@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["sentencing commission", "district court"],
+    "NOUN_PHRASE": ["the guidelines", "the standard of review", "the district court's fact-finding power", "the sentencing judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "sentencing commission": "sought to ensure district courts consider all relevant factors",
+    "district court": "imposes sentences and makes factual findings"
+  }
+}

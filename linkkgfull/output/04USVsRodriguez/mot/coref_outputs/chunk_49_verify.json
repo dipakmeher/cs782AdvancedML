@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "F-150": "Ford F-150",
+    "F-250": "Ford F-250",
+    "two cars": null,
+    "the first car": null,
+    "the scout car": null,
+    "the load car": null,
+    "a load car": null,
+    "a scout car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ford F-150": "used by most of the ranchers on Farm-to-Market Road 2050, Ford truck model, often with brush guards, commonly used by oil companies, typical vehicle seen on Farm-to-Market Road 2050, usually white",
+    "Ford F-250": "used by most of the ranchers on Farm-to-Market Road 2050, Ford truck model, with head rack in the back, typical vehicle seen on Farm-to-Market Road 2050"
+  }
+}

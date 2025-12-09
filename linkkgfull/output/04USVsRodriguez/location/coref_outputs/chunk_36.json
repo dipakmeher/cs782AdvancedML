@@ -1,0 +1,8 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the stop": "traffic stop"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "traffic stop": "law enforcement action taken based on reasonable suspicion of illegal activity, with a defined scope and duration"
+  }
+}

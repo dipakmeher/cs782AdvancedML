@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the gas station": null,
+    "the citation": null,
+    "the Freer, Texas patrolman": "Officer Reymundo Reyes",
+    "the United States Border Patrol agents": "United States Border Patrol",
+    "May 2nd Hr'g": null,
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Officer Reymundo Reyes": "Freer Police Department officer who conducted a traffic stop on IGNACIO RODRIGUEZ, JR.'s vehicle and observed his extreme nervousness, also testified about impounding vehicles due to lack of proof of insurance or other registration issues. Officer has impounded between eight to ten vehicles since the beginning of the year for various reasons including no driver's license, no insurance, or expired registration.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and involved in a traffic stop on Farm-to-Market Road 2050, transported to the United States Border Patrol station for questioning",
+    "United States Border Patrol": "Law enforcement agency involved in the incident"
+  }
+}

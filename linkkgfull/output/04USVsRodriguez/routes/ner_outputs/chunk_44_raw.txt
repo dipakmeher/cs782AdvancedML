@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Interstate highway"],
+    "NOUN_PHRASE": ["a highway", "the highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate highway": "location where vehicles were heading"
+  }
+}

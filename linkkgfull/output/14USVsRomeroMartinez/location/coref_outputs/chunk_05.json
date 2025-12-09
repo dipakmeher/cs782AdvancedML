@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "Texas-Mexico border",
+    "Cotulla, Texas": "Cotulla, Texas",
+    "Interstate 35": "Interstate 35",
+    "IH-35": "Interstate 35",
+    "Texas-Mexico border": "Texas-Mexico border",
+    "Texas": "Texas",
+    "Mexico": "Mexico",
+    "the vehicle": null,
+    "the floorboard of the truck": null,
+    "the back of the truck": null,
+    "the toolbox": null,
+    "United States": "United States",
+    "Texas Court of Criminal Appeals": "Texas Court of Criminal Appeals",
+    "the area": "area near the Texas-Mexico border",
+    "the door jamb": null,
+    "the front door": null,
+    "the crew-cab section of the truck": null,
+    "the rear-view mirror": null,
+    "the lane": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location where the investigatory stop took place",
+    "Interstate 35": "road where Carlos Martinez-Romero was traveling, with a speed limit of seventy miles per hour",
+    "Texas-Mexico border": "border near where the stop occurred and relevant to roving border patrol stops",
+    "Texas": "state where the stop took place and location of court proceedings",
+    "Mexico": "country of Carlos Martinez-Romero's citizenship",
+    "United States": "country with constitution protecting individuals from unreasonable searches and seizures",
+    "Texas Court of Criminal Appeals": "court that has made rulings on roving border patrol stops",
+    "area near the Texas-Mexico border": "region relevant to the case of Carlos Martinez-Romero"
+  }
+}

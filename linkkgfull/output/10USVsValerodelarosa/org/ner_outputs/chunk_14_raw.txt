@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Magistrate Judge", "United States District Judge", "United States District Court", "Fifth Circuit"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Magistrate Judge": "presiding judge",
+    "United States District Judge": "judge making findings",
+    "United States District Court": "court where plea was entered",
+    "Fifth Circuit": "appellate court giving weight to defendant's statements"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the Court": "Court",
+    "Freer Police Department": "Freer Police Department",
+    "the stop": null,
+    "the traffic stop": null,
+    "the series of vehicle stops": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr.",
+    "Freer Police Department": "law enforcement agency involved in the traffic stop of Defendant Ignacio Rodriguez, Jr."
+  }
+}

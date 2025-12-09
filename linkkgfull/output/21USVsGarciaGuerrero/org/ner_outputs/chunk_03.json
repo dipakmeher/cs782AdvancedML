@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo South Station",
+      "La Moca Ranch",
+      "border patrol"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo South Station": "station where border patrol agents were from",
+    "La Moca Ranch": "location where undocumented female alien was found",
+    "border patrol": "agency whose agents were involved in the incident"
+  }
+}

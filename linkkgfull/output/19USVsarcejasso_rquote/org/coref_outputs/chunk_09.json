@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the United States of America": "United States of America",
+    "border patrol": "U.S. Border Patrol",
+    "the border patrol checkpoint": "U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas",
+    "the primary inspection lane": null,
+    "the secondary inspection area": null,
+    "Laredo": "City of Laredo",
+    "the government": "United States Government",
+    "a court of appeals": "United States Court of Appeals",
+    "a district court": "United States District Court",
+    "Federal Rule of Appellate Procedure": "Federal Rule of Appellate Procedure",
+    "this court of appeals": "United States Court of Appeals",
+    "the district court": "United States District Court",
+    "FED. R. APP. P": "Federal Rule of Appellate Procedure"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "a party in the legal proceedings, concedes to missing a deadline and argues for the materiality requirement in the motion to suppress, also acting as prosecutor and filing notice to appeal",
+    "U.S. Border Patrol": "law enforcement agency operating the checkpoint",
+    "U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas": "location where Raul Rafael Arce-Jasso was stopped and questioned by Agent Jesus Garcia",
+    "City of Laredo": "location of the federal grand jury and border patrol checkpoint",
+    "United States Government": "party entitled to appeal suppression of evidence in criminal cases",
+    "Federal Rule of Appellate Procedure": "governs appellate procedure, specifically the timing and certification requirements for appeals by the government",
+    "United States Court of Appeals": "court that has customarily treated late filings as motions for determination of excusable neglect or good cause, but only for criminal defendants",
+    "United States District Court": "trial court where the case is initially heard"
+  }
+}

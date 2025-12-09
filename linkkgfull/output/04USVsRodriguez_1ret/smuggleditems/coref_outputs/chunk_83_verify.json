@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "a white passenger vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "Individuals being transported in vehicles, displaying suspicious behavior such as wearing caps and appearing stiff",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., impounded due to lack of proof of insurance and potential theft concerns",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan rented by RICARDO RODRIGUEZ, JR. at the Laredo International Airport, registered to Hertz Rental Car Company"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth": "Corinth, Texas",
+    "Dallas": "Dallas, Texas",
+    "the ranches": null,
+    "the black truck": null,
+    "the suburb": "Corinth, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "a suburb of Dallas, approximately twenty to twenty-five miles south of Dallas",
+    "Dallas, Texas": "a city approximately twenty to twenty-five miles north of Corinth",
+    "Farm-to-Market Road 2050": "location of ranches and a wind farm, with limited traffic"
+  }
+}

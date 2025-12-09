@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Highway 59",
+      "Highway 16",
+      "Hebbronville",
+      "Dallas, Texas"
+    ],
+    "NOUN_PHRASE": [
+      "the intersection",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of jurisdiction",
+    "Highway 59": "location of traffic stop",
+    "Highway 16": "location of traffic stop",
+    "Hebbronville": "origin of Defendant's journey",
+    "Dallas, Texas": "destination of Defendant's journey"
+  }
+}

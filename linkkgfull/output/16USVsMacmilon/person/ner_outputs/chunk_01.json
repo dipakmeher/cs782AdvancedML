@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Raymond McMillon",
+      "McMillon"
+    ],
+    "NOUN_PHRASE": [
+      "Defendant-Appellant",
+      "the Government",
+      "the prevailing party",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Raymond McMillon": "defendant and appellant",
+    "McMillon": "defendant and appellant"
+  }
+}

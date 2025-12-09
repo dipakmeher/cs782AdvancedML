@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Catherine Stone": "Catherine Stone",
+    "Woods": null,
+    "the agent": "David Fitzgerald",
+    "the appellant": "Carlos Martinez-Romero",
+    "the Justice": "Catherine Stone"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Carlos Martinez-Romero": "Defendant, Appellant, and individual convicted of possession of marijuana, exhibited suspicious behavior during a traffic stop, argued against the trial court's decision to not suppress evidence, driver of a crew-cab truck",
+    "David Fitzgerald": "Border Patrol Agent who conducted the investigatory stop, arrested the appellant, testified as a witness, observed appellant's suspicious activities, has experience with alien-smuggling vehicles and modifications that often serve illegal purposes, discovered marijuana in the toolbox of the truck, conducted the stop approximately sixty-eight miles from the border, provided testimony on the credibility of his experience with similar vehicle modifications, noticed appellant traveling at low speed and appearing tense, encountered a unique modification to the crew-cab's backseat, used a key attached to the ignition to open the toolbox, testified about his four years of experience and the implications of vehicle modifications, ran a license and vehicle registration check on appellant's truck",
+    "Catherine Stone": "Justice who authored the court opinion, applied the Woods totality of the circumstances test"
+  }
+}

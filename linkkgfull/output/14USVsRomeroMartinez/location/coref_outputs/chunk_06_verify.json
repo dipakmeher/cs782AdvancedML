@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Edna, Texas": "Edna, Texas",
+    "Edna": "Edna, Texas",
+    "Dallas": "Dallas",
+    "Austin": "Austin",
+    "San Antonio": "San Antonio",
+    "Texas": "Texas",
+    "U.S.-Mexico border": "U.S.-Mexico border",
+    "the back seat area": null,
+    "the stop": null,
+    "the vehicle": null,
+    "the crew-cab's backseat": null,
+    "the suburb": "Edna, Texas",
+    "larger cities": "Dallas and Austin and San Antonio",
+    "the border": "U.S.-Mexico border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location where Carlos Martinez-Romero's investigatory stop took place, approximately sixty-eight miles from the Texas-Mexico border",
+    "Interstate 35": "road where Carlos Martinez-Romero was traveling when stopped by Border Patrol Agent David Fitzgerald, with a speed limit of seventy miles per hour",
+    "Texas-Mexico border": "border near where the stop of Carlos Martinez-Romero occurred",
+    "Texas": "state with constitution protecting individuals from unreasonable searches and seizures and location of court proceedings",
+    "Mexico": "country of Carlos Martinez-Romero's citizenship, from which he crossed with a valid border-crosser card",
+    "United States": "country with constitution protecting individuals from unreasonable searches and seizures",
+    "Texas Court of Criminal Appeals": "court that has made rulings on roving border patrol stops, establishing standards for reasonable suspicion",
+    "area near the Texas-Mexico border": "region relevant to the case of Carlos Martinez-Romero, with guidelines limiting reasonable proximity to stops conducted within fifty miles of the border",
+    "Edna, Texas": "vehicle registration location and origin of alien-smuggling vehicles, suburb of Dallas",
+    "Dallas": "larger city and registration location for some alien-smuggling vehicles",
+    "Austin": "larger city that smugglers may travel to",
+    "San Antonio": "larger city that smugglers may travel to",
+    "U.S.-Mexico border": "border region relevant to smuggling activities and vehicle stops, also the location of a vehicle stop in Carlos Martinez-Romero's case",
+    "Dallas and Austin and San Antonio": "cities that smugglers often travel to"
+  }
+}

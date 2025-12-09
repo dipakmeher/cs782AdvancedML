@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the checkpoint",
+      "an open area",
+      "his unit",
+      "the vehicle",
+      "his assigned area"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

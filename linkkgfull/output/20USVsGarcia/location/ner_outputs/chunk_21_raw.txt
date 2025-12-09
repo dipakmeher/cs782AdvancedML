@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the dark cabin of Maria De Jesus Garcia's truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

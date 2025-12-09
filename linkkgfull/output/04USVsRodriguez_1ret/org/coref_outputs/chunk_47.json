@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Supreme Court": "Supreme Court of the United States",
+    "Court": "United States Court",
+    "District Judge": "United States District Judge",
+    "Magistrate Judge": "United States Magistrate Judge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country with lawful bounds for stops, governing principles for traffic stops and arrests",
+    "Supreme Court of the United States": "high court that has long held certain principles regarding reasonableness and legality of police investigatory stops",
+    "United States Court": "governing body for traffic stops and arrests, applying principles set out in Terry",
+    "United States District Judge": "judge to review the motion independently",
+    "United States Magistrate Judge": "judge making recommendations based on articulable factors indicating that illegal activity might be afoot"
+  }
+}

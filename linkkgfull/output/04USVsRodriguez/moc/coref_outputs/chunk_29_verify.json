@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the fifth Brignoni-Ponce factor": null,
+    "a United States District Court": "a United States District Court",
+    "Jorge Luis Trevino": "Agent Jorge Luis Trevino",
+    "the United States Border Patrol": "the United States Border Patrol",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 16 and Highway 59": "the intersection of Highway 16 and Highway 59",
+    "the agent's previous experience": null,
+    "the totality of the circumstances": null,
+    "the instant case": null,
+    "the United States Border Patrol agents": "United States Border Patrol agents",
+    "the vehicles passing down Farm-to-Market Road 2050": null,
+    "a local black Dodge pickup truck": "the black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a United States District Court": "Court responsible for interpreting testimony and evidence in the case",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent with nearly seven years of experience, familiar with vehicles passing down Farm-to-Market Road 2050",
+    "the United States Border Patrol": "Law enforcement agency responsible for monitoring and enforcing immigration laws near the United States-Mexico border",
+    "Farm-to-Market Road 2050": "Road where United States Border Patrol encountered the two vehicles, known for its rural and ranching activities",
+    "Highway 16 and Highway 59": "Location where the traffic stop was initiated",
+    "United States Border Patrol agents": "Law enforcement officers with experience in detecting illegal activity, entitled to assess facts based on their experience"
+  }
+}

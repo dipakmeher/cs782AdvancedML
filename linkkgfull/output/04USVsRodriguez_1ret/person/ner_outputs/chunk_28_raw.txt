@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino", "Trevino"],
+    "NOUN_PHRASE": ["the agent", "the officer", "two Border Patrol agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "Border Patrol agent with experience",
+    "Trevino": "Border Patrol agent with experience"
+  }
+}

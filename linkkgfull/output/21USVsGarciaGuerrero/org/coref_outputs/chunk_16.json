@@ -1,0 +1,43 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the United States": "United States",
+    "San Luis": null,
+    "Potosi": null,
+    "Mexico": "Mexico",
+    "San Antonio": null,
+    "Nuevo Laredo": null,
+    "Rio Grande River": null,
+    "South Texas": null,
+    "Laredo South Station": "Laredo South Station",
+    "La Moca Ranch": "La Moca Ranch",
+    "border patrol": "United States Border Patrol",
+    "Ninth Circuit": "Ninth Circuit Court of Appeals",
+    "the commentary": null,
+    "the court": "Court of Appeals",
+    "the court of appeals": "Court of Appeals",
+    "the Defendants": null,
+    "the United States in the context of the case": "United States",
+    "the government": "United States Government",
+    "Congress": "United States Congress",
+    "Sentencing Commission": "United States Sentencing Commission",
+    "House Conference Report": "House Conference Report No. 104-863",
+    "district court": "United States District Court",
+    "Herrera court": "Herrera Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "the country that enhanced Inocencio Garcia-Guerrero's base offense level, the sentencing and appealing party in the case of Inocencio Garcia-Guerrero, destination country for undocumented aliens, entity hearing oral argument in the case, referenced in a court case involving reckless endangerment enhancement, agreed with the conduct being covered, correctly concluded that the United States guideline use of the phrase \"creating a substantial risk\" focuses on whether the chosen manner of traveling is \"a very dangerous way to travel\", referenced in relation to the meaning and context of the case",
+    "Mexico": "country of origin for undocumented aliens",
+    "Laredo South Station": "station where border patrol agents were from",
+    "La Moca Ranch": "location where undocumented female alien was found",
+    "United States Border Patrol": "agency whose agents interacted with the aliens and were involved in the incident",
+    "Ninth Circuit Court of Appeals": "a court of appeals that upheld the application of enhancement to a factual scenario similar to that before the United States, provided instructional case law",
+    "Court of Appeals": "a court that heard the case, addressed intent requirement for an enhancement",
+    "United States Government": "the government that pointed out dangers of journey for smuggled aliens",
+    "United States Congress": "directed the Sentencing Commission to allow for sentencing enhancements in cases involving reckless endangerment during alien smuggling offenses",
+    "United States Sentencing Commission": "allowed for imposition of sentencing enhancement on defendants who engage in conduct placing others in serious danger of death or bodily injury during alien smuggling",
+    "House Conference Report No. 104-863": "document comparing proposed and final versions of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996",
+    "United States District Court": "the court that enhanced Inocencio Garcia-Guerrero's sentence",
+    "Herrera Court": "a court of appeals that addressed intent requirement for an enhancement, found that no intent requirement is necessary for an enhancement under the subsection"
+  }
+}

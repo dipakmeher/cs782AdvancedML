@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["undocumented aliens"],
+    "NOUN_PHRASE": ["a photo layout", "the United States Government's witnesses", "the court record", "the district court", "a twelve-person jury", "the jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "persons being smuggled into the United States"
+  }
+}

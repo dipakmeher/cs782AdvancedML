@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Mississippi"],
+    "NOUN_PHRASE": ["the park", "his location", "the agents' location"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mississippi": "state of origin for a vehicle's license plate"
+  }
+}

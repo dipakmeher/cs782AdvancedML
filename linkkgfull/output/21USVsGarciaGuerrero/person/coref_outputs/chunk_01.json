@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Inocencio Garcia-Guerrero": "Inocencio Garcia-Guerrero",
+    "Garcia": "Inocencio Garcia-Guerrero",
+    "KING": "KING",
+    "Defendant": "Inocencio Garcia-Guerrero",
+    "the district court": null,
+    "the court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Inocencio Garcia-Guerrero": "Defendant who pled guilty to transporting undocumented aliens for financial gain",
+    "KING": "Chief Judge presiding over the case"
+  }
+}

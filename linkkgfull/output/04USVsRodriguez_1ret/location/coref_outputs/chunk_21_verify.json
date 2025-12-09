@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Highway 59": "U.S. 59",
+    "Highway 16": "Highway 16",
+    "Hebbronville": "Hebbronville",
+    "Dallas, Texas": "Dallas, Texas",
+    "the intersection": "Highway 16 and U.S. 59",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of jurisdiction for the case involving IGNACIO RODRIGUEZ, JR.",
+    "U.S. 59": "location of traffic stop and intersection with Highway 16",
+    "Highway 16": "location of traffic stop and intersection with U.S. 59",
+    "Hebbronville": "origin of Defendant's journey, located in Texas",
+    "Dallas, Texas": "destination of Defendant's journey, a city in the state of Texas",
+    "Highway 16 and U.S. 59": "location of traffic stop where Agent Benavides encountered IGNACIO RODRIGUEZ, JR."
+  }
+}

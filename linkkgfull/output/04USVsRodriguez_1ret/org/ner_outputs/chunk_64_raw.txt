@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ford"],
+    "NOUN_PHRASE": ["the oil companies", "the Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ford": "manufacturer of vehicles"
+  }
+}

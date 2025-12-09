@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "the white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "United States Border Patrol agents": "United States Border Patrol",
+    "illegal aliens": "undocumented aliens",
+    "the vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "February 4, 2013": null,
+    "Laredo, Texas": "Laredo, Texas",
+    "May 2nd Hr'g": null,
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol agent who conducted the initial stop and testified about his observations, including the commonality of encountering illegal aliens wearing caps after walking through brush",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenged the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino and testified during cross-examination",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, with observations of its passengers wearing caps and appearing stiff, although the written report did not include these details initially",
+    "United States Border Patrol": "Law enforcement agency involved in the incident, with agents commonly encountering illegal aliens wearing caps after walking through brush",
+    "undocumented aliens": "Individuals being transported in vehicles, displaying suspicious behavior such as wearing caps and appearing stiff",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan, with observations of repeated off-road driving",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with the United States Magistrate Judge taking judicial notice of the sunset time on February 4, 2013, in Laredo, Texas",
+    "Laredo, Texas": "Location where the defendants' journey originated and where the sun set at 6:22 p.m. on February 4, 2013"
+  }
+}

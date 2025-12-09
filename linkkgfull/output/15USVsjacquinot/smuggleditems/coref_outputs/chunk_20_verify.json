@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "two unloaded handguns": "two unloaded handguns",
+    "drug trafficking offense": "narcotics cases",
+    "the weapon": "two unloaded handguns",
+    "the large white Ford pickup truck": "large white Ford pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "two unloaded handguns": "possessed in connection with a drug offense, found in the large white Ford pickup truck",
+    "narcotics cases": "recently smuggled in the Alpine, Texas area, destined for locations in Kansas, involving Brignoni-Ponce Jacquinot's drug offense",
+    "large white Ford pickup truck": "vehicle driven by Brignoni-Ponce Jacquinot, stopped by United States/Mexican Border Patrol due to suspicious behavior and proximity to the United States/Mexican Border, deviating from typical traffic patterns on Texas Highway 385 early on a Sunday morning, with an indirect travel route from Big Bend National Park to Alpine, Texas, bearing a Kansas license plate"
+  }
+}

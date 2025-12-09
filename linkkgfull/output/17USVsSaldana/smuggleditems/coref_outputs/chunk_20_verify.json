@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "the vehicle registration": "vehicle registration of the 2008 Chevrolet truck driven by Federico Saldana"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires",
+    "vehicle registration of the 2008 Chevrolet truck driven by Federico Saldana": "Registration documents of the vehicle driven by Federico Saldana, checked by Williamson County Sheriff's Office officer during the traffic stop, found in the cab of the 2008 Chevrolet truck"
+  }
+}

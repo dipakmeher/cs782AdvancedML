@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Diesel Impact 2000",
+      "ICE",
+      "Monterrey Inn"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Diesel Impact 2000": "location where aliens were loaded into the tractor trailer",
+    "ICE": "agency that interviewed Martin Adaboh",
+    "Monterrey Inn": "place where Martin Adaboh was approached to smuggle aliens"
+  }
+}

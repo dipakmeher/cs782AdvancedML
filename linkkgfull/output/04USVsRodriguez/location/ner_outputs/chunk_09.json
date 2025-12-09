@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S. 59",
+      "FM 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the checkpoint",
+      "the ranches",
+      "the oil fields",
+      "the wind farm"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. 59": "location of a checkpoint",
+    "FM 2050": "road where vehicles are seen by Border Patrol agents"
+  }
+}

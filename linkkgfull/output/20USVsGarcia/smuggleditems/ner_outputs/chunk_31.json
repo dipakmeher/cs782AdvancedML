@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "the passengers",
+      "the aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the passengers in the back seat",
+      "five or six people"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "the passengers": "individuals in Maria De Jesus Garcia's pickup truck camper",
+    "the aliens": "smuggled individuals"
+  }
+}

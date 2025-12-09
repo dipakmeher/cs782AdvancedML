@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Marathon", "Kansas", "Big Bend", "United States/Mexico border", "Highway 385"],
+    "NOUN_PHRASE": ["the street", "the park", "the west side", "the east side", "the checkpoint"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Marathon": "location where the truck drove through",
+    "Kansas": "state associated with the truck's license plate and a smuggling organization",
+    "Big Bend": "area involved in marijuana transportation by a smuggling organization",
+    "United States/Mexico border": "border near where the truck was stopped",
+    "Highway 385": "route known for alien and narcotics smuggling"
+  }
+}

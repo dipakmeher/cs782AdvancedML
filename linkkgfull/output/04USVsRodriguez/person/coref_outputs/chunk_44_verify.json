@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "the Border Patrol agents": "Jorge Luis Trevino and Marco Montemayor",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the driver of the other vehicle": "RICARDO RODRIGUEZ, JR.",
+    "the registered owner": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who had probable cause to arrest Ignacio Rodriguez upon contact with him",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant arrested by Agent Benavides due to sufficient nexus between the two vehicles and knowledge of the load car-scout car pattern",
+    "RICARDO RODRIGUEZ, JR.": "Driver of the white sedan who had been arrested for transporting illegal aliens and had a connection to the registered owner of the black truck",
+    "Jorge Luis Trevino and Marco Montemayor": "Border Patrol agents involved in the investigation and aware of the load car-scout car pattern",
+    "IGNACIO RODRIGUEZ, JR. and RICARDO RODRIGUEZ, JR.": "Defendants whose vehicles were stopped by law enforcement officers due to suspicion of alien smuggling activities"
+  }
+}

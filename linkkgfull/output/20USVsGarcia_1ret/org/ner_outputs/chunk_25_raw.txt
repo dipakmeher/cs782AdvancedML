@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States district court", "Interstate Highway 35", "United States-Mexican border"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States district court": "refers to the lateness of the hour as a relevant consideration",
+    "Interstate Highway 35": "location where previous experience with illegal alien traffic occurred and where the stop took place",
+    "United States-Mexican border": "reference point for distance calculation"
+  }
+}

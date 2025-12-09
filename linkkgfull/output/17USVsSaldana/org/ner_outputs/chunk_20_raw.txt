@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Government", "Court"],
+    "NOUN_PHRASE": ["the government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Government": "argues about the validity of consent to search",
+    "Court": "considers factors in determining voluntariness of consent"
+  }
+}

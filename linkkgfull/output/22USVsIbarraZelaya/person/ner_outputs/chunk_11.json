@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ibarra-Zelaya"
+    ],
+    "NOUN_PHRASE": [
+      "his counsel",
+      "attorney"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ibarra-Zelaya": "the defendant"
+  }
+}

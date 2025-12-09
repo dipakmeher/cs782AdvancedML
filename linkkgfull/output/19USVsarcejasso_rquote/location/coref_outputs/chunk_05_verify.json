@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "a court of appeals": "court of appeals",
+    "a district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "appellant in a criminal case, examining the basis of its appellate jurisdiction",
+    "court of appeals": "court that the United States of America appeals to from a decision or order of a district court suppressing or excluding evidence",
+    "district court": "court that made a decision or order suppressing or excluding evidence, which the United States of America appeals from"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the jury": "jury in United States v. Maria De Jesus Garcia",
+    "United States District Court judge": "United States v. Maria De Jesus Garcia",
+    "Maria De Jesus Garcia's counsel": "Maria De Jesus Garcia",
+    "the modified Allen charge": "modified Allen charge",
+    "the pickup truck camper's motion": "pickup truck camper",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "jury in United States v. Maria De Jesus Garcia": "deliberating body in the court case against Maria De Jesus Garcia, having difficulty reaching a unanimous decision after approximately two hours of deliberation, eventually returning a guilty verdict",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, with a focus on the modified Allen charge and its potential coercive effect on the jury, resulting in a guilty verdict",
+    "Maria De Jesus Garcia": "defendant in a court case involving allegations of smuggling undocumented aliens, arguing against the use of the modified Allen charge, seeking post-verdict discovery through juror depositions and interrogatories to determine potential coercion by the modified Allen charge",
+    "modified Allen charge": "a judicial instruction given to the jury in United States v. Maria De Jesus Garcia, emphasizing the importance of reaching a verdict, with its potential coercive effect being a point of contention, used after the jury reported being deadlocked",
+    "pickup truck camper": "vehicle used for smuggling undocumented aliens on Interstate Highway 35, characterized by heavy loading and difficulty in handling, subject of a suppression motion regarding evidence obtained during its stop and search"
+  }
+}

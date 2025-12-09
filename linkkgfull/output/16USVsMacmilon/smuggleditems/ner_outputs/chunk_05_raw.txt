@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["undocumented aliens", "aliens"],
+    "NOUN_PHRASE": ["the person", "the bed", "the tractor-trailer's sleeper area", "the tractor-trailer's rear sleeper area", "the tractor-trailer's closets", "the tractor-trailer's beds"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "hidden in the tractor-trailer",
+    "aliens": "being smuggled"
+  }
+}

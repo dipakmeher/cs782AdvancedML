@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located, involved in a case of alien smuggling",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, providing a structured facility for rehabilitation and confinement, believed to be in J.M.E.'s best interest due to the services it provides, where juveniles are sent upon violating conditions of probation, offering behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed, also referred to as 'the Center', from which J.M.E. was unsuccessfully discharged due to failure to comply with requirements and initiating fights with other juveniles, and where J.M.E. had a history of delinquent conduct and substance abuse",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services, and where J.M.E. was transferred after assaulting another juvenile at TJJD, and where J.M.E. was attending school, receiving good grades, and currently complying with the juvenile court's order by attending CAPS counseling and SCAN services",
+    "Southwest Keys": "program for counseling, part of the conditions of probation for J.M.E., related to alien smuggling case, completed after ISP",
+    "Youth Village": "location for Cognitive Life Skills, part of the conditions of probation for J.M.E."
+  }
+}

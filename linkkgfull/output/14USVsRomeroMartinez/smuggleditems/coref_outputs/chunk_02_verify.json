@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "marijuana": "marijuana",
+    "six bundles of marijuana": "marijuana",
+    "the toolbox": "toolbox in Carlos Martinez-Romero's crew-cab truck",
+    "the crew-cab truck": "Carlos Martinez-Romero's crew-cab truck",
+    "the key": null,
+    "the floorboard": null,
+    "the border-crosser card": "valid border-crosser card presented by Carlos Martinez-Romero",
+    "the proof of citizenship": "proof of Mexican citizenship presented by Carlos Martinez-Romero",
+    "illegal aliens": null,
+    "narcotics": null,
+    "a vehicle": null,
+    "the stowage": null,
+    "Carlos Martinez-Romero's crew-cab truck": "Carlos Martinez-Romero's crew-cab truck",
+    "United States Border Patrol Agent David Fitzgerald's vehicle": "United States Border Patrol Agent David Fitzgerald's vehicle",
+    "the back seat": "modified back seat of Carlos Martinez-Romero's crew-cab truck",
+    "the back seat area": "modified back seat area of Carlos Martinez-Romero's crew-cab truck",
+    "the stow-away location": null,
+    "the modification": "modification to the back seat of Carlos Martinez-Romero's crew-cab truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "marijuana": "possession of which Carlos Martinez-Romero was convicted, found in six bundles totaling one hundred and sixty-nine pounds in the toolbox",
+    "illegal aliens": "smuggled persons",
+    "narcotics": "smuggled substances",
+    "Carlos Martinez-Romero's crew-cab truck": "vehicle used by Carlos Martinez-Romero during the stop, with a modified back seat, registered in Edna, Texas, suspected to be involved in alien-smuggling based on its origin and registration, stopped by United States Border Patrol Agent David Fitzgerald on Interstate 35",
+    "United States Border Patrol Agent David Fitzgerald's vehicle": "vehicle used by United States Border Patrol Agent David Fitzgerald to follow Carlos Martinez-Romero",
+    "the modification": "alteration to the crew-cab truck's back seat area, suspected to be for illegal purposes, observed by United States Border Patrol Agent David Fitzgerald",
+    "toolbox in Carlos Martinez-Romero's crew-cab truck": "container found in the back of Carlos Martinez-Romero's crew-cab truck, holding six bundles of marijuana",
+    "valid border-crosser card presented by Carlos Martinez-Romero": "document presented by Carlos Martinez-Romero as proof of legal crossing",
+    "proof of Mexican citizenship presented by Carlos Martinez-Romero": "document presented by Carlos Martinez-Romero as proof of citizenship",
+    "modified back seat of Carlos Martinez-Romero's crew-cab truck": "missing back seat area, suspected to be used for stow-away location",
+    "modified back seat area of Carlos Martinez-Romero's crew-cab truck": "area where the back seat was missing, suspected to be used for stow-away location"
+  }
+}

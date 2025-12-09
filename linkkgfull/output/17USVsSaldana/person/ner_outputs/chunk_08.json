@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Haston",
+      "Cox",
+      "Vargas",
+      "Saldana"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "conducted search and interviewed Saldana",
+    "Cox": "",
+    "Vargas": "participated in search",
+    "Saldana": "subject of search and interview"
+  }
+}

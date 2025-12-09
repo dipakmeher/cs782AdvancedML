@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the southwestern border", "the Rio Grande"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

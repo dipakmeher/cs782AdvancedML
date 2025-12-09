@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["IH-35"],
+    "NOUN_PHRASE": ["the vehicle", "the door jamb", "the front door", "the crew-cab section of the truck", "the rear-view mirror", "the lane"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "IH-35": "location where Carlos Martinez-Romero was traveling"
+  }
+}

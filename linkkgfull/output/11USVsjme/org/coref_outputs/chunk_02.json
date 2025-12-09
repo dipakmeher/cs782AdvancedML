@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys Program": "Southwest Keys Program",
+    "the juvenile court": null,
+    "Youth Village": "Youth Village",
+    "Webb County Jail": "Webb County Jail"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas Juvenile Justice Department": "department where J.M.E. was detained",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was unsuccessfully discharged",
+    "Southwest Keys Program": "program J.M.E. was ordered to complete after intensive supervision probation",
+    "Youth Village": "facility where J.M.E. was to receive Cognitive Life Skills",
+    "Webb County Jail": "jail where J.M.E. was transferred after assaulting another juvenile"
+  }
+}

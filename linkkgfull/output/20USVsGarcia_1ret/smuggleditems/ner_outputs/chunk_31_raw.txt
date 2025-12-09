@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's Vehicle", "Alfred Baron's flashlight", "Stanley Pruszenski", "Alfred Baron", "Maria De Jesus Garcia"],
+    "NOUN_PHRASE": ["the windows", "the interior"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's Vehicle": "vehicle used in the smuggling operation",
+    "Alfred Baron's flashlight": "flashlight used to detect smuggled individuals"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the verdict": "United States v. Maria De Jesus Garcia",
+    "the indictment": "United States v. Maria De Jesus Garcia",
+    "a juror": "jury in United States v. Maria De Jesus Garcia",
+    "the jury's deliberations": "United States v. Maria De Jesus Garcia",
+    "the juror's mind or emotions": null,
+    "the verdict or indictment": "United States v. Maria De Jesus Garcia",
+    "extraneous prejudicial information": null,
+    "outside influence": null,
+    "any other juror": "jury in United States v. Maria De Jesus Garcia",
+    "his mental processes": null,
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the United States District Court": "United States v. Maria De Jesus Garcia",
+    "the rule": null,
+    "post-trial questioning of jurors": null,
+    "the purpose of impeaching the verdict": null,
+    "the appeal": "United States v. Maria De Jesus Garcia",
+    "the request for post-trial questioning of jurors": null,
+    "the contention": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled, possibly hidden in a vehicle with fogged windows on a cold night, characterized by unwashed and unkempt appearance, suspected to be in vehicles stopped by Border Patrol agents near the United States-Mexican border, attempting to evade detection, exhibiting efforts to avoid detection by ducking and scrambling, admitted to being undocumented, including three women and five or six men found in a pickup truck camper, perceived as a social problem in controlling hordes from Mexico, unwashed and unkempt, scrambling when approached by Border Patrol agents, moving and slouching low to hide from flashlight beams, reacting to flashlight beams by ducking and scrambling, reacting to a bright light by physical movement in the interior of the pickup truck camper, with an appearance consistent with that of illegal aliens, whose hygienic appearance can vary greatly with subjective perceptions, making efforts to conceal themselves when detected, displaying suspicious behavior such as slouching down or hunkering down when passing Border Patrol agents, carried by a pickup truck camper in numbers up to twenty-two",
+    "pickup truck camper": "vehicle used for smuggling undocumented aliens on Interstate Highway 35, characterized by heavy loading and difficulty in handling, subject of a suppression motion regarding evidence obtained during its stop and search",
+    "Maria De Jesus Garcia": "defendant in a court case involving allegations of smuggling undocumented aliens, arguing against the use of the modified Allen charge, seeking post-verdict discovery through juror depositions and interrogatories to determine potential coercion by the modified Allen charge, making a concession on the applicability of a rule to her request for post-trial questioning of jurors",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, with a focus on the modified Allen charge and its potential coercive effect on the jury, resulting in a guilty verdict, including an appeal where the defendant concedes the applicability of a rule but claims it is overbroad",
+    "United States v. Pena-Cantu": "court case referenced in the context of the modified Allen charge",
+    "United States v. Pacheco": "court case referenced in the context of the modified Allen charge",
+    "United States v. Orona-Sanchez": "court case referenced in the context of the modified Allen charge",
+    "TATE": "Circuit Judge, dissenting in United States v. Maria De Jesus Garcia",
+    "Mexican aliens": "individuals suspected of crossing the border illegally, potentially traveling in a crowded pickup truck camper",
+    "United States-Mexican border": "border crossed by potential illegal aliens, approximately 115 miles south of where the pickup truck camper was stopped",
+    "marked United States Border Patrol sedan": "law enforcement vehicle used for stopping and searching vehicles near the United States-Mexican border",
+    "modified Allen charge": "a judicial instruction given to the jury in United States v. Maria De Jesus Garcia, emphasizing the importance of reaching a verdict, with its potential coercive effect being a point of contention, used after the jury reported being deadlocked",
+    "jury in United States v. Maria De Jesus Garcia": "deliberating body in the court case against Maria De Jesus Garcia, having difficulty reaching a unanimous decision after approximately two hours of deliberation, eventually returning a guilty verdict"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Farm-to-Market Road 2050": null,
+    "oilfield trucks": null,
+    "tankers": null,
+    "utility trucks": null,
+    "Ford F-150s": null,
+    "Ford F-250s": null,
+    "small cars": null,
+    "wind farm near Farm-to-Market Road 2050": null,
+    "United States Border Patrol agents": "United States Border Patrol",
+    "Freer Immigration Checkpoint": null,
+    "May 2nd Hr'g": null,
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol agent who testified about his knowledge of traffic patterns on Farm-to-Market Road 2050",
+    "United States Border Patrol": "Law enforcement agency involved in the incident, with agents familiar with local vehicles and traffic"
+  }
+}

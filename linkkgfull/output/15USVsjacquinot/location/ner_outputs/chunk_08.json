@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "district court"
+    ],
+    "NOUN_PHRASE": [
+      "the truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "court that denied Brignoni-Ponce Jacquinot's motion and sentenced him"
+  }
+}

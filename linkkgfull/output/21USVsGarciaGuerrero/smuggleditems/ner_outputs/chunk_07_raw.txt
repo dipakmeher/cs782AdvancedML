@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["alien smuggler guides", "illegal aliens", "the group of aliens"],
+    "NOUN_PHRASE": ["the aliens being transported", "the group"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "alien smuggler guides": "guides employed by alien smugglers",
+    "illegal aliens": "aliens being transported into the United States",
+    "the group of aliens": "a group of aliens being smuggled"
+  }
+}

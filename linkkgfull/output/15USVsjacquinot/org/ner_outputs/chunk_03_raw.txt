@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Marfa Sector Area Operations Center Communications", "Big Bend National Park"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Marfa Sector Area Operations Center Communications": "notified the agents about vehicle sensors",
+    "Big Bend National Park": "location of vehicle sensors"
+  }
+}

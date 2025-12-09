@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "United States": "United States",
+    "Southern District of Texas": "Southern District of Texas",
+    "Laredo Division": "Laredo, Texas",
+    "United States District Court": "United States District Court",
+    "this case": null,
+    "the docket entry": null,
+    "the court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of citizenship and jurisdiction where the case is being heard",
+    "Mexico": "country of origin and citizenship of Rogelio Valero-De La Rosa",
+    "Brownsville, Texas": "location from which Rogelio Valero-De La Rosa was previously removed",
+    "Laredo, Texas": "location of illegal entry into the United States near the Rio Grande, where the defendant has family and location of the division of the United States District Court",
+    "United States District Judge": "judge with authority to accept guilty pleas and presiding over the case",
+    "United States Magistrate Judge": "judge presiding over the rearraignment hearing and recommending the district court to accept the guilty plea",
+    "United States District Court": "court with jurisdiction over the case, responsible for determining the sentence based on sentencing guidelines",
+    "United States Sentencing Guidelines": "guidelines referenced in the context of Rogelio Valero-De La Rosa's case for determining sentence",
+    "Amendment 740 of the United States Sentencing Guidelines": "amendment related to cultural assimilation, effective prior to Rogelio Valero-De La Rosa's sentencing",
+    "Amendment 742 of the United States Sentencing Guidelines": "amendment eliminating recency points, effective November 1, 2010",
+    "Fifth Circuit": "court that has held that a court may consider a defendant's cultural assimilation",
+    "southwestern border of the United States": "region where the 'fast track' program was initially established",
+    "Rio Grande": "body of water near location of illegal entry into the United States, used by the defendant for crossing",
+    "Nuevo Laredo, Tamaulipas": "place where Rogelio Valero-De La Rosa's father intermittently resided during his childhood",
+    "San Antonio, Texas": "location where defense counsel assisted Rogelio Valero-De La Rosa with his application for derivative citizenship",
+    "Texas": "state where Rogelio Valero-De La Rosa's father intermittently resided during his childhood",
+    "Southern District of Texas": "jurisdictional region of the United States District Court"
+  }
+}

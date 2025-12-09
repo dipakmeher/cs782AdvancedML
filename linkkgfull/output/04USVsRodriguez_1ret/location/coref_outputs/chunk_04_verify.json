@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Freer": "Freer, Texas",
+    "Texas": "Texas",
+    "U.S. 59": "U.S. 59",
+    "Echo 43": "Freer immigration checkpoint",
+    "Corpus": "Corpus",
+    "Houston": "Houston",
+    "Freer immigration checkpoint": "Freer immigration checkpoint",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the checkpoint building": "Freer immigration checkpoint building",
+    "the Border Patrol station parking lot": "Border Patrol station parking lot",
+    "the checkpoint office": "Freer immigration checkpoint office"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the event took place, mentioned in the context of the magistrate judge",
+    "Freer, Texas": "location of a patrolman and immigration checkpoint on U.S. 59",
+    "Texas": "state where the roads and departments are located, with areas known for smuggling activity",
+    "U.S. 59": "part of the route, highway that travels in a northeasterly direction from Laredo",
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, relevant to the events' context",
+    "Corpus": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Houston": "city that smugglers may be heading towards, accessible via Highway 16",
+    "Farm-to-Market Road 2050": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route, described as having no shoulder and being 'real narrow' with 'sharp turns', adjacent to the Border Patrol station parking lot",
+    "Freer immigration checkpoint building": "building where border patrol agents process undocumented individuals",
+    "Border Patrol station parking lot": "parking area near the Freer immigration checkpoint",
+    "Freer immigration checkpoint office": "office where border patrol agents inspect vehicles and process individuals"
+  }
+}

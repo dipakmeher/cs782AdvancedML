@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Department of Homeland Security", "United States Border Patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Department of Homeland Security": "Received a phone call regarding an attempted alien smuggling event",
+    "United States Border Patrol": "Conducted the initial stop and had an agent present during interviews"
+  }
+}

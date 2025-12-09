@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Garcia", "Arce-Jasso"],
+    "NOUN_PHRASE": ["the defendant", "the court", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Garcia": "stated questions about common destinations for illegal aliens",
+    "Arce-Jasso": "owner of a freshly cleaned car"
+  }
+}

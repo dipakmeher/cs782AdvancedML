@@ -1,0 +1,217 @@
+
+-Target activity-
+You are an intelligent assistant that helps a human analyst to analyze claims against certain entities presented in a text document.
+
+-Goal-
+Given a text document that is potentially relevant to this activity, an entity specification, and a claim description, extract all entities that match the entity specification and all claims against those entities.
+
+-Steps-
+1. Extract all named entities that match the predefined entity specification. Entity specification can either be a list of entity names or a list of entity types.
+2. For each entity identified in step 1, extract all claims associated with the entity. Claims need to match the specified claim description, and the entity should be the subject of the claim.
+For each claim, extract the following information:
+- Subject: name of the entity that is subject of the claim, capitalized. The subject entity is one that committed the action described in the claim. Subject needs to be one of the named entities identified in step 1.
+- Object: name of the entity that is object of the claim, capitalized. The object entity is one that either reports/handles or is affected by the action described in the claim. If object entity is unknown, use **NONE**.
+- Claim Type: overall category of the claim, capitalized. Name it in a way that can be repeated across multiple text inputs, so that similar claims share the same claim type
+- Claim Status: **TRUE**, **FALSE**, or **SUSPECTED**. TRUE means the claim is confirmed, FALSE means the claim is found to be False, SUSPECTED means the claim is not verified.
+- Claim Description: Detailed description explaining the reasoning behind the claim, together with all the related evidence and references.
+- Claim Date: Period (start_date, end_date) when the claim was made. Both start_date and end_date should be in ISO-8601 format. If the claim was made on a single date rather than a date range, set the same date for both start_date and end_date. If date is unknown, return **NONE**.
+- Claim Source Text: List of **all** quotes from the original text that are relevant to the claim.
+
+Format each claim as (<subject_entity>{tuple_delimiter}<object_entity>{tuple_delimiter}<claim_type>{tuple_delimiter}<claim_status>{tuple_delimiter}<claim_start_date>{tuple_delimiter}<claim_end_date>{tuple_delimiter}<claim_description>{tuple_delimiter}<claim_source>)
+
+3. Return output in English as a single list of all the claims identified in steps 1 and 2. Use **{record_delimiter}** as the list delimiter.
+
+4. When finished, output {completion_delimiter}
+
+
+-Examples-
+######################
+Example 1:
+Entity specification: organization
+Claim description: involvement in human smuggling operations  
+Text: On 2023/05/10, Trafficking Ring A was linked to smuggling activities by Border Agency B. The group was found to be transporting migrants across the southern border in collaboration with local drivers.
+Output:
+(TRAFFICKING RING A{tuple_delimiter}BORDER AGENCY B{tuple_delimiter}HUMAN SMUGGLING OPERATIONS{tuple_delimiter}TRUE{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}Trafficking Ring A was linked to human smuggling operations as reported by Border Agency B on 2023/05/10{tuple_delimiter}On 2023/05/10, Trafficking Ring A was found transporting migrants in collaboration with local drivers across the southern border.)
+{completion_delimiter}
+######################
+Example 2:
+Entity specification: Trafficking Ring A, Person C  
+Claim description: involvement in illegal activities  
+Text: On 2023/05/10, Trafficking Ring A was linked to smuggling activities by Border Agency B. The organization, led by Person C, has been actively transporting migrants across state borders since 2021.
+Output:
+(TRAFFICKING RING A{tuple_delimiter}BORDER AGENCY B{tuple_delimiter}HUMAN SMUGGLING OPERATIONS{tuple_delimiter}TRUE{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}Trafficking Ring A was linked to human smuggling operations as reported by Border Agency B on 2023/05/10{tuple_delimiter}The organization has been actively transporting migrants since 2021.)
+{record_delimiter}
+(PERSON C{tuple_delimiter}NONE{tuple_delimiter}LEADERSHIP IN ILLEGAL ACTIVITIES{tuple_delimiter}CONFIRMED{tuple_delimiter}2021-01-01T00:00:00{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}Person C has been leading the smuggling operations since 2021{tuple_delimiter}The organization, led by Person C, has been transporting migrants across state borders.)
+{completion_delimiter}
+######################
+Example 3:
+Entity specification: government_agency, organization, person  
+Claim description: government agency crackdown on smuggling operations  
+Text: On 2024/08/15, the Federal Migration Agency dismantled a smuggling network led by Carlos Mendez, who was working with the Shadow Cartel to transport migrants from Guatemala to Mexico. The agency reported multiple arrests and confiscation of vehicles used in the operation.
+Output:
+(FEDERAL MIGRATION AGENCY{tuple_delimiter}SHADOW CARTEL{tuple_delimiter}GOVERNMENT CRACKDOWN ON SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2024-08-15T00:00:00{tuple_delimiter}2024-08-15T00:00:00{tuple_delimiter}The Federal Migration Agency dismantled a network in collaboration with the Shadow Cartel, reporting arrests and confiscation of vehicles used for smuggling{tuple_delimiter}On 2024/08/15, the Federal Migration Agency reported the dismantling of a smuggling network operated by Carlos Mendez with the Shadow Cartel.)
+{record_delimiter}
+(CARLOS MENDEZ{tuple_delimiter}NONE{tuple_delimiter}LEADERSHIP IN SMUGGLING NETWORK{tuple_delimiter}CONFIRMED{tuple_delimiter}2023-01-01T00:00:00{tuple_delimiter}2024-08-15T00:00:00{tuple_delimiter}Carlos Mendez was confirmed as the leader of the smuggling network dismantled by the Federal Migration Agency{tuple_delimiter}Carlos Mendez worked closely with the Shadow Cartel to transport migrants from Guatemala to Mexico.)
+{completion_delimiter}
+######################
+Example 4:
+Entity specification: organization, means_of_transportation
+Claim description: use of transportation in smuggling operations
+Text: On 2023/09/12, the Serpent Smuggling Syndicate was found using boats and trucks to move migrants across borders. Authorities discovered a convoy of trucks hidden with compartments to conceal individuals, along with boats prepared for nighttime crossings along the river.
+Output:
+(SERPENT SMUGGLING SYNDICATE{tuple_delimiter}TRUCKS{tuple_delimiter}USE OF TRANSPORTATION IN SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2023-09-12T00:00:00{tuple_delimiter}2023-09-12T00:00:00{tuple_delimiter}The Serpent Smuggling Syndicate was found using trucks with hidden compartments for smuggling migrants{tuple_delimiter}On 2023/09/12, the syndicate used trucks and boats to transport migrants across borders.)
+{record_delimiter}
+(BOATS{tuple_delimiter}NONE{tuple_delimiter}NIGHTTIME CROSSING OPERATION{tuple_delimiter}CONFIRMED{tuple_delimiter}2023-09-12T00:00:00{tuple_delimiter}2023-09-12T00:00:00{tuple_delimiter}Boats were prepared for nighttime crossings along the river to smuggle individuals{tuple_delimiter}The Serpent Smuggling Syndicate used boats for crossing borders at night.)
+{completion_delimiter}
+######################
+Example 5:
+Entity specification: organization, undocumented_non-citizen
+Claim description: involvement in smuggling undocumented non-citizens
+Text: On 2023/11/05, the Falcon Smuggling Group was found transporting undocumented non-citizens from Central America to the United States. These individuals, lacking any legal documentation, were hidden in trucks to avoid detection at checkpoints.
+Output:
+(FALCON SMUGGLING GROUP{tuple_delimiter}UNDOCUMENTED NON-CITIZENS{tuple_delimiter}SMUGGLING OF UNDOCUMENTED NON-CITIZENS{tuple_delimiter}TRUE{tuple_delimiter}2023-11-05T00:00:00{tuple_delimiter}2023-11-05T00:00:00{tuple_delimiter}The Falcon Smuggling Group was involved in smuggling undocumented non-citizens across borders using trucks to avoid detection{tuple_delimiter}On 2023/11/05, the group transported undocumented non-citizens from Central America to the U.S.)
+{completion_delimiter}
+######################
+Example 6:
+Entity specification: organization, driver  
+Claim description: driver's involvement in smuggling operations  
+Text: On 2024/02/14, the Panther Smuggling Network hired Javier Morales, a driver responsible for transporting undocumented non-citizens across state borders. Morales was caught driving a truck filled with hidden compartments to evade detection by law enforcement officers.
+Output:
+(PANTHER SMUGGLING NETWORK{tuple_delimiter}JAVIER MORALES{tuple_delimiter}DRIVER INVOLVEMENT IN SMUGGLING OPERATIONS{tuple_delimiter}TRUE{tuple_delimiter}2024-02-14T00:00:00{tuple_delimiter}2024-02-14T00:00:00{tuple_delimiter}The Panther Smuggling Network employed Javier Morales as a driver for smuggling operations{tuple_delimiter}On 2024/02/14, Morales was caught driving a truck with hidden compartments to smuggle undocumented non-citizens across state borders.)
+{completion_delimiter}
+######################
+Example 7:
+Entity specification: organization, routes  
+Claim description: use of specific routes in smuggling operations  
+Text: On 2023/10/20, the Viper Smuggling Group was found using desert routes to transport migrants from Mexico into the United States. These remote paths allowed the group to evade law enforcement checkpoints, making detection difficult.  
+Output:
+(VIPER SMUGGLING GROUP{tuple_delimiter}DESERT ROUTES{tuple_delimiter}USE OF ROUTES IN SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2023-10-20T00:00:00{tuple_delimiter}2023-10-20T00:00:00{tuple_delimiter}The Viper Smuggling Group was found using remote desert routes to evade detection while smuggling migrants{tuple_delimiter}On 2023/10/20, the group used desert routes to transport migrants from Mexico into the United States.)
+{completion_delimiter}
+######################
+Example 8:
+Entity specification: organization, means_of_communication  
+Claim description: use of communication in smuggling operations  
+Text: On 2024/02/14, the authorities intercepted phone calls between the Serpent Syndicate and its drivers. The calls detailed pickup points and routes for transporting undocumented non-citizens across the border. 
+Output:
+(SERPENT SYNDICATE{tuple_delimiter}PHONE CALLS{tuple_delimiter}USE OF COMMUNICATION IN SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2024-02-14T00:00:00{tuple_delimiter}2024-02-14T00:00:00{tuple_delimiter}Phone calls intercepted by authorities showed coordination between the syndicate and drivers{tuple_delimiter}On 2024/02/14, intercepted calls provided details of pickup points and routes for transporting undocumented non-citizens.)
+{completion_delimiter}
+######################
+Example 9:
+Entity specification: organization, fees  
+Claim description: smuggling network charging fees for transport  
+Text: On 2024/02/10, the Raven Smuggling Network was found to be charging $5,000 per migrant to facilitate illegal border crossings.  
+Output:  
+(RAVEN SMUGGLING NETWORK{tuple_delimiter}5000 USD{tuple_delimiter}FEES FOR ILLEGAL TRANSPORTATION{tuple_delimiter}TRUE{tuple_delimiter}2024-02-10T00:00:00{tuple_delimiter}2024-02-10T00:00:00{tuple_delimiter}The network charged $5,000 per migrant to smuggle them across the border{tuple_delimiter}The Raven Smuggling Network charged $5,000 per migrant on 2024/02/10.)  
+{completion_delimiter}
+######################
+Example 10:
+Entity specification: organization, nationality
+Claim description: smuggling of nationals
+Text: On 2023/12/02, the Serpent Smuggling Syndicate was found transporting Mexican nationals across the U.S. border. The group had been operating under the radar, using multiple routes to evade checkpoints.
+Output:
+(SERPENT SMUGGLING SYNDICATE{tuple_delimiter}MEXICAN NATIONALS{tuple_delimiter}SMUGGLING OF NATIONALS{tuple_delimiter}TRUE{tuple_delimiter}2023-12-02T00:00:00{tuple_delimiter}2023-12-02T00:00:00{tuple_delimiter}The Serpent Smuggling Syndicate was involved in transporting Mexican nationals across the U.S. border{tuple_delimiter}On 2023/12/02, the group was found smuggling Mexican nationals.)
+{completion_delimiter}
+######################
+Example 11:
+Entity specification: organization, drugs  
+Claim description: involvement in narcotics trafficking  
+Text: On 2023/12/01, authorities intercepted the Raven Trafficking Network transporting heroin and fentanyl into the United States. The narcotics were discovered hidden within cargo containers.
+Output:
+(RAVEN TRAFFICKING NETWORK{tuple_delimiter}HEROIN{tuple_delimiter}INVOLVEMENT IN NARCOTICS TRAFFICKING{tuple_delimiter}TRUE{tuple_delimiter}2023-12-01T00:00:00{tuple_delimiter}2023-12-01T00:00:00{tuple_delimiter}The Raven Trafficking Network was found trafficking heroin into the U.S.{tuple_delimiter}The narcotics were hidden in cargo containers.)
+{record_delimiter}
+(FENTANYL{tuple_delimiter}NONE{tuple_delimiter}PART OF NARCOTICS TRAFFICKING OPERATION{tuple_delimiter}CONFIRMED{tuple_delimiter}2023-12-01T00:00:00{tuple_delimiter}2023-12-01T00:00:00{tuple_delimiter}Fentanyl was also part of the shipment intercepted by authorities{tuple_delimiter}Authorities discovered both heroin and fentanyl in cargo containers.)
+{completion_delimiter}
+######################
+Example 12:  
+Entity specification: organization, arms  
+Claim description: involvement in arms smuggling  
+Text: On 2023/12/01, authorities reported that the Serpent Smuggling Syndicate was moving firearms and narcotics across the southern border. Local drivers were caught transporting weapons in secret compartments alongside drugs.  
+Output:  
+(SERPENT SMUGGLING SYNDICATE{tuple_delimiter}FIREARMS{tuple_delimiter}ARMS SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2023-12-01T00:00:00{tuple_delimiter}2023-12-01T00:00:00{tuple_delimiter}The Serpent Smuggling Syndicate was reported moving firearms across the southern border{tuple_delimiter}Local drivers were caught transporting weapons with narcotics.)  
+{completion_delimiter}
+######################
+Example 13:
+Entity specification: organization, smuggler  
+Claim description: involvement in smuggling operations  
+Text: On 2023/05/10, the Crimson Cartel, led by Luis Ortega, was involved in smuggling undocumented non-citizens across state borders.  
+Output:
+(CRIMSON CARTEL{tuple_delimiter}LUIS ORTEGA{tuple_delimiter}SMUGGLING OPERATIONS{tuple_delimiter}TRUE{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}2023-05-10T00:00:00{tuple_delimiter}The Crimson Cartel, with Luis Ortega as its leader, was involved in smuggling operations as of 2023/05/10{tuple_delimiter}On 2023/05/10, the cartel transported undocumented non-citizens under Luis Ortega's direction.)
+{completion_delimiter}
+######################
+Example 14:
+Entity specification: migrant, organization  
+Claim description: involvement in legal migration assistance  
+Text: On 2024/03/10, the Hope Migration Agency facilitated the migration of several individuals from Central America to the United States. Many of these migrants, including Juan Diaz, sought asylum.  
+Output:  
+(HOPE MIGRATION AGENCY{tuple_delimiter}MIGRANTS{tuple_delimiter}LEGAL MIGRATION ASSISTANCE{tuple_delimiter}TRUE{tuple_delimiter}2024-03-10T00:00:00{tuple_delimiter}2024-03-10T00:00:00{tuple_delimiter}The Hope Migration Agency facilitated migration efforts{tuple_delimiter}The agency helped migrants, including Juan Diaz, cross the border legally.)  
+{completion_delimiter}
+######################
+Example 15:
+Entity specification: organization, location
+Claim description: smuggling operations between multiple locations
+Text:
+On 2024/01/15, the Serpent Smuggling Syndicate was discovered operating from Honduras to the United States, using various remote routes. The syndicate's operations involved smuggling undocumented non-citizens and narcotics, originating in Honduras and targeting the southern U.S. border.
+Output:
+(SERPENT SMUGGLING SYNDICATE{tuple_delimiter}HONDURAS{tuple_delimiter}UNITED STATES{tuple_delimiter}SMUGGLING OPERATIONS BETWEEN MULTIPLE LOCATIONS{tuple_delimiter}TRUE{tuple_delimiter}2024-01-15T00:00:00{tuple_delimiter}2024-01-15T00:00:00{tuple_delimiter}The Serpent Smuggling Syndicate operates smuggling routes from Honduras to the United States{tuple_delimiter}On 2024/01/15, the syndicate was found to be involved in smuggling operations, moving undocumented non-citizens and narcotics across borders.)
+{completion_delimiter}
+######################
+Example 16:
+Entity specification: organization, person, date
+Claim description: involvement in a smuggling operation on a specific date
+Text:
+On August 3, 2024, the Falcon Trafficking Group, led by Maria Chavez, was found responsible for smuggling undocumented non-citizens across the southern border. The operation was part of a larger network initiative that had been planned for months.
+######################
+Output:
+(FALCON TRAFFICKING GROUP{tuple_delimiter}MARIA CHAVEZ{tuple_delimiter}AUGUST 3, 2024{tuple_delimiter}SMUGGLING OPERATION INVOLVEMENT ON A SPECIFIC DATE{tuple_delimiter}TRUE{tuple_delimiter}2024-08-03T00:00:00{tuple_delimiter}2024-08-03T00:00:00{tuple_delimiter}The Falcon Trafficking Group, led by Maria Chavez, was involved in smuggling activities as of August 3, 2024{tuple_delimiter}The group was discovered orchestrating a smuggling operation on August 3, 2024.)
+{completion_delimiter}
+###################### 
+Example 17: 
+Entity specification: organization, location
+Claim description: use of parking locations in smuggling operations
+Text:
+On 2024/04/05, the Falcon Smuggling Network utilized a parking lot near the southern border to hide migrants before their transfer across state lines. Authorities reported that the parking location served as a temporary holding area to avoid detection.
+Output:
+(FALCON SMUGGLING NETWORK{tuple_delimiter}PARKING LOT{tuple_delimiter}USE OF PARKING LOCATION IN SMUGGLING OPERATIONS{tuple_delimiter}TRUE{tuple_delimiter}2024-04-05T00:00:00{tuple_delimiter}2024-04-05T00:00:00{tuple_delimiter}The Falcon Smuggling Network used the parking lot as a holding area for smuggling operations{tuple_delimiter}On 2024/04/05, authorities reported that the network used a parking lot to temporarily hide migrants before transfer across state lines.)
+{completion_delimiter}
+###################### 
+Example 18: 
+Entity specification: organization, location 
+Claim description: use of transit locations in smuggling operations 
+Text: On 2024/05/14, the Falcon Smuggling Network was discovered using the Border Parking Lot Y as a transit point to switch vehicles while transporting migrants. This strategy was employed to avoid detection and continue the smuggling route. 
+Output: 
+(FALCON SMUGGLING NETWORK{tuple_delimiter}BORDER PARKING LOT Y{tuple_delimiter}USE OF TRANSIT LOCATION IN SMUGGLING OPERATIONS{tuple_delimiter}TRUE{tuple_delimiter}2024-05-14T00:00:00{tuple_delimiter}2024-05-14T00:00:00{tuple_delimiter}The Falcon Smuggling Network used Border Parking Lot Y as a transit point for vehicle switching during smuggling operations{tuple_delimiter}On 2024/05/14, the network used the transit location to avoid detection and continue the smuggling route.) {completion_delimiter}
+###################### 
+Example 19: 
+Entity specification: organization, smuggled_items 
+Claim description: smuggling of items alongside migrants
+Text:
+On 2024/06/15, authorities intercepted the Shadow Syndicate smuggling firearms and rare gemstones alongside undocumented non-citizens. The items were concealed in hidden compartments of trucks to avoid detection while crossing state lines.
+Output:
+(SHADOW SYNDICATE{tuple_delimiter}FIREARMS{tuple_delimiter}SMUGGLING OF ITEMS ALONGSIDE MIGRANTS{tuple_delimiter}TRUE{tuple_delimiter}2024-06-15T00:00:00{tuple_delimiter}2024-06-15T00:00:00{tuple_delimiter}The Shadow Syndicate was intercepted smuggling firearms along with migrants, concealed in truck compartments{tuple_delimiter}On 2024/06/15, authorities discovered firearms being smuggled alongside migrants by the Shadow Syndicate.) {record_delimiter} (SHADOW SYNDICATE{tuple_delimiter}RARE GEMSTONES{tuple_delimiter}SMUGGLING OF VALUABLES{tuple_delimiter}TRUE{tuple_delimiter}2024-06-15T00:00:00{tuple_delimiter}2024-06-15T00:00:00{tuple_delimiter}The Shadow Syndicate smuggled rare gemstones hidden alongside firearms in the trucks{tuple_delimiter}Authorities intercepted the syndicate's attempt to smuggle rare gemstones on 2024/06/15.) {completion_delimiter}
+###################### 
+Example 20:
+Entity specification: organization, person
+Claim description: involvement of corrupted authorities in smuggling operations
+Text:
+On 2024/04/10, Officer Jorge Martinez from the Border Control Agency was implicated in smuggling activities. Reports confirmed that he collaborated with the Crimson Cartel, helping them bypass border security and allowing undocumented individuals to cross undetected.
+Output:
+(BORDER CONTROL AGENCY{tuple_delimiter}JORGE MARTINEZ{tuple_delimiter}INVOLVEMENT OF CORRUPTED AUTHORITY IN SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2024-04-10T00:00:00{tuple_delimiter}2024-04-10T00:00:00{tuple_delimiter}Officer Jorge Martinez from the Border Control Agency collaborated with the Crimson Cartel, facilitating smuggling activities{tuple_delimiter}On 2024/04/10, Officer Martinez assisted the cartel by allowing undocumented individuals to bypass border security.)
+{completion_delimiter}
+######################
+Example 21:
+Entity specification: organization, person, location, migrant
+Claim description: use of stash houses in smuggling operations
+Text:
+On 2024/05/15, authorities uncovered a stash house in El Paso, Texas, used by the Silver Hawk Cartel to temporarily hold migrants before transporting them further into the U.S. Juan Castillo, a member of the cartel, was responsible for overseeing the stash house operations, ensuring that migrants remained undetected.
+Output:
+(SILVER HAWK CARTEL{tuple_delimiter}JUAN CASTILLO{tuple_delimiter}USE OF STASH HOUSE IN SMUGGLING{tuple_delimiter}TRUE{tuple_delimiter}2024-05-15T00:00:00{tuple_delimiter}2024-05-15T00:00:00{tuple_delimiter}The Silver Hawk Cartel used a stash house in El Paso, Texas, to temporarily hold migrants before further transportation{tuple_delimiter}On 2024/05/15, Juan Castillo managed the stash house for the cartel, facilitating smuggling operations.)
+{completion_delimiter}
+
+
+-Real Data-
+Use the following input for your answer.
+Entity specification: {entity_specs}
+Claim description: {claim_description}
+Text: {input_text}
+Output:
+

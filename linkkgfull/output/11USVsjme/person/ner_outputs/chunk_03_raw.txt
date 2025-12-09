@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Officer Castillo", "J.M.E.", "Castillo"],
+    "NOUN_PHRASE": ["the officer", "he"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Officer Castillo": "testified about J.M.E.'s history",
+    "J.M.E.": "individual with a history of delinquent conduct and substance abuse",
+    "Castillo": "officer who testified"
+  }
+}

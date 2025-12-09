@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the agents", "the defendant", "the district judge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Officer Castillo", "J.M.E."],
+    "NOUN_PHRASE": ["the juvenile court", "the woman", "his assistant", "her supervisor", "the officer", "the inspector"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Officer Castillo": "testified about J.M.E.'s behavior",
+    "J.M.E.": "juvenile whose probation was modified"
+  }
+}

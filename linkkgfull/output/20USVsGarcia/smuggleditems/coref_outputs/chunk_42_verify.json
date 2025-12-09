@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the windows of the camper shell": null,
+    "the camper shell": "Maria De Jesus Garcia's pickup truck camper",
+    "living, breathing cargo": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, attempting to hide from United States Border Patrol agents by ducking and scrambling around",
+    "United States-Mexican border": "geographic boundary relevant to smuggling, considered in determining the legality of stops by roving United States Border Patrol agents, with a distance of 115 miles from the stop location",
+    "illegal alien smugglers": "individuals apprehended by United States Border Patrol agents near the location of the instant stop, involved in transporting illegal aliens",
+    "Maria De Jesus Garcia's pickup truck camper": "vehicle used for smuggling twenty-two undocumented aliens, with noticeable signs of overloading such as weaving and angled headlights, stopped by United States Border Patrol agents on Interstate Highway 35",
+    "Maria De Jesus Garcia": "defendant in a trial related to illegal alien smuggling, appealing the use of the Allen charge, with her pickup truck camper being stopped by United States Border Patrol agents",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, with a panel majority attempting to apply precedents in a principled way",
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation, and the jury returning its guilty verdict at about 4:45 p.m.",
+    "Judge TATE": "dissenting judge in the case of United States v. Garcia, questioning the lawfulness of certain actions based on speculation about poor and dirty Hispanic appearing persons being Mexican aliens",
+    "United States Border Patrol": "law enforcement agency stopping Maria De Jesus Garcia's pickup truck camper, with agents having received specialized training and participated in numerous incidents involving arrests for transporting illegal aliens",
+    "Maria De Jesus Garcia's pickup truck camper's occupants": "occupants of a pickup truck camper, described as appearing dirty or unkempt, attempting to hide from United States Border Patrol agents by ducking and scrambling around",
+    "illegal alien": "a person illegally present in a country, with appearance subject to subjective perceptions",
+    "Orona-Sanchez case": "legal case where passengers' behavior was deemed insufficient to justify an investigatory stop",
+    "Lamas case": "legal case where passengers' slouching down in the back seat was considered suspicious but not sufficient for an investigatory stop",
+    "Pacheco case": "legal case with similar testimony of passengers hunkering down, also deemed insufficient for an investigatory stop",
+    "Pena-Cantu case": "legal case used as a reference point for evaluating passenger behavior in the context of investigatory stops",
+    "twenty-two undocumented aliens": "smuggled individuals carried by Maria De Jesus Garcia's pickup truck camper, causing obvious overloading and weaving of the vehicle",
+    "Brignoni-Ponce": "legal standard for evaluating the reasonableness of suspicion in investigatory stops",
+    "modified Allen charge": "a form of jury instruction used in the 5th Circuit Court of Appeals, considered permissible within certain limitations, given to the jury in Maria De Jesus Garcia's trial",
+    "United States District Court": "court that refused to conduct a post-verdict hearing on whether the jury was coerced by the Allen charge and instructed the jury to continue deliberation",
+    "Maria De Jesus Garcia's pickup truck camper passengers": "individuals being smuggled, attempting to hide from United States Border Patrol agents",
+    "Lourdes Rangel-Campos": "driver of Maria De Jesus Garcia's pickup truck camper, arrested by United States Border Patrol agents during an immigration inspection"
+  }
+}

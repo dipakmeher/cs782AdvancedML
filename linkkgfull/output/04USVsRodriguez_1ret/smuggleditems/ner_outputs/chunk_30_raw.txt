@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the ticket", "the black Dodge pickup truck", "the canine", "the dog", "the handler", "the canine search", "contraband", "illegal aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

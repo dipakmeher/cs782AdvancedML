@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a motor vehicle": null,
+    "a tractor trailer": "tractor trailer",
+    "the tractor trailer": "tractor trailer",
+    "the trailer": "tractor trailer",
+    "the cab": "tractor trailer",
+    "the tractor": "tractor trailer",
+    "the vehicles": null,
+    "the truck": "tractor trailer",
+    "the bunk": null,
+    "the passenger seat": "tractor trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tractor trailer": "Vehicle used to transport sixty undocumented aliens, involved in an incident where Yusif Ahmed Rufied and Martin Adaboh were arrested; stopped on the side of the highway for a tire check, used at Diesel Impact 2000 to load aliens, transported aliens from Laredo, Texas, had a bunk inside, and had Yusif Ahmed Rufied riding in the passenger seat"
+  }
+}

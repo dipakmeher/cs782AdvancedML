@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["undocumented aliens", "the alien smuggler guides"],
+    "NOUN_PHRASE": ["these two aliens", "the extended cab pickup truck", "the emergency call box"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "persons being smuggled",
+    "the alien smuggler guides": "guides for smuggling operation"
+  }
+}

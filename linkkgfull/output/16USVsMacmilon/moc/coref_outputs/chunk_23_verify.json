@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "the device": null,
+    "his phone": null,
+    "the satellite phone": null,
+    "her messaging app": null,
+    "the chat application": null,
+    "the phones": null,
+    "the devices": null,
+    "the phone call": null,
+    "the phone number": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the prepaid burner phone": "Device used by the smuggler to communicate with accomplices",
+    "the satellite phone": "Device used for long-distance communication outside normal cellular coverage",
+    "the WhatsApp account": "Messaging account used for coordination of smuggling activities",
+    "the prepaid burner phone and the satellite phone": "Devices jointly used to coordinate smuggling operations"
+  }
+}

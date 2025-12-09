@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a common smuggling route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

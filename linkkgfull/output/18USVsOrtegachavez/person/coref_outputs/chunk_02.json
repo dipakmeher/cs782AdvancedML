@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "Appellant": "Alfredo Ortega-Chavez",
+    "defendant": "Alfredo Ortega-Chavez",
+    "GARWOOD": "GARWOOD",
+    "Circuit Judge": "GARWOOD",
+    "Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "Ramon Gonzalez Sanchez": "Ramon Gonzalez Sanchez",
+    "Alejandro Gonzalez Delgado": "Alejandro Gonzalez Delgado",
+    "Sanchez": "Ramon Gonzalez Sanchez",
+    "the five undocumented aliens": null,
+    "the appellant": "Alfredo Ortega-Chavez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alfredo Ortega-Chavez": "Defendant and appellant convicted of conspiracy to bring or attempt to bring undocumented aliens into the United States, involved in smuggling operation with Ramon Gonzalez Sanchez and Alejandro Gonzalez Delgado",
+    "GARWOOD": "Circuit Judge presiding over the appeal of Alfredo Ortega-Chavez",
+    "Ramon Gonzalez Sanchez": "Co-conspirator, van driver, and participant in the smuggling operation with Ortega-Chavez and Alejandro Gonzalez Delgado",
+    "Alejandro Gonzalez Delgado": "Co-conspirator and participant in the smuggling operation with Ortega-Chavez and Ramon Gonzalez Sanchez"
+  }
+}

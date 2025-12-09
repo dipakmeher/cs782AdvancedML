@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Hugo Benavides": "Hugo Benavides",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Reymundo Reyes",
+    "Agent Benavides": "Hugo Benavides",
+    "his supervisor": null,
+    "the Freer P.D. officer": "Reymundo Reyes",
+    "the canine handler": null,
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Mr. Rodriguez": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who received a phone call regarding the traffic stop of Ignacio Rodriguez and arrived as Officer Reyes was writing the ticket",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a case regarding alien smuggling, whose vehicle was stopped by Officer Reyes for failing to use a turn signal, and who appeared extremely nervous during the stop",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop on Ignacio Rodriguez's vehicle and observed that he was shaking and seemed extremely nervous",
+    "Hugo Benavides and IGNACIO RODRIGUEZ, JR.": null,
+    "Reymundo Reyes and IGNACIO RODRIGUEZ, JR.": "Individuals involved in a traffic stop where Reymundo Reyes impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership, and Ignacio Rodriguez was the driver who felt he could not leave after being handed his citation"
+  }
+}

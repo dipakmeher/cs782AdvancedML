@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's Vehicle", "United States Border Patrol", "United States-Mexico Border"],
+    "NOUN_PHRASE": ["the occupants", "aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's Vehicle": "vehicle suspected of transporting aliens",
+    "United States Border Patrol": "law enforcement agency",
+    "United States-Mexico Border": "geographical border"
+  }
+}

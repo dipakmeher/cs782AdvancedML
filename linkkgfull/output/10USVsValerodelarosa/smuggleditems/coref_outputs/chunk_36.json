@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "Mr. Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "United States Probation Office": "United States Probation Office",
+    "the United States": "United States Department of Justice",
+    "Mexico": "Mexico",
+    "Laredo, Texas": "Laredo, Texas",
+    "Rio Grande": "Rio Grande",
+    "the defendant's family": "Rogelio Valero-De La Rosa's family",
+    "the United States Probation Officer": "United States Probation Office",
+    "Nuevo Laredo, Tamaulipas": "Nuevo Laredo, Tamaulipas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who admitted to illegally re-entering the United States after previous deportations to reunite with his family in Laredo, Texas",
+    "United States Probation Office": "Agency responsible for preparing reports on defendants, including Rogelio Valero-De La Rosa, to aid in sentencing decisions",
+    "Rogelio Valero-De La Rosa's family": "Family members of the defendant, including his mother and siblings, residing in Laredo, Texas"
+  }
+}

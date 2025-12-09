@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federal Rule of Appellate Procedure 4(b)": "Federal Rule of Appellate Procedure 4(b)",
+    "the Federal Rule of Appellate Procedure": "Federal Rule of Appellate Procedure 4(b)",
+    "United States District Court": "United States District Court",
+    "the United States District Court": "United States District Court",
+    "United States of America": "United States of America",
+    "the United States of America": "United States of America",
+    "United States Court of Appeals": "United States Court of Appeals",
+    "the United States Court of Appeals": "United States Court of Appeals",
+    "defendant": null,
+    "criminal defendants": null,
+    "prosecutor": null,
+    "notice of appeal": null,
+    "motion for a determination of excusable neglect or good cause": null,
+    "excusable neglect or good cause": null,
+    "initial 30-day deadline": null,
+    "30-day additional period": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federal Rule of Appellate Procedure 4(b)": "statute governing the timing of appeals, allows for a 30-day additional period under certain conditions, includes materiality requirement and provisions for excusable neglect or good cause",
+    "United States District Court": "court issuing decisions subject to appeal within 30 days as required by Federal Rule of Appellate Procedure 4(b), has authority to extend time to file notice of appeal",
+    "United States of America": "party in the appeal, appellant regarding post-verdict suppression order, responsible for filing notice of appeal within specified deadlines, may be granted extension based on excusable neglect or good cause",
+    "United States Court of Appeals": "court hearing the appeal, bound by the law of the case doctrine, interprets Federal Rule of Appellate Procedure 4(b) in determining jurisdiction and timeliness of appeals"
+  }
+}

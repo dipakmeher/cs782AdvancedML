@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Henderson",
+      "Claudia",
+      "Codefendant",
+      "Defendant"
+    ],
+    "NOUN_PHRASE": [
+      "the woman"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Henderson": "testifying agent",
+    "Claudia": "approached Codefendant to smuggle aliens",
+    "Codefendant": "involved in smuggling aliens",
+    "Defendant": "involved in smuggling aliens"
+  }
+}

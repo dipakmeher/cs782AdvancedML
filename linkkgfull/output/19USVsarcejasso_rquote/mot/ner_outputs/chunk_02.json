@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Mercury Cougar"
+    ],
+    "NOUN_PHRASE": [
+      "the car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Mercury Cougar": "vehicle driven by Raul Rafael Arce-Jasso"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Bruni, Texas": "Bruni, Texas",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Hebbronville Checkpoint": "Hebbronville Checkpoint",
+    "U.S. Highway 359": "U.S. Highway 359",
+    "Laredo, Texas": "Laredo, Texas",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "Ranchitos Las Lomas": "Ranchitos Las Lomas",
+    "Farm-to-Market Road 2895": "Farm-to-Market Road 2895",
+    "the Defendant": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants who took an indirect route to avoid the Hebbronville Checkpoint",
+    "Bruni, Texas": "Destination location at the southern terminus of Farm-to-Market Road 2050",
+    "Farm-to-Market Road 2050": "Road taken by the defendants, which is not the most direct route to their destination",
+    "Hebbronville Checkpoint": "Checkpoint on U.S. Highway 359 that the defendants attempted to avoid",
+    "U.S. Highway 359": "More direct route to Bruni, Texas, which the defendants did not take",
+    "Laredo, Texas": "Origin of the defendants' journey",
+    "U.S. Highway 59": "Highway taken by the defendants before turning onto Farm-to-Market Road 2050",
+    "Ranchitos Las Lomas": "Possible origin of the defendants' journey if they did not start in Laredo, Texas",
+    "Farm-to-Market Road 2895": "Alternative route to Bruni, Texas, which would be more direct than Farm-to-Market Road 2050"
+  }
+}

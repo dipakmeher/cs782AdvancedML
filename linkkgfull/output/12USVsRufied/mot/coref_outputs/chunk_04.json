@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a motor vehicle": null,
+    "a tractor trailer": "tractor trailer",
+    "the tractor trailer": "tractor trailer",
+    "the trailer": "tractor trailer",
+    "the cab": "tractor trailer",
+    "the tractor": "tractor trailer",
+    "the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tractor trailer": "Vehicle used to transport sixty undocumented aliens, involved in an incident where Yusif Ahmed Rufied and Martin Adaboh were arrested; stopped on the side of the highway for a tire check"
+  }
+}

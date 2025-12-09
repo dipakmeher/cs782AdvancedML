@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["Kazen's Court", "this case"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicle": "pickup truck camper",
+    "Maria De Jesus Garcia's vehicle": "pickup truck camper",
+    "the car": "marked border patrol sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "pickup truck camper": "Vehicle used in the transportation of undocumented aliens, seized on Interstate Highway 35, stopped more than 100 miles from the United States-Mexican border, and subject to a suppression motion regarding the stop and search, frequently used for transporting illegal aliens with an unusually heavy and overloaded appearance, fogged windows, and occupants who tried to avoid detection. It had three women in the front seat and five or six men in the back seat. The vehicle was driven by Maria De Jesus Garcia and was stopped due to suspicious factors including unwashed and unkempt occupants, fogged windows, and a heavy load. Additionally, it was noted for weaving and having noticeably angled up headlights due to overloading with around twenty-two people. The tires were squashed, and the vehicle had slow speed and was difficult to maneuver.",
+    "marked border patrol sedan": "United States Border Patrol vehicle used for surveillance and immigration inspections"
+  }
+}

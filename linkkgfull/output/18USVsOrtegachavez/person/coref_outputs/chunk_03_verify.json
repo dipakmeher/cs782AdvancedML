@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Sanchez": "Ramon Gonzalez Sanchez",
+    "Alejandro Gonzalez Delgado": "Alejandro Gonzalez Delgado",
+    "Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "the Customs officer": null,
+    "the five undocumented aliens": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon Gonzalez Sanchez": "Co-conspirator, van driver, and participant in the smuggling operation with Ortega-Chavez and Alejandro Gonzalez Delgado, arrested at the bridge for attempting to smuggle illegal aliens into the United States",
+    "Alejandro Gonzalez Delgado": "Co-conspirator and participant in the smuggling operation with Ortega-Chavez and Ramon Gonzalez Sanchez, arrested for being an undocumented alien",
+    "Alfredo Ortega-Chavez": "Defendant and appellant convicted of conspiracy to bring or attempt to bring undocumented aliens into the United States, involved in smuggling operation with Ramon Gonzalez Sanchez and Alejandro Gonzalez Delgado, charged with conspiracy and aiding and abetting"
+  }
+}

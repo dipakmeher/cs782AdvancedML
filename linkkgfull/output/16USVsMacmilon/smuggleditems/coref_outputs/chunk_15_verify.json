@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon's second argument": "Raymond McMillon",
+    "Luis Pena": "Luis Pena",
+    "Zeba Williams": "Zeba Williams",
+    "United States District Court": "United States District Court",
+    "the tractor-trailer's windshield": null,
+    "the checkpoint video": null,
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Manuel Hernandez": "Manuel Hernandez",
+    "the suppression hearing": "suppression hearing",
+    "the United States Government": null,
+    "the trial court": null,
+    "the passenger seat": null,
+    "the sleeper area of the tractor-trailer": null,
+    "the back": null,
+    "the search": "search of the tractor-trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant who challenges the search of the tractor-trailer",
+    "Luis Pena": "United States Border Patrol Agent involved in the immigration checkpoint stop, testified at Ramon De La Cruz's trial",
+    "Zeba Williams": "driver of the tractor-trailer at the immigration checkpoint stop, interacted with Luis Pena and gave consent for search",
+    "United States District Court": "court that denied Ramon De La Cruz's motion to suppress and his motion to dismiss the indictment on Speedy Trial Act grounds",
+    "Ramon De La Cruz": "defendant arguing about the lawfulness of the immigration checkpoint stop's duration and his standing to challenge the search of the tractor-trailer",
+    "Manuel Hernandez": "United States Border Patrol Agent who prepared to have his canine, Aroxa, perform a sniff of the tractor-trailer's exterior steps",
+    "suppression hearing": "hearing where evidence was presented regarding the immigration checkpoint stop and the search of the tractor-trailer",
+    "search of the tractor-trailer": "ensued after the immigration checkpoint stop, was challenged by Ramon De La Cruz as impermissible, subject of Ramon De La Cruz's motions"
+  }
+}

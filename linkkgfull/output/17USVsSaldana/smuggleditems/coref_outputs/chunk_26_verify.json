@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "narcotics": "smuggled substances",
+    "dope": "smuggled substances",
+    "the dope": "smuggled substances",
+    "a load of dope": "smuggled substances",
+    "the drugs": "smuggled substances"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "smuggled substances": "illicit substances being searched for in the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck, denied by Federico Saldana to be in his possession, suspected cargo"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this appeal": null,
+    "the district": null,
+    "her vehicle": null,
+    "the jury": null,
+    "Moore, Texas": "Moore, Texas",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "Mexican border": "Mexican border",
+    "the northbound lanes": "northbound lanes of Interstate Highway 35",
+    "their marked border patrol sedan": null,
+    "the camper": null,
+    "the bumper": null,
+    "the tires": null,
+    "the wheel wells": null,
+    "the rear": null,
+    "the vehicle": null,
+    "the window": null,
+    "the truck": null,
+    "the front end": null,
+    "the cab": null,
+    "the back seat": null,
+    "the brush": null,
+    "the rear window": null,
+    "the floor": null,
+    "the district court": null,
+    "the camper compartment": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "Moore, Texas": "location where the incident occurred, approximately 115 miles from the Mexican border",
+    "Interstate Highway 35": "highway where the incident took place, with northbound lanes",
+    "Mexican border": "geographical reference point, approximately 115 miles from Moore, Texas"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "the patrol car": "the United States Border Patrol's patrol car",
+    "the pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "the window": "the window of the patrol car",
+    "the flashlight": "Baron's flashlight",
+    "pickup truck camper": "Maria De Jesus Garcia's pickup truck camper",
+    "the United States District Court in pickup truck camper's case": "the United States District Court in Maria De Jesus Garcia's case",
+    "the suppression motion": null,
+    "the stop on Interstate Highway 35": "the investigatory stop on Interstate Highway 35",
+    "the search": null,
+    "the United States Government": null,
+    "the appeal": null,
+    "the timeliness of pickup truck camper's suppression motion": null,
+    "the investigatory stop on Interstate Highway 35": "the investigatory stop on Interstate Highway 35",
+    "the 5th Circuit Court of Appeals": "the 5th Circuit Court of Appeals",
+    "the United States-Mexican border": "the United States-Mexican border",
+    "the Cotulla, Texas Border Patrol Station": "the Cotulla, Texas Border Patrol Station",
+    "Interstate Highway 35": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol's patrol car": "Vehicle used by agents Stanley Pruszenski and Alfred Baron for surveillance and inspection",
+    "Maria De Jesus Garcia's pickup truck camper": "Vehicle used to transport undocumented immigrants, subject of a suppression motion and search, stopped over 100 miles from the United States-Mexican border",
+    "the window of the patrol car": "Location from which Baron observed suspicious activity",
+    "Baron's flashlight": "Tool used to illuminate the interior of the pickup truck camper",
+    "the United States District Court in Maria De Jesus Garcia's case": "Court that denied the extension motion for the suppression motion but allowed presentation of evidence",
+    "the investigatory stop on Interstate Highway 35": "Stop made by roving United States Border Patrol agents Stanley Pruszenski and Alfred Baron, subject to Brignoni-Ponce standard, occurring more than 100 miles from the United States-Mexican border",
+    "the 5th Circuit Court of Appeals": "Court that articulated the principles for determining the legality of stops made by roving patrol officers",
+    "the United States-Mexican border": "Border relevant to the determination of the legitimacy of stops made by Border Patrol agents, with a distance of over 100 miles to the stop location in this case",
+    "the Cotulla, Texas Border Patrol Station": "Station relevant to the area in which the pickup truck camper was encountered",
+    "Interstate Highway 35": "Highway on which the investigatory stop was made, leading directly to the United States-Mexican border but passing through several towns before reaching the border"
+  }
+}

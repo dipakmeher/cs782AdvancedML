@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana": "Federico Saldana",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "the 2008 Chevrolet truck driven by Federico Saldana": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "United States Ex. 1, Clip 1": null,
+    "Deputy Jason Cox's patrol video": "Deputy Jason Cox's patrol video",
+    "Interstate 35": null,
+    "the traffic stop": "traffic stop on Interstate 35",
+    "the driver": "Federico Saldana",
+    "Daniel": "Daniel Martin Huerta",
+    "the owner of the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck": "Daniel Martin Huerta",
+    "the narcotics investigator": "Gary Haston"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, gave consent to Williamson County Sheriff's Office to search the vehicle and trailer, identified himself during the traffic stop",
+    "United States Government": "Party responding to Federico Saldana's motion, arguing that consent to search was voluntary",
+    "Court in the above-styled cause": "Court presiding over Federico Saldana's case, evaluating the voluntariness of consent to search, denied Federico Saldana's Motion to Suppress #24",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, traveling at approximately 75 miles per hour, driven by Federico Saldana who was not used to driving this sort of truck and trailer combination",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires",
+    "Gary Haston": "Veteran narcotics investigator with Williamson County Sheriff's Office, testified about atypical features of the 2008 Chevrolet truck and flatbed trailer, including oversized tires and after-market rims often used to hide loads of narcotics",
+    "Deputy Jason Cox's patrol video": "Video recording of the traffic stop, with audio that is not entirely clear, captured the interaction between Federico Saldana and Williamson County Sheriff's Office during the traffic stop",
+    "Daniel Martin Huerta": "Registered owner of the flatbed trailer, first name mentioned by Federico Saldana as the owner, with license plate issued in Laredo on November 20, 2014, possible owner of the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck",
+    "traffic stop on Interstate 35": "Traffic stop initiated by Williamson County Sheriff's Office due to unsafe lane changes and near-collisions, resulted in the detention of Federico Saldana"
+  }
+}

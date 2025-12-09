@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "Moglia ranch house": "Moglia Ranch House",
+    "Stag trailer": "Stag Ranch Trailer",
+    "San Pablo Road": "San Pablo Road",
+    "Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "Laredo, Texas": "Laredo, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge who took judicial notice of the sunset time in Laredo, Texas on February 4, 2013",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who testified about not knowing the owners of the Moglia ranch house and Stag trailer",
+    "Moglia Ranch House": "ranch house located near San Pablo Road, ownership unknown to Agent Trevino",
+    "Stag Ranch Trailer": "trailer located near San Pablo Road, ownership unknown to Agent Trevino",
+    "San Pablo Road": "road that can be used to access Highway 16, providing an alternative route for smugglers to avoid checkpoints",
+    "Officer Reymundo Reyes": "officer who explained that stolen vehicles are not necessarily reported stolen immediately",
+    "IGNACIO RODRIGUEZ, JR.": "defendant associated with the black Dodge pickup truck, arrested for suspected involvement in human smuggling",
+    "black Dodge pickup truck": "vehicle involved in the smuggling operation, driven by IGNACIO RODRIGUEZ, JR.",
+    "Laredo, Texas": "location at the southern terminus of the route taken by smugglers, mentioned as a starting point for the journey to Dallas, Texas"
+  }
+}

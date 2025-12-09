@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Arce-Jasso"],
+    "NOUN_PHRASE": ["the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Arce-Jasso": "person who made a motion for judgment of acquittal"
+  }
+}

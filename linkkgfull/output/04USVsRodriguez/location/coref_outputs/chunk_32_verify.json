@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Border Patrol": "United States Border Patrol",
+    "the rear of the vehicle": null,
+    "the roadway": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the case, with agents making observations about passengers' behavior to determine reasonable suspicion for stops",
+    "Farm-to-Market Road 2050": "rural road where vehicles were traveling, characterized by limited traffic and used for smuggling routes, has a wind farm with an office and entrance on the west side"
+  }
+}

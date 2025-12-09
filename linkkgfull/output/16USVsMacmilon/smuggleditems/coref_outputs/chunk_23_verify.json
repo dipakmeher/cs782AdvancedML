@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court": "United States District Court",
+    "December 17 submissions": null,
+    "the suppression hearing matter": "suppression hearing",
+    "the thirty-day exclusion period": "thirty-day exclusion period",
+    "Raymond McMillon's motion to suppress": "motion to dismiss the indictment",
+    "January 5": null,
+    "Ramon De La Cruz's motion to dismiss the indictment": "Ramon De La Cruz's motion to dismiss the indictment",
+    "January 12": null,
+    "the Speedy Trial Act case clock": "Speedy Trial Act",
+    "January 20": null,
+    "the United States District Court's hearing on the motion to dismiss": "United States District Court",
+    "the earlier continuances": null,
+    "July 28th": null,
+    "August 12th": null,
+    "the United States District Court record": "United States District Court",
+    "docket entries Numbers 35": null,
+    "docket entries Numbers 39": null,
+    "Ramon De La Cruz and Zeba Williams": "Ramon De La Cruz and Zeba Williams",
+    "pretrial motions": null,
+    "the Speedy Trial Act case": "Ramon De La Cruz's appeal",
+    "the United States District Court's speedy trial determinations": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that received December 17 submissions and held a hearing on January 20 to address prior continuances",
+    "suppression hearing": "hearing considered 'under advisement' after December 17 submissions, with a thirty-day exclusion period starting to run",
+    "thirty-day exclusion period": "exclusion period under the Speedy Trial Act that began to run after December 17 submissions and ended on January 5",
+    "Ramon De La Cruz's motion to dismiss the indictment": "motion filed by Ramon De La Cruz on January 12, which tolled the Speedy Trial Act case clock",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods such as the thirty-day exclusion period",
+    "Ramon De La Cruz and Zeba Williams": "defendants who requested continuances that impacted the United States District Court's speedy trial determinations"
+  }
+}

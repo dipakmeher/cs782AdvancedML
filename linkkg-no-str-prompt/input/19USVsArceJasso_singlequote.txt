@@ -1,0 +1,96 @@
+ 
+
+ 
+ 
+ 
+
+
+ Raul Rafael Arce-Jasso is a Defendant.
+
+     DeMOSS, Circuit Judge: 
+
+ Plaintiff-Appellant  United States of America (the 'Government') seeks review  of the district court's judgment of acquittal in favor of  Defendant-Appellee Raul Rafael Arce-Jasso ('Arce-Jasso')  on possession of cocaine with the intent to distribute in violation  of and .  The Government also seeks review of the district court's denial of  the Government's motion for reconsideration of its order granting  Arce-Jasso's motion to suppress the cocaine. Because this Court  finds we do not have appellate jurisdiction to review either the  judgment of acquittal or the denial of the motion for  reconsideration of the suppression, we DISMISS the Government's  appeal. 
+
+
+ BACKGROUND 
+
+ In  the early evening hours on February 20, 2002, Arce-Jasso drove a  1996 Mercury Cougar to the border patrol checkpoint located on I-35,  15 miles north of Laredo , Texas .  Arce-Jasso pulled into the primary inspection lane, which Agent  Jesus Garcia ('Garcia') was manning.    When Arce-Jasso pulled up, Agent Garcia questioned him about his  citizenship. Arce-Jasso responded in Spanish that he was a U.S.  citizen and presented a birth certificate indicating he was born in  Laredo and a photo ID (not a driver's license). Agent Garcia  examined the items and believed Arce-Jasso was a U.S. citizen at  that time. He then proceeded to ask Arce-Jasso two more questions in  Spanish: (1) where he was going and (2) who owned the Mercury  Cougar. Arce-Jasso answered that he was going to San  Antonio and that he had bought the car about a week ago. Just    then, Arce-Jasso started pulling out of the checkpoint. Agent Garcia  called after him to ask if he wanted his documents back, and  Arce-Jasso stopped. At that point, Agent Garcia referred Arce-Jasso  to the secondary inspection area where a canine alerted and agents  discovered cocaine hidden in the side panel of the car. The entire  episode took about five minutes. 
+
+     On March 19, 2002, a Laredo federal grand jury returned an  indictment charging Arce-Jasso with possession of cocaine with the  intent to distribute in violation of and .  Arce-Jasso pleaded not guilty before a magistrate judge on March 28,  2002. Arce-Jasso filed a motion to suppress the cocaine on April 9,  2002, arguing his detention at the border checkpoint was  unconstitutionally lengthy. After a hearing, the district court  denied this motion by written order entered May 23, 2002. A bench  trial took place on June 3, 2002. The parties entered a joint  stipulation of fact that same day. During the trial, Arce-Jasso's  counsel made clear that Arce-Jasso agreed with the stipulation  'other than the legality of the stop which is the issue that we  seek to preserve for appeal by doing this.' The court found  Arce-Jasso guilty and entered verdict on June 7, 2002. 
+
+ Prior  to sentencing, on January 3, 2003, Arce-Jasso filed a motion for  reconsideration of the court's original denial of the motion to  suppress based on .  After a hearing, the district court granted    this motion by written order entered on May 9, 2003, and suppressed  the drug evidence. The Government filed a motion for reconsideration  of this decision; and after hearing additional testimony, the court  entered another written order on August 12, 2003, reaffirming its  decision to suppress the cocaine. Arce-Jasso then filed a motion  seeking either a judgment of acquittal or a new trial, which the  court granted by entering a judgment for acquittal and also a  conditional order for a new trial on August 29, 2003. 
+
+ On  September 25, 2003, the Government filed a joint notice of appeal  per of: (1) the court's judgment of acquittal and (2) the court's order  denying the Government's motion for reconsideration of the court's  prior order suppressing the cocaine evidence. 
+
+ DISCUSSION 
+
+ Whether  this Court has appellate jurisdiction to review the denial of the  Government's motion to reconsider the district court's suppression  order. 
+
+ Before  reaching the merits, this Court must examine the basis, if any, of  its appellate jurisdiction. .   The Government's ability    to appeal suppression of evidence in criminal cases is governed by .  states: 'An appeal by the United States shall lie to a court of  appeals from a decision or order of a district court suppressing or  excluding evidence . . . not made after the defendant has been put  in jeopardy and before the verdict.' .   The U.S. Attorney must also 'certify to the district court that  the appeal is not taken for purpose of delay and that the evidence  is a substantial proof of a fact material in the proceeding.' Id. All appeals under 'shall be taken within thirty days after the decision, judgment  or order has been rendered.' Id.   Federal  Rule of Appellate Procedure 4(b)(1)(B)(i) requires: 'When the government is entitled to appeal, its  notice of appeal must be filed in the district court    within 30 days after . . . the entry of the judgment or order being  appealed.'  FED.  R. APP. P. 4(b)(1)(B)(i) . 
+
+     Arce-Jasso first contends that this Court does not have appellate  jurisdiction to review the district court's decision to suppress the  cocaine because the Government did not timely appeal that decision.  He argues the 30-day clock began to run on August 12, the day the  court denied the Government's motion for reconsideration of the  grant of suppression; therefore, the Government's filing notice of  appeal on September 25 fell outside the 30 days. The timing advanced  by Arce-Jasso is correct.   The clock would not have started running on May 9, 2003, when the  suppression was actually granted, but would have started when the  court denied the motion for reconsideration the Government made, on  August 12. See . 
+
+ The  Government concedes that if the clock started on August 12, it did  fail to meet the 30-day deadline. However, the Government points to  the materiality requirement in and argues that the outcome of the motion to suppress by itself did  not have any legal effect on the prior guilty verdict and thus had  no practical 'material' effect on the proceedings until  the district court granted Arce-Jasso's    motion for judgment of acquittal. Thus, the Government contends the  real clock began with the entry of acquittal, both for appealing the  suppression and the acquittal. The Government is correct that  appealing the decision to suppress per would be possible here, notwithstanding the Rule  4(b) timing problem. 
+
+   Although Rule  4(b) 's  timing requirement    is considered jurisdictional, see ,  the Rule allows the district court to extend the time to file a  notice of appeal for a period up to 30 days from the expiration of  the Government's initial 30-day deadline. See  FED.  R. APP. P. 4(b)(4) .  However, the district court may only do so 'upon a finding of  excusable neglect or good cause.' Id. This Court has 'customarily treated' the filing of an  untimely notice of appeal within the 30-day additional period  contemplated by Rule  4(b)(4) 'as a motion for a determination whether excusable neglect or  good cause entitles the defendant to an extension of time to  appeal.' (citation omitted). However, we have only granted this equitable  treatment to criminal defendants ,  not to the Government as prosecutor. See id. ; ; ; ;     . 
+
+   Unlike Rule  4(b) , 's  timing requirements are not jurisdictional; 'we may still  entertain appeals certified in an untimely manner.' .  In Smith ,  the Government filed notice to appeal an order quashing a subpoena  within 30 days of that order's entry but did not certify its appeal  until a few months later. Id. When the district court issued a second order confirming its  decision to quash the subpoena, the Government reinstated its  original appeal within 30 days of the second order's entry. Id. This Court viewed the Government's 'reinstated appeal as  incorporating the proper, but untimely, certification from its first appeal.' .  We agreed to hear the Government's appeal, in spite of the untimely  certification, because the 'Government effectively complied  with the time limit in the statute' and 'to the extent the  Government did not follow the precise letter of the law, the  defendant, the person meant to be protected by ,  suffered    no harm.' Id. 
+
+ We  find the Government's untimeliness should not be excused here.   This Court has never treated or recognized the Government's filing  of an untimely motion within the 30-day additional period  contemplated by Rule  4(b)(4) as a motion for a determination of excusable neglect or good cause.  Whether this Court would do so is not before us because the  Government advanced no such argument. However, even if we were to  treat the Government's untimely appeal as a motion for a  determination of excusable neglect or good cause, we find no  excusable neglect or good cause for its tardiness here. Likewise,  the Government's case here is easily distinguishable from not only because there the Government timely appealed the district  court's second quashing order (albeit with the certification flaw)  within the 30 days as required by Rule  4(b)(1)(B)(i) ,  but also because we find no 'equities in this appeal which  favor the Government.' .  
+
+ We  now consider the Government's argument that a post-verdict  suppression order fails to become material to the proceedings until  the court decides to grant acquittal.   We find this argument lacks merit.     Rule  4(b)(1)(B)(i) requires filing of notice of appeal 'within 30 days after . . .  the entry of the judgment or order being appealed.' FED.  R. APP. P. 4(b)(1)(B)(i) .  For appealing the denial of the motion for reconsideration of  granting suppression entered on August 12, 2003, the deadline for  the Government was September 11, 2003. The language of does not extend or toll this deadline in any way, nor does it hinder  the Government from appealing within 30 days; it also does not  suggest that materiality is a different inquiry when a suppression  is made pre-as opposed to post-verdict. 
+
+ In Smith ,  this Court found an indicted suspect's allegedly false allegations  in an arson case, captured on videotape by a TV station, to be  'substantial proof of a fact material in the proceedings';  this Court allowed appeal of the quashed subpoena as suppressed  evidence under . .  Materiality did not depend on what legal decisions the district  court hypothetically might later make in response to the quashing of  the subpoena nor on any practical effect on the defendant's case.  Neither party nor this Court knew precisely    what evidence the videotape might yield, if any; in fact, there, the  defendant Smith had joined the Government on the motion to subpoena  the footage because he thought the evidence might be exculpatory to  him. Id. This Court simply and briefly considered the materiality    of the contents of the footage at the time the quashing was final. There was no need to wait until such evidence practically affected  the case. 
+
+     Therefore, although the Government is correct that   there are various hypothetical pathways the district court could  choose to take after granting a post-guilty verdict suppression -  immediately granting an acquittal, not changing the guilty verdict,  or granting acquittal after some time has passed - if 'the  suppressed evidence is a substantial proof of a fact material in  the proceeding,' then the Government should note when 30 days  will have passed after the suppression decision is final and make  the decision to file notice of appeal within 30 days, instead of  waiting until a possible acquittal is granted. 
+
+ Moreover,  while it may not always be readily apparent to the parties what  evidence is a 'substantial proof of a fact material in the  proceeding,' in Arce-Jasso's case the evidence considered by  the district court during the bench trial consisted only of the  stipulation of fact. This stipulation detailed the immigration stop  and the cocaine discovered as a result of it, and Arce-Jasso's  counsel clearly preserved the issue of the legality of the stop for  appeal. A successful appeal on that issue would result in suppression of the  cocaine. Thus, the materiality of that very    suppression by the district court to Arce-Jasso's ultimate criminal  fate under and was entirely clear when the suppression was made and reconsideration  denied, even if how the district court would later practically deal  with that suppression was not. The Government did not appeal in  time; therefore, we lack jurisdiction to review the suppression  decision. 
+
+
+ Whether  this Court has appellate jurisdiction to review the judgment of  acquittal. 
+
+ Arce-Jasso  first argues that the Government cannot appeal the judgment of  acquittal because    appellate review would contravene the .  This argument fails. The Supreme Court has expressly stated: 
+
+   The Government was entitled to appeal both the order granting the  motion to suppress and the order setting aside the verdict of  guilty, since further proceedings if the Government were successful  on the appeal would not be barred by the .  The District Court had sensibly first made its finding on the  factual question of guilt or innocence, and then ruled on the motion  to suppress; a reversal of these rulings would require no further  proceedings in the District Court, but merely a reinstatement of the  finding of guilt. ; . 
+
+ (internal citation and footnote omitted) (finding so in context  where bench trial resulted in guilty verdict). 
+
+ Arce-Jasso  also contends does not permit appeals from judgments of acquittal. This    argument also fails.   Although is silent on appeals from judgments of acquittal, this Circuit  allows Government appeals per from post-verdict judgments of acquittal. ; . 
+
+ However,  Arce-Jasso correctly argues that the law of the case doctrine  precludes the Government from presenting an adequate case or  controversy under Article III.    The law of the case doctrine is 'a restriction self-imposed by  the courts on themselves in the interests of judicial efficiency,  which generally operates to preclude a reexamination of issues  decided on appeal, either by the district court on remand or by the  appellate court itself upon a subsequent appeal.' Signal Oil & Gas Co. v. Barge W-701, 654 F.2d 1164, 1169 (5th  Cir. 1981) ; see  also ('Later courts may not consider matters which were decided by  necessary implication as well as those decided explicitly.')  (internal quotation marks omitted). 
+
+     Thus, because   this Court cannot disturb the improperly appealed suppression  ruling, it becomes the law of the case by 'necessary  implication' and cannot be reconsidered by the district court.  There is no other ground argued or available to remand the case. And  even if this Court could do so, on remand the Government would face  a Hobson's choice :  dismiss the charges against Arce-Jasso due to lack of evidence or  retry him without the cocaine. This Court has recognized that   'a claim becomes moot when . . . the parties lack a legally  cognizable interest in the outcome.' (alteration in original) (quoting . 
+
+        Neither of the Government's options provides an effective remedy on  remand, so the Government does not have any 'interest in the  outcome for which effective relief is available.' .  The Government's appeal does not present an adequate case or  controversy. Therefore, this appeal of Arce-Jasso's judgment of  acquittal is moot. 
+
+
+ CONCLUSION 
+
+ Having  carefully considered the parties' respective briefing and arguments,  for the    reasons set forth above, we DISMISS the Government's appeal. 
+
+ DISMISSED.   
+
+
+ 
+
+
+ E nd  of Document   
+
+ 1  Agent  Garcia stated he asked these questions because certain cities are  common destinations for illegal aliens and 'disposable'  vehicles are often used for smuggling drugs or aliens. He also  stated that Cougar vehicles have been used for alien  smuggling because of their large trunk and a void in the quarter panels, and  freshly cleaned cars, such as Arce-Jasso's, suggest they have been  wiped down for residue or odor.   
+
+ 2    This Court has held that the 30 days start with the entry of the  judgment or order in the docket per Rule  4(b) ,  not the rendering of the judgment or order per . .  Here, the dates of rendering and entry for reconsideration of the  suppression are the same (August 12) and for the acquittal are one  day apart (rendered on August 28, entered on August 29).   
+
+ 3  The  Government has met 's  other requirements.  expressly allows for Government appeal from orders suppressing  evidence; here, the cocaine discovered in the Cougar was suppressed  by the court. Suppression must not be made 'after the defendant  has been put in jeopardy and before the verdict'; this is also  met here because the order was entered after the bench trial ended  and the court entered its guilty verdict. See (explaining that forbids the interruption of trial). The Government also made the  proper certifications in its notice of appeal per .   
+
+ 4  Although  the Government makes the argument that the suppression decision did  not ripen into a final decision under until the later judgment of acquittal and cites ,  for the idea   that Government appeals must be appealable per both and ,  this Circuit only requires meeting the requirements of . .  Nor does a suppression decision have to qualify as appealable as a  collateral order. is the proper vehicle for interlocutory criminal appeals by the  Government, as even Martinez recognizes. .  The suppression order was ripe for appeal when the district court  denied the Government's motion for reconsideration on August 12. See .   
+
+ 5  For  example, 'even though appellants stipulated all the essential  facts necessary for their conviction, they did not withdraw their  pleas of not guilty, and sought to expressly reserve their right to  appeal from the order denying the motion to suppress.' (explaining that   a stipulated bench trial is a proper means to preserve a pretrial  suppression issue for appeal).   
+
+ 6  The  Government responds by merely restating its argument that the  suppression order itself is appealable.   
+
+ 7  A  Hobson's choice is defined as 'an apparently free choice when  there is no real alternative.' Merriam Webster Online  Dictionary (2004), at  .   
+
+ 8  These  are the Government's only options. All but one of the facts  Arce-Jasso stipulated to concerned the checkpoint stop found illegal  by the district court or the cocaine found as a result of the stop,  which was suppressed by the district court. Thus, little, and  arguably no, factual evidence remains that could be used to convict  Arce-Jasso under and on retrial.          
+   
+   
+        

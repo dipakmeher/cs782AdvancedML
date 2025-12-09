@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the undersigned": "J. Scott Hacker",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Reymundo Reyes",
+    "Agent Benavides": "Hugo Benavides",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Border Patrol agents": "Jorge Luis Trevino and Marco Montemayor"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J. Scott Hacker": "United States Magistrate Judge who presided over a hearing where facts about a vehicle stop were discussed",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose vehicle was stopped by law enforcement officers due to suspicion of alien smuggling activities, attempted to travel through an indirect route to avoid stationary checkpoints, and acknowledged during the hearing that he consented to have his vehicle searched, could not provide insurance information",
+    "Reymundo Reyes": "Law enforcement officer who did not corroborate Agent Trevino's testimony about the camper and impounded the vehicle due to lack of insurance information",
+    "Hugo Benavides": "United States Border Patrol Agent who did not corroborate Agent Trevino's testimony about the camper",
+    "Jorge Luis Trevino and Marco Montemayor": "Border Patrol agents involved in the investigation and aware of the load car-scout car pattern"
+  }
+}

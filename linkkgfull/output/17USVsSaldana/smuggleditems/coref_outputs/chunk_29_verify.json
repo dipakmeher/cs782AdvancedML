@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "cocaine": "specific type of smuggled substance",
+    "drugs": "smuggled substances",
+    "the drugs": "smuggled substances"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "specific type of smuggled substance": "secreted substance discovered by officers, found after dismantling four batteries",
+    "smuggled substances": "substances denied by Federico Saldana to be in his possession, previously smuggled and subject of investigation"
+  }
+}

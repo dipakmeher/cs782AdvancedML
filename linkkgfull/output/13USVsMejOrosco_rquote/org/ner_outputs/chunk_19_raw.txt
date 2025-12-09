@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Western District of Louisiana", "CLARK"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Western District of Louisiana": "a district court",
+    "CLARK": "District Judge"
+  }
+}

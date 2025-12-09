@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 85": "Highway 85",
+    "Dallas": "Dallas, Texas",
+    "U.S. Highway 385": "U.S. Highway 385",
+    "Big Bend": "Big Bend",
+    "United States": "United States",
+    "the area": "Big Bend",
+    "the district court": null,
+    "the border": "United States-Mexico border",
+    "a common smuggling route": "Highway 85",
+    "immigration checkpoints": null,
+    "the marked patrol car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events took place, involved in the case of IGNACIO RODRIGUEZ, JR.",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr., with relevant precedents regarding traffic stops and reasonable suspicion",
+    "Highway 85": "common smuggling route that avoids immigration checkpoints, located in the Big Bend area",
+    "Dallas, Texas": "vehicle registration location, part of the metroplex",
+    "U.S. Highway 385": "known drug smuggling route in the Big Bend area",
+    "Big Bend": "area known for drug smuggling, located near the United States-Mexico border",
+    "United States-Mexico border": "International boundary where roving Border Patrol stops are conducted, proximity to which is a factor in determining reasonable suspicion"
+  }
+}

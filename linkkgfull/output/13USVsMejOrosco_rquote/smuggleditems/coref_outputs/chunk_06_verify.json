@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The United States Sentencing Commission Guidelines": "United States Sentencing Commission Guidelines",
+    "the crime": "human smuggling operation",
+    "the offender": null,
+    "the rehabilitation model": null,
+    "prisoners": null,
+    "similar offenders": null,
+    "similar crimes": null,
+    "like circumstances": null,
+    "a term of imprisonment": null,
+    "parole officials": null,
+    "the prisoner": null,
+    "offenders": null,
+    "victims": null,
+    "United States of America Congress": "United States Congress",
+    "decades of empirical evidence": null,
+    "the approach": null,
+    "predictions of an offender's propensity for, or actual, rehabilitation": null,
+    "the maxim": null,
+    "the premise": null,
+    "the United States District Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission Guidelines": "Guidelines providing a framework for federal sentencing, allowing for consideration of various factors in imposing a sentence, including the offense level, criminal history category, and other relevant factors",
+    "human smuggling operation": "Crime involving the transportation of smuggled aliens, with Juventino Mejia-Orosco as an organizer or leader",
+    "United States Congress": "Federal legislative body that enacted the sentencing guidelines to ensure fair and uniform sentences",
+    "United States District Court": "Federal court with the authority to impose sentences based on the guidelines and individual case circumstances, responsible for making factual findings and applying the United States Sentencing Commission Guidelines"
+  }
+}

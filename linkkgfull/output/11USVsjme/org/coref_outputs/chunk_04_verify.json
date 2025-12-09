@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys Program": "Southwest Keys Program",
+    "the juvenile court": "Juvenile Court",
+    "Youth Village": "Youth Village",
+    "Webb County Jail": "Webb County Jail",
+    "CAPS": "Counseling and Psychological Services",
+    "SCAN": "SCAN Services",
+    "SWK Southwest Keys Program": "Southwest Keys Program",
+    "ISP": "Intensive Supervision Probation",
+    "Cognitive Life Skills": "Cognitive Life Skills Program",
+    "YV Youth Village": "Youth Village",
+    "boot camp": null,
+    "Texas Constitution": "Texas Constitution",
+    "juvenile court": "Juvenile Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas Juvenile Justice Department": "department where juveniles may be committed after violating probation conditions, as part of rehabilitation program and ordered for commitment by the juvenile court, providing a variety of services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs. J.M.E. was committed to this department.",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. failed to comply with requirements even after a second chance, was unsuccessfully discharged due to not participating in counseling sessions and initiating fights with other juveniles, and from which J.M.E. could not be placed with parents after discharge due to inadequate supervision. He was also discharged from this center after serving his probation.",
+    "Southwest Keys Program": "program completed after intensive supervision probation, part of J.M.E.'s rehabilitation",
+    "Youth Village": "facility providing Cognitive Life Skills program as part of rehabilitation",
+    "Webb County Jail": "jail where J.M.E. was attending school and receiving services including CAPS counseling and SCAN services, and to which J.M.E. was transferred after assaulting another juvenile",
+    "Counseling and Psychological Services": "counseling services attended by J.M.E. as a condition of probation at Webb County Jail",
+    "SCAN Services": "services received by J.M.E. at Webb County Jail",
+    "Texas Constitution": "constitution under which complaint of cruel and unusual punishment was made, but the complaint was not preserved for appellate review",
+    "Juvenile Court": "court that ordered J.M.E.'s commitment to the Texas Juvenile Justice Department, heard testimony on J.M.E.'s unsuccessful discharge, handled J.M.E.'s previous probations, and found J.M.E. had violated probation terms, with authority to modify disposition based on violation of conditions. The court's order was affirmed. J.M.E. was referred to this court ten times.",
+    "Intensive Supervision Probation": "probation program that J.M.E. was placed on for four months",
+    "Cognitive Life Skills Program": "program attended by J.M.E. at Youth Village as part of rehabilitation"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Jacquinot", "Andrew P. Graham", "Jay Snodgrass"],
+    "NOUN_PHRASE": ["the Border Patrol"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jacquinot": "",
+    "Andrew P. Graham": "Border Patrol Agent",
+    "Jay Snodgrass": "Border Patrol Agent"
+  }
+}

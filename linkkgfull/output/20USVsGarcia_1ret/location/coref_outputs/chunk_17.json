@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "the border": "Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico": "country of origin for illegal migrants",
+    "Mexican border": "reference point for the location of the stop, 115 miles south of where the pickup truck was stopped"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Pruszenski": "Stanley Pruszenski",
+    "Baron": "Alfred Baron",
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "the officer": "Stanley Pruszenski and Alfred Baron"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Stanley Pruszenski": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, received specialized training as a border patrol agent, served for two years and five months prior to the events in question, had limited Spanish language skills",
+    "Alfred Baron": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, received specialized training as a border patrol agent, served for slightly over three years prior to the events in question, native Spanish speaker, participated in approximately 150 separate incidents involving arrests for transporting illegal aliens",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation and observed the suspicious vehicle, applied the Brignoni-Ponce standard in their assessment, had reason to suspect the presence of illegal aliens due to various factors including the vehicle's appearance and occupant behavior"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Hertz", "Hertz rental car company"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Hertz": "rental car company",
+    "Hertz rental car company": "rental car company at the Laredo International Airport"
+  }
+}

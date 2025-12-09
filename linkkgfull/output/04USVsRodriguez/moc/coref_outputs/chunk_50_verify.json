@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "United States Border Patrol Agent Trevino": "Agent Jorge Luis Trevino",
+    "United States District Court": "a United States District Court",
+    "Jorge Luis Trevino": "Agent Jorge Luis Trevino",
+    "Ford F-150s": "Ford Motor Company F-150s",
+    "Ford F-250s": "Ford Motor Company F-250s"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "Paved road with two lanes and no shoulder, where Agent Jorge Luis Trevino encountered the vehicles",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent with experience in distinguishing local vehicles, including knowledge of common vehicle models used by oil companies",
+    "a United States District Court": "Court responsible for interpreting testimony and evidence in the case",
+    "Ford Motor Company F-150s": "Truck model commonly used by oil companies, often white, and distinguished from other vehicles like Dodge Rams",
+    "Ford Motor Company F-250s": "Truck model used for various purposes, including by individuals and companies"
+  }
+}

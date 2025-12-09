@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the scout vehicle": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the unit": "United States Border Patrol",
+    "the vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant transported to the Freer Immigration Checkpoint for further questioning by United States Border Patrol Agent Hugo Benavides",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., used by smugglers and observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent, also observed by Officer Reymundo Reyes near Highway 16",
+    "United States Border Patrol": "Law enforcement agency involved in the incident, with agents familiar with local vehicles and traffic"
+  }
+}

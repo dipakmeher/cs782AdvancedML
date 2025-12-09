@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Corinth", "Dallas"],
+    "NOUN_PHRASE": ["this time", "the vicinity", "the roads", "the area"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Corinth": "location mentioned as being thirty minutes apart from Dallas",
+    "Dallas": "location mentioned as being thirty minutes apart from Corinth"
+  }
+}

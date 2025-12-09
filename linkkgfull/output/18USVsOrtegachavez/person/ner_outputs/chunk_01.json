@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Alfredo Ortega-Chavez",
+      "GARWOOD"
+    ],
+    "NOUN_PHRASE": [
+      "Appellant",
+      "Circuit Judge",
+      "defendant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alfredo Ortega-Chavez": "defendant and appellant",
+    "GARWOOD": "Circuit Judge"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Pruszenski",
+      "Baron"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "the officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Pruszenski": "border patrol agent",
+    "Baron": "border patrol agent"
+  }
+}

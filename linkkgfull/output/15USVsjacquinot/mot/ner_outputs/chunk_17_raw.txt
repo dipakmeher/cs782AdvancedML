@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a patrol car", "the truck", "the vehicle", "a work vehicle", "a tourist-type vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

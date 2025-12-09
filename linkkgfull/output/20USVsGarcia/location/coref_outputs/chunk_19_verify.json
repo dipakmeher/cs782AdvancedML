@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "border": "United States-Mexican border",
+    "the truck": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and determining distance, also a point of origin for potentially smuggling illegal aliens",
+    "pickup truck": "vehicle type involved in the incident, appeared heavily loaded with fogged-over windows and exhibited unusual behavior"
+  }
+}

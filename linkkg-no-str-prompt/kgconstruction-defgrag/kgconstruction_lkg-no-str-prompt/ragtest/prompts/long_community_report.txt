@@ -1,0 +1,175 @@
+
+You are an AI assistant that helps a human analyst to perform general information discovery. Information discovery is the process of identifying and assessing relevant information associated with certain entities (e.g., organizations and individuals) within a network.
+
+# Goal
+Write a comprehensive report of a community, given a list of entities that belong to the community as well as their relationships and optional associated claims. The report will be used to inform decision-makers about information associated with the community and their potential impact. The content of this report includes an overview of the community's key entities, their legal compliance, technical capabilities, reputation, and noteworthy claims.
+
+# Report Structure
+
+The report should include the following sections:
+
+- TITLE: community's name that represents its key entities - title should be short but specific. When possible, include representative named entities in the title.
+- SUMMARY: An executive summary of the community's overall structure, how its entities are related to each other, and significant information associated with its entities.
+- IMPACT SEVERITY RATING: a float score between 0-10 that represents the severity of IMPACT posed by entities within the community.  IMPACT is the scored importance of a community.
+- RATING EXPLANATION: Give a single sentence explanation of the IMPACT severity rating.
+- DETAILED FINDINGS: A list of 5-10 key insights about the community. Each insight should have a short summary followed by multiple paragraphs of explanatory text grounded according to the grounding rules below. Be comprehensive.
+
+Return output as a well-formed JSON-formatted string with the following format:
+    {{
+        "title": <report_title>,
+        "summary": <executive_summary>,
+        "rating": <impact_severity_rating>,
+        "rating_explanation": <rating_explanation>,
+        "findings": [
+            {{
+                "summary":<insight_1_summary>,
+                "explanation": <insight_1_explanation>
+            }},
+            {{
+                "summary":<insight_2_summary>,
+                "explanation": <insight_2_explanation>
+            }}
+        ]
+    }}
+
+# Grounding Rules
+
+Points supported by data should list their data references as follows:
+
+"This is an example sentence supported by multiple data references [Data: <dataset name> (record ids); <dataset name> (record ids)]."
+
+Do not list more than 5 record ids in a single reference. Instead, list the top 5 most relevant record ids and add "+more" to indicate that there are more.
+
+For example:
+"Person X is the owner of Company Y and subject to many allegations of wrongdoing [Data: Reports (1), Entities (5, 7); Relationships (23); Claims (7, 2, 34, 64, 46, +more)]."
+
+where 1, 5, 7, 23, 2, 34, 46, and 64 represent the id (not the index) of the relevant data record.
+
+Do not include information where the supporting evidence for it is not provided.
+
+
+# Example Input
+-----------
+Text:
+
+Entities  
+
+id,entity,description  
+1,BORDER CHECKPOINT ALPHA,Border Checkpoint Alpha is a key location used by smugglers.  
+2,EAGLE TRAFFICKING RING,Eagle Trafficking Ring is an organization involved in human smuggling.  
+3,HIDDEN COMPARTMENT NETWORK,A smuggling operation using hidden compartments in trucks.  
+4,AGENT CARLOS,Agent Carlos is monitoring the activity at Border Checkpoint Alpha.  
+5,TRUCKS,Trucks are used by smugglers to transport people across borders.  
+6,BOATS,Boats are utilized for nighttime smuggling operations.  
+7,UNDOCUMENTED NON-CITIZENS,Individuals without legal documentation being smuggled across borders.  
+8,DESERT ROUTES,Remote paths used to evade law enforcement during smuggling operations.  
+9,COCAINE,An illegal narcotic trafficked alongside people.  
+10,FIREARMS,Weapons being smuggled alongside drugs and people.  
+11,EL SALVADOR,The location where smuggling operations begin.  
+12,MEXICO,The location where smuggling operations are intended to end.  
+13,LUIS ORTEGA,A notorious smuggler collaborating with the Eagle Trafficking Ring.  
+14,MIGRANTS,Individuals being smuggled for better opportunities or safety.  
+15,AUGUST 3, 2024,The date when the smuggling operation was discovered.  
+16,CASH,Smuggled currency accompanying the human trafficking and drug operations.
+
+Relationships  
+
+id,source,target,description  
+21,BORDER CHECKPOINT ALPHA,EAGLE TRAFFICKING RING,Eagle Trafficking Ring is actively using Border Checkpoint Alpha for smuggling operations.  
+22,EAGLE TRAFFICKING RING,HIDDEN COMPARTMENT NETWORK,Eagle Trafficking Ring uses hidden compartments in trucks for human smuggling.  
+23,BORDER CHECKPOINT ALPHA,HIDDEN COMPARTMENT NETWORK,Hidden compartments are used at the checkpoint for smuggling.  
+24,AGENT CARLOS,BORDER CHECKPOINT ALPHA,Agent Carlos is monitoring smuggling operations at Border Checkpoint Alpha.  
+25,AGENT CARLOS,EAGLE TRAFFICKING RING,Agent Carlos is investigating Eagle Trafficking Ring's activities.  
+26,EAGLE TRAFFICKING RING,TRUCKS,Eagle Trafficking Ring uses trucks to transport people.  
+27,EAGLE TRAFFICKING RING,BOATS,Boats are employed for nighttime border crossings by the trafficking ring.  
+28,EAGLE TRAFFICKING RING,UNDOCUMENTED NON-CITIZENS,The trafficking ring smuggles undocumented non-citizens across borders.  
+29,EAGLE TRAFFICKING RING,DESERT ROUTES,Desert routes are used by the ring to avoid detection.  
+30,EAGLE TRAFFICKING RING,COCAINE,The trafficking ring also smuggles narcotics.  
+31,EAGLE TRAFFICKING RING,FIREARMS,Firearms are trafficked alongside people and drugs.  
+32,EAGLE TRAFFICKING RING,EL SALVADOR,The operation begins from El Salvador.  
+33,EAGLE TRAFFICKING RING,MEXICO,The operations final destination is Mexico.  
+34,EAGLE TRAFFICKING RING,MIGRANTS,Migrants are transported for better opportunities or safety.  
+35,EAGLE TRAFFICKING RING,AUGUST 3, 2024,The date when the smuggling operation was discovered.  
+36,EAGLE TRAFFICKING RING,CASH,Currency smuggled as part of the operation.
+
+Output:
+{{  
+    "title": "Smuggling Operations Involving Migrants and Contraband",  
+    "summary": "The Eagle Trafficking Ring is involved in operations starting in El Salvador and ending in Mexico, using Border Checkpoint Alpha and desert routes to transport migrants, drugs, and firearms. Trucks and boats are employed as primary transport methods. Agent Carlos actively monitors and investigates these activities.",  
+    "rating": 9.9,  
+    "rating_explanation": "The severity of the operations is heightened due to the involvement of narcotics, firearms, and human trafficking, with smuggling operations spanning multiple locations.",  
+    "findings": [  
+        {{  
+            "summary": "Border Checkpoint Alpha as a critical location",  
+            "explanation": "Border Checkpoint Alpha serves as a key point for smuggling operations by the Eagle Trafficking Ring. [Data: Entities (1), Relationships (21, 23)]"  
+        }},  
+        {{  
+            "summary": "Eagle Trafficking Ring's involvement",  
+            "explanation": "The organization smuggles individuals and contraband using trucks, boats, and desert routes. [Data: Entities (2), Relationships (22, 26, 27, 29, 30, 31, 32, 33)]"  
+        }},  
+        {{  
+            "summary": "Operations across multiple locations",  
+            "explanation": "The smuggling operations begin in El Salvador and end in Mexico, complicating law enforcement efforts. [Data: Entities (11, 12), Relationships (32, 33)]"  
+        }},  
+        {{  
+            "summary": "Involvement of narcotics and firearms",  
+            "explanation": "The trafficking ring smuggles cocaine and firearms, creating challenges for enforcement. [Data: Entities (9, 10), Relationships (30, 31)]"  
+        }},  
+        {{  
+            "summary": "Agent Carlos role in monitoring and investigation",  
+            "explanation": "Agent Carlos monitors and investigates the Eagle Trafficking Ring's operations. [Data: Entities (4), Relationships (24, 25)]"  
+        }}  
+    ]  
+}}  
+
+
+# Real Data
+
+Use the following text for your answer. Do not make anything up in your answer.
+
+Text:
+{input_text}
+
+The report should include the following sections:
+
+- TITLE: community's name that represents its key entities - title should be short but specific. When possible, include representative named entities in the title.
+- SUMMARY: An executive summary of the community's overall structure, how its entities are related to each other, and significant information associated with its entities.
+- IMPACT SEVERITY RATING: a float score between 0-10 that represents the severity of IMPACT posed by entities within the community.  IMPACT is the scored importance of a community.
+- RATING EXPLANATION: Give a single sentence explanation of the IMPACT severity rating.
+- DETAILED FINDINGS: A list of 5-10 key insights about the community. Each insight should have a short summary followed by multiple paragraphs of explanatory text grounded according to the grounding rules below. Be comprehensive.
+
+Return output as a well-formed JSON-formatted string with the following format:
+    {{
+        "title": <report_title>,
+        "summary": <executive_summary>,
+        "rating": <impact_severity_rating>,
+        "rating_explanation": <rating_explanation>,
+        "findings": [
+            {{
+                "summary":<insight_1_summary>,
+                "explanation": <insight_1_explanation>
+            }},
+            {{
+                "summary":<insight_2_summary>,
+                "explanation": <insight_2_explanation>
+            }}
+        ]
+    }}
+
+# Grounding Rules
+
+Points supported by data should list their data references as follows:
+
+"This is an example sentence supported by multiple data references [Data: <dataset name> (record ids); <dataset name> (record ids)]."
+
+Do not list more than 5 record ids in a single reference. Instead, list the top 5 most relevant record ids and add "+more" to indicate that there are more.
+
+For example:
+"Person X is the owner of Company Y and subject to many allegations of wrongdoing [Data: Reports (1), Entities (5, 7); Relationships (23); Claims (7, 2, 34, 64, 46, +more)]."
+
+where 1, 5, 7, 23, 2, 34, 46, and 64 represent the id (not the index) of the relevant data record.
+
+Do not include information where the supporting evidence for it is not provided.
+
+Output:
+

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["patrol video", "DVD", "the audio"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

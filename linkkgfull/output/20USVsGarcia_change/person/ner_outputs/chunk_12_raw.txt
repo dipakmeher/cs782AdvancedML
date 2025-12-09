@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the jury", "the jurors", "dissenting jurors"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

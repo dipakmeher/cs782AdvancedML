@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the two vehicles": "white Malibu sedan and black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "Hebbronville checkpoint": "Hebbronville Checkpoint",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "U.S. Highway 359": "U.S. Highway 359",
+    "Highway 16": "Highway 16",
+    "Houston": "Houston",
+    "San Antonio": "San Antonio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "border patrol agency noticing drop-offs on Farm-to-Market Road 2050; involved in the arrest of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; had an agent stationed at the Freer immigration checkpoint",
+    "white Malibu sedan and black Dodge pickup truck": "vehicles involved in the smuggling operation",
+    "Farm-to-Market Road 2050": "road adjacent to the Border Patrol station parking lot where vehicles turned southbound and where drop-offs of undocumented individuals were noticed; used by smugglers to avoid checkpoints; primarily used by ranchers, oil trucks, and occasional small cars from a nearby wind farm",
+    "Freer Immigration Checkpoint": "location where Agent Trevino was stationed and conducted inspections; checkpoint avoided by smugglers; location where IGNACIO RODRIGUEZ, JR. was transported for further questioning",
+    "Hebbronville Checkpoint": "checkpoint on U.S. Highway 359 avoided by smugglers; mentioned by Defendant as the starting point of his travel",
+    "U.S. Highway 59": "highway where vehicles were inspected by United States Border Patrol and location of Freer immigration checkpoint; part of route used to avoid checkpoints",
+    "U.S. Highway 359": "highway with Hebbronville checkpoint; part of route used to avoid checkpoints",
+    "Highway 16": "highway connecting to Houston or San Antonio, used by smugglers after avoiding checkpoints; accessible via San Pablo Road and Santo Nino Road; location of the traffic stop",
+    "Houston": "city mentioned as a potential destination for smuggled individuals",
+    "San Antonio": "city mentioned as a potential destination for smuggled individuals"
+  }
+}

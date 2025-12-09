@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate 35": "Interstate 35",
+    "Maria De Jesus Garcia's pickup camper": "camper",
+    "the border": "United States-Mexican border",
+    "this segment": "segment of Interstate 35 near Moore, Texas",
+    "these other connecting roads": null,
+    "the vehicle": "camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of the border patrol agents and location of the incident",
+    "Moore, Texas": "location near the border where Interstate 35 passes",
+    "Interstate Highway 35": "highway leading directly to the border and passing through Laredo, Texas",
+    "Mexican border": "physical boundary relevant to legality of investigatory stop and location near the incident",
+    "northbound lanes of Interstate Highway 35": "part of the highway where the border patrol agents observed the pickup truck",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence, often heavily loaded and with fogged windows, driven by Maria De Jesus Garcia",
+    "United States District Court": "court where the suppression motion was filed and considered",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident",
+    "Laredo, Texas": "city through which Interstate 35 passes and located near the border",
+    "Interstate 35": "highway leading directly to the border and passing through several towns including Laredo, Texas and Moore, common smuggling route with history of alien smuggling",
+    "Moore": "location near the border and one of the towns passed by Interstate 35",
+    "segment of Interstate 35 near Moore, Texas": "specific segment of highway known for alien smuggling activity"
+  }
+}

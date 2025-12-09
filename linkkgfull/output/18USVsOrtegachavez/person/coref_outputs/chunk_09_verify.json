@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Judge Kazen": "Judge Kazen",
+    "Mrs. Guerrero": "Mrs. Guerrero",
+    "the district judge": "Judge Kazen",
+    "the trial judge": "Judge Kazen",
+    "the appellant": "Alfredo Ortega-Chavez",
+    "counsel for both parties": null,
+    "defense counsel": "Ms. Salinas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Judge Kazen": "trial court judge who handled the situation commendably and ensured a fair trial by conducting an inquiry into juror Mrs. Guerrero's ability to remain impartial",
+    "Mrs. Guerrero": "juror who knew defense counsel Ms. Salinas but assured the court she could remain fair and impartial",
+    "Alfredo Ortega-Chavez": "Defendant and appellant convicted of conspiracy to bring or attempt to bring undocumented aliens into the United States, involved in smuggling operation with Ramon Gonzalez Sanchez and Alejandro Gonzalez Delgado, charged with conspiracy and aiding and abetting, raises several claims of prejudicial error on appeal, objecting party",
+    "Ms. Salinas": "Defense counsel and acquaintance of juror Mrs. Guerrero, subject of inquiry regarding her firm and its members, defense counsel in the case of Alfredo Ortega-Chavez, underwent inquiry respecting herself and her firm"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Senator Edward M. Kennedy": "Edward M. Kennedy",
+    "Edward M. Kennedy": "Edward M. Kennedy",
+    "the senator": "Edward M. Kennedy",
+    "Congress": null,
+    "district judges": null,
+    "offenders": null,
+    "victims": null,
+    "society": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Edward M. Kennedy": "Described the sentencing guidelines as a comprehensive approach to reduce disparity in punishment and ensure fair sentences for offenders, victims, and society"
+  }
+}

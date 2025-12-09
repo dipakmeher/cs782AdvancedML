@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States District", "United States Supreme Court", "United States Sentencing Guidelines Manual"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District": "court",
+    "United States Supreme Court": "highest court in the land",
+    "United States Sentencing Guidelines Manual": "guidelines for sentencing"
+  }
+}

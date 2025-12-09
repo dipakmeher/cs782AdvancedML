@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "district court",
+      "government"
+    ],
+    "NOUN_PHRASE": [
+      "the government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "the court where the trial took place",
+    "government": "the entity presenting the case against Alfredo Ortega-Chavez"
+  }
+}

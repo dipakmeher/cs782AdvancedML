@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": "United States Border Patrol",
+    "the Court": "United States District Court",
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "TxDOT": "Texas Department of Transportation",
+    "Transportation, Planning, and Programming Division": "Texas Department of Transportation, Transportation, Planning, and Programming Division",
+    "the Laredo Division": "Texas Department of Transportation, Laredo Division"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "involved in the stop of RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; considered the behavior of vehicles' drivers in determining reasonable suspicion to stop; followed suspicious vehicles for approximately five minutes; conducted a roving stop; familiar with most vehicles on Farm-to-Market Road 2050; interacted with law enforcement during the traffic stop; involved in the arrest and questioning of IGNACIO RODRIGUEZ, JR.; location of questioning; had sufficient evidence to conclude that two vehicles were driving in tandem; agents were expected to arrive at the scene; involved in an incident where Agent Benavides asked IGNACIO RODRIGUEZ, JR. questions en route to the Border Patrol station",
+    "United States District Court": "held a hearing on the pending motions to suppress and considered factors for reasonable suspicion; analyzed evidence including district traffic maps of Farm-to-Market Road 2050 and U.S. Highway 59",
+    "Texas Department of Transportation": "prepared district traffic maps of Farm-to-Market Road 2050 and U.S. Highway 59, indicating traffic flow data primarily collected and determined by the Transportation, Planning, and Programming Division in Austin; has a Laredo Division with a Director of Transportation, Planning and Development",
+    "Texas Department of Transportation, Transportation, Planning, and Programming Division": "collects and determines traffic flow data for district traffic maps",
+    "Texas Department of Transportation, Laredo Division": "has a Director of Transportation, Planning and Development who testified about the accuracy of traffic flow data"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "aliens",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the Hispanic occupants",
+      "a given vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "smuggled individuals",
+    "illegal aliens": "smuggled individuals"
+  }
+}

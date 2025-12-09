@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "THC": "THC",
+    "cocaine": "cocaine",
+    "benzodiazepines": "benzodiazepines"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "THC": "a substance J.M.E. tested positive for multiple times, last test on November 6, 2017",
+    "cocaine": "a substance J.M.E. tested positive for once",
+    "benzodiazepines": "a substance J.M.E. tested positive for once"
+  }
+}

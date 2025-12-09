@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Government": "the United States Government",
+    "a checkpoint stop": null,
+    "the stop": null,
+    "a United States Border Patrol Agent": "United States Border Patrol Agent",
+    "the detention": null,
+    "the search": null,
+    "the continued detention": null,
+    "the United States District Court": "the United States District Court",
+    "the motion to suppress": null,
+    "the suppression hearing": null,
+    "the evidence": null,
+    "the record": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Government": "The government entity responsible for requesting consent to extend checkpoint stops",
+    "United States Border Patrol Agent": "Agent responsible for conducting stops, detentions, and searches at immigration checkpoints",
+    "the United States District Court": "Court that reviews motions to suppress evidence obtained during checkpoint stops"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "Jorge Luis Trevino": "United States Border Patrol",
+    "Reymundo Reyes": "Freer Police Department",
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "Moglia ranch house": null,
+    "Stag trailer": null,
+    "San Pablo Road": "San Pablo Road",
+    "Laredo, Texas": "Laredo, Texas",
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "United States Border Patrol Agent Jorge Luis Trevino": "United States Border Patrol",
+    "Freer Police Department Officer Reymundo Reyes": "Freer Police Department",
+    "black Dodge pickup truck": "black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops, took judicial notice of sunset time in Laredo, Texas on February 4, 2013",
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents encountering illegal aliens wearing caps after walking through the brush, agent Jorge Luis Trevino testified during cross-examination",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., with Officer Reymundo Reyes conducting the initial questioning and testifying about his concerns regarding stolen vehicles",
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses",
+    "Jorge Luis Trevino": "United States Border Patrol agent who testified during cross-examination that he does not know who lives in the Moglia ranch house or Stag trailer, nor does he know who owns the land and houses on San Pablo Road",
+    "Reymundo Reyes": "Freer Police Department officer who could not recall exactly when IGNACIO RODRIGUEZ, JR. was informed that a canine was coming to conduct the search, explained that stolen vehicles are not necessarily reported stolen immediately",
+    "San Pablo Road": "road located near the area where smugglers operate, with the Moglia ranch house and Stag trailer situated on it",
+    "Laredo, Texas": "location where the events took place, with a specific sunset time noted by J. Scott Hacker",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who encountered illegals in a white Malibu sedan on Farm-to-Market Road 2050, demonstrated experience in evaluating circumstances related to reasonable suspicion and recognizing 'load car-lead car' driving patterns",
+    "Freer Police Department Officer Reymundo Reyes": "officer who conducted the initial traffic stop, highlighted the role of local law enforcement in immigration enforcement and smuggling investigations, testified about his concerns regarding stolen vehicles"
+  }
+}

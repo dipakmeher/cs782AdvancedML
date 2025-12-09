@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate 35"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "the route on which Abdullah Yusuf was stopped by Border Patrol"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Alpine, Texas", "United States/Mexican border", "Big Bend National Park", "Marfa Sector Area Operations Center", "Laredo, Texas", "Texas", "Texas Highway 385"],
+    "NOUN_PHRASE": ["a 140-mile area", "the Alpine, Texas, area", "the border area", "that highway", "other nearby highways"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alpine, Texas": "location where Border Patrol Agents were stationed",
+    "United States/Mexican border": "border area being patrolled by Border Patrol Agents",
+    "Big Bend National Park": "part of the area being patrolled by Border Patrol Agents",
+    "Marfa Sector Area Operations Center": "previous work location of Jay Snodgrass",
+    "Laredo, Texas": "previous work location of Jay Snodgrass",
+    "Texas": "state where smuggling activities are taking place",
+    "Texas Highway 385": "highway notorious for smuggling"
+  }
+}

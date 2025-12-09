@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Border Patrol",
+      "Big Bend National Park"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "law enforcement agency",
+    "Big Bend National Park": "national park"
+  }
+}

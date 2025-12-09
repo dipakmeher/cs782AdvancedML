@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Judge Kazen", "Mrs. Guerrero"],
+    "NOUN_PHRASE": ["the district judge", "the trial judge", "the appellant", "counsel for both parties", "defense counsel"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Judge Kazen": "trial court judge",
+    "Mrs. Guerrero": "juror"
+  }
+}

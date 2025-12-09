@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "the white Malibu sedan": "the white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the United States-Mexico border": "the United States-Mexico border",
+    "the Echo 43 checkpoint": "the Echo 43 checkpoint",
+    "Agent Trevino": "Agent Jorge Luis Trevino",
+    "the Fifth Circuit Court of Appeals": "the Fifth Circuit Court of Appeals",
+    "the vehicles": "the white Malibu sedan and the black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the black Dodge pickup truck": "Vehicle driven by IGNACIO RODRIGUEZ, JR., subject of a BOLO and stopped for a traffic violation",
+    "the white Malibu sedan": "Vehicle rented by IGNACIO RODRIGUEZ, JR. from Hertz at the Laredo International Airport, registered to Hertz Dallas-Fort Worth, and involved in the surveillance on Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.": "Defendant and individual related to IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "Driver of the black Dodge pickup truck, subject of the traffic stop",
+    "the United States-Mexico border": "International border relevant to determining reasonable suspicion for a United States Border Patrol stop",
+    "the Echo 43 checkpoint": "Checkpoint within fifty miles of the Mexico border",
+    "Agent Jorge Luis Trevino": "United States Border Patrol agent who encountered Defendants' vehicles and testified about his knowledge of Hertz rental cars",
+    "the Fifth Circuit Court of Appeals": "Court that does not adhere to any bright line rule regarding proximity to the United States-Mexico border as a factor in determining reasonable suspicion",
+    "the white Malibu sedan and the black Dodge pickup truck": "Vehicles involved in the surveillance and suspected of being connected due to their tandem movement on Farm-to-Market Road 2050"
+  }
+}

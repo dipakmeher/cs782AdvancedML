@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the crew-cab",
+      "Carlos Martinez-Romero's truck",
+      "the back seat",
+      "the vehicle",
+      "alien-smuggling vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

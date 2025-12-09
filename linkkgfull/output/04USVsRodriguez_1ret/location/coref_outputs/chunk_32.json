@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Pablo Road": "San Pablo Road",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "U.S. 59",
+    "U.S. 359": "U.S. 359",
+    "Highway 16": "Highway 16",
+    "San Antonio": "San Antonio",
+    "Houston": "Houston",
+    "the wind farm": "wind farm near Farm-to-Market Road 2050",
+    "one of the many ranches": null,
+    "the road": "Farm-to-Market Road 2050",
+    "the loop": null,
+    "the area": "Farm-to-Market Road 2050 area",
+    "the premises": null,
+    "the checkpoint": "Freer immigration checkpoint",
+    "the gravel lot": null,
+    "the region": null,
+    "U.S.-Mexico border": "Mexico border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Pablo Road": "location near where Agent Jorge Luis Trevino initiated the stop, south of the wind farm",
+    "Farm-to-Market Road 2050": "a two-lane road with limited traffic, mostly used by local residents and workers, and location of the wind farm, frequently used as a smuggling route to avoid checkpoints on U.S. 59 and U.S. 359",
+    "U.S. 59": "highway with checkpoints that smugglers try to avoid, intersection location with Highway 16",
+    "U.S. 359": "highway with checkpoints that smugglers try to avoid",
+    "Highway 16": "highway that allows access to major highways going north, location of traffic stop",
+    "San Antonio": "city that smugglers may be heading towards, accessible via Highway 16",
+    "Houston": "city that smugglers may be heading towards, accessible via Highway 16",
+    "wind farm near Farm-to-Market Road 2050": "location near FM 2050 with windmills extending out to the west across various ranches, approximately a mile and a half north of where Agent Trevino initiated a stop",
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, mentioned in the context of avoiding checkpoints",
+    "Farm-to-Market Road 2050 area": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route"
+  }
+}

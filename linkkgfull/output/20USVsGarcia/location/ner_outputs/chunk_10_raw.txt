@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["5th Cir.", "Maria De Jesus Garcia's vehicle"],
+    "NOUN_PHRASE": ["the camper compartment", "the vehicle", "the jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Cir.": "US Court of Appeals circuit",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens"
+  }
+}

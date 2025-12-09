@@ -1,0 +1,41 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Speedy Trial Act case clock": "Speedy Trial Act",
+    "Ramon De La Cruz's Presentence Investigation Report": "Presentence Investigation Report",
+    "the United States District Court": "United States District Court",
+    "Raymond McMillon's motion to dismiss the indictment": "motion to dismiss the indictment",
+    "Ramon De La Cruz's request": "Ramon De La Cruz",
+    "the Guidelines-sentencing range": null,
+    "the offense level": null,
+    "the criminal history category": null,
+    "the mitigated role adjustment": null,
+    "Raymond McMillon's appeal": "Raymond McMillon",
+    "the indictment": "Ramon De La Cruz's indictment",
+    "the motion to dismiss": "motion to dismiss the indictment",
+    "the United States District Court's denial of Ramon De La Cruz's motion to dismiss": "United States District Court's denial of Ramon De La Cruz's motion to dismiss",
+    "Ramon De La Cruz's convictions": "Ramon De La Cruz's convictions",
+    "the sentencing": null,
+    "the adjustment": null,
+    "Raymond McMillon's challenges": null,
+    "the evidence": null,
+    "the verdict": null,
+    "the convictions": "Ramon De La Cruz's convictions",
+    "the appeal": "Ramon De La Cruz's appeal",
+    "Ramon De La Cruz's motion to suppress": "Ramon De La Cruz's motion to suppress",
+    "the immigration checkpoint stop": "immigration checkpoint stop",
+    "the search of the tractor-trailer": "search of the tractor-trailer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods",
+    "Presentence Investigation Report": "calculated a Guidelines-sentencing range of 41 to 51 months' imprisonment for Ramon De La Cruz",
+    "United States District Court": "court that denied Ramon De La Cruz's motion to suppress and his motion to dismiss the indictment on Speedy Trial Act grounds",
+    "Ramon De La Cruz": "defendant and transporter of aliens, charged with conspiracy to transport aliens within the United States for commercial advantage or private financial gain, convicted on all three offenses",
+    "Raymond McMillon": "defendant who transported the aliens",
+    "motion to dismiss the indictment": "motion filed by Ramon De La Cruz, denied by the United States District Court",
+    "Ramon De La Cruz's indictment": "indictment against Ramon De La Cruz for alien transportation offenses, including conspiracy to transport aliens within the United States for commercial advantage or private financial gain",
+    "immigration checkpoint stop": "location where Ramon De La Cruz and Zeba Williams were stopped by United States Border Patrol Agents",
+    "search of the tractor-trailer": "ensued after the immigration checkpoint stop, was challenged by Ramon De La Cruz as impermissible, subject of Ramon De La Cruz's motions",
+    "Ramon De La Cruz's motion to suppress": "motion filed by Ramon De La Cruz to suppress evidence seized from the immigration checkpoint stop, challenging both the duration of the stop and the ensuing search of the tractor-trailer",
+    "Ramon De La Cruz's convictions": "convictions of Ramon De La Cruz for smuggling undocumented aliens, being challenged on sufficiency of evidence"
+  }
+}

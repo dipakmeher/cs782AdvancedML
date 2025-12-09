@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth": "Corinth, Texas",
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "this time": null,
+    "the vicinity": null,
+    "the roads": null,
+    "the area": "Big Bend"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location mentioned in relation to distance from Dallas-Fort Worth, approximately thirty minutes apart",
+    "Dallas-Fort Worth": "destination of travel for IGNACIO RODRIGUEZ, JR., a major city in the United States, located about thirty minutes from Corinth",
+    "Big Bend": "area known for drug smuggling, located near the United States-Mexico border"
+  }
+}

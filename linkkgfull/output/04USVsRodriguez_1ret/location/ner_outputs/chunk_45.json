@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Supreme Court",
+      "Border Patrol station"
+    ],
+    "NOUN_PHRASE": [
+      "law enforcement stations"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Supreme Court": "refers to the highest court in the land",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was taken for questioning"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Brignoni-Ponce",
+      "Agent Rodriguez",
+      "Agent Trevino"
+    ],
+    "NOUN_PHRASE": [
+      "the vehicles' drivers",
+      "Border Patrol agents",
+      "the defendant",
+      "the agent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Brignoni-Ponce": "a reference case",
+    "Agent Rodriguez": "alerted to the defendants' behavior",
+    "Agent Trevino": "pursued the defendants and conducted registration checks"
+  }
+}

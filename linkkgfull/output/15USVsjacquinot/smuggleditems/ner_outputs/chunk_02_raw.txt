@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["alien smuggling cases", "narcotics cases", "alien"],
+    "NOUN_PHRASE": ["the aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "alien smuggling cases": "cases involving the smuggling of aliens",
+    "narcotics cases": "cases involving narcotics",
+    "alien": "individuals being smuggled"
+  }
+}

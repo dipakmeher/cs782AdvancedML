@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States": "United States",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel": "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel",
+    "the waiver": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "Ground 1": null,
+    "the allegations in Ground 1": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico",
+    "United States": "Country where Rogelio Valero-De La Rosa was found after illegal re-entry",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence",
+    "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel": "Motion filed by Rogelio Valero-De La Rosa claiming his counsel was ineffective, denied by the court"
+  }
+}

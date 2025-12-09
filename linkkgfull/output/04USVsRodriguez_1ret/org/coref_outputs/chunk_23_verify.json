@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Hertz Dallas-Fort Worth": "Hertz Rental Car Company",
+    "the rental car company": "Hertz Rental Car Company",
+    "Dallas, Texas": "Dallas, Texas",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "U.S. Highway 359": "U.S. Highway 359",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Highway 35": "Interstate 35",
+    "San Antonio": "San Antonio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hertz Rental Car Company": "rental car company whose vehicles are used by smugglers to avoid losing personal vehicles in case of getting caught",
+    "Dallas, Texas": "city where the rental car was registered",
+    "Farm-to-Market Road 2050": "road where Agent Trevino encountered suspicious vehicles and raised his suspicions due to its unusual route for out-of-town vehicles",
+    "U.S. Highway 359": "highway connected by Farm-to-Market Road 2050, part of an alternative route used by smugglers",
+    "U.S. Highway 59": "highway connected by Farm-to-Market Road 2050, part of a common smuggling route",
+    "Interstate 35": "most direct highway to Dallas, Texas or San Antonio from the area where Agent Trevino encountered the suspicious vehicles",
+    "San Antonio": "city mentioned as a reference point for the location of Corinth, Texas and a potential destination for smuggled individuals"
+  }
+}

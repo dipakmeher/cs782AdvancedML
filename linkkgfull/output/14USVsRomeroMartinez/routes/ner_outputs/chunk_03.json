@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S.-Mexico border",
+      "Texas-Mexico border"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "geographical boundary relevant to roving border patrol stops",
+    "Texas-Mexico border": "geographical boundary relevant to roving border patrol stops"
+  }
+}

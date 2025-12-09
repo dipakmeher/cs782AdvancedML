@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["illegal aliens"],
+    "NOUN_PHRASE": ["the black Dodge pickup truck", "Defendants' vehicles", "RICARDO RODRIGUEZ, JR.'s white Malibu sedan", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "individuals being harbored"
+  }
+}

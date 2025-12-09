@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Stanley Pruszenski": "Stanley Pruszenski",
+    "Alfred Baron": "Alfred Baron",
+    "Pruszenski": "Stanley Pruszenski",
+    "Baron": "Alfred Baron",
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "the driver": "Lourdes Rangel-Campos"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Stanley Pruszenski": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, observed the vehicle and its occupants",
+    "Alfred Baron": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, observed the vehicle and its occupants",
+    "Lourdes Rangel-Campos": "Driver of the camper, admitted to being a Mexican citizen without immigration documents"
+  }
+}

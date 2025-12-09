@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["border"],
+    "NOUN_PHRASE": ["the area", "the border", "the country", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border": "refers to the geographical boundary"
+  }
+}

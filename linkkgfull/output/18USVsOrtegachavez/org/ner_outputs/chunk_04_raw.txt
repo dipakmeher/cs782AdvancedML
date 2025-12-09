@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["courtroom"],
+    "NOUN_PHRASE": ["the courtroom"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "courtroom": "location where the trial took place"
+  }
+}

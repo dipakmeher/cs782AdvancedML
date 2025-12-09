@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "tool boxes": "tool boxes",
+    "a spare gas tank": "a gas tank",
+    "an air tank": "an air tank",
+    "the large white Ford pickup truck": "large white Ford pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "tool boxes": "equipment found in the large white Ford pickup truck, containing marijuana",
+    "a gas tank": "equipment found in the large white Ford pickup truck, possibly used for smuggling",
+    "an air tank": "equipment found in the large white Ford pickup truck, possibly used for smuggling",
+    "large white Ford pickup truck": "vehicle that slowed dramatically, remained stopped at a stop sign for five seconds, and made an unusual turn, increasing reasonable suspicion due to its indirect travel route from Big Bend National Park to Alpine, Texas, and was stopped 70 or 80 miles from the United States/Mexican Border"
+  }
+}

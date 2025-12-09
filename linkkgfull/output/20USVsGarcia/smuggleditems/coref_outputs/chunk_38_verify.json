@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the verdict": "United States v. Garcia",
+    "conscientious conviction": null,
+    "the juror": null,
+    "the verdict of each juror individually": null,
+    "the conclusions and convictions": null,
+    "the conclusion of others": null,
+    "the evidence": null,
+    "the 5th Circuit Court of Appeals's previous instructions": "5th Circuit Court of Appeals",
+    "the instructions": null,
+    "the jurors that are dissenting": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation, now being considered by the 5th Circuit Court of Appeals",
+    "5th Circuit Court of Appeals": "court where the appeal regarding the Allen charge is being considered and has repeatedly upheld the use of the modified Allen charge, with a panel majority attempting to apply precedents in a principled way"
+  }
+}

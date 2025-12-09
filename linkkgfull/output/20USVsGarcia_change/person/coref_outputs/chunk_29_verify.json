@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Orona-Sanchez": "Orona-Sanchez",
+    "Pacheco": "Pacheco",
+    "Lamas": "Lamas",
+    "Pena-Cantu": "Pena-Cantu",
+    "Garcia": "Maria De Jesus Garcia",
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "the passengers": null,
+    "the vehicle passengers": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Orona-Sanchez": "Involved in a previous ruling on passenger behavior during stops, distinguishable from Garcia's case due to differences in vehicle loading and occupant behavior",
+    "Pacheco": "Involved in a comparison of passenger conduct during stops, distinguishable from Garcia's case due to differences in vehicle loading and occupant behavior. Noted for having a less heavily loaded vehicle compared to Garcia's truck",
+    "Lamas": "Involved in a comparison of passenger conduct during stops, with more suspicious behavior than Pena-Cantu and Orona-Sanchez",
+    "Pena-Cantu": "Reference in a legal case regarding factors supporting the reasonableness of a stop, cited for comparison in Garcia's case to distinguish behavior of occupants during stops. Used as a reference point to compare reactions of vehicle occupants to being stopped and questioned by border patrol agents",
+    "Maria De Jesus Garcia": "Defendant convicted of aiding and abetting the transportation of undocumented aliens, whose vehicle was stopped and searched, and appellant in the case, requesting post-verdict discovery through juror depositions, owner of the truck and camper. The majority notes that a relevant consideration in its analysis was the apparent heavy load carried by Garcia's truck",
+    "Stanley Pruszenski and Alfred Baron": "Agents who jointly conducted the field investigation, observed the suspicious vehicle, and had reason to suspect the presence of illegal aliens in Garcia's vehicle based on various factors including the occupants' appearance and behavior. Conducted a traffic stop of a pickup truck camper on Interstate Highway 35"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the Court": "United States District Court",
+    "Jorge Luis Trevino": "United States Border Patrol",
+    "Freer immigration checkpoint": "United States Border Patrol",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Highway 16": "Highway 16",
+    "U.S. 59": "Highway 59"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents having experience in evaluating circumstances related to reasonable suspicion",
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases",
+    "Jorge Luis Trevino": "United States Border Patrol agent with nearly seven years of experience, including a year and a half stationed at the Freer immigration checkpoint, familiar with local vehicles and recognizing approximately 90-95% of them as belonging to farmers and oil field workers in the Farm-to-Market Road 2050 area",
+    "Freer immigration checkpoint": "checkpoint on Highway 59 that smugglers try to avoid by using alternative routes, where United States Border Patrol agents are stationed",
+    "Farm-to-Market Road 2050": "road used by smugglers to circumvent checkpoints on Highway 59 and U.S. 359, with a recent surge in drop-offs where illegal aliens are picked up by vehicles heading north",
+    "Highway 16": "highway near the location of the traffic stop, providing access to major highways going north",
+    "Highway 59": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'"
+  }
+}

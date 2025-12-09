@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a trailer": "flatbed trailer",
+    "a flatbed trailer": "flatbed trailer",
+    "Abdullah Yusuf's vehicle": "flatbed trailer",
+    "his vehicle": "flatbed trailer",
+    "his tractor": null,
+    "the trailer": "flatbed trailer",
+    "the loading dock": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "flatbed trailer": "Vehicle used by Abdullah Yusuf to transport 84 illegal aliens near Laredo, Texas, hauling a load from the Auburn Road lot to Dallas"
+  }
+}

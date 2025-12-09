@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "undocumented aliens"
+    ],
+    "NOUN_PHRASE": [
+      "a group of aliens",
+      "seven aliens",
+      "four aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "persons being smuggled"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States/Mexican border patrol": "United States/Mexican Border Patrol",
+    "Border Patrol": "United States/Mexican Border Patrol",
+    "Big Bend National Park": "Big Bend National Park",
+    "Marfa Sector Area Operations Center": "Marfa Sector Area Operations Center",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States/Mexican Border Patrol": "conducted a roving stop of the large white Ford pickup truck and patrols a 140-mile area of the United States/Mexican border",
+    "Big Bend National Park": "national park located on the United States/Mexican border",
+    "Marfa Sector Area Operations Center": "operations center for Border Patrol activities",
+    "United States": "country with shared border with Mexico"
+  }
+}

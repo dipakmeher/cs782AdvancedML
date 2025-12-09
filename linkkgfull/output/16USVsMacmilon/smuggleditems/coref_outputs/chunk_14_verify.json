@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the tractor-trailer": null,
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Zeba Williams": "Zeba Williams",
+    "United States Border Patrol Agent": "Luis Pena and Manuel Hernandez",
+    "the immigration checkpoint stop": "immigration checkpoint stop",
+    "the search": "search of the tractor-trailer",
+    "the threshold question": null,
+    "the novel argument": null,
+    "the commercial purpose": null,
+    "the possessory interest": null,
+    "the standing": null,
+    "the challenges": null,
+    "the consent": "Zeba Williams' consent",
+    "the United States District Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ramon De La Cruz": "defendant arguing about the lawfulness of the immigration checkpoint stop's duration and his standing to challenge the search of the tractor-trailer",
+    "Zeba Williams": "driver of the tractor-trailer at the immigration checkpoint stop, interacted with Luis Pena and gave consent for search",
+    "Luis Pena and Manuel Hernandez": "United States Border Patrol Agents involved in the immigration checkpoint stop, testified at Ramon De La Cruz's trial",
+    "immigration checkpoint stop": "location where Ramon De La Cruz and others were stopped by United States Border Patrol Agents, with questions asked to determine citizenship status",
+    "search of the tractor-trailer": "ensued after the immigration checkpoint stop, was challenged by Ramon De La Cruz as impermissible, subject of Ramon De La Cruz's motions",
+    "United States District Court": "court that denied Ramon De La Cruz's motion to suppress and his motion to dismiss the indictment on Speedy Trial Act grounds",
+    "Zeba Williams' consent": "consent given by Zeba Williams to United States Border Patrol Agent before the search of the tractor-trailer"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the ticket": "a traffic citation"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication, mentioned in the context of a call from United States Border Patrol Agent Hugo Benavides' supervisor",
+    "a traffic citation": "Document issued to IGNACIO RODRIGUEZ, JR. for a traffic violation, being written by Officer Reymundo Reyes during the stop"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Bruce Henderson", "Agent Henderson", "Joe Silva", "Agent Silva", "Flores", "Border Patrol Agent Flores"],
+    "NOUN_PHRASE": ["the government", "its sole witness", "the Border Patrol check point", "some of the undocumented aliens", "the tractor trailer", "Border Patrol Agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Bruce Henderson": "Immigration and Customs Enforcement (ICE) Agent",
+    "Agent Henderson": "Immigration and Customs Enforcement (ICE) Agent and witness",
+    "Joe Silva": "ICE Agent",
+    "Agent Silva": "ICE Agent",
+    "Flores": "Border Patrol Agent"
+  }
+}

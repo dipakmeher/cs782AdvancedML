@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America"
+    ],
+    "NOUN_PHRASE": [
+      "certain cities",
+      "the docket",
+      "the quarter panels"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "country where the legal case is being held"
+  }
+}

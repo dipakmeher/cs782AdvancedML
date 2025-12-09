@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "smugglers": null,
+    "his chances": null,
+    "a roving United States Border Patrol agent": "United States Border Patrol",
+    "a policeman": "Officer Reymundo Reyes",
+    "anybody": null,
+    "highway": null,
+    "checkpoints": null,
+    "Defendant IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Laredo, Texas": "Laredo, Texas",
+    "Dallas, Texas": null,
+    "U.S. Highway 59": null,
+    "Farm-to-Market Road 2050": null,
+    "Defendant RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "San Pablo Road": null,
+    "Highway 16": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who appeared to concede the fact that the route from Laredo, Texas to Dallas, Texas would be a convenient route for smugglers",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company",
+    "United States Border Patrol": "Law enforcement agency involved in the incident",
+    "Officer Reymundo Reyes": "Freer Police Department officer who stopped IGNACIO RODRIGUEZ, JR.'s vehicle and conducted an investigation",
+    "Jorge Luis Trevino": "United States Border Patrol agent who performed the traffic stop on RICARDO RODRIGUEZ, JR.'s vehicle based on reasonable suspicion due to out-of-town registrations and atypical vehicles for the area",
+    "Laredo, Texas": "Location where the defendants' journey originated",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens"
+  }
+}

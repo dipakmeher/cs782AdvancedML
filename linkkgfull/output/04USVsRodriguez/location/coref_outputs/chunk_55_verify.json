@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the nearby gas station": null,
+    "the Border": "United States-Mexico border",
+    "Freer": "Freer, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico border": "International boundary where roving Border Patrol stops are conducted, proximity to which is a factor in determining reasonable suspicion",
+    "Freer, Texas": "location of police department and origin of Officer Reymundo Reyes, location of Freer immigration checkpoint"
+  }
+}

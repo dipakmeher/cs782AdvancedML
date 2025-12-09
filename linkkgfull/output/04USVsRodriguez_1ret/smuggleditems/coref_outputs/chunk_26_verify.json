@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the passengers": "undocumented aliens",
+    "the trunk passengers": "undocumented aliens",
+    "illegals": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., used by smugglers and observed by Agent Jorge Luis Trevino near the Freer Immigration Checkpoint, lacked a wind farm sticker, rented from Hertz Rental Car Company, riding low with half of its passengers wearing caps",
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, often dropped off near Farm-to-Market Road 2050 to avoid checkpoints and walk to Highway 16 for further transportation to cities like Houston or San Antonio, sitting stiff and not communicating with each other during transport, admitted to being in the country illegally"
+  }
+}

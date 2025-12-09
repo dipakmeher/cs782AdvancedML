@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo",
+      "United States",
+      "Freer checkpoint",
+      "Border Patrol station"
+    ],
+    "NOUN_PHRASE": [
+      "a holding cell",
+      "a locked sliding door",
+      "a fairly large room",
+      "a separate area"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location where Marco Montemayor received a phone call",
+    "United States": "country of the Department of Homeland Security",
+    "Freer checkpoint": "location where Marco Montemayor arrived",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was held"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the modified Allen charge": "modified Allen charge",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "the jury": "jury in United States v. Maria De Jesus Garcia",
+    "the dissenting jurors": "jury in United States v. Maria De Jesus Garcia",
+    "the United States District Court": "United States v. Maria De Jesus Garcia"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "defendant arguing against the use of the modified Allen charge, claiming it was coercive and seeking post-verdict discovery through juror depositions",
+    "modified Allen charge": "judicial instruction given to the jury, potentially coercive as used in this case due to timing and circumstances but found not to be unduly coercive, with its impact on jurors assessed, leading to a guilty verdict after further deliberation",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, focusing on the modified Allen charge's potential coercive effect and its proper use in this instance, with a review of the record to determine if the Brignoni-Ponce standard is satisfied",
+    "jury in United States v. Maria De Jesus Garcia": "deliberating body that received the modified Allen charge, with dissenting jurors potentially coerced into voting to convict but shown to have heeded the charge's admonition without surrendering their convictions, subject of post-verdict discovery request, returning a verdict after approximately ninety minutes of deliberation following the charge"
+  }
+}

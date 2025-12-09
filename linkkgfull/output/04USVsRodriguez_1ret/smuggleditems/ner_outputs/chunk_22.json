@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the black Dodge pickup truck",
+      "RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+      "the vehicles",
+      "the wind farm vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

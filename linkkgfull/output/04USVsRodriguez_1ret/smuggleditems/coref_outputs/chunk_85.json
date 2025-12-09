@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "five or six illegal aliens": "undocumented aliens",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the driver": "IGNACIO RODRIGUEZ, JR.",
+    "the stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the traffic stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the United States Border Patrol radio": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., rented from Hertz Rental Car Company at the Laredo International Airport, and registered to a location other than where it was rented, used by smugglers",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose arrest was determined to be warranted by probable cause",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop and searched after IGNACIO RODRIGUEZ, JR. gave consent, with IGNACIO RODRIGUEZ, JR. exhibiting extreme nervousness during the stop",
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents, including five passengers found in RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, attempting to avoid the Hebbronville Checkpoint, within fifty miles of the Mexico border, with out-of-town registrations, traveling in tandem on Farm-to-Market Road 2050",
+    "United States Border Patrol": "Law enforcement agency involved in the incident"
+  }
+}

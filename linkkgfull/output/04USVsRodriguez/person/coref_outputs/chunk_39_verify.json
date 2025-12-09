@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Montemayor": "Marco Montemayor",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Benavides": "Hugo Benavides",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Montemayor": "Marco Montemayor",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Officer": "Reymundo Reyes",
+    "the Border Patrol agent": "Hugo Benavides",
+    "his assistant": null,
+    "the canine": null,
+    "other agents": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who was stopped by Officer Reyes and transported to a checkpoint for further questioning by Agent Benavides",
+    "Hugo Benavides": "United States Border Patrol Agent who questioned Defendant at the scene of the traffic stop and transported him to the checkpoint for further questioning",
+    "Reymundo Reyes": "Law enforcement officer who performed the traffic stop on Ignacio Rodriguez's vehicle and issued a citation",
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security who interviewed Ignacio Rodriguez after he was transported to the checkpoint",
+    "Hugo Benavides and IGNACIO RODRIGUEZ, JR.": null
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["South Texas"],
+    "NOUN_PHRASE": ["the trunk", "the engine compartment", "a motor vehicle", "a vessel", "the cab", "the bed of the pickup truck", "the commentary", "the guideline", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "South Texas": "region where guiding aliens through desert-like brush is considered reckless conduct"
+  }
+}

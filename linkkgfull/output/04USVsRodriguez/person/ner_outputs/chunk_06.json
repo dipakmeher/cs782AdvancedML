@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Trevino",
+      "Trevino"
+    ],
+    "NOUN_PHRASE": [
+      "the ranchers",
+      "oil field workers",
+      "farmers",
+      "Border Patrol agents",
+      "those employees"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "testifying agent",
+    "Trevino": "testifying agent"
+  }
+}

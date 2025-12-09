@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the K-9 dog": "K-9 dog used for searching",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "the bed of the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the scissor lift": "scissor lift",
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "K-9 dog used for searching": "Dog used by Josiah Bennett to search the 2008 Chevrolet truck and flatbed trailer, alerted twice to the presence of narcotics",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, traveling at approximately 75 miles per hour, driven by Federico Saldana who was not used to driving this sort of truck and trailer combination, searched by Williamson County Sheriff's Office",
+    "scissor lift": "Scissor lift with new paint job and corrugated metal plates under the tires, transported on the flatbed trailer towed by the 2008 Chevrolet truck, focus of investigation by Deputy Jason Cox and Detective Gary Haston"
+  }
+}

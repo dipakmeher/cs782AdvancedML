@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "undocumented aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the pickup truck camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "individuals being smuggled"
+  }
+}

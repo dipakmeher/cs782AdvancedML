@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Sentencing Guidelines Manual", "United States Sentencing Guidelines", "United States District Court", "United States Sentencing Commission"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Sentencing Guidelines Manual": "a manual used for sentencing guidelines",
+    "United States Sentencing Guidelines": "guidelines for sentencing",
+    "United States District Court": "a court that might have given the defendant a sentence",
+    "United States Sentencing Commission": "a commission that recognized variations in criminal history seriousness"
+  }
+}

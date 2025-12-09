@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["illegal aliens", "United States Border Patrol sedan", "pickup truck camper"],
+    "NOUN_PHRASE": ["the car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "smuggled individuals",
+    "United States Border Patrol sedan": "vehicle mentioned in the context of a stop",
+    "pickup truck camper": "vehicle mentioned in the context of a stop"
+  }
+}

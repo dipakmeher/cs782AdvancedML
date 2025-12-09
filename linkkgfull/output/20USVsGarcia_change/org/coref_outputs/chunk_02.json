@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that convicted Maria De Jesus Garcia of aiding and abetting the transportation of undocumented aliens",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance and smuggling interception"
+  }
+}

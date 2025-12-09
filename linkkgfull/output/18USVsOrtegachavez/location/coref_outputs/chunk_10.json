@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "United States": "United States",
+    "the courtroom": "courtroom"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where aliens were being smuggled into and where undocumented aliens were attempted to be brought into",
+    "Mexico": "country where smuggling operation originated and where Alfredo Ortega-Chavez previously ventured to smuggle undocumented aliens",
+    "courtroom": "location where trial of Alfredo Ortega-Chavez took place"
+  }
+}

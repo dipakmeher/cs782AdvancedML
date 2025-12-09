@@ -1,0 +1,39 @@
+{
+  "RESOLVED_ENTITIES": {
+    "GARWOOD": "GARWOOD",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "Ramon Gonzalez Sanchez": "Ramon Gonzalez Sanchez",
+    "Alejandro Gonzalez Delgado": "Alejandro Gonzalez Delgado",
+    "the van": "van used for smuggling",
+    "the bridge": "bridge leading into the United States",
+    "the restaurant": "restaurant in Sabinas Hidalgo",
+    "the bus terminal": "Nuevo Laredo bus terminal",
+    "the taxi": null,
+    "the undocumented aliens": null,
+    "the merchandise": null,
+    "the permit": null,
+    "the United States": "United States",
+    "Mexico": "Mexico",
+    "Nuevo Laredo": "Nuevo Laredo",
+    "Sabinas Hidalgo": "Sabinas Hidalgo",
+    "Customs": "U.S. Customs and Border Protection",
+    "courtroom": "courtroom",
+    "the courtroom": "courtroom"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "GARWOOD": "Circuit Judge",
+    "Alfredo Ortega-Chavez": "Appellant involved in human smuggling",
+    "Ramon Gonzalez Sanchez": "Individual involved in human smuggling and driver of the van",
+    "Alejandro Gonzalez Delgado": "Individual involved in human smuggling",
+    "van used for smuggling": "Vehicle used to transport undocumented aliens",
+    "bridge leading into the United States": "Location where smuggling attempt occurred",
+    "restaurant in Sabinas Hidalgo": "Meeting point for individuals involved in human smuggling",
+    "Nuevo Laredo bus terminal": "Location where undocumented aliens took a taxi",
+    "United States": "Country of destination for smuggled aliens",
+    "Mexico": "Country of origin for smuggled aliens",
+    "Nuevo Laredo": "City in Mexico where smuggling activities occurred",
+    "Sabinas Hidalgo": "City in Mexico where individuals involved in human smuggling met",
+    "U.S. Customs and Border Protection": "Government agency responsible for inspecting merchandise and enforcing customs laws",
+    "courtroom": "location where the trial took place"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States-Mexican border",
+      "Interstate Highway 35",
+      "United States Court of Appeals for the Fifth Circuit"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexican border": "geographic location",
+    "Interstate Highway 35": "highway where the stop occurred",
+    "United States Court of Appeals for the Fifth Circuit": "court reviewing the case"
+  }
+}

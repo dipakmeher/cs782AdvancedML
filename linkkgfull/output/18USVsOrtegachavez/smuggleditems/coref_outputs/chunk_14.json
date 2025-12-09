@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Judge Kazen": "Judge Kazen",
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "a party": null,
+    "the district court": "district court",
+    "an officer or employee of a party": null,
+    "a person whose presence is shown by a party to be essential": null,
+    "witnesses": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Judge Kazen": "judge presiding over Alfredo Ortega-Chavez's trial, maintained impartiality and conducted proceedings fairly and competently",
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, responsible for disclosing witness information",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules"
+  }
+}

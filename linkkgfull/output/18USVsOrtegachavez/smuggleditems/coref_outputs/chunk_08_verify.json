@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "Judge Kazen": "Judge Kazen",
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "Ms. Salinas' law firm": "Ms. Salinas' law firm",
+    "Mrs. Guerrero": "Mrs. Guerrero",
+    "Defense counsel": "Ms. Salinas' law firm",
+    "the juror": "Mrs. Guerrero",
+    "Alfredo Ortega-Chavez's trial": "Alfredo Ortega-Chavez",
+    "the jury panel": null,
+    "the voir dire of the jury panel": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States, objected to juror questioning",
+    "Judge Kazen": "trial judge who questioned juror Mrs. Guerrero about her ability to be impartial due to friendship with Defense counsel",
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, asked juror about potential bias due to friendship with another lawyer",
+    "Ms. Salinas' law firm": "law firm representing Alfredo Ortega-Chavez, did not object to juror questioning or indicate dissatisfaction",
+    "Mrs. Guerrero": "juror who knew Ms. Salinas' law firm and was questioned by Judge Kazen and the U.S. Government Attorney about her ability to be impartial, stated she could be fair and impartial"
+  }
+}

@@ -1,0 +1,1 @@
+Given that "a white one" maps to "RICARDO RODRIGUEZ, JR.'s vehicle", "a black one" maps to "IGNACIO RODRIGUEZ, JR.'s vehicle", and considering other mappings:

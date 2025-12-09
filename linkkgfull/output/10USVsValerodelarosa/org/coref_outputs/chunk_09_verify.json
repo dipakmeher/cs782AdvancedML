@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Judge": "United States District Court",
+    "Bureau of Prisons": "Bureau of Prisons",
+    "the United States District Judge": "United States District Court",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that calculated the criminal history and sentenced Rogelio Valero-De La Rosa, determined the advisory guideline range",
+    "Bureau of Prisons": "entity responsible for holding Rogelio Valero-De La Rosa in custody",
+    "Rogelio Valero-De La Rosa": "defendant who was sentenced to 90 months of imprisonment and had no questions or objections regarding the sentence"
+  }
+}

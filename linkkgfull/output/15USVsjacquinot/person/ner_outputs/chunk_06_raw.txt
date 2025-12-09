@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Graham", "Graham", "Agents Graham", "Agent Snodgrass", "Snodgrass"],
+    "NOUN_PHRASE": ["the agents", "the truck", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "law enforcement agent",
+    "Graham": "law enforcement agent",
+    "Agents Graham": "law enforcement agents",
+    "Agent Snodgrass": "law enforcement agent",
+    "Snodgrass": "law enforcement agent"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America Congress": "United States Congress",
+    "Edward M. Kennedy": "Edward M. Kennedy",
+    "the sentencing guidelines": "United States Sentencing Commission Guidelines",
+    "federal sentencing": null,
+    "the punishment": null,
+    "the crime": null,
+    "imprisonment": null,
+    "the main purpose of imprisonment": null,
+    "the federal system": null,
+    "offenders": null,
+    "victims": null,
+    "society": null,
+    "Similar crimes": null,
+    "United States District Court judges": "United States District Court",
+    "the guidelines": "United States Sentencing Commission Guidelines",
+    "parole": null,
+    "The United States Sentencing Commission Guidelines": "United States Sentencing Commission Guidelines",
+    "uniform sentences": null,
+    "the analytic framework": null,
+    "the imposed sentence": null,
+    "the accompanying abolishment of parole": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Congress": "Federal legislative body that enacted the sentencing guidelines to ensure fair and uniform sentences",
+    "Edward M. Kennedy": "United States Senator who described the sentencing guidelines as a comprehensive approach to reduce disparity in punishment",
+    "United States Sentencing Commission Guidelines": "Guidelines providing a framework for federal sentencing, allowing for consideration of various factors in imposing a sentence, including the offense level, criminal history category, and other relevant factors",
+    "United States District Court": "Federal court with the authority to impose sentences based on the guidelines and individual case circumstances, responsible for making factual findings and applying the United States Sentencing Commission Guidelines"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Court of Appeals for the Fifth Circuit", "United States"],
+    "NOUN_PHRASE": ["border patrol agents", "governmental enforcement agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Court of Appeals for the Fifth Circuit": "court reviewing the issue",
+    "United States": "country being differentiated from police states"
+  }
+}

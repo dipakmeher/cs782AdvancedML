@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ortega-Chavez"],
+    "NOUN_PHRASE": ["the district court", "the trial judge", "the jury venire"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ortega-Chavez": "appellant"
+  }
+}

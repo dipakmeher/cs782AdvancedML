@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Guatemala",
+      "Mexico",
+      "United States",
+      "Nuevo Laredo, Tamaulipas"
+    ],
+    "NOUN_PHRASE": [
+      "this country"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Guatemala": "citizenship of Juventino Mejia-Orosco and his passengers",
+    "Mexico": "route of transportation",
+    "United States": "destination of illegal transportation",
+    "Nuevo Laredo, Tamaulipas": "location where passengers disembarked"
+  }
+}

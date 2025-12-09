@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States Court of Appeals for the Fifth Circuit"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Court of Appeals for the Fifth Circuit": "a court that has upheld stops by immigration agents and made decisions on reasonable suspicion"
+  }
+}

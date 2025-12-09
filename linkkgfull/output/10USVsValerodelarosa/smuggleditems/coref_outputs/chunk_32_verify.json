@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the so-called \"fast track\" programs": "fast track programs",
+    "the United States Department of Justice": "United States Department of Justice",
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "the United States Attorney General": "United States Attorney General",
+    "the United States Department of Justice in which the United States District Court for the Southern District of Texas resides": "United States Department of Justice",
+    "the \"fast track\" program": "fast track programs",
+    "the southwestern border of the United States": null,
+    "the Rio Grande": "Rio Grande",
+    "the Laredo, Texas division": "Laredo, Texas",
+    "the United States Sentencing Commission": "United States Sentencing Commission",
+    "the United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "fast track programs": "Programs allowing defendants to plead guilty and waive certain rights in exchange for a motion by the United States Department of Justice for downward departure, initially established along the southwestern border of the United States",
+    "United States Department of Justice": "Agency responsible for enforcing laws related to immigration and offering sentence reductions in exchange for waiver of procedural rights",
+    "United States District Court for the Southern District of Texas": "Court responsible for implementing fast track programs and considering downward departures, with divisions such as Laredo, Texas",
+    "United States Attorney General": "Official responsible for authorizing early disposition programs, including fast track programs",
+    "Rio Grande": "Geographic location where fast track programs were initially implemented",
+    "Laredo, Texas": "Location of a division of the United States District Court for the Southern District of Texas, operating under fast track programs",
+    "United States Sentencing Commission": "Agency responsible for establishing federal sentencing guidelines, including considerations under fast track programs",
+    "United States Court of Appeals for the Fifth Circuit": "Court that reviews appeals from the United States District Court for the Southern District of Texas, providing guidance on the interpretation of fast track programs"
+  }
+}

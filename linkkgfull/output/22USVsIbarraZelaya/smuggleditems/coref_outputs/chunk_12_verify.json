@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the 2004 edition of the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the 2003 edition of the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Jose Marlon Ibarra-Zelaya's sentence": "illegal alien smuggling venture",
+    "Adrian Almaguer's performance": "Adrian Almaguer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant claiming ineffective assistance of counsel due to incorrect application of sentencing guidelines",
+    "Adrian Almaguer": "attorney for Jose Marlon Ibarra-Zelaya, whose performance is under scrutiny for failing to object to incorrect sentence calculation",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with different editions having distinct implications for base offense levels and overall sentencing severity",
+    "illegal alien smuggling venture": "smuggling operation involving illegal aliens, subject to specific sentencing guidelines and laws"
+  }
+}

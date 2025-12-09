@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "TxDOT": "Texas Department of Transportation",
+    "Transportation, Planning, and Programming Division": "Texas Department of Transportation, Transportation, Planning, and Programming Division",
+    "the Court": "United States District Court",
+    "the Laredo Division": "Texas Department of Transportation, Laredo Division"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas Department of Transportation": "prepared district traffic maps of Farm-to-Market Road 2050 and U.S. Highway 59, indicating traffic flow data primarily collected and determined by the Transportation, Planning, and Programming Division in Austin",
+    "Texas Department of Transportation, Transportation, Planning, and Programming Division": "collects and determines traffic flow data for district traffic maps",
+    "Texas Department of Transportation, Laredo Division": "has a Director of Transportation, Planning and Development who testified about the accuracy of traffic flow data",
+    "United States District Court": "court that analyzed the relevance of district traffic maps in determining the average daily traffic on Farm-to-Market Road 2050 and U.S. Highway 59"
+  }
+}

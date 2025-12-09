@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["tool boxes", "a spare gas tank", "an air tank", "the large white Ford pickup truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

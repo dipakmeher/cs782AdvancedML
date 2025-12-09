@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Garcia": "Maria De Jesus Garcia",
+    "Allen": "Allen",
+    "the jury": null,
+    "the trial judge": null,
+    "the dissenting jurors": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "Defendant stopped by border patrol agents on an interstate highway in Texas, owner of the truck, appellant in the current case, with a vehicle that had an apparent heavy load, occupants exhibited suspicious behavior when approached, vehicle was traveling at forty to forty-five miles per hour, contesting the district court's refusal to allow post-verdict discovery through juror depositions, driver of the stopped vehicle, appellant arguing against the use of the Allen charge",
+    "Allen": "Reference to a properly given charge related to jury coercion, used in the context of the Allen charge being permissible within limitations",
+    "GARWOOD": "Circuit Judge presiding over the appeal",
+    "Stanley Pruszenski": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, observed the vehicle and its occupants, driving the agents' patrol car, did not testify to having reason to believe the vehicle came from the border, participated in the stop with knowledge of common smuggling routes, agent",
+    "Alfred Baron": "United States Border Patrol agent involved in the traffic stop of a suspicious pickup truck camper on Interstate Highway 35, observed the vehicle and its occupants, leaned out of the window of the patrol car to observe the truck, did not testify to having reason to believe the vehicle came from the border, testified without contradiction about recent apprehensions of illegal alien smugglers, agent",
+    "Stanley Pruszenski and Alfred Baron": "Agents who conducted the stop of Garcia's truck, applied the multi-factorial test to determine reasonable suspicion, observed suspicious behavior from occupants, used flashlight to observe vehicle occupants at night, testified about occupants' attempts to hide from the flashlight, had specialized training as border patrol agents, stopped the vehicle more than 100 miles from the United States-Mexican border, knew of recent smuggling activities in the area",
+    "Lourdes Rangel-Campos": "Driver of the camper, admitted to being a Mexican citizen without immigration documents",
+    "Brignoni-Ponce": "Namesake of a test regarding reason to believe a vehicle came from the border, used as a standard for suspicion in this case",
+    "Maria De Jesus Garcia, Lourdes Rangel-Campos, and others": "Individuals present in the vehicle stopped by agents Pruszenski and Baron, exhibited suspicious behavior when approached by border patrol agents, appeared unwashed and unkempt, tried to hide from agent's flashlight, reacted to a bright light at night, were in a vehicle with a heavily loaded camper shell",
+    "TATE": "Circuit Judge dissenting in the case",
+    "Pena-Cantu": "involved in a comparison of passenger conduct, where behavior was less suspicious than in the current case",
+    "Orona-Sanchez": "involved in a previous ruling where passenger behavior was deemed insufficient to justify a stop",
+    "Lamas": "involved in a comparison of passenger conduct, exhibiting more suspicious behavior than in Pena-Cantu and Orona-Sanchez"
+  }
+}

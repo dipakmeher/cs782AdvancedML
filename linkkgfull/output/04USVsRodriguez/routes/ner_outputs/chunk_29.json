@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "Highway 16",
+      "U.S. 59"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "road where vehicles pass and are recognized by Jorge Luis Trevino",
+    "Highway 16": "part of the area patrolled by Border Patrol agents in a comparable case",
+    "U.S. 59": "part of the area patrolled by Border Patrol agents in a comparable case"
+  }
+}

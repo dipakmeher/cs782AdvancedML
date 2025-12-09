@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "Freer", "Texas", "U.S. 59", "Echo 43", "Corpus", "Houston", "Freer immigration checkpoint", "Farm-to-Market Road 2050"],
+    "NOUN_PHRASE": ["the checkpoint", "the checkpoint building", "the Border Patrol station parking lot", "the checkpoint office"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of jurisdiction",
+    "Freer": "location of immigration checkpoint",
+    "Texas": "state where events occurred",
+    "U.S. 59": "highway where checkpoint is located",
+    "Echo 43": "code name for Freer immigration checkpoint",
+    "Corpus": "possible destination for vehicles",
+    "Houston": "possible destination for vehicles",
+    "Freer immigration checkpoint": "location of border patrol activity",
+    "Farm-to-Market Road 2050": "road adjacent to Border Patrol station"
+  }
+}

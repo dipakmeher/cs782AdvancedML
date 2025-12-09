@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a pickup truck with camper shell",
+      "a stake bed truck with concealed compartment",
+      "Maria De Jesus Garcia's vehicle",
+      "the camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

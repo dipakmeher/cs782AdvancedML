@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the five passengers",
+      "the passengers",
+      "the vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

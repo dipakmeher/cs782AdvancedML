@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agents": "United States Border Patrol and Freer Police Department",
+    "the defendant": null,
+    "the vehicle": null,
+    "the truck": "black Dodge pickup truck",
+    "the camper shell": null,
+    "the pickup": "black Dodge pickup truck",
+    "the rental cars": "rental vehicles used by smugglers"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol and Freer Police Department": "law enforcement agencies involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., with a collaborative effort to detect and prevent smuggling operations",
+    "black Dodge pickup truck": "vehicle mentioned in a comparison of cases, with its 'riding low' characteristic not considered as contributing to reasonable suspicion for a traffic stop by J. Scott Hacker, had a \"dark blue or black\" camper",
+    "rental vehicles used by smugglers": "vehicles frequently used by smugglers to transport illegal aliens, often rented to avoid losing personal vehicles in case of being caught"
+  }
+}

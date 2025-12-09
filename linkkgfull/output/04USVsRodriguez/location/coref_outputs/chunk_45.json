@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth": "Corinth",
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "this time": null,
+    "the vicinity": null,
+    "the roads": null,
+    "the area": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth": "location mentioned in relation to distance from Dallas-Fort Worth, approximately thirty minutes apart",
+    "Dallas-Fort Worth": "location mentioned in relation to distance from Corinth, approximately thirty minutes apart"
+  }
+}

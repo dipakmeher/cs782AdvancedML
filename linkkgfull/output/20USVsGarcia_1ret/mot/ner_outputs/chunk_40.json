@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the pickup truck",
+      "Maria De Jesus Garcia's pickup truck",
+      "a heavy pickup truck",
+      "the pickup truck camper",
+      "a fogged window on a cold night",
+      "the windows of the pickup truck camper"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Haston",
+      "Saldana"
+    ],
+    "NOUN_PHRASE": [
+      "the officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "an investigator or officer",
+    "Saldana": "a suspect or individual being questioned"
+  }
+}

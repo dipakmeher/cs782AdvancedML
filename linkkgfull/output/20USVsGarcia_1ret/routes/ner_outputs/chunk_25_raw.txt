@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Interstate Highway 35", "United States-Mexican border"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "location where the stop occurred and where officers had previous experience with illegal alien traffic",
+    "United States-Mexican border": "reference point for calculating distance to the stop location"
+  }
+}

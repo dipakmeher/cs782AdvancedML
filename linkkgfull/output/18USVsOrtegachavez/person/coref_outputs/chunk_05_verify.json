@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "Graciela Castaneda": "Graciela Castaneda",
+    "Ramon Gonzalez Sanchez": "Ramon Gonzalez Sanchez",
+    "the district court": null,
+    "the government": null,
+    "the appellant": "Alfredo Ortega-Chavez",
+    "the defense": null,
+    "the court": "Judge Kazen",
+    "government counsel": null,
+    "defense counsel": "Ms. Salinas",
+    "Sanchez's parents": "Ramon Gonzalez Sanchez's father and Ramon Gonzalez Sanchez's mother",
+    "his father": "Ramon Gonzalez Sanchez's father",
+    "his mother": "Ramon Gonzalez Sanchez's mother",
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alfredo Ortega-Chavez": "Defendant and appellant convicted of conspiracy to bring or attempt to bring undocumented aliens into the United States, involved in smuggling operation with Ramon Gonzalez Sanchez and Alejandro Gonzalez Delgado, charged with conspiracy and aiding and abetting, raises several claims of prejudicial error on appeal",
+    "Graciela Castaneda": "Witness for the appellant, testified about having brunch with the appellant on November 22, 1980, and provided alibi testimony, stated that Ortega-Chavez had been in San Antonio on the day in question",
+    "Ramon Gonzalez Sanchez": "Co-conspirator, van driver, and participant in the smuggling operation with Ortega-Chavez and Alejandro Gonzalez Delgado, arrested at the bridge for attempting to smuggle illegal aliens into the United States, related to rebuttal witnesses who testified against the appellant's alibi",
+    "Ramon Gonzalez Sanchez's father": "Rebuttal witness who testified that the appellant was in Sabinas Hidalgo on November 22, 1980",
+    "Ramon Gonzalez Sanchez's mother": "Rebuttal witness who testified that she saw the appellant in Sabinas Hidalgo on the evening of November 21, 1980",
+    "Ms. Salinas": "Defense counsel and acquaintance of juror Mrs. Guerrero, subject of inquiry regarding her firm and its members, defense counsel in the case of Alfredo Ortega-Chavez, underwent inquiry respecting herself and her firm",
+    "Judge Kazen": "Trial court judge who handled the situation commendably and ensured a fair trial by conducting an inquiry into juror Mrs. Guerrero's ability to remain impartial, able trial judge conducted all the proceedings not only fairly, conscientiously, and competently but in a manner that was in all respects fully considerate, courteous, evenhanded, and impartial"
+  }
+}

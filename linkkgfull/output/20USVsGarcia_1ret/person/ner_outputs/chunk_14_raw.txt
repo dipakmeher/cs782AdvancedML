@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "TATE", "Allen"],
+    "NOUN_PHRASE": ["the jury", "defense counsel", "the trial judge", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "defendant",
+    "TATE": "Circuit Judge",
+    "Allen": "reference to a properly given charge"
+  }
+}

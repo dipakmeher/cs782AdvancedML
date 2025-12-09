@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States district court": "United States District Court",
+    "federal district court": "United States District Court",
+    "the federal district court jury": "United States District Court Jury"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that judged the case, provided initial instructions to the jury, and gave the modified Allen charge",
+    "United States District Court Jury": "jury that was given the Allen charge after indicating deadlock, deliberated for approximately three hours after receiving the charge, and requested a clarification of the United States district court's initial instructions"
+  }
+}

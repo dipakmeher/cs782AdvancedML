@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["some degree of communication"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

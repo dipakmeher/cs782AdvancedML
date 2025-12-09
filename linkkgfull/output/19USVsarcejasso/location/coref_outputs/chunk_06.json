@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "District Court",
+    "the district court": "district court",
+    "United States of America": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country involved in the appeal process and seeking review of the district court's judgment",
+    "District Court": "court with jurisdiction over the case and whose decision is being appealed by the United States of America",
+    "district court": "trial court where evidence was suppressed or excluded and whose decision is under appeal"
+  }
+}

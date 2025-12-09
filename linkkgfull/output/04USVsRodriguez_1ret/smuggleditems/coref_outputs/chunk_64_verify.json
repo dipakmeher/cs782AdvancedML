@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "May 2nd Hr'g": null,
+    "Def. Ex. 12": null,
+    "United States District Court": "United States Department of Homeland Security",
+    "Ford F-150s": null,
+    "Ford F-250s": null,
+    "Dodge Rams": null,
+    "oil companies": null,
+    "May 3rd Hr'g": null,
+    "the vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the road": "Farm-to-Market Road 2050",
+    "the shoulder": null,
+    "United States Border Patrol Agent Jorge Luis Trevino's statements": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol agent who testified about the characteristics of Farm-to-Market Road 2050 and his experience with vehicles in the area",
+    "Farm-to-Market Road 2050": "Paved road with two lanes, one in each direction, and no shoulder, where United States Border Patrol Agent Jorge Luis Trevino encountered the defendants' vehicles",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident"
+  }
+}

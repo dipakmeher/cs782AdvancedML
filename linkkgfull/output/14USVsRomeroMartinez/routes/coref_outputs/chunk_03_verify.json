@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate 35": "Interstate 35",
+    "U.S.-Mexico border": null,
+    "Texas-Mexico border": null,
+    "en route": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate 35": "the road where Carlos Martinez-Romero was traveling and stopped by Border Patrol Agent David Fitzgerald, specifically in Cotulla, Texas",
+    "U.S.-Mexico border": "geographical boundary relevant to roving border patrol stops, with guidelines limiting reasonable proximity to stops within fifty miles",
+    "Texas-Mexico border": "geographical boundary relevant to roving border patrol stops, with a stop conducted approximately sixty-eight miles from the border"
+  }
+}

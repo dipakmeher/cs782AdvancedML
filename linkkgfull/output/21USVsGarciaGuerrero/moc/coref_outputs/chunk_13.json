@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Inocencio Garcia-Guerrero's phone": null,
+    "Alma Delia Simon-Fernandez's phone": null,
+    "Jaime Gomez-Arroyo's phone": null,
+    "emergency call box": "the emergency call box",
+    "Inocencio Garcia-Guerrero's sentence": null,
+    "United States District Court": "the United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the emergency call box": "Device used by the Defendants in Rodriguez case to request emergency assistance",
+    "the United States District Court": "Court that enhanced Inocencio Garcia-Guerrero's sentence"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "his assistant": null,
+    "the passenger": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez and issued a citation, later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership. He observed extreme nervousness in Ignacio Rodriguez during the stop.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership."
+  }
+}

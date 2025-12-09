@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "border patrol",
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border patrol": "law enforcement agency involved in the case",
+    "Border Patrol": "law enforcement agency involved in the case"
+  }
+}

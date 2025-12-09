@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 359": "U.S. 359",
+    "Highway 16": "Highway 16",
+    "Corinth, Texas": "Corinth, Texas",
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "the location of the traffic stop": "Highway 16 and U.S. 59",
+    "that type of a truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "rural road where vehicles were traveling, characterized by limited traffic and used for smuggling routes, has a wind farm with an office and entrance on the west side",
+    "U.S. 359": "connecting highway with a checkpoint in Hebbronville, intersects with FM 2050 to the east of the Hebbronville checkpoint, known for having checkpoints that smugglers try to avoid",
+    "Highway 16": "location of traffic stop, route for picked up aliens, allows access to major highways going north",
+    "Corinth, Texas": "registration location of one of the vehicles, suburb of Dallas",
+    "Dallas-Fort Worth": "destination of travel for IGNACIO RODRIGUEZ, JR., a major city in the United States",
+    "Highway 16 and U.S. 59": "Location of the intersection where the traffic stop took place, near the Freer immigration checkpoint"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the flatbed trailer used for smuggling": null,
+    "several wooden crates": null,
+    "a tarp": null,
+    "84 illegal aliens": "84 illegal aliens",
+    "the load": "84 illegal aliens",
+    "the bill of lading": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "84 illegal aliens": "Group of smuggled persons found in a flatbed trailer near Laredo, Texas, headed to Dallas",
+    "the load": "Refers to the 84 illegal aliens being hauled"
+  }
+}

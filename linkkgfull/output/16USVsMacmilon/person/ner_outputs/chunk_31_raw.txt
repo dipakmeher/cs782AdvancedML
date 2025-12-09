@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "De La Cruz", "Hernandez-Gomez", "Agent Pena", "Agent Camacho", "Williams"],
+    "NOUN_PHRASE": ["the person", "the aliens", "the jury", "the witnesses"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "defendant",
+    "De La Cruz": "testifying witness",
+    "Hernandez-Gomez": "testifying witness",
+    "Agent Pena": "testifying agent",
+    "Agent Camacho": "testifying agent",
+    "Williams": "individual involved in the case"
+  }
+}

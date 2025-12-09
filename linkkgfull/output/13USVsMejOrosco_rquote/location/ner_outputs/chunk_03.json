@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Guatemala"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the record",
+      "the court of appeals"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where aliens were transported",
+    "Guatemala": "country of origin of the transported aliens"
+  }
+}

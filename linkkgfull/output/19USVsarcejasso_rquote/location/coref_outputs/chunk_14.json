@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "this Court": "court of appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "the party that considered evidence during the bench trial and did not appeal in time, involved in an arson case and considering the materiality of evidence, with a requirement to file notice of appeal within 30 days after a suppression decision is final",
+    "court of appeals": "court to which the United States of America must appeal from a decision or order of a district court suppressing or excluding evidence, with jurisdiction over timing requirements for filing notices of appeal, and lacks jurisdiction to review the suppression decision in Raul Rafael Arce-Jasso's case"
+  }
+}

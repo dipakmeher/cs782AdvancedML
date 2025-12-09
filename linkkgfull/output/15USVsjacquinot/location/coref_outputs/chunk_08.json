@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "district court": "district court",
+    "the truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alpine, Texas": "destination of the truck after turning left onto Highway 90",
+    "United States/Mexican border": "border area being patrolled by Border Patrol Agents where vehicle sensors were located and near where the truck was stopped",
+    "Big Bend National Park": "remote area with limited gas stations where visitors typically have a map and know which roads to take, involved in marijuana transportation by a smuggling organization",
+    "Marfa Sector Area Operations Center": "previous work location of Jay Snodgrass and sector whose Communications notified the agents",
+    "Laredo, Texas": "previous work location of Jay Snodgrass",
+    "Texas": "state where smuggling activities are taking place",
+    "Texas Highway 385": "highway from which most vehicles would continue straight toward Fort Stockton and Interstate 10, known for alien and narcotics smuggling",
+    "Mississippi": "state of origin for a vehicle's license plate",
+    "Kansas": "state of origin for a suspicious vehicle's license plate, associated with a smuggling organization transporting marijuana from the Big Bend area",
+    "Marathon, Texas": "location where the truck drove through at 20 miles per hour",
+    "Highway 90": "road where the truck turned left",
+    "Fort Stockton": "destination for most vehicles coming up Highway 385",
+    "Interstate 10": "highway toward which most vehicles would continue from Highway 385",
+    "Highway 118": "most direct and logical route of travel from Big Bend to Alpine",
+    "district court": "court that denied Brignoni-Ponce Jacquinot's motion and sentenced him"
+  }
+}

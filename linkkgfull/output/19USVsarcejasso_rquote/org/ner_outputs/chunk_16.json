@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America",
+      "Signal Oil & Gas Co."
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "a party in the case",
+    "Signal Oil & Gas Co.": "a company mentioned in a referenced court case"
+  }
+}

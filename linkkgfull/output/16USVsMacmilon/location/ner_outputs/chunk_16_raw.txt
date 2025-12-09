@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the circumstances", "the stand", "the district court", "the suppression hearing"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

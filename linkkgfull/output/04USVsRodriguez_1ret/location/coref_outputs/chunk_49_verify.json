@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth": "Corinth, Texas",
+    "Dallas": "Dallas, Texas",
+    "this time": null,
+    "the vicinity": "area near Corinth and Dallas",
+    "the roads": "roads in the vicinity of Corinth and Dallas",
+    "the area": "area near Corinth and Dallas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location mentioned as being thirty minutes apart from Dallas, involved in the case of IGNACIO RODRIGUEZ, JR.",
+    "Dallas, Texas": "location mentioned as being thirty minutes apart from Corinth, destination of IGNACIO RODRIGUEZ, JR. and a potential endpoint for smuggled aliens",
+    "area near Corinth and Dallas": "region where the events took place, with Corinth and Dallas being key locations in the suspected smuggling route",
+    "roads in the vicinity of Corinth and Dallas": "routes that may have been used by the vehicles involved in the case, potentially including highways like Highway 16 and U.S. 59"
+  }
+}

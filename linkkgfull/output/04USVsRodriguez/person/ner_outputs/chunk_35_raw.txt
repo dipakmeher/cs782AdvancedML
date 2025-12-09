@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ignacio Rodriguez", "Officer Reyes"],
+    "NOUN_PHRASE": ["the officer", "a police officer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ignacio Rodriguez": "contends that Officer Reyes exceeded the scope of a traffic stop",
+    "Officer Reyes": "conducted a traffic stop"
+  }
+}

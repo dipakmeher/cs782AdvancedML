@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S. District Court"
+    ],
+    "NOUN_PHRASE": [
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. District Court": "court where the case is being heard"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["aliens", "illegal aliens"],
+    "NOUN_PHRASE": ["the agreement"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being transported",
+    "illegal aliens": "individuals being transported in violation of the law"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "Immigration and Customs Enforcement": "Immigration and Customs Enforcement (ICE)",
+    "ICE": "Immigration and Customs Enforcement (ICE)",
+    "Border Patrol": "United States Border Patrol",
+    "the government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court for the Southern District of Texas": "held a preliminary examination hearing in the case of Yusif Ahmed Rufied",
+    "Immigration and Customs Enforcement (ICE)": "presented Agent Bruce Henderson as its sole witness at the preliminary examination hearing",
+    "United States Border Patrol": "conducted a check point on Highway 59 where sixty undocumented aliens were found in a tractor trailer"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the white car", "the second vehicle", "a rental car", "their own vehicles", "those two vehicles", "two vehicles out of Dallas, Texas", "two vehicles"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

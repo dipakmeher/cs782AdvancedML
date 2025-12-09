@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Government", "district court"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Government": "the party required to produce canine records",
+    "district court": "the court presiding over the case and making decisions on motions"
+  }
+}

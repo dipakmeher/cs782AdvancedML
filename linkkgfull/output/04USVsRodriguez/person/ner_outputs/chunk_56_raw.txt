@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Alberto Ramirez", "Agent Trevino"],
+    "NOUN_PHRASE": ["the Defendant", "the Director", "the Court", "the undersigned"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alberto Ramirez": "Director of Transportation, Planning and Development for the Texas Department of Transportation, Laredo Division",
+    "Agent Trevino": "testified regarding traffic patterns on FM 2050"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the canine": null,
+    "the citation": null,
+    "the back seat of the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the open area at Freer Immigration Checkpoint": "Freer Immigration Checkpoint",
+    "the holding cell at Freer Immigration Checkpoint": "Freer Immigration Checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan stopped by United States Border Patrol Agent Jorge Luis Trevino, lacked wind farm sticker and was traveling on Farm-to-Market Road 2050 with out-of-town registration from Hertz Rental Car Company",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the stop of his vehicle by Officer Reymundo Reyes, displayed extreme nervousness during the stop",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050, searched after IGNACIO RODRIGUEZ, JR. gave consent, and had conflicting ownership claims",
+    "undocumented aliens": "individuals being transported in vehicles, displaying suspicious behavior such as sitting stiff and not communicating with each other",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, suspected of transporting illegal aliens, both lacked wind farm stickers and were traveling in tandem on Farm-to-Market Road 2050 with out-of-town registrations",
+    "Jorge Luis Trevino": "United States Border Patrol agent who performed the traffic stop on RICARDO RODRIGUEZ, JR.'s vehicle based on reasonable suspicion due to out-of-town registrations and atypical vehicles for the area, has nearly seven years of experience with the United States Border Patrol",
+    "United States Border Patrol": "Law enforcement agency involved in the incident",
+    "Officer Reymundo Reyes": "Freer Police Department officer who stopped IGNACIO RODRIGUEZ, JR.'s vehicle and conducted an investigation",
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security who interviewed IGNACIO RODRIGUEZ, JR.",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of RICARDO RODRIGUEZ, JR.'s white Malibu sedan by United States Border Patrol Agent Jorge Luis Trevino on Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Highway 16 for failing to use a turn signal, where Officer Reymundo Reyes confirmed the license plate matched a BOLO description and questioned IGNACIO RODRIGUEZ, JR. about travel plans",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stops of RICARDO RODRIGUEZ, JR.'s white Malibu sedan and IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck on Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants with motions to suppress recommended for denial by the United States Magistrate Judge, whose driving behavior was observed by United States Border Patrol Agent Jorge Luis Trevino",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "United States Border Patrol Agent Hugo Benavides": "Agent who testified about his uncertainty regarding the arrest of IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.": "Individuals involved in a conversation en route to the Border Patrol station, where United States Border Patrol Agent Hugo Benavides allegedly used bad language and made threatening statements to IGNACIO RODRIGUEZ, JR.",
+    "Alberto Ramirez": "Director of Transportation, Planning and Development for the Texas Department of Transportation, Laredo Division, who testified about the accuracy of traffic flow data",
+    "Texas Department of Transportation": "Agency responsible for preparing district traffic maps",
+    "Hertz Rental Car Company": "Rental car company with locations throughout the United States, including the Laredo International Airport, where RICARDO RODRIGUEZ, JR.'s white Malibu sedan was rented",
+    "Laredo International Airport": "Location where RICARDO RODRIGUEZ, JR.'s white Malibu sedan was rented from Hertz Rental Car Company",
+    "SANTIAGO HINOJOSA": "Manager with the Hertz Rental Car Company at the Laredo International Airport, who testified about the company's rental policies",
+    "IGNACIO RODRIGUEZ, JR. and United States Border Patrol Agent Hugo Benavides": null,
+    "United States Border Patrol Agent Ignacio Rodriguez Jr.": "United States Border Patrol agent involved in the incident",
+    "Freer Immigration Checkpoint": "Location where Marco Montemayor arrived to investigate an attempted alien smuggling event",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Primary United States Border Patrol agent who conducted the initial stop",
+    "Laredo, Texas": "Location where Marco Montemayor received a phone call regarding an attempted alien smuggling event",
+    "Border Patrol Station Parking Lot": "Location where IGNACIO RODRIGUEZ, JR. was held in a holding cell",
+    "Marco Montemayor and IGNACIO RODRIGUEZ, JR.": null,
+    "Officer Reymundo Reyes's questions": "Questions asked by Officer Reymundo Reyes to determine the purpose of IGNACIO RODRIGUEZ, JR.'s trip and verify vehicle ownership",
+    "Freer Police Department": "Police department where Officer Reymundo Reyes is employed"
+  }
+}

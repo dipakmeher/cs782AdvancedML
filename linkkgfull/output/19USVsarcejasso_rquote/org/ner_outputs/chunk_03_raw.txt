@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America", "Laredo"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "the prosecuting party",
+    "Laredo": "location of the federal grand jury and border patrol checkpoint"
+  }
+}

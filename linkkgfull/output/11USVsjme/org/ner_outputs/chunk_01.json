@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas Juvenile Justice Department",
+      "Judge Ricardo Garcia Regional Detention Center",
+      "Southwest Keys Program"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Juvenile Justice Department": "department where J.M.E. was committed",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed",
+    "Southwest Keys Program": "program J.M.E. was ordered to complete"
+  }
+}

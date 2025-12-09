@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Counsel's performance": null,
+    "Adrian Almaguer's performance": null,
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "the circumstances": null,
+    "counsel's challenged conduct": null,
+    "counsel's perspective": null,
+    "the proceeding": null,
+    "the outcome": null,
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "the standard": null,
+    "the deficiencies": null,
+    "the 2004 Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nancy F. Atlas": "Judge in the case of Jose Marlon Ibarra-Zelaya",
+    "Jose Marlon Ibarra-Zelaya": "Defendant filing a motion to vacate, set aside, or correct sentence, convicted of conspiracy to commit hostage taking and sentenced to 292 months in prison, with a case involving ineffective assistance of counsel claims",
+    "Adrian Almaguer": "Counsel for Jose Marlon Ibarra-Zelaya, defense attorney during trial and sentencing proceeding who did not raise a meritorious objection regarding the Sentencing Guidelines Manual version used",
+    "United States Sentencing Guidelines Manual": "legal document containing provisions like \u00a7 1B1.11 that guide judges in applying sentencing rules without violating the Ex Post Facto clause, with versions issued on November 1, 2003, and November 1, 2004"
+  }
+}

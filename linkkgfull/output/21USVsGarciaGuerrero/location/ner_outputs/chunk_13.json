@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "South Texas"
+    ],
+    "NOUN_PHRASE": [
+      "this court",
+      "the district court",
+      "the desert"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "South Texas": "location where Alma Delia Simon-Fernandez died"
+  }
+}

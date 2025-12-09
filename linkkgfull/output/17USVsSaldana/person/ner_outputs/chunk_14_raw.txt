@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Haston", "Saldana", "Cox", "Vargas"],
+    "NOUN_PHRASE": ["the officer", "the inspector", "the woman"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "testified about Saldana's driving",
+    "Saldana": "driver of the vehicle and trailer",
+    "Cox": "conducted a traffic stop",
+    "Vargas": "witnessed traffic violations"
+  }
+}

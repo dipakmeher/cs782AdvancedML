@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["marijuana", "handguns", "ammunition"],
+    "NOUN_PHRASE": ["the guns", "his drug trafficking offense", "the toolbox"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "marijuana": "drug found in the pickup truck",
+    "handguns": "unloaded firearms found in the cab of the pickup truck",
+    "ammunition": "found in the large white Ford pickup truck"
+  }
+}

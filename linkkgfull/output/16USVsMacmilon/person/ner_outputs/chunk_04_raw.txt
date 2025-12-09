@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Pena", "Williams", "McMillon", "Agent Hernandez", "Aroxa"],
+    "NOUN_PHRASE": ["the pair", "a person"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Pena": "questioning agent",
+    "Williams": "individual being questioned",
+    "McMillon": "individual being questioned",
+    "Agent Hernandez": "agent working with a dog",
+    "Aroxa": "dog alerting to contraband"
+  }
+}

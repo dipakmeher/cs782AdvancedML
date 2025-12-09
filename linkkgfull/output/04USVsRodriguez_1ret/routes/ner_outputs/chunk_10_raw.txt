@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "FM 2050", "Highway 16", "U.S. 59", "U.S. 359"],
+    "NOUN_PHRASE": ["the route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "location where vehicles drop off illegal aliens",
+    "FM 2050": "alternative abbreviation for Farm-to-Market Road 2050",
+    "Highway 16": "route where illegal aliens get picked up after walking from Farm-to-Market Road 2050",
+    "U.S. 59": "part of the route avoiding checkpoints",
+    "U.S. 359": "part of the route avoiding checkpoints"
+  }
+}

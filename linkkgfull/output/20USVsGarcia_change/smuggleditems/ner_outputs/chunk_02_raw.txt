@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["living beings", "people"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the record", "the rearraignment", "the Plea Agreement"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

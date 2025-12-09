@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the aliens": "ten undocumented aliens",
+    "the tractor-trailer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "undocumented immigrants discovered at the immigration checkpoint stop, hidden in the tractor-trailer's sleeper area",
+    "Zeba Williams": "driver of the tractor-trailer at the immigration checkpoint stop, interacted with Luis Pena and gave consent for search",
+    "Ramon De La Cruz": "defendant arguing about the lawfulness of the immigration checkpoint stop's duration",
+    "Raymond McMillon": "defendant who transported the aliens and challenges the search of the tractor-trailer",
+    "Luis Pena": "United States Border Patrol Agent who approached the driver-side door and asked Zeba Williams to open it",
+    "Manuel Hernandez": "United States Border Patrol Agent who prepared to have his canine, Aroxa, perform a sniff of the tractor-trailer's exterior steps"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": null,
+    "the trailer": null,
+    "the rest stop": null,
+    "the tire shop": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Court": "The court where Federico Saldana's hearing was held",
+    "Williamson County": "location of the Sheriff's Office",
+    "IH-35": "highway where detectives were traveling",
+    "Laredo": "place where trailer's license plate was issued and residence of Federico Saldana, also a point of origin for a trip to Dallas",
+    "San Antonio": "place where truck's license plate was registered",
+    "Laredo checkpoint": "checkpoint where Federico Saldana was found transporting drugs",
+    "Dallas": "ultimate destination of Federico Saldana's trip for repairs"
+  }
+}

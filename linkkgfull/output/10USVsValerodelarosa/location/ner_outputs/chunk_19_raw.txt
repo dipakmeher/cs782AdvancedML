@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Fifth Circuit"],
+    "NOUN_PHRASE": ["the record", "the district court", "the case"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "a judicial circuit that has cautioned against subjecting attorneys to unrealistic standards"
+  }
+}

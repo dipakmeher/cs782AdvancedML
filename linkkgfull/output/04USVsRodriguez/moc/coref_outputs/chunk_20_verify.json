@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Marco Montemayor": "Agent Marco Montemayor",
+    "Marco Montemayor": "Agent Marco Montemayor",
+    "his partner": null,
+    "the law enforcement officers": "United States Border Patrol agents",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "his Miranda rights": "Miranda rights",
+    "the Miranda waiver": "Miranda waiver",
+    "a written waiver": "a written Miranda waiver",
+    "his confession": null,
+    "an attorney": null,
+    "his waiver of his rights": "waiver of Miranda rights",
+    "Agent Marco Montemayor's testimony": null,
+    "the law enforcement officers' role and function": "United States Border Patrol agents' role and function"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Agent Marco Montemayor": "Law enforcement officer who conducted an interview with IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "Driver of the black Dodge pickup truck, subject of the traffic stop",
+    "United States Border Patrol agents": "Law enforcement officers with experience in detecting illegal activity, entitled to assess facts based on their experience",
+    "Miranda rights": "Legal rights read to an individual during an arrest or interrogation",
+    "Miranda waiver": "Document signed by an individual waiving their Miranda rights",
+    "a written Miranda waiver": "Document signed by IGNACIO RODRIGUEZ, JR. to waive his Miranda rights",
+    "waiver of Miranda rights": "IGNACIO RODRIGUEZ, JR.'s decision to give up his right to remain silent and cooperate with law enforcement",
+    "United States Border Patrol agents' role and function": "Responsibilities of law enforcement officers in conducting interviews, interrogations, and traffic stops"
+  }
+}

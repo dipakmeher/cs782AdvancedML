@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the agent": "Jorge Luis Trevino",
+    "law enforcement officers": null,
+    "the majority": null,
+    "the district court": null,
+    "the officer": "Reymundo Reyes",
+    "the inspector": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by Officer Reyes of the Freer Police Department, claiming that the stop was illegal or a pretextual stop and that Officer Reyes overstepped the scope of the stop",
+    "Jorge Luis Trevino": "United States Border Patrol Agent with nearly seven years of experience, including a year and a half at the Freer checkpoint, which has led him to recognize most vehicles passing down FM 2050, explained reasonable suspicion analysis during the hearing",
+    "Reymundo Reyes": "Freer Police Department officer who performed the traffic stop on Ignacio Rodriguez's vehicle"
+  }
+}

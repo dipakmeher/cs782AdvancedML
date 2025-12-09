@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S.-Mexico border"
+    ],
+    "NOUN_PHRASE": [
+      "particular highways",
+      "smuggling routes",
+      "the vehicle",
+      "the car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "border where patrol agents operate"
+  }
+}

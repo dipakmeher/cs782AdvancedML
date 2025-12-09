@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "United States District Judge",
+      "United States Magistrate Judge"
+    ],
+    "NOUN_PHRASE": [
+      "the probation office",
+      "the Report and Recommendation"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where the legal case is taking place",
+    "United States District Judge": "title of the judge presiding over the case",
+    "United States Magistrate Judge": "title of the magistrate judge involved in the case"
+  }
+}

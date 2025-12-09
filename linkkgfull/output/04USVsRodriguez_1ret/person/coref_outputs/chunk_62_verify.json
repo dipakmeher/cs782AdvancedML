@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Ignacio Rodriguez",
+    "Defendant": "Ignacio Rodriguez",
+    "Officer Reyes": "Reymundo Reyes",
+    "Agent Benavides": "Hugo Benavides",
+    "the undersigned": "J. Scott Hacker",
+    "Border Patrol agents": "Jorge Luis Trevino and Hugo Benavides",
+    "Officer Reyes's account": null,
+    "Ignacio Rodriguez": "Ignacio Rodriguez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ignacio Rodriguez": "Defendant who testified about his interaction with Officer Reyes, was found to have questionable credibility by the undersigned",
+    "Reymundo Reyes": "Officer who conducted a search and testified about the events, had reasonable suspicion to detain Defendant until Border Patrol's arrival",
+    "Hugo Benavides": "Agent who arrived at the scene, did not corroborate Officer Reyes's testimony about the camper",
+    "J. Scott Hacker": "United States Magistrate Judge who considered the evidence presented in the case and gave little weight to the observation of the camper due to ambiguity surrounding its existence",
+    "Jorge Luis Trevino and Hugo Benavides": "Border Patrol agents who testified in the case, with Jorge Luis Trevino providing details about the black truck and camper, and Hugo Benavides not corroborating this testimony"
+  }
+}

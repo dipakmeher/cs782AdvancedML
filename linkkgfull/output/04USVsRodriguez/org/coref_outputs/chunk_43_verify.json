@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Agent Benavides": "United States Border Patrol",
+    "Agent Trevino": "United States Border Patrol",
+    "RICARDO RODRIGUEZ, JR.": null,
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "the black Dodge truck": "black Dodge truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "U.S. 359": "Highway 359",
+    "Highway 16": "Highway 16",
+    "Corinth, Texas": null,
+    "Dallas-Fort Worth": "Hertz Dallas-Fort Worth"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents having experience in evaluating circumstances related to reasonable suspicion",
+    "Agent Benavides": "United States Border Patrol agent who participated in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., transporting him to the Freer immigration checkpoint for further questioning",
+    "Agent Trevino": "United States Border Patrol agent who encountered illegals in a white Malibu sedan on Farm-to-Market Road 2050, demonstrating experience in evaluating circumstances related to reasonable suspicion and recognizing 'load car-lead car' driving patterns",
+    "RICARDO RODRIGUEZ, JR.": null,
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "black Dodge truck": "vehicle driven by IGNACIO RODRIGUEZ, JR. and subject to a canine search, with conflicting statements about its ownership",
+    "white Malibu sedan": "vehicle stopped by Agent Trevino on Farm-to-Market Road 2050, transporting illegals, and traveling in tandem with the black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "road used by smugglers to circumvent checkpoints on Highway 59 and U.S. 359, with a recent surge in drop-offs where illegal aliens are picked up by vehicles heading north",
+    "Highway 359": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'",
+    "Highway 16": "highway near the location of the traffic stop, providing access to major highways going north, potentially being used by smugglers as an escape route or means of transporting illegal aliens",
+    "Corinth, Texas": null,
+    "Dallas-Fort Worth": "location where one of the vehicles was from, with the two vehicles riding in tandem and traveling towards this destination"
+  }
+}

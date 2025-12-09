@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Highway 59",
+      "Farm-to-Market Road 2050"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 59": "road where vehicles were inspected and headed towards Corpus, Houston, or Freer, Texas",
+    "Farm-to-Market Road 2050": "road adjacent to the Border Patrol station parking lot where two vehicles turned southbound"
+  }
+}

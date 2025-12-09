@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America"],
+    "NOUN_PHRASE": ["this Court", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "the party filing notice to appeal"
+  }
+}

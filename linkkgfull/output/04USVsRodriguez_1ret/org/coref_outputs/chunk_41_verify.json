@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. Border Patrol": "United States Border Patrol",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "U.S. Highway 359": "U.S. Highway 359",
+    "U.S. Highway 277": "U.S. Highway 277",
+    "Highway 16": "Highway 16",
+    "Highway 377": "Highway 377",
+    "Ranch Road 2523": "Ranch Road 2523",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "the Government": "United States Government",
+    "the agent's": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law. Involved in the stop of the black Dodge pickup truck and white Malibu sedan.",
+    "U.S. Highway 59": "highway",
+    "U.S. Highway 359": "highway",
+    "U.S. Highway 277": "highway with a checkpoint that can be avoided by taking Ranch Road 2523 north to Highway 377",
+    "Highway 16": "highway that provides access to major highways going north to San Antonio, Houston, and beyond",
+    "Highway 377": "highway that can be used to avoid the checkpoint on Highway 277 by taking Ranch Road 2523 north to Highway 377",
+    "Ranch Road 2523": "road that can be used to avoid the checkpoint on Highway 277 by taking it north to Highway 377",
+    "Farm-to-Market Road 2050": "road frequently and increasingly used to circumvent the checkpoints on both U.S. Highway 59 and U.S. Highway 359, known as a smuggling route",
+    "United States Government": "Prohibits unreasonable searches and seizures, with protections extending to brief investigatory stops of persons or vehicles that fall short of traditional arrest.",
+    "United States Highway 59 and U.S. Highway 359": "highways with checkpoints that can be avoided by taking Farm-to-Market Road 2050"
+  }
+}

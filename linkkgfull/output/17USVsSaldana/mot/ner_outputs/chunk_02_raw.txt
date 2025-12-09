@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Chevrolet"],
+    "NOUN_PHRASE": ["a 2008 Chevrolet truck", "the truck", "the trailer", "a flatbed trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Chevrolet": "make of the truck"
+  }
+}

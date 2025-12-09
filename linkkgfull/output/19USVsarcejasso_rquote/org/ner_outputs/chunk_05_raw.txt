@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America", "Federal Rule of Appellate Procedure"],
+    "NOUN_PHRASE": ["the government", "a court of appeals", "a district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "appellant in a criminal case",
+    "Federal Rule of Appellate Procedure": "governs appellate procedure"
+  }
+}

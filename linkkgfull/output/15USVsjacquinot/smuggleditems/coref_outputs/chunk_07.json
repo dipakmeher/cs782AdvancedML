@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "marijuana": "marijuana",
+    "the evidence": null,
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "alien smuggling cases": "alien smuggling cases",
+    "narcotics cases": "narcotics cases",
+    "alien": "alien",
+    "the aliens": null,
+    "contraband": "contraband",
+    "the first vehicle": "late model four-door sedan",
+    "the late model four-door sedan": "late model four-door sedan",
+    "the older Anglo couple": null,
+    "Big Bend National Park registration receipt": null,
+    "Mississippi license plate": null,
+    "a work vehicle": "large white Ford pickup truck",
+    "the driver": null,
+    "a small-framed person wearing a baseball cap": null,
+    "construction vehicles": null,
+    "a Kansas license plate": null,
+    "contractors from the Alpine, Texas area": null,
+    "a recent narcotics smuggling operation": "narcotics cases",
+    "tool boxes": null,
+    "a spare gas tank": null,
+    "an air tank": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "marijuana": "substance for distribution, weighing between 100 and 1,000 kilograms",
+    "large white Ford pickup truck": "vehicle involved in the stop by United States/Mexican Border Patrol, suspected of being a lead car, with equipment including tool boxes, a spare gas tank, and an air tank in its bed, bearing a Kansas license plate, exhibited unusual driving behavior near Marathon, Texas, and was stopped 70 or 80 miles from the United States/Mexican Border",
+    "alien smuggling cases": "cases involving the smuggling of aliens",
+    "narcotics cases": "cases involving narcotics, including a recent operation in the Alpine, Texas area destined for locations in Kansas",
+    "alien": "individuals being smuggled",
+    "contraband": "suspected cargo in the load car",
+    "late model four-door sedan": "vehicle observed by United States/Mexican Border Patrol, carrying an older Anglo couple and bearing a Big Bend National Park registration receipt and a Mississippi license plate"
+  }
+}

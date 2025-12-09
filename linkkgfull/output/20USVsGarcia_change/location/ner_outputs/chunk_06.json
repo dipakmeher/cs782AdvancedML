@@ -1,0 +1,24 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States-Mexican border",
+      "Laredo, Texas",
+      "Interstate 35",
+      "Moore"
+    ],
+    "NOUN_PHRASE": [
+      "the border",
+      "this country",
+      "a substantial distance from the border",
+      "the city",
+      "the town",
+      "the public highway"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States-Mexican border": "geographical boundary relevant to the case",
+    "Laredo, Texas": "city through which Interstate 35 passes",
+    "Interstate 35": "highway leading directly to the border",
+    "Moore": "location near the border"
+  }
+}

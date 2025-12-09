@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "the highway": "Interstate Highway 35",
+    "the point": null,
+    "United States": "United States",
+    "Mexico": "Mexico"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches",
+    "Mexico": "country of origin for illegal migrants",
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it",
+    "Interstate Highway 35": "highway where stops by border patrol agents may occur, commonly used for smuggling of aliens, and known for its reputation as a common smuggling route, with other highways intersecting it near the border"
+  }
+}

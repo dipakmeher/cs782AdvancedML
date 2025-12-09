@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["illegal aliens", "Hispanic residents and citizens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

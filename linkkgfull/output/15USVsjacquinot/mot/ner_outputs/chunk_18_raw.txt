@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the truck", "a Kansas license plate", "the truck's only passenger", "the truck in which he was riding"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

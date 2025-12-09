@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "H-07-1251": "H-07-1251",
+    "United States": "United States",
+    "this district": null,
+    "prison": null,
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States Supreme Court": "United States Supreme Court",
+    "the court": null,
+    "the record": null,
+    "direct appeal": null,
+    "collateral review": null,
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "this instance": null,
+    "Adrian Almaguer": "Adrian Almaguer",
+    "the States": "United States",
+    "the Congress": null,
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the base offense level": null,
+    "the PSR": null,
+    "the Probation Department": null,
+    "the Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the offense": null,
+    "the case": null,
+    "the sentencing": null,
+    "the transcript": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nancy F. Atlas": "Judge in the case of Jose Marlon Ibarra-Zelaya",
+    "Jose Marlon Ibarra-Zelaya": "Defendant filing a motion to vacate, set aside, or correct sentence, convicted of conspiracy to commit hostage taking and sentenced to 292 months in prison",
+    "H-07-1251": "Civil action corresponding to Jose Marlon Ibarra-Zelaya's case",
+    "United States": "country where sentencing guidelines are applied and where illegal alien smuggling venture occurred, also referenced as 'the States' in the context of constitutional prohibitions on ex post facto laws",
+    "United States Court of Appeals for the Fifth Circuit": "court that affirmed conviction and sentence, and rejected appeal regarding sentence enhancements, with established precedent on Ex Post Facto clause application",
+    "United States Supreme Court": "higher court where a petition for a writ of certiorari could be filed",
+    "Adrian Almaguer": "Counsel for Jose Marlon Ibarra-Zelaya",
+    "United States Sentencing Guidelines Manual": "legal guidelines document used to determine sentencing, including provisions like \u00a7 1B1.11 regarding Ex Post Facto clause violations and containing base offense levels"
+  }
+}

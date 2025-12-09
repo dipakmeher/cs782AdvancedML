@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Judge Kazen"],
+    "NOUN_PHRASE": ["the jury", "the courtroom"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Judge Kazen": "instructed the jury"
+  }
+}

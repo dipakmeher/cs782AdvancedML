@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Graham": "Andrew P. Graham",
+    "Agent Snodgrass": "Jay Snodgrass",
+    "Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the driver": "Brignoni-Ponce Jacquinot",
+    "the agents": "Andrew P. Graham and Jay Snodgrass",
+    "a Border Patrol agent": "Andrew P. Graham and Jay Snodgrass",
+    "the district court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Andrew P. Graham": "Border Patrol Agent with three years' experience serving in the Alpine area, testified about the driver's suspicious behavior",
+    "Jay Snodgrass": "Border Patrol Agent with eleven years' experience, including a few months in the Alpine area, contributed to the reasonable suspicion determination",
+    "Brignoni-Ponce Jacquinot": "Defendant exhibiting suspicious driving behavior, such as slowing down and making unusual turns, argued against the suspicion of the truck's behavior",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents whose experience in the region contributed to the reasonable suspicion determination, testified about the driver's behavior"
+  }
+}

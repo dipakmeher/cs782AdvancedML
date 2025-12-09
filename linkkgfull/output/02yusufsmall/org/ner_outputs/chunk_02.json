@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Homeland Security",
+      "You Brokerage",
+      "Jamco International, Inc.",
+      "Flying J"
+    ],
+    "NOUN_PHRASE": [
+      "the brokerage company",
+      "the Auburn Road lot"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Homeland Security": "conducted inspection",
+    "You Brokerage": "paid Abdullah Yusuf to haul a load",
+    "Jamco International, Inc.": "owned the Auburn Road lot",
+    "Flying J": "where Abdullah Yusuf waited with his tractor"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon": "Raymond McMillon",
+    "McMillon": "Raymond McMillon",
+    "Defendant-Appellant": "Raymond McMillon",
+    "the Government": null,
+    "the prevailing party": "the Government",
+    "the jury": null,
+    "Zeba Williams": "Zeba Williams",
+    "Williams": "Zeba Williams",
+    "his co-defendant": "Zeba Williams",
+    "the pair": "Raymond McMillon and Zeba Williams"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant, appellant, and passenger in a tractor-trailer with undocumented aliens, convicted of alien transportation offenses, traveled with co-defendant to Laredo",
+    "Zeba Williams": "co-defendant, driver of the tractor-trailer, asked McMillon to accompany him to pick up commercial equipment",
+    "Raymond McMillon and Zeba Williams": "pair who traveled together from Houston to San Antonio and then to Laredo"
+  }
+}

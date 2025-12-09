@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the area": "Cotulla, Texas area",
+    "the location": "Interstate 35 near Cotulla, Texas",
+    "Cotulla, Texas": "Cotulla, Texas",
+    "Texas": "Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location of the border patrol station where agents Stanley Pruszenski and Alfred Baron served",
+    "Texas": "state where the defendant was stopped, location of Interstate Highway and events took place, 115 miles north of the Mexico/United States border",
+    "Cotulla, Texas area": "region covered by the Cotulla, Texas border patrol station, with characteristics relevant to determining the legality of an investigatory stop, including proximity to the border and history of illegal alien traffic",
+    "Interstate 35 near Cotulla, Texas": "location where border patrol agents stopped Maria De Jesus Garcia's vehicle and a common smuggling route"
+  }
+}

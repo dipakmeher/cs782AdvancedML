@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raul Rafael Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "DeMOSS": "DeMOSS",
+    "United States of America": "United States of America",
+    "the Government": "United States of America",
+    "Defendant-Appellee": "Raul Rafael Arce-Jasso",
+    "Plaintiff-Appellant": "United States of America",
+    "Circuit Judge": "DeMOSS",
+    "Jesus Garcia": "Jesus Garcia",
+    "Garcia": "Jesus Garcia",
+    "the border patrol checkpoint": null,
+    "his assistant": null,
+    "a magistrate judge": null,
+    "the district court": null,
+    "Arce-Jasso's counsel": null,
+    "the court": "United States of America",
+    "the United States": "United States of America",
+    "the U.S. Attorney": "United States of America",
+    "the defendant": "Raul Rafael Arce-Jasso",
+    "the District Court": null,
+    "the Court": "United States of America",
+    "Smith": "Smith",
+    "the person": null,
+    "we": null,
+    "us": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raul Rafael Arce-Jasso": "defendant, appellant, and defendant-appellee in a case involving possession of cocaine with intent to distribute, driver of the Mercury Cougar, pleaded not guilty before a magistrate judge, filed motions for reconsideration and suppression of evidence, contends that the Court does not have appellate jurisdiction to review the district court's decision to suppress the cocaine, made a motion for judgment of acquittal",
+    "DeMOSS": "Circuit Judge presiding over the appeal of the United States of America vs. Raul Rafael Arce-Jasso",
+    "United States of America": "plaintiff-appellant seeking review of the district court's judgment of acquittal and denial of motion for reconsideration, filed a joint notice of appeal regarding the court's judgment of acquittal and order denying the Government's motion for reconsideration, U.S. Attorney involved in the appeal process, concedes failure to meet 30-day deadline if clock started on August 12",
+    "Jesus Garcia": "border patrol agent manning the primary inspection lane at the border patrol checkpoint",
+    "Smith": "a case reference, involved in an appeal where the Government filed notice to appeal an order quashing a subpoena within 30 days but did not certify its appeal until later"
+  }
+}

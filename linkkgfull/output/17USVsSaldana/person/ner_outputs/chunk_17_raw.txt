@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Haston", "Cox", "Saldana"],
+    "NOUN_PHRASE": ["the officer", "the driver"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "individual being questioned",
+    "Cox": "officer gathering information",
+    "Saldana": "individual who gave consent"
+  }
+}

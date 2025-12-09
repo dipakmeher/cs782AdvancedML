@@ -1,0 +1,24 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo, Texas",
+      "I-35",
+      "Laredo",
+      "United States of America",
+      "San Antonio"
+    ],
+    "NOUN_PHRASE": [
+      "the border patrol checkpoint",
+      "the primary inspection lane",
+      "the secondary inspection area",
+      "the side panel of the car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo, Texas": "location where Raul Rafael Arce-Jasso was stopped by a border patrol checkpoint",
+    "I-35": "highway where the border patrol checkpoint is located",
+    "Laredo": "birthplace of Raul Rafael Arce-Jasso",
+    "United States of America": "country of which Raul Rafael Arce-Jasso claimed to be a citizen",
+    "San Antonio": "destination of Raul Rafael Arce-Jasso's trip"
+  }
+}

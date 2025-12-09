@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas Juvenile Justice Department",
+      "CAPS",
+      "SCAN",
+      "SWK Southwest Keys Program",
+      "ISP",
+      "Cognitive Life Skills",
+      "YV Youth Village"
+    ],
+    "NOUN_PHRASE": [
+      "the juvenile court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Juvenile Justice Department": "a facility where juveniles may be committed",
+    "CAPS": "a counseling program",
+    "SCAN": "a counseling program",
+    "SWK Southwest Keys Program": "a program for juveniles",
+    "ISP": "a program for juveniles",
+    "Cognitive Life Skills": "a program at YV Youth Village",
+    "YV Youth Village": "a facility with programs for juveniles"
+  }
+}

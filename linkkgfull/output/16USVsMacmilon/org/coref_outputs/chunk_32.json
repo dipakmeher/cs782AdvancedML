@@ -1,0 +1,41 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": null,
+    "Border Patrol": "United States Border Patrol",
+    "the Government": "United States Government",
+    "the district court": "United States District Court",
+    "the jury": null,
+    "Raymond McMillon": "Raymond McMillon",
+    "Zeba Williams": "Zeba Williams",
+    "Luis Pena": "Luis Pena",
+    "Manuel Hernandez": "Manuel Hernandez",
+    "Agent Luis Pena": "Luis Pena",
+    "Agent Manuel Hernandez": "Manuel Hernandez",
+    "the agents": "Luis Pena and Manuel Hernandez",
+    "U.S. District Court": "United States District Court",
+    "Government": "United States Government",
+    "Supreme Court": "Supreme Court of the United States",
+    "the police": null,
+    "district court": "United States District Court",
+    "the defendant": null,
+    "Speedy Trial Act": "Speedy Trial Act",
+    "the court": "United States District Court",
+    "a district court": "United States District Court",
+    "Bieganowski": "Bieganowski",
+    "the verdict": null,
+    "a smuggling network": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in checkpoint stops and discovering undocumented aliens, with agents allowed to extend stops based on individualized suspicion or probable cause. Testified about how aliens or their families commonly pay smugglers indirectly",
+    "United States Government": "prevailing party at the suppression hearing, with the right to request consent for extending checkpoint stop duration or to proceed based on probable cause. The government's interests are protected by the court's review of factual findings and legal conclusions. Required to produce canine records for in camera inspection. Presented evidence at trial, including testimony from unlawful aliens and Border Patrol agents, to establish Raymond McMillon's involvement in alien transportation. Required to prove the offense, presented evidence and indictment",
+    "United States District Court": "court where motions to suppress evidence are reviewed and decided, with factual findings reviewed for clear error and legal conclusions reviewed de novo, and where standing to challenge searches is determined. The court's credibility determinations are given due deference. Also denied Raymond McMillon's motion to suppress and motion to dismiss. Responsible for making 'ends-of-justice' findings on the record when granting continuances. Made decisions on Raymond McMillon's case regarding speedy trial clock. Received submissions, held hearings, and made decisions on motions. Signed proposed orders and granted continuances in the cases of Raymond McMillon and Zeba Williams. Orally denied the motion to dismiss and began Raymond McMillon's trial. Received canine records for in camera inspection and made docket orders. Ruled on Raymond McMillon's motion to suppress after receiving the first set of canine records.",
+    "Raymond McMillon": "co-defendant who accompanied Zeba Williams on a trip to Laredo and was present during the Border Patrol stop; raised issues on appeal including motion to suppress evidence, speedy trial grounds, sufficiency of evidence, and sentencing adjustments. Filed motions to suppress and for discovery of canine records. Challenged the sufficiency of the evidence on all three of his convictions.",
+    "Zeba Williams": "defendant who asked Raymond McMillon to accompany him on a trip to Laredo and was driving the tractor-trailer during the stop",
+    "Luis Pena": "Border Patrol Agent who initiated the stop of Zeba Williams' vehicle, questioned the defendants about their travel plans, discovered hidden undocumented aliens, and his actions were challenged as rendering Zeba Williams' consent involuntary. Testified at the suppression hearing.",
+    "Manuel Hernandez": "Border Patrol Agent who participated in the stop with his canine, Aroxa, and alerted to potential contraband in the tractor-trailer",
+    "Luis Pena and Manuel Hernandez": "agents involved in the arrest of Zeba Williams and Raymond McMillon, and the discovery of undocumented aliens hidden in the tractor-trailer. Testified at the suppression hearing.",
+    "Supreme Court of the United States": "recognized the constitutionality of suspicionless routine vehicle stops at immigration checkpoints for determining citizenship status",
+    "Speedy Trial Act": "a statute that excludes certain periods of delay from the trial timeline, including time for pretrial motions and thirty days for the district court to rule after taking a motion under advisement. Requires district courts to make 'ends-of-justice' findings on the record when granting continuances.",
+    "Bieganowski": "a legal precedent regarding the timing of ends-of-justice findings in relation to the Speedy Trial Act"
+  }
+}

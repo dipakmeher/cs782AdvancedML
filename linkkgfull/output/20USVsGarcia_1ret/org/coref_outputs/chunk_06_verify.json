@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Court": "United States Court of Appeals for the Fifth Circuit",
+    "the agent": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "court that has repeatedly stated the importance of the Brignoni-Ponce test in determining reasonable suspicion for stops near the United States-Mexican border",
+    "United States Border Patrol": "law enforcement agency whose agents stopped Maria De Jesus Garcia's pickup truck, and whose actions are being reviewed under the Brignoni-Ponce test"
+  }
+}

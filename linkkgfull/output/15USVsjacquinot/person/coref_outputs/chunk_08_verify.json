@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Brignoni-Ponce Jacquinot",
+    "Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the district court": null,
+    "the agents": "Andrew P. Graham and Jay Snodgrass",
+    "the border patrol agents": "Andrew P. Graham and Jay Snodgrass"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Brignoni-Ponce Jacquinot": "Defendant in a drug trafficking case, exhibited suspicious behavior while driving, sole passenger in the truck, found with 286.44 pounds of marijuana and two unloaded handguns, described as a small-framed person wearing a baseball cap, sentenced to 46 months' imprisonment",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents involved in surveillance near the United States/Mexican border, providing reasonable suspicion for a stop based on proximity to the border, monitoring vehicle sensors in Big Bend National Park, followed two vehicles that had activated the first sensor within the park"
+  }
+}

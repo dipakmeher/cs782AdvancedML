@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his unit": null,
+    "the vehicle": "white Malibu sedan",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white, designed to hold five people, used for transporting illegal aliens",
+    "black Dodge truck": null,
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident, driving in tandem, potentially used for transporting illegal aliens",
+    "Ford F-150": "used by most of the ranchers",
+    "Ford F-250": "used by most of the ranchers",
+    "black Dodge pickup truck": "subject of a BOLO, involved in a traffic stop"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas, Texas": "Dallas, Texas",
+    "Hertz Dallas-Fort Worth": "Hertz Dallas-Fort Worth",
+    "Dallas": "Dallas, Texas",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Highway 359": "U.S. 359",
+    "Highway 59": "U.S. 59",
+    "San Antonio": "San Antonio",
+    "Highway 35": "Highway 35",
+    "the road": "Farm-to-Market Road 2050",
+    "out of town": null,
+    "that same road": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr.",
+    "Freer Police Department": "law enforcement agency involved in the traffic stop of Defendant Ignacio Rodriguez, Jr.",
+    "Freer, Texas": "location of immigration checkpoint on U.S. 59",
+    "Texas": "state where events occurred",
+    "U.S. 59": "highway where Freer immigration checkpoint is located",
+    "Freer immigration checkpoint": "location of border patrol activity where Agent Jorge Luis Trevino was stationed, with drop-offs occurring on nearby FM 2050 to avoid checkpoints",
+    "Corpus": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Houston": "destination city for smuggled aliens, accessible via Highway 16",
+    "Farm-to-Market Road 2050": "road where vehicles are followed by Agent Jorge Luis Trevino, primarily used by ranchers and oil trucks due to the presence of ranches and oil fields, also a connection between Highway 359 and Highway 59",
+    "Freer immigration checkpoint building": "building where border patrol agents process undocumented individuals",
+    "Border Patrol station parking lot": "parking area near the Freer immigration checkpoint",
+    "Freer immigration checkpoint office": "office where border patrol agents inspect vehicles and process individuals",
+    "Bruni": "reference point for drop-offs of undocumented aliens, located between the Freer checkpoint and the drop-off points on FM 2050",
+    "Hebbronville": "location of a checkpoint on U.S. 359, which smugglers try to avoid by taking alternative routes like the loop",
+    "Highway 16": "route where smuggled aliens are picked up after being dropped off near FM 2050 and then transported to destinations like Houston or San Antonio",
+    "San Antonio": "reference location for direction, indicating a general area, also located north of the events' location",
+    "Corinth, Texas": "location where the vehicle's plate is registered, north of San Antonio",
+    "Laredo, Texas": "reference location for distance, used for comparative purposes",
+    "wind farm": "location near FM 2050 where vehicles without a specific sticker are suspected of not belonging to the wind farm",
+    "Dallas, Texas": "origin of rental cars used by smugglers",
+    "Hertz Dallas-Fort Worth": "rental car company used by smugglers",
+    "Highway 35": "alternative route to Dallas or San Antonio"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Marathon, Texas",
+      "Highway 90",
+      "Highway 385",
+      "Fort Stockton",
+      "Interstate 10",
+      "Alpine",
+      "Big Bend",
+      "Highway 118"
+    ],
+    "NOUN_PHRASE": [
+      "a stop sign"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Marathon, Texas": "location where the truck stopped at a stop sign",
+    "Highway 90": "road where the truck turned left",
+    "Highway 385": "road from which most vehicles would continue straight toward Fort Stockton and Interstate 10",
+    "Fort Stockton": "destination for most vehicles coming up Highway 385",
+    "Interstate 10": "highway toward which most vehicles would continue from Highway 385",
+    "Alpine": "destination of the truck after turning left onto Highway 90",
+    "Big Bend": "remote area with limited gas stations",
+    "Highway 118": "most direct and logical route of travel from Big Bend to Alpine"
+  }
+}

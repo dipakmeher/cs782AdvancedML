@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. 59",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the ranches": null,
+    "the oil fields": null,
+    "the wind farm": "wind farm near Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. 59": "location of a checkpoint, road intersecting with FM 2050",
+    "Farm-to-Market Road 2050": "road where vehicles are seen by Border Patrol agents, rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route",
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, relevant to the events' context",
+    "wind farm near Farm-to-Market Road 2050": "location near FM 2050 with windmills extending out to the west across various ranches, approximately a mile and a half north of where Agent Trevino initiated a stop, has employees who regularly drive through the checkpoint"
+  }
+}

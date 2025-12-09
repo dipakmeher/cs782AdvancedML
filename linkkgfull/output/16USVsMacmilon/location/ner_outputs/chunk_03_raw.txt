@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Freer, Texas", "Luis Pena", "Manuel Hernandez", "Texas"],
+    "NOUN_PHRASE": ["the tractor-trailer", "the checkpoint's primary inspection lane", "the driver-side door", "the exterior", "the steps of the tractor", "the door"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Freer, Texas": "location where an immigration checkpoint is situated"
+  }
+}

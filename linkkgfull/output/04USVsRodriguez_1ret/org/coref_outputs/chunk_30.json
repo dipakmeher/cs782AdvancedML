@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Highway 16": "Highway 16",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Hebbronville checkpoint": "Hebbronville Checkpoint",
+    "United States Border Patrol Agent Hugo Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "black Dodge pickup truck": null,
+    "Dallas, Texas": "Dallas, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducted vehicle inspections at the Freer immigration checkpoint, processed undocumented individuals, and noticed drop-offs on Farm-to-Market Road 2050; agents use routes to avoid checkpoints; monitored traffic on Farm-to-Market Road 2050 which mostly consists of ranchers, oil trucks, and occasional small cars from a nearby wind farm; stopped a white Malibu sedan transporting illegals; involved in the traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "Freer Police Department": "conducted a traffic stop, advised of a BOLO for a black Dodge pickup truck, had an officer named Officer Reyes who made contact with IGNACIO RODRIGUEZ, JR.; issued a citation and impounded the vehicle due to unclear ownership and lack of insurance information; cooperated with United States Border Patrol during the traffic stop",
+    "U.S. Highway 59": "highway where vehicles were inspected by United States Border Patrol and location of Freer immigration checkpoint; location of the traffic stop",
+    "Highway 16": "highway connecting to Houston or San Antonio, used by smugglers after avoiding checkpoints; accessible via San Pablo Road and Santo Nino Road; location of the traffic stop",
+    "Farm-to-Market Road 2050": "road adjacent to the Border Patrol station parking lot where vehicles turned southbound and where drop-offs of undocumented individuals were noticed; used by smugglers to avoid checkpoints; primarily used by ranchers, oil trucks, and occasional small cars from a nearby wind farm; has intersections with Mills Bennett Road, San Pablo Road, and Santo Nino Road; location of the traffic stop",
+    "Hebbronville Checkpoint": "checkpoint on U.S. Highway 359 avoided by smugglers; mentioned by Defendant as the starting point of his travel",
+    "United States Border Patrol Agent Hugo Benavides": "received a phone call from his supervisor regarding the traffic stop on Farm-to-Market Road 2050 of IGNACIO RODRIGUEZ, JR. and drove to Highway 16 and U.S. Highway 59; made contact with Officer Reymundo Reyes and approached IGNACIO RODRIGUEZ, JR.; asked about Defendant's citizenship and travel plans",
+    "Officer Reymundo Reyes": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR. and wrote a ticket; cooperated with United States Border Patrol during the traffic stop",
+    "Dallas, Texas": "city mentioned as the destination of IGNACIO RODRIGUEZ, JR.'s travel plans"
+  }
+}

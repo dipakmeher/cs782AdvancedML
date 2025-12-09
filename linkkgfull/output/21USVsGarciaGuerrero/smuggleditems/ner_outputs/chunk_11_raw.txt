@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Inocencio Garcia-Guerrero", "United States", "South Texas Trek"],
+    "NOUN_PHRASE": ["these individuals"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Inocencio Garcia-Guerrero": "alien smuggler",
+    "United States": "country",
+    "South Texas Trek": "location"
+  }
+}

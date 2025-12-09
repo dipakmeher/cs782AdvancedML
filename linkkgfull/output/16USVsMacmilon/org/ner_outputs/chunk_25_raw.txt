@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Speedy Trial Act", "Bieganowski"],
+    "NOUN_PHRASE": ["the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Speedy Trial Act": "a law governing trial timing",
+    "Bieganowski": "a legal precedent"
+  }
+}

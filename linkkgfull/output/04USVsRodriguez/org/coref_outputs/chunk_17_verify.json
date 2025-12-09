@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "Highway 59": "Highway 59",
+    "Highway 16": "Highway 16",
+    "Hebbronville": null,
+    "Dallas, Texas": null,
+    "Hugo Benavides": "United States Border Patrol",
+    "Reymundo Reyes": "Freer Police Department",
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "the canine handler": null,
+    "the canine": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR.",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR.",
+    "black Dodge pickup truck": "vehicle driven by IGNACIO RODRIGUEZ, JR. and subject to a canine search",
+    "Highway 59": "highway where the traffic stop occurred",
+    "Highway 16": "highway near the location of the traffic stop",
+    "United States Border Patrol and Freer Police Department": "law enforcement agencies involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR.",
+    "Hugo Benavides": "United States Border Patrol agent who participated in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR.",
+    "Reymundo Reyes": "Freer Police Department officer who conducted the initial traffic stop"
+  }
+}

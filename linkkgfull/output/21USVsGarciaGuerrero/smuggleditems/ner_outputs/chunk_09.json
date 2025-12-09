@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "aliens",
+      "Alma Delia Simon-Fernandez",
+      "Inocencio Garcia-Guerrero"
+    ],
+    "NOUN_PHRASE": [
+      "the group",
+      "one member of the group",
+      "the aliens",
+      "two others"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "undocumented immigrants being smuggled",
+    "Alma Delia Simon-Fernandez": "a member of the smuggled group who died",
+    "Inocencio Garcia-Guerrero": "the individual accused of smuggling"
+  }
+}

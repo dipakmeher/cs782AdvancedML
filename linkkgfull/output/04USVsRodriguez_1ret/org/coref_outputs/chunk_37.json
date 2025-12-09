@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Government": "United States Government",
+    "the Government": "United States Government"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in which dictates that agents may temporarily detain vehicles for investigation only if they are aware of specific articulable facts that reasonably warrant suspicion",
+    "United States Government": "prohibits unreasonable searches and seizures, involved in the prosecution of individuals and bears the burden of proving that stops were constitutional"
+  }
+}

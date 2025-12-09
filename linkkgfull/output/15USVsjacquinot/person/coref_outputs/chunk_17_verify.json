@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Graham": "Andrew P. Graham",
+    "Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the district court": null,
+    "the officer": "Andrew P. Graham",
+    "the agents": "Andrew P. Graham and Jay Snodgrass",
+    "the border patrol agents": "Andrew P. Graham and Jay Snodgrass",
+    "the truck's occupants": "Brignoni-Ponce Jacquinot",
+    "the passenger": "Brignoni-Ponce Jacquinot",
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Andrew P. Graham": "Border Patrol Agent who testified about recent narcotics smuggling in the Alpine area, contributing to the reasonable suspicion determination",
+    "Brignoni-Ponce Jacquinot": "Defendant and the truck's only passenger, argued against the suspicion of the truck's behavior",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents whose experience in the region contributed to the reasonable suspicion determination, testified about the driver's behavior and recent narcotics smuggling"
+  }
+}

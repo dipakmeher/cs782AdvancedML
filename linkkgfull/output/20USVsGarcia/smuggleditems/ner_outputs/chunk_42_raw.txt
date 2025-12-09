@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's pickup truck camper"],
+    "NOUN_PHRASE": ["the windows of the camper shell", "the camper shell", "living, breathing cargo"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's pickup truck camper": "a vehicle potentially used for smuggling"
+  }
+}

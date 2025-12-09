@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the park": "Big Bend National Park",
+    "his location": "United States/Mexican border",
+    "the agents' location": "United States/Mexican border",
+    "Mississippi": "Mississippi"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Big Bend National Park": "part of the area being patrolled by Border Patrol Agents, included in the 140-mile area of the United States/Mexican border, where vehicle sensors detected northbound vehicles",
+    "United States/Mexican border": "border area being patrolled by Border Patrol Agents, including the Big Bend National Park, with vehicle sensors located within 50 miles",
+    "Mississippi": "state of origin for a vehicle's license plate, associated with a vehicle carrying an older Anglo couple and bearing a park registration receipt"
+  }
+}

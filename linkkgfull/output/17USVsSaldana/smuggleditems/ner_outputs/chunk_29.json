@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "cocaine",
+      "drugs"
+    ],
+    "NOUN_PHRASE": [
+      "the drugs"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "cocaine": "secreted substance discovered by officers",
+    "drugs": "substances to be suppressed"
+  }
+}

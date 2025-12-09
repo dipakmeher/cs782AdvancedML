@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa's phone": null,
+    "Rogelio Valero-De La Rosa's device": null,
+    "the phone": null,
+    "the device": null,
+    "the Report": "the presentence report",
+    "the Recommendation": null,
+    "a presentence report": "the presentence report",
+    "the United States Sentencing Commission": "the United States Sentencing Commission",
+    "the United States Probation Office": "the United States Probation Office",
+    "character letters": null,
+    "the United States District Court for the Southern District of Texas": "the United States District Court for the Southern District of Texas",
+    "the Bureau of Prisons": "the Bureau of Prisons",
+    "Rogelio Valero-De La Rosa's motion": "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel",
+    "the Plea Agreement": "the Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "his Affidavit": "Rogelio Valero-De La Rosa's Affidavit",
+    "Amendment 742 of the United States Sentencing Commission": "Amendment 742 of the United States Sentencing Commission"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa's phone": "",
+    "Rogelio Valero-De La Rosa's device": "",
+    "the phone": "",
+    "the device": "",
+    "the presentence report": "a document prepared by the United States Probation Office to calculate the advisory imprisonment range",
+    "the United States Sentencing Commission": "a commission that provides guidelines for sentencing, including amendments like Amendment 742 effective November 1, 2010",
+    "the United States Probation Office": "an office responsible for preparing presentence reports and supervising defendants, using resources like the United States Sentencing Commission Manual, and conducting interviews with defendants like Rogelio Valero-De La Rosa",
+    "the United States District Court for the Southern District of Texas": "a court that sentenced Rogelio Valero-De La Rosa and presided over his rearraignment, aware of his family situation and gang membership, and implements fast track programs for efficient handling of immigration cases",
+    "the Bureau of Prisons": "an agency responsible for holding Rogelio Valero-De La Rosa in custody",
+    "Rogelio Valero-De La Rosa's motion to claim ineffective assistance of counsel": "a motion filed by Rogelio Valero-De La Rosa claiming his counsel was ineffective, specifically regarding the calculation of his criminal history score and failure to request benefits from fast track programs",
+    "the Plea Agreement between Rogelio Valero-De La Rosa and the United States": "an agreement between Rogelio Valero-De La Rosa and the United States regarding his plea, including a waiver of collateral relief",
+    "Rogelio Valero-De La Rosa's Affidavit": "a document submitted by Rogelio Valero-De La Rosa in support of his claims",
+    "Amendment 742 of the United States Sentencing Commission": "an amendment effective November 1, 2010, that eliminated points previously assigned based on the recency of committing the instant offense less than two years after an offense counted in"
+  }
+}

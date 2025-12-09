@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate Highway 35",
+      "United States-Mexican border"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the whole picture"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "location of the investigatory stop",
+    "United States-Mexican border": "geographical reference point for determining stop legality"
+  }
+}

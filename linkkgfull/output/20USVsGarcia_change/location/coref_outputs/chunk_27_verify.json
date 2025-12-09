@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck cab": "truck cab",
+    "the interior of his vehicle": "interior of Maria De Jesus Garcia's vehicle",
+    "the back seat of the cab": "back seat of the truck cab",
+    "behind the cab's front seat": "interior of Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "truck cab": "front part of the truck where occupants were attempting to hide from view when a flashlight was shone",
+    "interior of Maria De Jesus Garcia's vehicle": "location where occupants were observed reacting to a flashlight, attempting to hide from view, with a dark cabin and multiple people moving to conceal themselves",
+    "back seat of the truck cab": "part of the vehicle where male passengers were sitting and attempting to hide when a flashlight was shone"
+  }
+}

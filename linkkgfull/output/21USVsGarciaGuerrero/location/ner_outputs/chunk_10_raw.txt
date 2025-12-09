@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the bed of a pickup truck", "the event of an accident", "highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

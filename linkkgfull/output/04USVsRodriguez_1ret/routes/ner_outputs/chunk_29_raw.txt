@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the Mexico border", "a rural, two-lane highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

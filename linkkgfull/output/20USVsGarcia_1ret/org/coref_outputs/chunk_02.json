@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "United States district court": "United States District Court",
+    "the government": "United States Government",
+    "the federal district court": "United States District Court",
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the case is being tried",
+    "United States District Court": "court that convicted Maria De Jesus Garcia, involved in the appeal of her case",
+    "United States Government": "government whose agents conducted the stop and search, defendant in the appeal",
+    "United States Border Patrol": "law enforcement agency involved in the stop and search of a pickup truck camper"
+  }
+}

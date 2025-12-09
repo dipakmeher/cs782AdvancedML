@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Highway 359"],
+    "NOUN_PHRASE": ["the highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Highway 359": "location where aliens were loaded"
+  }
+}

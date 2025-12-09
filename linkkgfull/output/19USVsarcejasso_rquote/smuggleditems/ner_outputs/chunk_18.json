@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegal aliens",
+      "aliens",
+      "1996 Mercury Cougar",
+      "Raul Rafael Arce-Jasso's 1996 Mercury Cougar"
+    ],
+    "NOUN_PHRASE": [
+      "certain cities",
+      "disposable vehicles",
+      "drugs",
+      "cars"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegal aliens": "individuals being smuggled",
+    "aliens": "persons being smuggled",
+    "1996 Mercury Cougar": "vehicle used for alien smuggling",
+    "Raul Rafael Arce-Jasso's 1996 Mercury Cougar": "specific vehicle used for smuggling"
+  }
+}

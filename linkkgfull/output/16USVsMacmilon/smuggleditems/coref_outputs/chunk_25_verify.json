@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court": "United States District Court",
+    "Ramon De La Cruz's trial": "Ramon De La Cruz's trial",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Raymond McMillon's motion to suppress": "motion to dismiss the indictment",
+    "the motion to dismiss": "pretrial motion",
+    "the parties": null,
+    "the Speedy Trial Act": "Speedy Trial Act"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that denied Ramon De La Cruz's motion to dismiss and presided over his trial",
+    "Ramon De La Cruz's trial": "trial of Ramon De La Cruz for smuggling undocumented aliens, began after denial of motion to dismiss",
+    "Ramon De La Cruz": "defendant who requested continuances to prepare for trial",
+    "motion to dismiss the indictment": "motion filed by Ramon De La Cruz, denied by the United States District Court",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods"
+  }
+}

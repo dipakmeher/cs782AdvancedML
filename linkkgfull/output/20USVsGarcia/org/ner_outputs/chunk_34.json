@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the case",
+      "both sides of the case",
+      "the jury",
+      "any future jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

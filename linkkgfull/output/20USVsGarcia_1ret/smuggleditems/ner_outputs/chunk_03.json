@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "three females",
+      "five or six men",
+      "fourteen additional males",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the male passengers",
+      "the men",
+      "the driver",
+      "the passengers",
+      "the remaining passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "three females": "female passengers in the truck cab",
+    "five or six men": "male passengers in the back seat of the truck",
+    "fourteen additional males": "hidden male passengers in the pickup truck camper",
+    "illegal aliens": "undocumented Mexican citizens"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Corinth", "Dallas"],
+    "NOUN_PHRASE": ["the ranches", "the black truck", "the suburb"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Corinth": "a suburb of Dallas",
+    "Dallas": "a city approximately twenty to twenty-five miles south of Corinth"
+  }
+}

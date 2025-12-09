@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "court that affirmed conviction and sentence, and rejected appeals regarding sentencing guidelines and enhancements, with established precedent on Ex Post Facto clause application",
+    "United States Sentencing Guidelines Manual": "legal document containing provisions like \u00a7 1B1.11 that guide judges in applying sentencing rules without violating the Ex Post Facto clause, with versions issued on November 1, 2003, and November 1, 2004"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["border"],
+    "NOUN_PHRASE": ["this country", "the highway"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border": "geographical boundary"
+  }
+}

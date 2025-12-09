@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a pickup truck": null,
+    "the pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "Maria De Jesus Garcia's pickup truck": "Maria De Jesus Garcia\u2019s pickup truck",
+    "the pickup truck camper": "pickup truck camper"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia\u2019s pickup truck": "Vehicle used in the transportation of undocumented aliens, stopped by border patrol for immigration inspection, and subject to a suppression motion regarding evidence obtained from the stop and search. Stopped more than 100 miles from the United States-Mexican border. Factors relevant to Brignoni-Ponce standard are present. Occupants were unwashed and unkempt, and made attempts to evade detection. The vehicle was stopped based on an objective and particularized suspicion that it was transporting illegal aliens. Probable cause to search existed due to admissions of undocumented status by passengers and observations suggesting additional individuals in the pickup truck camper.",
+    "marked border patrol sedan": "Border Patrol vehicle used for surveillance and observation, driven by agents during the stop of Maria De Jesus Garcia's pickup truck",
+    "pickup truck camper": "Vehicle suspected of transporting living beings, possibly people, due to fogged windows and heavy loading; found to be carrying multiple undocumented aliens, and subject to a search. Frequently used for transporting illegal aliens.",
+    "pickup truck camper and Maria De Jesus Garcia\u2019s pickup truck": "Vehicles involved in the transportation of smuggled persons, with the pickup truck camper being frequently used for such activities"
+  }
+}

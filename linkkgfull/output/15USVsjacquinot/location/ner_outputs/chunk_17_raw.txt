@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Alpine", "Kansas"],
+    "NOUN_PHRASE": ["the area", "locations", "the record"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alpine": "location of recent narcotics smuggling",
+    "Kansas": "destination of smuggled narcotics"
+  }
+}

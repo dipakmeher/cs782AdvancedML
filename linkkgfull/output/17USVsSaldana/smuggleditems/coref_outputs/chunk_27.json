@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "drugs": "smuggled substances",
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "his luggage": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, identified himself as a truck driver by trade, has a history of arrests including smuggling of illegal aliens and drugs, served 9 years in federal prison, suspected of transporting smuggled substances again",
+    "United States Government": "Party responding to Federico Saldana's motion",
+    "Court in the above-styled cause": "Court presiding over Federico Saldana's case, evaluating the voluntariness of consent to search",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana, searched by officers for drugs, subject of a traffic stop due to unsafe lane changes and near-collisions, with consent given by Federico Saldana for search, had oversized tires and after-market rims",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by officers, containing a scissor lift and a piece of heavy machinery, had recently registered license plates in Laredo four days earlier to Daniel Martin Huerta",
+    "Gary Haston": "Veteran narcotics investigator with Williamson County Sheriff's Office, testified about atypical features of the 2008 Chevrolet truck and flatbed trailer",
+    "Heather Vargas": "Narcotics detective with Williamson County Sheriff's Office, relative newcomer to the narcotics division",
+    "Daniel Martin Huerta": "Registered owner of the flatbed trailer, first name mentioned by Federico Saldana as the owner",
+    "Daniel A. Huerta": "Registered owner of the 2008 Chevrolet truck",
+    "Gary Haston and Heather Vargas": "Williamson County Sheriff's Office detectives involved in the case",
+    "Josiah Bennett's patrol car": "Patrol car used to transport K-9 dog used for searching, driven by Josiah Bennett during the search operation",
+    "Deputy Jason Cox's patrol video": "Video recording of the traffic stop, with audio that is not entirely clear",
+    "cab of the 2008 Chevrolet truck driven by Federico Saldana": "Area where vehicle registration documents were found, searched by K-9 dog through front and rear doors on driver side",
+    "smuggled persons": "previously smuggled individuals, mentioned in Federico Saldana's criminal history",
+    "smuggled substances": "suspected cargo, previously smuggled by Federico Saldana, including narcotics and dope, searched for in the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck",
+    "cocaine": "Specific type of drug mentioned in Federico Saldana's motion to suppress, argued as having no reasonable suspicion for stop and search",
+    "methamphetamine": "Specific type of drug asked about during interrogation",
+    "Williamson County Sheriff's Office video recording": "Video recording made by Williamson County Sheriff's Office during the search, used to compare with Josiah Bennett's testimony",
+    "K-9 dog used for searching": "Dog used by Josiah Bennett to search the 2008 Chevrolet truck and flatbed trailer",
+    "twenty four bundles of a compressed white powder": "Bundles that field-tested positive for cocaine, found after dismantling four batteries",
+    "specific type of smuggled substance": "Twenty four bundles of a compressed white powder that field-tested positive for cocaine",
+    "scissor lift": "Scissor lift with new paint job and corrugated metal plates under the tires",
+    "smuggled persons and smuggled substances": "Individuals and drugs smuggled by Federico Saldana in previous incidents"
+  }
+}

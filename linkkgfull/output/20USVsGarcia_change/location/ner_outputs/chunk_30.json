@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate 35"
+    ],
+    "NOUN_PHRASE": [
+      "that portion",
+      "the vehicle",
+      "the camper shell",
+      "the truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "road where Maria De Jesus Garcia's vehicle was traveling"
+  }
+}

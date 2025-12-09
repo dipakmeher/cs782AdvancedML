@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["this case", "this circuit", "this point in time"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

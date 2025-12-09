@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Pruszenski": "Stanley Pruszenski",
+    "Baron": "Alfred Baron",
+    "the agents": "Stanley Pruszenski and Alfred Baron",
+    "the officer": "Stanley Pruszenski and Alfred Baron"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Stanley Pruszenski": "United States Border Patrol agent with specialized training, served for two years and five months, received training in Spanish, and had limited proficiency",
+    "Alfred Baron": "United States Border Patrol agent with specialized training, native Spanish speaker, participated in approximately 150 incidents involving arrests for transporting illegal aliens, served for slightly over three years",
+    "Stanley Pruszenski and Alfred Baron": "Agents who conducted the stop of Garcia's truck, applied the multi-factorial test to determine reasonable suspicion, observed suspicious behavior from occupants, used flashlight to observe vehicle occupants at night, testified about occupants' attempts to hide from the flashlight, had specialized training as border patrol agents"
+  }
+}

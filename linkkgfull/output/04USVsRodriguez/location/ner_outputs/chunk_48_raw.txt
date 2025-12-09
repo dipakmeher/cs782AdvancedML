@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S. 59", "FM 2050", "San Pablo Road", "Highway 16"],
+    "NOUN_PHRASE": ["this turn", "that point", "a roving", "a major highway going north"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. 59": "route for smugglers",
+    "FM 2050": "turn for smugglers",
+    "San Pablo Road": "alternative route",
+    "Highway 16": "desired route for smugglers to avoid checkpoints"
+  }
+}

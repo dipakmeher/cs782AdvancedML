@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "ICE": "Immigration and Customs Enforcement (ICE)",
+    "the Magistrate Judge": "United States District Court",
+    "United States Magistrate Judge": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of claimed citizenship, country where Rogelio Valero-De La Rosa was removed from and later found",
+    "Immigration and Customs Enforcement (ICE)": "agency conducting interview with defendant Rogelio Valero-De La Rosa, involved in immigration enforcement",
+    "United States District Court": "court that calculated the criminal history and sentenced Rogelio Valero-De La Rosa, determined the advisory guideline range, mentioned in the context of a plea agreement and 'fast track' program"
+  }
+}

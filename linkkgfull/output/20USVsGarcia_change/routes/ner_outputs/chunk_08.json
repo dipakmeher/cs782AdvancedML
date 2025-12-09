@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate Highway 35",
+      "United States-Mexican border"
+    ],
+    "NOUN_PHRASE": [
+      "common smuggling routes",
+      "this segment"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "a common smuggling route",
+    "United States-Mexican border": "the destination of the smuggling routes"
+  }
+}

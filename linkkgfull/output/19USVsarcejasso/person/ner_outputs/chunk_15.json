@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Arce-Jasso"
+    ],
+    "NOUN_PHRASE": [
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Arce-Jasso": "contends that appeals from judgments of acquittal are not permitted"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Jose Marlon Ibarra-Zelaya's motion": "illegal alien smuggling venture",
+    "the United States of America's motion to dismiss": null,
+    "the United States of America's motion to expand the record": null,
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the United States of America": "the United States of America",
+    "a certificate of appealability": "certificate of appealability",
+    "the Clerk": null,
+    "Civil Action No. H-07-1251": null,
+    "the docket in Civil Action No. H-07-1251": null,
+    "United States District Judge": null,
+    "the United States Supreme Court's decisions": null,
+    "the United States Federal Grand Jury": "United States Federal Grand Jury",
+    "the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant whose motion was denied and civil action dismissed with prejudice",
+    "Nancy F. Atlas": "judge who ordered the denial of Jose Marlon Ibarra-Zelaya's motion and dismissal of the civil action",
+    "the United States of America": "plaintiff in the case, whose motions to dismiss and expand the record were granted",
+    "illegal alien smuggling venture": "smuggling operation involving illegal aliens, subject to the Antiterrorism and Effective Death Penalty Act of 1996",
+    "certificate of appealability": "document denied to Jose Marlon Ibarra-Zelaya, required for an appeal to proceed",
+    "United States Federal Grand Jury": "grand jury that may provide supplemental findings in an abundance of caution",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with versions applicable at different times"
+  }
+}

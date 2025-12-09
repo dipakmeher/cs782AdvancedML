@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["FM 2050"],
+    "NOUN_PHRASE": ["the road", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "a two-lane road where observations were made"
+  }
+}

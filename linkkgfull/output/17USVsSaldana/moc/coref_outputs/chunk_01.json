@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana's phone": null,
+    "the phone": null,
+    "Williamson County Sheriff's Office video": "Williamson County Sheriff's Office video recording",
+    "the 2008 Chevrolet truck": "the 2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "the flatbed trailer towed by the 2008 Chevrolet truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Williamson County Sheriff's Office video recording": "Video evidence submitted at the hearing",
+    "the 2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana on the day of the stop and search",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "Trailer towed by the vehicle driven by Federico Saldana"
+  }
+}

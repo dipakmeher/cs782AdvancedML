@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Vargas": "Heather Vargas",
+    "the truck": null,
+    "the trailer": null,
+    "a patrol deputy": "Jason Cox",
+    "the trailing car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Gary Haston": "witness and observer of the truck's behavior, veteran narcotics investigator with 17 years of experience, teaching Heather Vargas drug interdiction techniques, testified to observations about the truck and trailer",
+    "Heather Vargas": "involved in contacting a patrol deputy, relative newcomer to the narcotics division, learning from Gary Haston",
+    "Jason Cox": "patrol deputy involved in the traffic stop"
+  }
+}

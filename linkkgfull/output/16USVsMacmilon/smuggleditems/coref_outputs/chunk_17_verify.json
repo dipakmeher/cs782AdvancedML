@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Zeba Williams": "Zeba Williams",
+    "United States District Court": "United States District Court",
+    "Tedford factors": null,
+    "the United States Border Patrol Agent": "Luis Pena and Manuel Hernandez",
+    "the encounter": null,
+    "the suppression hearing": "suppression hearing",
+    "Ramon De La Cruz's arguments": null,
+    "the immigration checkpoint stop": "immigration checkpoint stop",
+    "the search of the tractor-trailer": "search of the tractor-trailer",
+    "Ramon De La Cruz's rights": null,
+    "Ramon De La Cruz's motion to suppress": "Ramon De La Cruz's motion to suppress",
+    "the United States District Court's denial of Ramon De La Cruz's motion to suppress": "United States District Court's denial of Ramon De La Cruz's motion to suppress",
+    "Ramon De La Cruz's motion to dismiss the indictment": "Ramon De La Cruz's motion to dismiss the indictment",
+    "the Speedy Trial Act grounds": "Speedy Trial Act",
+    "the indictment": "Ramon De La Cruz's indictment",
+    "the trial": "Ramon De La Cruz's trial"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Zeba Williams": "driver of the tractor-trailer at the immigration checkpoint stop, interacted with Luis Pena and gave consent for search",
+    "United States District Court": "court that denied Ramon De La Cruz's motion to suppress and his motion to dismiss the indictment on Speedy Trial Act grounds",
+    "Luis Pena and Manuel Hernandez": "United States Border Patrol Agents involved in the immigration checkpoint stop, testified at Ramon De La Cruz's trial",
+    "suppression hearing": "hearing where evidence was presented regarding the immigration checkpoint stop and the search of the tractor-trailer",
+    "Ramon De La Cruz's motion to suppress": "motion filed by Ramon De La Cruz to suppress evidence seized from the immigration checkpoint stop, challenging both the duration of the stop and the ensuing search of the tractor-trailer",
+    "United States District Court's denial of Ramon De La Cruz's motion to suppress": "ruling made by the United States District Court on Ramon De La Cruz's motion to suppress, on January 5",
+    "Ramon De La Cruz's motion to dismiss the indictment": "pretrial motion filed by Ramon De La Cruz, denied by the United States District Court",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods",
+    "Ramon De La Cruz's indictment": "indictment against Ramon De La Cruz for alien transportation offenses, including conspiracy to transport aliens within the United States for commercial advantage or private financial gain",
+    "Ramon De La Cruz's trial": "trial of Ramon De La Cruz for smuggling undocumented aliens, began after denial of motion to dismiss"
+  }
+}

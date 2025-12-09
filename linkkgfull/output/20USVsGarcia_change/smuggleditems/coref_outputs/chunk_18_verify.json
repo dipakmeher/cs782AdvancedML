@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal migrants": "undocumented aliens",
+    "people of Hispanic-descent appearance": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals suspected of crossing the border illegally, potentially traveling and being stopped based on appearance and other slight circumstances"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's Vehicle"
+    ],
+    "NOUN_PHRASE": [
+      "three women",
+      "five or six men",
+      "Mexican aliens",
+      "illegal alien"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's Vehicle": "a vehicle stopped by Stanley Pruszenski and Alfred Baron"
+  }
+}

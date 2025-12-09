@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the checkpoint",
+      "the tractor's windshield",
+      "the sleeper area",
+      "the back"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

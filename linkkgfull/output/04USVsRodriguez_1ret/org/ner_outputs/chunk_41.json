@@ -1,0 +1,28 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S. Border Patrol",
+      "U.S. Highway 59",
+      "U.S. Highway 359",
+      "U.S. Highway 277",
+      "Highway 16",
+      "Highway 377",
+      "Ranch Road 2523",
+      "Farm-to-Market Road 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the agent's"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. Border Patrol": "law enforcement agency",
+    "U.S. Highway 59": "highway",
+    "U.S. Highway 359": "highway",
+    "U.S. Highway 277": "highway",
+    "Highway 16": "highway",
+    "Highway 377": "highway",
+    "Ranch Road 2523": "road",
+    "Farm-to-Market Road 2050": "road"
+  }
+}

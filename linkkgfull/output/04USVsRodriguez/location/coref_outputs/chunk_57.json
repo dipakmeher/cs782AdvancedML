@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the checkpoint": "Freer immigration checkpoint",
+    "Border Patrol station": "Border Patrol station",
+    "the way": null,
+    "the white car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Freer immigration checkpoint": "location where Agent Benavides and Defendant were headed, near the intersection of Highway 16 and U.S. 59",
+    "Border Patrol station": "location where individuals are taken for questioning, potentially following a traffic stop or other law enforcement action"
+  }
+}

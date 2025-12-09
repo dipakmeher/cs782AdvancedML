@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": "United States Border Patrol",
+    "the department": "United States Department of Homeland Security",
+    "the District Judge": "United States District Judge",
+    "the Magistrate Judge": "United States Magistrate Judge",
+    "the parties": null,
+    "United States Magistrate Judge": "United States Magistrate Judge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge who signed the Report and Recommendation, outlining the process for filing objections to the findings, conclusions, and recommendations",
+    "United States District Judge": "judge responsible for conducting independent reviews of motions to suppress evidence and ensuring adherence to lawful standards for traffic stops and arrests",
+    "United States Border Patrol": "law enforcement agency involved in the arrest and investigation of human smuggling cases",
+    "United States Department of Homeland Security": "Received a phone call regarding an attempted alien smuggling event and conducted interviews at the Freer immigration checkpoint"
+  }
+}

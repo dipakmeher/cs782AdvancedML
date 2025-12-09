@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The United States of America": "the United States of America",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "The United States Court of Appeals for the Fifth Circuit": "The United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States of America": "Plaintiff in the case, opposing Jose Marlon Ibarra-Zelaya's motion for relief",
+    "Nancy F. Atlas": "Judge presiding over the case, who sentenced Jose Marlon Ibarra-Zelaya and is reviewing his claim for relief",
+    "Jose Marlon Ibarra-Zelaya": "Defendant in a criminal case involving alien smuggling and hostage taking, sentenced to 292 months in prison, seeking relief from his sentence under Section 2255",
+    "United States Sentencing Guidelines Manual": "manual used for determining sentence, considering the most serious offense among multiple counts, under which Jose Marlon Ibarra-Zelaya's sentence was calculated",
+    "Adrian Almaguer": "attorney for Jose Marlon Ibarra-Zelaya, whose performance is being questioned",
+    "The United States Court of Appeals for the Fifth Circuit": "court that affirmed Jose Marlon Ibarra-Zelaya's conviction and sentence"
+  }
+}

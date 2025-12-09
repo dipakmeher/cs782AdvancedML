@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the back seat", "the back seat area", "the stow-away location", "the modification"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

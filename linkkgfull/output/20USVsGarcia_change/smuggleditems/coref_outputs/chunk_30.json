@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the pickup truck camper": "pickup truck camper",
+    "the marked United States Border Patrol sedan": "marked United States Border Patrol sedan",
+    "the interior": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "pickup truck camper": "vehicle used for smuggling undocumented aliens on Interstate Highway 35, characterized by heavy loading and difficulty in handling, subject of a suppression motion regarding evidence obtained during its stop and search, with factors such as appearance, behavior of the driver, and number and appearance of passengers considered in determining justification for the stop, stopped more than 100 miles from the United States-Mexican border, often having fogged windows, exhibiting an unusually heavy and overloaded appearance, stopped 115 miles north of the United States-Mexican border, where individuals were scrambling to avoid detection",
+    "marked United States Border Patrol sedan": "law enforcement vehicle used for stopping and searching vehicles near the United States-Mexican border"
+  }
+}

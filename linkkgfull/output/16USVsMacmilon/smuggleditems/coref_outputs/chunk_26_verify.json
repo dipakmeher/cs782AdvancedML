@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon": "Raymond McMillon",
+    "the United States District Court": "United States District Court",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "the Speedy Trial Act": "Speedy Trial Act",
+    "the continuance motions": null,
+    "the ends-of-justice findings": null,
+    "the January 20 hearing": null,
+    "Raymond McMillon's motion to dismiss": "motion to dismiss the indictment",
+    "the United States District Court's denial of Raymond McMillon's motion to dismiss": "United States District Court",
+    "Bieganowski": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant who challenges the search of the tractor-trailer and argues about the Speedy Trial Act",
+    "Ramon De La Cruz": "defendant who requested continuances to prepare for trial, with arguments regarding the thirty-day exclusion period",
+    "United States District Court": "court that denied Ramon De La Cruz's motion to dismiss and presided over his trial, also ruled on Raymond McMillon's motions",
+    "Speedy Trial Act": "governs the timing of trials, including exclusions for certain periods, with requirements for ends-of-justice findings",
+    "motion to dismiss the indictment": "motion filed by Ramon De La Cruz and Raymond McMillon, denied by the United States District Court"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the aliens": "ten undocumented aliens",
+    "aliens": "ten undocumented aliens",
+    "cellular Bluetooth Device": "cellular Bluetooth Device",
+    "the cellular Bluetooth Device": "cellular Bluetooth Device"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer, discovered at the immigration checkpoint stop and testified against Ramon De La Cruz",
+    "cellular Bluetooth Device": "evidence item used to identify Ramon De La Cruz at trial, with conflicting testimony about its possession"
+  }
+}

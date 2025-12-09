@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["FM 2050", "U.S. 59", "Texas Department of Transportation", "Austin", "Laredo Division", "TxDOT", "Texas", "Freer checkpoint"],
+    "NOUN_PHRASE": ["the Court", "the mechanism", "the area", "the road", "the type of vehicles", "the direction of the vehicles"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "road where traffic patterns are being analyzed",
+    "U.S. 59": "road where traffic patterns are being analyzed",
+    "Texas Department of Transportation": "organization providing traffic data",
+    "Austin": "location of the Transportation, Planning, and Programming Division",
+    "Laredo Division": "division of the Texas Department of Transportation",
+    "TxDOT": "abbreviation for Texas Department of Transportation",
+    "Texas": "state where the roads and departments are located",
+    "Freer checkpoint": "location where Jorge Luis Trevino has worked"
+  }
+}

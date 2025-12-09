@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Maria De Jesus Garcia's truck"],
+    "NOUN_PHRASE": ["a vehicle", "the occupants of a vehicle", "Maria De Jesus Garcia's truck", "Maria De Jesus Garcia's vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's truck": "vehicle involved in the incident"
+  }
+}

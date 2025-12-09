@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo", "Texas", "United States"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "location where the document was signed",
+    "Texas": "state where Laredo is located",
+    "United States": "country where the legal proceedings are taking place"
+  }
+}

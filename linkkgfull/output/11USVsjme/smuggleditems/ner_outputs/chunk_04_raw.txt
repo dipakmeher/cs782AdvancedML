@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["THC", "cocaine", "benzodiazepines"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "THC": "a substance J.M.E. tested positive for",
+    "cocaine": "a substance J.M.E. tested positive for",
+    "benzodiazepines": "a substance J.M.E. tested positive for"
+  }
+}

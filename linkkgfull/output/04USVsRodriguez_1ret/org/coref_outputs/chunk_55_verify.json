@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Supreme Court": "Supreme Court of the United States",
+    "Border Patrol": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Supreme Court of the United States": "high court that has long held certain principles regarding reasonableness in traffic stops and arrests, including that the constitutional reasonableness of traffic stops does not depend on the actual motivations of individual officers involved. Refused to authorize investigative interrogations at law enforcement stations on less than probable cause or consent.",
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law. Involved in the stop of the black Dodge pickup truck and white Malibu sedan. Also involved in the arrest and questioning of IGNACIO RODRIGUEZ, JR."
+  }
+}

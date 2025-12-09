@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Haston": "Gary Haston",
+    "Saldana": "Federico Saldana",
+    "Cox": "Jason Cox",
+    "the officers": "Gary Haston and Jason Cox"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "driver of the truck and trailer, made troubling statements during questioning, previously smuggled aliens and drugs using his 18-wheeler",
+    "Gary Haston": "narcotics investigator with 17 years of experience, strongly suspected Saldana was transporting a load of dope",
+    "Jason Cox": "officer who stopped Saldana for traffic violations, involved in the search and investigation",
+    "Gary Haston and Jason Cox": "officers involved in the traffic stop and investigation of Saldana, received consent to search the truck and trailer"
+  }
+}

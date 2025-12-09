@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["written notice", "written demand"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

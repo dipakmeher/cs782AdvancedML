@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Pena": "Luis Pena",
+    "Williams": "Zeba Williams",
+    "McMillon": "Raymond McMillon",
+    "Agent Hernandez": "Manuel Hernandez",
+    "Aroxa": null,
+    "the pair": "Raymond McMillon and Zeba Williams",
+    "a person": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant, appellant, and passenger in a tractor-trailer with undocumented aliens, convicted of alien transportation offenses, traveled with co-defendant to Laredo, questioned by Agent Pena at an immigration checkpoint",
+    "Zeba Williams": "co-defendant, driver of the tractor-trailer, asked McMillon to accompany him to pick up commercial equipment, questioned by Agent Pena at an immigration checkpoint, gave consent for search of tractor's sleeper area",
+    "Luis Pena": "Border Patrol Agent who approached the driver-side door at an immigration checkpoint near Freer, Texas, questioned Williams and McMillon, discovered a person hidden in the tractor's sleeper area",
+    "Manuel Hernandez": "Border Patrol Agent who prepared to have his canine perform a sniff of the tractor-trailer's exterior, worked with Agent Pena during the stop",
+    "Raymond McMillon and Zeba Williams": "pair who traveled together from Houston to San Antonio and then to Laredo, questioned by Agent Pena at an immigration checkpoint"
+  }
+}

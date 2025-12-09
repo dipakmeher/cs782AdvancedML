@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Department of Homeland Security",
+      "Immigration Services"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Department of Homeland Security": "handled application for derivative citizenship",
+    "Immigration Services": "part of the Department of Homeland Security that handled the application"
+  }
+}

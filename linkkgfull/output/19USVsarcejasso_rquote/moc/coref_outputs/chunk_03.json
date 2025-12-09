@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raul Rafael Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "United States of America": "United States of America",
+    "a photo ID": null,
+    "the indictment": "the indictment against Raul Rafael Arce-Jasso",
+    "the motion to suppress": "the motion to suppress the cocaine",
+    "the U.S. Border Patrol Checkpoint": "the U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas",
+    "the bench trial": "the bench trial of Raul Rafael Arce-Jasso",
+    "the joint stipulation of fact": "the joint stipulation of fact in the case of Raul Rafael Arce-Jasso",
+    "the verdict": "the verdict against Raul Rafael Arce-Jasso"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raul Rafael Arce-Jasso": "Defendant-Appellee in the case",
+    "United States of America": "Plaintiff-Appellant in the case",
+    "the indictment against Raul Rafael Arce-Jasso": "Charges brought against Raul Rafael Arce-Jasso for possession of cocaine with intent to distribute",
+    "the motion to suppress the cocaine": "Motion filed by Raul Rafael Arce-Jasso to suppress evidence due to allegedly unconstitutionally lengthy detention",
+    "the U.S. Border Patrol Checkpoint on Interstate 35 near Laredo, Texas": "Location where Raul Rafael Arce-Jasso was detained",
+    "the bench trial of Raul Rafael Arce-Jasso": "Trial that resulted in the verdict against Raul Rafael Arce-Jasso",
+    "the joint stipulation of fact in the case of Raul Rafael Arce-Jasso": "Agreement between parties on facts, excluding the legality of the stop",
+    "the verdict against Raul Rafael Arce-Jasso": "Outcome of the trial finding Raul Rafael Arce-Jasso guilty"
+  }
+}

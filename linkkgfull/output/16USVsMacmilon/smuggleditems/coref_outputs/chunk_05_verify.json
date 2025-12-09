@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the person": "ten undocumented aliens",
+    "the bed": null,
+    "the tractor-trailer's sleeper area": null,
+    "the tractor-trailer's rear sleeper area": null,
+    "the tractor-trailer's closets": null,
+    "the tractor-trailer's beds": null,
+    "undocumented aliens": "ten undocumented aliens",
+    "aliens": "ten undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer's closets and beds, discovered during search by United States Border Patrol Agents"
+  }
+}

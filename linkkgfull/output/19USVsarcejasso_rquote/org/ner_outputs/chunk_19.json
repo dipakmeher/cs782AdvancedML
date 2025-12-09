@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America",
+      "Merriam Webster Online Dictionary"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "the appellant in the case",
+    "Merriam Webster Online Dictionary": "a reference source"
+  }
+}

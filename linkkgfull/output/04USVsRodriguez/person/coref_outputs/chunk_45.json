@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the Magistrate Judge": null,
+    "the District Judge": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge",
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants whose motions to suppress were recommended for denial by the Magistrate Judge"
+  }
+}

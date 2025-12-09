@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "the pickup truck camper": "the pickup truck camper",
+    "the Vehicle": "Maria De Jesus Garcia's Vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the pickup truck camper": "Vehicle suspected of carrying smuggled individuals due to its heavily loaded condition and fogged windows, frequently used for transporting illegal aliens.",
+    "Maria De Jesus Garcia's Vehicle": "Vehicle stopped by United States Border Patrol agents Stanley Pruszenski and Alfred Baron for an immigration inspection, more than 100 miles from the United States-Mexico Border. Occupants appeared unwashed and unkempt, and made attempts to evade detection. Stopped based on objective and particularized suspicion of transporting illegal aliens. Noted for its apparent heavy load or overloading."
+  }
+}

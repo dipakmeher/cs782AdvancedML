@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agent": "United States Border Patrol Agent Hugo Benavides",
+    "the court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Hugo Benavides": "Agent who testified about his uncertainty regarding the arrest of IGNACIO RODRIGUEZ, JR., but whose actions were deemed to be based on probable cause. He was present at the location where Reymundo Reyes had stopped IGNACIO RODRIGUEZ, JR. and was aware of the details regarding the black Dodge pickup truck.",
+    "United States District Court": "Court that analyzed the relevance of district traffic maps in determining the average daily traffic on Farm-to-Market Road 2050 and U.S. Highway 59, and is presiding over the case of IGNACIO RODRIGUEZ, JR."
+  }
+}

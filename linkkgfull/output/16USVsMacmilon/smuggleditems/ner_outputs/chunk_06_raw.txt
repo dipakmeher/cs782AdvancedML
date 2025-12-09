@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["aliens", "Ramon De La Cruz", "Jorge Miguel Hernandez-Gomez"],
+    "NOUN_PHRASE": ["the aliens", "the tractor-trailer's sleeper area"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "undocumented immigrants being transported",
+    "Ramon De La Cruz": "defendant and transporter of aliens",
+    "Jorge Miguel Hernandez-Gomez": "alien being transported"
+  }
+}

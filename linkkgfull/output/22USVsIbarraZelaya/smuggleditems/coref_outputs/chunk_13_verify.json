@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States of America Constitution": "the United States of America Constitution",
+    "ex post facto Law": "ex post facto Law",
+    "the United States Congress": "the United States Congress"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States of America Constitution": "Document outlining the fundamental laws and principles of the United States, including prohibitions on ex post facto laws",
+    "ex post facto Law": "law that prohibits applying a more onerous penalty than was in effect at the time of the offense",
+    "the United States Congress": "Legislative body of the United States, prohibited from enacting ex post facto laws"
+  }
+}

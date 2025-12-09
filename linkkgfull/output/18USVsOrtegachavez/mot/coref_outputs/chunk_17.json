@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a bus": "bus",
+    "a taxi": "taxi",
+    "a van": "van",
+    "the van": "van"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "bus": "Used to transport undocumented aliens from Sabinas Hidalgo to Nuevo Laredo",
+    "taxi": "Used to transport undocumented aliens from the Nuevo Laredo bus terminal to a point close to the bridge leading into the United States",
+    "van": "Used to smuggle undocumented aliens across the border, with a hidden compartment discovered by a Customs officer, and employed in multiple trips including those in November 1980"
+  }
+}

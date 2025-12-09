@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ortega-Chavez",
+      "Ramon Gonzalez Sanchez",
+      "Alejandro Gonzalez Delgado",
+      "Sanchez",
+      "Ortega-Chavez"
+    ],
+    "NOUN_PHRASE": [
+      "the five undocumented aliens",
+      "the appellant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ortega-Chavez": "appellant and smuggler",
+    "Ramon Gonzalez Sanchez": "co-conspirator and van driver",
+    "Alejandro Gonzalez Delgado": "co-conspirator",
+    "Sanchez": "co-conspirator and van driver"
+  }
+}

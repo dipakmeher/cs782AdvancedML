@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Bruni": "Bruni",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "Hebbronville": "Hebbronville",
+    "Laredo": "Laredo, Texas",
+    "U.S. 359": "U.S. 359",
+    "U.S. 59": "U.S. 59",
+    "Ranchitos Las Lomas": "Ranchitos Las Lomas",
+    "FM 2895": "Farm-to-Market Road 2895",
+    "the southern terminus": null,
+    "one of the ranches": null,
+    "the southern end": null,
+    "any other location": null,
+    "the most direct route": "U.S. 359",
+    "the indirect route": "U.S. 59 to FM 2050",
+    "the checkpoint": "Hebbronville checkpoint",
+    "the journey": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Bruni": "destination at the southern terminus of FM 2050",
+    "Farm-to-Market Road 2050": "farm-to-market road used as an indirect route to avoid checkpoints",
+    "Hebbronville": "location with a checkpoint on U.S. 359 that smugglers try to avoid",
+    "Laredo, Texas": "origin of journey for defendants",
+    "U.S. 359": "alternative route and most direct path to Bruni",
+    "U.S. 59": "route taken by defendant as part of an indirect route to avoid checkpoints",
+    "Ranchitos Las Lomas": "possible origin of journey if U.S. 359 was not immediately accessible",
+    "Farm-to-Market Road 2895": "alternative farm-to-market road that would be a more direct route to Bruni",
+    "U.S. 59 to FM 2050": "indirect route taken to avoid the Hebbronville checkpoint on U.S. 359"
+  }
+}

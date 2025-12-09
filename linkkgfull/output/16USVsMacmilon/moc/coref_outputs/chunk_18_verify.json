@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Speedy Trial Act": "the Speedy Trial Act",
+    "pretrial motion": null,
+    "the hearing": null,
+    "post-hearing briefs": null,
+    "the submission": null,
+    "the clock": null,
+    "thirty-day exclusion period": "thirty-day exclusion period",
+    "statutory exclusions": null,
+    "the Act": "the Speedy Trial Act",
+    "a continuance": null,
+    "the judge": "United States District Court",
+    "the ends of justice": null,
+    "the public and the defendant": null,
+    "a speedy trial": null,
+    "the case": null,
+    "the court's legal conclusions": null,
+    "the court's factual findings": null,
+    "clear error": null,
+    "United States District Court's speedy trial determinations": "the United States District Court's speedy trial determinations",
+    "the district court": "the United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the Speedy Trial Act": "Federal law governing the timing of trials, which excludes certain periods of delay from its calculations",
+    "thirty-day exclusion period": "Period of time excluded from the Speedy Trial Act case clock calculations",
+    "United States District Court": "Court responsible for making ends-of-justice findings on the record and for ruling on motions related to speedy trial determinations"
+  }
+}

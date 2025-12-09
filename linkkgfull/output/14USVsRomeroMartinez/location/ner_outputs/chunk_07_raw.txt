@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas", "Texas Court of Criminal Appeals"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas": "state where the trial court is located",
+    "Texas Court of Criminal Appeals": "court that established a new reasonableness standard"
+  }
+}

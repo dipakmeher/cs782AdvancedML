@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "District Court",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "the party filing notice to appeal, arguing for the appeal despite untimely certification",
+    "District Court": "court viewing the United States of America's reinstated appeal as incorporating the proper, but untimely, certification from its first appeal"
+  }
+}

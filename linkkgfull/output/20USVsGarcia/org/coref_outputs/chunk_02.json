@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the government": null,
+    "the district court": "United States District Court",
+    "the jury": null,
+    "United States Border Patrol": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court where Maria De Jesus Garcia's trial was held",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance and control"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Luis Pena's questioning": null,
+    "the checkpoint stop": "the immigration checkpoint stop",
+    "the suppression testimony": null,
+    "the United States District Court's factual findings": null,
+    "Raymond McMillon's tractor-trailer": "the tractor-trailer",
+    "Zeba Williams and Raymond McMillon": null,
+    "United States Border Patrol agents": "United States Border Patrol Agent",
+    "citizenship and travel questions": null,
+    "the search": null,
+    "the encounter": null,
+    "the precedent": null,
+    "Machuca-Barrera": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the immigration checkpoint stop": "A stop conducted by United States Border Patrol agents to ask citizenship and travel questions and request consent for a search",
+    "United States Border Patrol Agent": "Agent responsible for conducting stops, detentions, and searches at immigration checkpoints",
+    "the tractor-trailer": "Vehicle used by Zeba Williams and accompanied by Raymond McMillon to travel from San Antonio to Laredo, stopped at Freer, Texas"
+  }
+}

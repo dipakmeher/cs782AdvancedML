@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the judge": "United States District Court",
+    "reviewing courts": "United States Court of Appeals",
+    "the trial judge": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court responsible for making factual findings in sentencing cases, including determining the role of the defendant",
+    "United States Court of Appeals": "Reviews the record and determines sentence validity, guided by the evidentiary basis for sentencing judgments provided by the district court's specific findings"
+  }
+}

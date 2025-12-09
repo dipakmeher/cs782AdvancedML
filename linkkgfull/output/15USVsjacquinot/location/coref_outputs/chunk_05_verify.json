@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Kansas": "Kansas",
+    "Alpine": "Alpine, Texas",
+    "the park": "Big Bend National Park",
+    "the local area": "Alpine, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Kansas": "state of origin for a suspicious vehicle's license plate and destination for narcotics",
+    "Alpine, Texas": "area where a recent narcotics smuggling operation was detected, location where Border Patrol Agents were stationed",
+    "Big Bend National Park": "part of the area being patrolled by Border Patrol Agents, included in the 140-mile area of the United States/Mexican border, where vehicle sensors detected northbound vehicles"
+  }
+}

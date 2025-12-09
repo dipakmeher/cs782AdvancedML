@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "the Government": "United States of America",
+    "the court": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raul Rafael Arce-Jasso": "defendant, appellant, and defendant-appellee in a case involving possession of cocaine with intent to distribute, driver of the Mercury Cougar, pleaded not guilty, filed motion for reconsideration, contends that the Court does not have appellate jurisdiction to review the district court's decision to suppress the cocaine",
+    "United States of America": "plaintiff-appellant seeking review of the district court's judgment of acquittal and denial of motion for reconsideration, filed joint notice of appeal, has the ability to appeal suppression of evidence in criminal cases under certain conditions",
+    "Raul Rafael Arce-Jasso, United States of America": null,
+    "DeMOSS": "Circuit Judge presiding over the appeal of the United States of America vs. Raul Rafael Arce-Jasso",
+    "Jesus Garcia": "border patrol agent manning the primary inspection lane at the border patrol checkpoint, questioned Arce-Jasso about his citizenship, stated questions about common destinations for illegal aliens",
+    "Smith": "defendant in an arson case where the Court found an indicted suspect's allegedly false allegations to be substantial proof of a fact material in the proceedings",
+    "Martinez": "recognizes the proper vehicle for interlocutory criminal appeals by the Government"
+  }
+}

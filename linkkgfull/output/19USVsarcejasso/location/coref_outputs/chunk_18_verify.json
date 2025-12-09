@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the District Court": "District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country making an appeal from orders suppressing evidence, with the right to appeal under specific conditions",
+    "District Court": "court that denied the United States of America's motion for reconsideration on August 12, and is reviewing the appeal"
+  }
+}

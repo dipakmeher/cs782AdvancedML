@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Alma Delia Simon-Fernandez": "Alma Delia Simon-Fernandez",
+    "Inocencio Garcia-Guerrero": "Inocencio Garcia-Guerrero",
+    "the United States": "United States",
+    "South Texas": "South Texas Trek"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alma Delia Simon-Fernandez": "person who died during the smuggling operation due to heat stroke caused by harsh conditions in the South Texas desert",
+    "Inocencio Garcia-Guerrero": "defendant, alien smuggler guide responsible for creating substantial risk of death or serious bodily injury to the undocumented aliens during the smuggling journey through South Texas",
+    "United States": "country where the smuggling incident occurred, imposing sentencing enhancements for alien smuggling offenses",
+    "South Texas Trek": "location of the smuggling journey guided by Inocencio Garcia-Guerrero, characterized by harsh desert conditions in June that contributed to the death of Alma Delia Simon-Fernandez"
+  }
+}

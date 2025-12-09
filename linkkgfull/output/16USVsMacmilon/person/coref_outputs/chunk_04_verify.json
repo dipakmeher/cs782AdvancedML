@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Pena": "Luis Pena",
+    "Williams": "Zeba Williams",
+    "McMillon": "Raymond McMillon",
+    "Agent Hernandez": "Manuel Hernandez",
+    "Aroxa": null,
+    "the pair": "Raymond McMillon and Zeba Williams",
+    "a person": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Luis Pena": "Government agent who questioned Williams and McMillon, asked for consent to search the tractor's sleeper area",
+    "Zeba Williams": "individual being questioned by Agent Pena, driver of the tractor-trailer, gave consent for the search",
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed",
+    "Manuel Hernandez": "Government agent working with a dog during the checkpoint stop, alerted Agent Pena to check the back of the tractor",
+    "Raymond McMillon and Zeba Williams": "pair being questioned by Agent Pena about their travel plans and citizenship"
+  }
+}

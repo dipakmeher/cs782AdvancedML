@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ortega-Chavez"
+    ],
+    "NOUN_PHRASE": [
+      "the government's attorney",
+      "Defense counsel",
+      "the defendant",
+      "the court",
+      "the government's witnesses",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ortega-Chavez": "defendant"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo South Station": "Laredo South Station",
+    "La Moca Ranch": "La Moca Ranch",
+    "June": null,
+    "San Antonio": "San Antonio",
+    "South Texas": "South Texas",
+    "the surrounding area": null,
+    "the hospital": "Laredo"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo South Station": "location of border patrol agents who responded to the La Moca Ranch incident",
+    "La Moca Ranch": "location where an undocumented female alien, Alma Delia Simon-Fernandez, was found dead due to probable heat stroke",
+    "San Antonio": "intended destination within the United States for the group guided by Inocencio Garcia-Guerrero",
+    "South Texas": "region where Inocencio Garcia-Guerrero transported aliens through the desert-like brush in extreme heat, resulting in death and medical emergencies",
+    "Laredo": "location of the hospital where dehydrated aliens were transported and received medical attention"
+  }
+}

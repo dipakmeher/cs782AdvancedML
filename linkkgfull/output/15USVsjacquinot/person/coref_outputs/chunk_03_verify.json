@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Graham": "Andrew P. Graham",
+    "Snodgrass": "Jay Snodgrass",
+    "the agents": "Andrew P. Graham and Jay Snodgrass"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Andrew P. Graham": "Border Patrol Agent with three years' experience serving in the Alpine area, testified about the driver's behavior contributing to reasonable suspicion, involved in at least 30 narcotics cases and 15 to 20 alien smuggling cases, notified by Marfa Sector Communications about vehicle sensors indicating northbound vehicles",
+    "Jay Snodgrass": "Border Patrol Agent with eleven years' experience, including a few months in the Alpine area, contributed to the determination of suspicious activity, author of a memo regarding the defendant's case",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents involved in surveillance near the United States/Mexican border, providing reasonable suspicion for a stop based on proximity to the border, monitoring vehicle sensors in Big Bend National Park"
+  }
+}

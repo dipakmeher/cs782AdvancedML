@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Magistrate Judge"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Magistrate Judge": "took judicial notice of the fact that the sun set at a certain time"
+  }
+}

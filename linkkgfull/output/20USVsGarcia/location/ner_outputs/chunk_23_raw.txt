@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.-Mexico border"],
+    "NOUN_PHRASE": ["the highway", "the point", "the border"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "relevant to the context of illegal alien traffic"
+  }
+}

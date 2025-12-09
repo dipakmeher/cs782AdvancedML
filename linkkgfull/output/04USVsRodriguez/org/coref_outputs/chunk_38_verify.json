@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "Fifth Circuit Court of Appeals",
+    "Reymundo Reyes": "Freer Police Department",
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "Laredo, Texas": null,
+    "Dallas, Texas": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Fifth Circuit Court of Appeals": "a court that has consistently approved a police officer's questioning a driver's travel plans and has held that such questions may efficiently determine whether a traffic violation has taken place",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., with Officer Reymundo Reyes conducting the initial questioning",
+    "black Dodge pickup truck": "vehicle driven by IGNACIO RODRIGUEZ, JR. and subject to a canine search, with conflicting statements about its ownership"
+  }
+}

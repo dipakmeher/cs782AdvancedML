@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "United States Border Patrol Agent Jorge Luis Trevino": "United States Border Patrol",
+    "Freer immigration checkpoint": "United States Border Patrol",
+    "Echo 43": "Echo 43 checkpoint",
+    "Highway 59": "Highway 59",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "white Malibu sedan": "white Malibu sedan",
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "United States Border Patrol Agent IGNACIO RODRIGUEZ, JR.": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducted a vehicle stop of RICARDO RODRIGUEZ, JR.'s white Malibu sedan and monitored traffic at the Freer immigration checkpoint",
+    "Echo 43 checkpoint": "checkpoint on Highway 59 where United States Border Patrol agents were stationed",
+    "Highway 59": "highway with a checkpoint that smugglers try to avoid by using alternative routes",
+    "Farm-to-Market Road 2050": "road frequently used for drop-offs of illegal aliens to avoid checkpoints and adjacent to the Border Patrol station parking lot",
+    "white Malibu sedan": "vehicle involved in a case where it was determined to be driving in tandem with a black Dodge pickup truck and exited off Highway 59 onto Farm-to-Market Road 2050",
+    "black Dodge pickup truck": "vehicle involved in a case where it was determined to be driving in tandem with a white Malibu sedan and exited off Highway 59 onto Farm-to-Market Road 2050"
+  }
+}

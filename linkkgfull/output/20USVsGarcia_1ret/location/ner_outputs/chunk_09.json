@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate 35",
+      "Maria De Jesus Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "this segment",
+      "the border",
+      "these other connecting roads",
+      "the vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "location of suspected alien smuggling"
+  }
+}

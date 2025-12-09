@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["nine undocumented aliens", "seven other undocumented aliens"],
+    "NOUN_PHRASE": ["the group", "a member of the group", "the other members of the group"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "nine undocumented aliens": "undocumented immigrants being smuggled",
+    "seven other undocumented aliens": "additional undocumented immigrants being smuggled"
+  }
+}

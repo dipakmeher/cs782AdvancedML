@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "rental cars used by smugglers": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "rental car used by smugglers": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "rental vehicles used by smugglers": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "illegal aliens": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan rented by RICARDO RODRIGUEZ, JR. at the Laredo International Airport, registered to Hertz Rental Car Company",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., described as having a dark blue or black camper",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles mentioned in the conversation between United States Border Patrol Agent Hugo Benavides and IGNACIO RODRIGUEZ, JR.",
+    "undocumented aliens": "Individuals being transported in vehicles, displaying suspicious behavior such as wearing caps and appearing stiff"
+  }
+}

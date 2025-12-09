@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Sabinas Hidalgo",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the courtroom"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sabinas Hidalgo": "location where witnesses saw Alfredo Ortega-Chavez",
+    "United States": "country where the court case is being prosecuted"
+  }
+}

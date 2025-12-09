@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the first factor": "first factor in determining voluntariness of consent",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "Federico Saldana": "Federico Saldana",
+    "the United States": "United States Government",
+    "the traffic violation": "traffic violation",
+    "the suspicions of drug trafficking": "suspicions of drug trafficking"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "first factor in determining voluntariness of consent": "factor weighing against the United States due to temporary detention for a traffic violation and increasing suspicions of drug trafficking",
+    "Williamson County Sheriff's Office": "Law enforcement agency conducting the search and requesting consent from Federico Saldana",
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck, gave consent to Williamson County Sheriff's Office to search the vehicle and trailer, identified himself during the traffic stop, served 9 years in federal prison, contended that officers' prolonged detention exceeded the scope of the reason for the traffic stop",
+    "United States Government": "Party responding to Federico Saldana's motion, arguing that consent to search was voluntary",
+    "traffic violation": "Reason for initial detention of Federico Saldana, unsafe lane changes and near-collisions",
+    "suspicions of drug trafficking": "Reason for continued investigation and search, based on atypical features of the 2008 Chevrolet truck and flatbed trailer"
+  }
+}

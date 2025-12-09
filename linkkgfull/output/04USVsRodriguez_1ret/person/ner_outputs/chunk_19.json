@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Montemayor",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "my partner",
+      "the agents",
+      "Defendant",
+      "his Miranda rights",
+      "the events",
+      "the previous events",
+      "an attorney"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Montemayor": "testifying agent",
+    "Ignacio Rodriguez": "defendant"
+  }
+}

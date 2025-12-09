@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Interstate Highway 35"],
+    "NOUN_PHRASE": ["a common smuggling route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate Highway 35": "a common smuggling route on which Maria De Jesus Garcia was traveling"
+  }
+}

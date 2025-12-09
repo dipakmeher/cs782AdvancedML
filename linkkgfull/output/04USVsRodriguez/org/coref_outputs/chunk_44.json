@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Fifth Circuit": "Fifth Circuit Court of Appeals",
+    "the court": "United States District Court",
+    "the Fifth Circuit": "Fifth Circuit Court of Appeals",
+    "other circuits": null,
+    "two vehicles": null,
+    "white Malibu sedan": null,
+    "black Dodge truck": null,
+    "Interstate highway": null,
+    "Arizona plates": null,
+    "Cadillac": null,
+    "pickup truck": null,
+    "black Dodge pickup truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Fifth Circuit Court of Appeals": "court jurisdiction that has addressed similar cases and established standards for analyzing probable cause in tandem vehicle cases",
+    "United States District Court": "court where motions to suppress were filed and heard, applied reasonable suspicion standard in determining constitutionality of stops"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducted a vehicle stop of RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "Freer Police Department": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "United States District Court": "court where motions to suppress were filed and heard for Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR."
+  }
+}

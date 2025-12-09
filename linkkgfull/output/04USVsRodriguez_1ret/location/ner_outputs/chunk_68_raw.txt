@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Laredo", "Dallas"],
+    "NOUN_PHRASE": ["the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo": "origin of IGNACIO RODRIGUEZ, JR.'s travel",
+    "Dallas": "destination of IGNACIO RODRIGUEZ, JR.'s travel"
+  }
+}

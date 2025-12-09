@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "smuggled persons",
+    "drugs": "smuggled substances",
+    "the vehicle registration documents": "vehicle registration of the 2008 Chevrolet truck driven by Federico Saldana",
+    "the cab of the 2008 Chevrolet truck": "cab of the 2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "smuggled persons": "previously smuggled individuals, mentioned in Federico Saldana's criminal history",
+    "smuggled substances": "illicit substances being searched for in the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck, denied by Federico Saldana to be in his possession",
+    "vehicle registration of the 2008 Chevrolet truck driven by Federico Saldana": "Registration documents of the vehicle driven by Federico Saldana, checked by Williamson County Sheriff's Office officer during the traffic stop, found in the cab of the 2008 Chevrolet truck",
+    "cab of the 2008 Chevrolet truck driven by Federico Saldana": "Area where vehicle registration documents were found, searched by K-9 dog through front and rear doors on driver side, contained identifying information for Daniel A. Huerta",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, traveling at approximately 75 miles per hour, driven by Federico Saldana who was not used to driving this sort of truck and trailer combination"
+  }
+}

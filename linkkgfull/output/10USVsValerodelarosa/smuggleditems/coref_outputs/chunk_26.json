@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Sentencing Commission": "United States Sentencing Commission",
+    "counsel": "Rogelio Valero-De La Rosa's counsel",
+    "the lawyer": "Rogelio Valero-De La Rosa's counsel",
+    "attorneys": null,
+    "the attorney": "Rogelio Valero-De La Rosa's counsel"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission": "Agency responsible for establishing federal sentencing guidelines, contends that counsel's conduct was not objectively unreasonable",
+    "Rogelio Valero-De La Rosa's counsel": "Defendant's legal representative, accused of being ineffective in representing Rogelio Valero-De La Rosa, subject to standards of professional conduct"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["aliens", "cellular Bluetooth Device"],
+    "NOUN_PHRASE": ["the aliens", "the cellular Bluetooth Device"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being smuggled",
+    "cellular Bluetooth Device": "evidence item"
+  }
+}

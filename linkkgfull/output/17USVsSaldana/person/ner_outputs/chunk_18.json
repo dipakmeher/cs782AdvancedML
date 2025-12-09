@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Haston",
+      "Saldana",
+      "Daniel Martin Huerta",
+      "Daniel A. Huerta"
+    ],
+    "NOUN_PHRASE": [
+      "the owner"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Haston": "officer with suspicions",
+    "Saldana": "driver of the truck and trailer",
+    "Daniel Martin Huerta": "registered owner of the trailer's license plate",
+    "Daniel A. Huerta": "registered owner of the truck's license plate"
+  }
+}

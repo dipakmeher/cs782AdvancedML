@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a pickup truck", "the truck cab", "the back seat of the truck cab", "the vehicle", "this vehicle", "a crowded pickup truck", "a camper attachment"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

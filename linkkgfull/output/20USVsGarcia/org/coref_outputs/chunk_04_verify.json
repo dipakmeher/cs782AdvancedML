@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the government": "United States Government",
+    "the district court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Government": "Government whose defense counsel moved to suppress evidence obtained as a result of the stop and search of pickup truck camper, protecting all residents from arbitrary stops by governmental enforcement agents.",
+    "United States District Court": "Court handling post-trial procedures, determining the relevance and propriety of juror questioning, and making decisions on stops by immigration agents. This Court has repeatedly stated that a vital element of the Brignoni-Ponce standard is whether the agent had reason to believe that the pickup truck camper in question had come from the United States-Mexican border."
+  }
+}

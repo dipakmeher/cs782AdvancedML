@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "United States of America": "United States of America",
+    "the border checkpoint": "border patrol checkpoint on I-35 near Laredo, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country seeking review of the district court's judgment and acting as plaintiff-appellant in the case against Raul Rafael Arce-Jasso",
+    "Laredo, Texas": "location where a federal grand jury returned an indictment and where Raul Rafael Arce-Jasso was stopped by a border patrol checkpoint, 15 miles south of which the checkpoint is located on I-35",
+    "I-35": "highway where the border patrol checkpoint is located, near Laredo, Texas",
+    "San Antonio": "destination of Raul Rafael Arce-Jasso's trip",
+    "border patrol checkpoint on I-35 near Laredo, Texas": "checkpoint where Raul Rafael Arce-Jasso was initially stopped and questioned by Agent Jesus Garcia and where his detention was argued to be unconstitutionally lengthy"
+  }
+}

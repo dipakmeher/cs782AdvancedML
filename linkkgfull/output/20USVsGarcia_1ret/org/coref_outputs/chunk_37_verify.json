@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States district court": "United States District Court",
+    "federal district court": "United States District Court",
+    "the federal district court jury": "United States District Court Jury",
+    "the United States district court judge": "United States District Court Judge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that knows the taking of evidence required two days, has previously made decisions regarding stops on Interstate Highway 35, and considers factors such as passenger behavior in vehicles",
+    "United States District Court Jury": "jury that was given instructions to continue deliberation after indicating deadlock, deliberated for approximately 2 hours before sending a note to the judge stating they had not reached a unanimous decision",
+    "United States District Court Judge": "judge who denied a defense motion for mistrial and instructed the jury to continue deliberation, made oral findings of fact regarding the constitutionality of the stop and search"
+  }
+}

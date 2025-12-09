@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the highway": "Interstate Highway 35",
+    "the border": "United States-Mexican border",
+    "U.S.-Mexico border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "reference point for determining distance and relevant to the context of illegal alien traffic, approximately 115 miles from Moore, Texas",
+    "Interstate Highway 35": "common smuggling route with known alien smuggling activity where Maria De Jesus Garcia's vehicle was stopped, subject to roving border patrol stops"
+  }
+}

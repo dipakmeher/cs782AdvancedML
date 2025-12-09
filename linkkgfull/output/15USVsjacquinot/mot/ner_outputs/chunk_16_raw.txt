@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["truck"],
+    "NOUN_PHRASE": ["the truck", "a school zone sign", "the vehicle", "a stop sign", "the car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "truck": "vehicle being followed by Agent Andrew P. Graham"
+  }
+}

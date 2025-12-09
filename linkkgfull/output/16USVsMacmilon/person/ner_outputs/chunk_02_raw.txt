@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["McMillon", "Zeba Williams", "Williams"],
+    "NOUN_PHRASE": ["his co-defendant", "the pair"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "co-defendant",
+    "Zeba Williams": "co-defendant",
+    "Williams": "co-defendant"
+  }
+}

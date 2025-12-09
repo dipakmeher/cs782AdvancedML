@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "persons": null,
+    "vehicles": "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "passengers": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped by United States Border Patrol Agent Jorge Luis Trevino near Farm-to-Market Road 2050, transporting undocumented aliens, including five passengers and two in the trunk",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who waived his rights and provided a timeline of events, but changed details of his story several times during the interview",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck associated with IGNACIO RODRIGUEZ, JR., stopped at the Freer Immigration Checkpoint, also referred to as \"a black one\", heading towards Highway 59 and then turning southbound onto Farm-to-Market Road 2050, with a camper, either dark blue or black in color, involved in a traffic stop by Officer Reymundo Reyes, where IGNACIO RODRIGUEZ, JR. exhibited nervous behavior during the stop, and was impounded due to unclear ownership and lack of insurance information",
+    "undocumented aliens": "individuals being transported by RICARDO RODRIGUEZ, JR. in his white Malibu sedan, including those in the trunk, admitted to being in the country illegally",
+    "RICARDO RODRIGUEZ, JR.'s vehicle and IGNACIO RODRIGUEZ, JR.'s vehicle": "Vehicles involved in the incident, including a white Malibu sedan and a black Dodge pickup truck, stopped near the Border Patrol Station Parking Lot, attempting to avoid the Hebbronville Checkpoint"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "the border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico": "country of origin for illegal migrants",
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it"
+  }
+}

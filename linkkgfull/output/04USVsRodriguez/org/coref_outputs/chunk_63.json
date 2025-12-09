@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Court": "United States District Court",
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "TxDOT": "Texas Department of Transportation",
+    "Transportation, Planning, and Programming Division": "Texas Department of Transportation",
+    "the Laredo Division": "Texas Department of Transportation, Laredo Division"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where motions to suppress were filed and heard, has a District Judge with authority to review and decide on motions",
+    "Texas Department of Transportation": "state agency responsible for preparing district traffic maps and determining traffic flow data",
+    "Texas Department of Transportation, Laredo Division": "division of the Texas Department of Transportation that collected and determined traffic flow data"
+  }
+}

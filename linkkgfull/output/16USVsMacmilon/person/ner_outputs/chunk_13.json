@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon",
+      "Williams",
+      "Agent Pena"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "",
+    "Williams": "",
+    "Agent Pena": ""
+  }
+}

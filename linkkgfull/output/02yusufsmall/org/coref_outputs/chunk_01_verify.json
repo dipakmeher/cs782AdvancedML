@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Border Patrol": "United States Border Patrol",
+    "Homeland Security": "Department of Homeland Security",
+    "You Brokerage": "You Brokerage",
+    "Jamco International, Inc.": "Jamco International, Inc.",
+    "Flying J": "Flying J",
+    "the brokerage company": "You Brokerage",
+    "the Auburn Road lot": null,
+    "United States Trucking": "United States Trucking",
+    "Steel on Steel Transportation": "Steel on Steel Transportation",
+    "the company": "You Brokerage"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "stopped Abdullah Yusuf near Laredo, Texas, while he was smuggling 84 illegal aliens",
+    "Department of Homeland Security": "conducted inspection and interviewed Abdullah Yusuf, conducted investigation on the smuggling case",
+    "You Brokerage": "paid Abdullah Yusuf to haul a load of 84 illegal aliens, company whose existence was investigated and found to have no record",
+    "Jamco International, Inc.": "owned the Auburn Road lot used for storing empty trailers, had a representative testify about the lot's conditions",
+    "Flying J": "where Abdullah Yusuf waited with his tractor while the flatbed trailer was being loaded",
+    "United States Trucking": "carrier listed on the BOL, which appeared to be forged",
+    "Steel on Steel Transportation": "Abdullah Yusuf's company, not listed as the carrier on the BOL"
+  }
+}

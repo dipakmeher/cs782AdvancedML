@@ -1,0 +1,37 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Laredo, Texas",
+      "Rio Grande",
+      "United States",
+      "Laredo",
+      "Los Angeles",
+      "New York City",
+      "Laredo International Airport",
+      "San Antonio",
+      "San Antonio International Airport",
+      "Mexico"
+    ],
+    "NOUN_PHRASE": [
+      "this country",
+      "the bridge",
+      "the group",
+      "the family members",
+      "the motel room",
+      "the airport",
+      "the motel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Laredo, Texas": "City where Juventino Mejia-Orosco drove his van across the bridge",
+    "Rio Grande": "River waded by Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales",
+    "United States": "Country where Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales illegally entered",
+    "Laredo": "City where the group spent two days",
+    "Los Angeles": "City where Hector Galvencio Paz-Ortega's family lived",
+    "New York City": "City where relatives of Carlos Enrique Cruz-Morales lived",
+    "Laredo International Airport": "Airport where Juventino Mejia-Orosco supplied airline tickets",
+    "San Antonio": "City where Juventino Mejia-Orosco drove Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales",
+    "San Antonio International Airport": "Airport where Hector Galvencio Paz-Ortega was detained",
+    "Mexico": "Country of origin for 574,000 Mexican pesos found in Juventino Mejia-Orosco's van"
+  }
+}

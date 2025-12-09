@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Valero"],
+    "NOUN_PHRASE": ["the defendant", "the probation officer", "Valero's counsel", "Valero's mother", "Valero's grandmother", "Valero's wife"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "the defendant"
+  }
+}

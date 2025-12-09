@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Luis, Potosi, Mexico": "San Luis, Potosi, Mexico",
+    "United States": "United States",
+    "San Antonio": "San Antonio",
+    "Nuevo Laredo": "Nuevo Laredo",
+    "Rio Grande River": "Rio Grande River",
+    "the brush": null,
+    "the group": null,
+    "the intervals": null,
+    "the trek": null,
+    "a nearby ranch": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Luis, Potosi, Mexico": "starting point of the undocumented aliens' journey where Inocencio Garcia-Guerrero approached them",
+    "United States": "destination country of the undocumented aliens, where they were guided by Inocencio Garcia-Guerrero to San Antonio",
+    "San Antonio": "intended destination within the United States for the group guided by Inocencio Garcia-Guerrero",
+    "Nuevo Laredo": "location where the group purchased supplies before crossing the Rio Grande River into the United States",
+    "Rio Grande River": "border crossing point between Mexico and the United States, where the group took canoes to enter the US"
+  }
+}

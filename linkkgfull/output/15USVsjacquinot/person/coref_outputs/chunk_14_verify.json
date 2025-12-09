@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Graham": "Andrew P. Graham",
+    "Jacquinot": "Brignoni-Ponce Jacquinot",
+    "the agents": "Andrew P. Graham and Jay Snodgrass",
+    "a work truck driver": "Brignoni-Ponce Jacquinot",
+    "park visitors": null,
+    "the district court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Andrew P. Graham": "Border Patrol Agent who stopped the truck based on suspicious behavior and prior observations, including the truck's unusual hour of departure from the park, its Kansas license plate, lack of a park registration sticker, and the driver's evasive actions, provided testimony regarding Highway 385's reputation as a smuggling route, testified about traffic patterns and his experience",
+    "Brignoni-Ponce Jacquinot": "Defendant in a drug trafficking case, exhibited suspicious behavior while driving, sole passenger in the truck, found with 286.44 pounds of marijuana and two unloaded handguns, described as a small-framed person wearing a baseball cap, sentenced to 46 months' imprisonment, making assertions regarding proximity-to-the-border factor, argues against the contribution to reasonable suspicion",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents involved in surveillance near the United States/Mexican border, providing reasonable suspicion for a stop based on proximity to the border, monitoring vehicle sensors in Big Bend National Park, followed two vehicles that had activated the first sensor within the park"
+  }
+}

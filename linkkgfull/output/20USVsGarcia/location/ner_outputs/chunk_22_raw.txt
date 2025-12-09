@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.-Mexico border"],
+    "NOUN_PHRASE": ["the interior of Maria De Jesus Garcia's vehicle", "the border"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexico border": "location where the stop is made miles and miles from"
+  }
+}

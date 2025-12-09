@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "Corinth, Texas": "Corinth, Texas",
+    "San Angelo": "San Angelo",
+    "Fifth Circuit": "Fifth Circuit",
+    "United States": "United States",
+    "Texas": "Texas",
+    "Dallas": "Dallas, Texas",
+    "the area": "Farm-to-Market Road 2050 area",
+    "a faraway place": null,
+    "the most direct route": "U.S. 359",
+    "the ranch road": "ranch roads on Farm-to-Market Road 2050",
+    "another part of Texas": null,
+    "the local ranches": null,
+    "that particular road": "Farm-to-Market Road 2050",
+    "a well-traveled interstate highway": "Highway 35",
+    "the checkpoint": "Freer immigration checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas-Fort Worth": "registration location of a rental vehicle, part of the metroplex where one of the vehicles was registered",
+    "Corinth, Texas": "registration location of a black truck, suburb of Dallas",
+    "San Angelo": "location used in a previous case as an example of adding to reasonable suspicion",
+    "Fifth Circuit": "judicial circuit with relevant case law regarding reasonable suspicion for Border Patrol stops",
+    "United States": "country where the events took place, involved in the case of IGNACIO RODRIGUEZ, JR.",
+    "Texas": "state where the events took place and where vehicles were registered",
+    "Dallas, Texas": "registration location of a vehicle and destination on a highway, part of the metroplex",
+    "Farm-to-Market Road 2050 area": "rural area characterized by ranches and a wind farm, with limited traffic, where vehicles with out-of-town registrations raised suspicions",
+    "Highway 35": "well-traveled interstate highway that could be used by smugglers to transport undocumented aliens, most direct route to Dallas or San Antonio",
+    "ranch roads on Farm-to-Market Road 2050": "roads intersecting FM 2050, including Mills Bennett Road and San Pablo Road, providing access to various ranches and the wind farm",
+    "Freer immigration checkpoint": "location where Agent Montemayor arrived to conduct interviews with RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR."
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "six co-defendants": null,
+    "five-count superseding indictment": null,
+    "United States Federal Grand Jury": "United States Federal Grand Jury",
+    "supplemental verdict": null,
+    "Presentence Report": "Presentence Report",
+    "PSR": "Presentence Report",
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the hostage-taking offense": null,
+    "the ransom demand": null,
+    "the dangerous weapon": null,
+    "the firearm": null,
+    "the aliens": "illegal aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant whose punishment is being determined based on the United States Sentencing Guidelines Manual, with a claim of ineffective assistance of counsel and a denied motion for relief",
+    "Nancy F. Atlas": "judge who concludes that jurists of reason would not debate whether the movant has stated a valid claim or whether any procedural ruling in this case was correct, and orders the denial of Jose Marlon Ibarra-Zelaya's motion",
+    "the United States of America": "plaintiff in the case, whose motions to dismiss and expand the record were granted by Nancy F. Atlas",
+    "illegal aliens": "individuals being smuggled within the United States for commercial advantage and private financial gain, involved in a hostage-taking offense with between six and twenty-four aliens, held against their will for ransom demand",
+    "foreign nationals": "persons held for ransom and against their will, involved in an illegal alien smuggling venture",
+    "six co-defendants": "co-defendants of Jose Marlon Ibarra-Zelaya found guilty as charged on all counts of the superseding indictment",
+    "five-count superseding indictment": "indictment against Jose Marlon Ibarra-Zelaya and co-defendants, including charges related to hostage-taking offenses",
+    "United States Federal Grand Jury": "grand jury that found Jose Marlon Ibarra-Zelaya and co-defendants guilty as charged on all counts of the superseding indictment and returned a supplemental verdict",
+    "supplemental verdict": "verdict returned by the United States Federal Grand Jury, finding that the hostage-taking offense involved between six and twenty-four aliens and a firearm was brandished or otherwise used and possessed",
+    "Presentence Report": "report prepared for determining punishment under the United States Sentencing Guidelines Manual, including calculations of total offense level based on the most serious count among the group",
+    "PSR": "abbreviation for Presentence Report, used in determining sentence based on the United States Sentencing Guidelines Manual",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with specific guidelines for ex post facto laws and amendments affecting base offense levels, applied in Jose Marlon Ibarra-Zelaya's case to calculate a total offense level of 40",
+    "the hostage-taking offense": "offense involving the holding of aliens against their will for ransom demand, with a firearm brandished or otherwise used and possessed",
+    "the ransom demand": "demand made during the commission of the hostage-taking offense, involving the possession of a dangerous weapon",
+    "the dangerous weapon": "weapon used in connection with the hostage-taking offense, found to be possessed by Jose Marlon Ibarra-Zelaya",
+    "the firearm": "firearm brandished or otherwise used and possessed during the hostage-taking offense",
+    "the aliens": "individuals being smuggled within the United States for commercial advantage and private financial gain, involved in a hostage-taking offense with between six and twenty-four aliens"
+  }
+}

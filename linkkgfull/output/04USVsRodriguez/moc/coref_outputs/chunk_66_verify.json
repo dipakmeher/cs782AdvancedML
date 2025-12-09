@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "the camper shell": null,
+    "a pickup with a camper shell": "the black Dodge pickup truck",
+    "the vehicle": "the white Malibu sedan",
+    "the truck": "the black Dodge pickup truck",
+    "the camper": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication, potentially relevant to the case",
+    "the black Dodge pickup truck": "Vehicle driven by the defendant, not recognized as a local vehicle by Agent Jorge Luis Trevino, and possibly equipped with a camper shell",
+    "the white Malibu sedan": "Vehicle rented by IGNACIO RODRIGUEZ, JR. from Hertz at the Laredo International Airport, registered to Hertz Dallas-Fort Worth"
+  }
+}

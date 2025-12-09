@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the defendant": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Hugo Benavides": "Agent who testified about his uncertainty regarding the arrest of IGNACIO RODRIGUEZ, JR., but whose actions were deemed to be based on probable cause.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a human smuggling case, subjected to a de facto arrest by Agent Benavides, which was deemed warranted due to probable cause."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Alma Delia Simon-Fernandez"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alma Delia Simon-Fernandez": "person who died during the smuggling operation"
+  }
+}

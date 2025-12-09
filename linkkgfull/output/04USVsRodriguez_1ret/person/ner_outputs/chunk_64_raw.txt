@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Benavides", "Officer Reyes", "Rodriguez", "Agent Trevino", "Mr. Rodriguez", "Agent Montemayor"],
+    "NOUN_PHRASE": ["the agent", "the defendant", "Defendant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "testifying agent",
+    "Officer Reyes": "officer who stopped the driver",
+    "Rodriguez": "driver of the black truck",
+    "Agent Trevino": "agent who made a stop on a sedan",
+    "Mr. Rodriguez": "driver of the black truck",
+    "Agent Montemayor": "agent involved in the case"
+  }
+}

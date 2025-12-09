@@ -1,0 +1,34 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the majority": null,
+    "pickup truck camper": null,
+    "United States-Mexican border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court handling post-trial procedures, determining the relevance and propriety of juror questioning, and making decisions on stops by immigration agents. This Court has repeatedly stated that a vital element of the Brignoni-Ponce standard is whether the agent had reason to believe that the pickup truck camper in question had come from the United States-Mexican border.",
+    "United States Border Patrol": "law enforcement agency involved in immigration inspections, with agents entitled to question occupants about their citizenship and immigration status after a stop",
+    "5th Circuit Court of Appeals": "a court whose precedents are being considered in determining reasonable suspicion for stops by roving border patrol agents near the U.S.-Mexican border, emphasizing the importance of reasonable suspicion based on factors such as passenger behavior. Also reviews issues related to stops of persons who appear to be of Hispanic descent.",
+    "United States-Mexican border": "a geographical location relevant to the case, where a pickup truck camper's origin is considered relevant for determining reasonable suspicion",
+    "United States": "country with constitutional protections, differentiating from police states in its prohibition against unreasonable searches. Also referenced in a court case.",
+    "Maria De Jesus Garcia": "defendant in the case who was stopped on Interstate Highway 35 while driving a pickup truck camper and whose unkempt appearance was alleged to be consistent with that of an illegal alien.",
+    "Court": "the court making decisions on stops by immigration agents, emphasizing the importance of reasonable suspicion based on the totality of circumstances rather than arbitrary characteristics",
+    "Interstate Highway 35": "highway where Maria De Jesus Garcia was stopped and where a pickup truck camper was stopped due to suspicious behavior, leading directly to the United States-Mexican border but passing through several towns before reaching Moore.",
+    "Pena-Cantu case": "court case referenced for its relevance to the reasonableness of a stop based on suspicious behavior",
+    "Lourdes Rangel-Campos": "individual whose appearance, along with that of Maria De Jesus Garcia and others, was considered in determining reasonable suspicion for a stop",
+    "Stanley Pruszenski": "agent who made the assessment of the occupants' appearances as dirty or unkempt; testified about passengers' actions when light was shone into pickup truck camper.",
+    "Alfred Baron": "agent involved in the case; testified about observing passengers ducking and trying to hide when he turned on his flashlight",
+    "5th Circuit Court of Appeals in this context": "court presented with factors for consideration in light of the precedents of this circuit, considering the totality of particular circumstances in cases involving stops by roving border patrol agents near the U.S.-Mexican border.",
+    "United States-Mexican border in this case": "border referenced in determining reasonable suspicion, relevant to the distance from the stop location.",
+    "U.S. Border Patrol": "employer of Stanley Pruszenski and Alfred Baron as border patrol agents",
+    "border patrol": "law enforcement agency involved in immigration inspections",
+    "United States Government": "Government whose defense counsel moved to suppress evidence obtained as a result of the stop and search of pickup truck camper, protecting all residents from arbitrary stops by governmental enforcement agents.",
+    "Cotulla, Texas Border Patrol Station": "a location where roving patrol agents are based",
+    "United States Border Patrol in this context": "agents who had recently apprehended illegal alien smugglers at or near the location of the instant stop and were stationed on February 28",
+    "Stanley Pruszenski and Alfred Baron as agents": "agents who stopped a pickup truck camper on Interstate Highway 35, considering the totality of circumstances including the appearance of occupants and vehicle behavior",
+    "U.S.-Mexican border": "international border",
+    "Pacheco case": "court case referenced for its distinction from the current case due to differences in vehicle behavior and cargo indications",
+    "Orona-Sanchez case": "court case referenced for its distinction from the current case due to differences in vehicle behavior and cargo indications",
+    "United States Border Patrol, Stanley Pruszenski and Alfred Baron": "agents with specialized experience and training contributing to assessments of smuggling routes and vehicles",
+    "Judge TATE": "judge who dissented from the majority opinion in Maria De Jesus Garcia's case"
+  }
+}

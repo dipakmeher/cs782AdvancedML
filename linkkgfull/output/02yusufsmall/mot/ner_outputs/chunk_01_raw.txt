@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["a trailer", "a flatbed trailer", "Abdullah Yusuf's vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

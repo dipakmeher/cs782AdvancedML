@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the jury in Maria De Jesus Garcia's trial": "United States v. Garcia",
+    "a written note exchanged between the jury in Maria De Jesus Garcia's trial and the United States District Court": null,
+    "the United States District Court": "United States District Court",
+    "the jurors that are dissenting": null,
+    "the defense motion for mistrial": null,
+    "the jury in Maria De Jesus Garcia's trial sent a written note exchanged between the jury in Maria De Jesus Garcia's trial and the United States District Court to the United States District Court requesting information from outside the record": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States v. Garcia": "case involving the use of the Allen charge in trials and the smuggling of undocumented aliens, with jury instructions emphasizing the importance of reaching a verdict after approximately 2 hours of deliberation",
+    "United States District Court": "court that refused to conduct a post-verdict hearing on whether the jury was coerced by the Allen charge and instructed the jury to continue deliberation"
+  }
+}

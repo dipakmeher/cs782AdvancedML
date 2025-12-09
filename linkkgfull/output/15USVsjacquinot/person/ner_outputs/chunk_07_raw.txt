@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Graham", "Agent Snodgrass"],
+    "NOUN_PHRASE": ["the driver", "his assistant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "Border Patrol agent who stopped the truck",
+    "Agent Snodgrass": "Border Patrol agent whose prior observation was confirmed by Agent Graham"
+  }
+}

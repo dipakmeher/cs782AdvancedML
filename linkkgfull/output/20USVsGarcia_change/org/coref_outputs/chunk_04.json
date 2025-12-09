@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol",
+    "border patrol": "United States Border Patrol",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that denied the extension motion and made oral findings of fact regarding the constitutionality of the stop and search",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, smuggling interception, and immigration inspections",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court considering the suppression motion on its merits"
+  }
+}

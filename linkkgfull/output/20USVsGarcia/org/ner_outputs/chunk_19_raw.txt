@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.-Mexican border", "Interstate Highway 35", "United States-Mexican border"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.-Mexican border": "international border",
+    "Interstate Highway 35": "highway where Maria De Jesus Garcia was stopped",
+    "United States-Mexican border": "international border"
+  }
+}

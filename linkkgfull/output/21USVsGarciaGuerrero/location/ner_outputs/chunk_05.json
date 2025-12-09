@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "South Texas"
+    ],
+    "NOUN_PHRASE": [
+      "the group",
+      "the journey",
+      "this court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "South Texas": "location where reckless conduct occurred"
+  }
+}

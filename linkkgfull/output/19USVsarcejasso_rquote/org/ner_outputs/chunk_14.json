@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America",
+      "Raul Rafael Arce-Jasso"
+    ],
+    "NOUN_PHRASE": [
+      "the court of appeals"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "a party in the case",
+    "Raul Rafael Arce-Jasso": "the defendant"
+  }
+}

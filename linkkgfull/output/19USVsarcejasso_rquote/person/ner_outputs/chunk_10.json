@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the Government",
+      "the Court",
+      "we",
+      "us"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

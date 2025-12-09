@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ford F-150s",
+      "Ford F-250s",
+      "Ford Motor Company"
+    ],
+    "NOUN_PHRASE": [
+      "the vehicles",
+      "the load vehicle",
+      "the scout vehicle",
+      "the drugs"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ford F-150s": "truck models",
+    "Ford F-250s": "truck models",
+    "Ford Motor Company": "manufacturer of truck models"
+  }
+}

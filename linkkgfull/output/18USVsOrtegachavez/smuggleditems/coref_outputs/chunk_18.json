@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Judge Kazen": "Judge Kazen",
+    "Alfredo Ortega-Chavez's trial": "Alfredo Ortega-Chavez",
+    "the jury": null,
+    "the district court": "district court",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Judge Kazen": "judge presiding over Alfredo Ortega-Chavez's trial, maintained impartiality and conducted proceedings fairly and competently, made a statement regarding the swearing of witnesses and instructed the jury to disregard his opinions",
+    "Alfredo Ortega-Chavez": "defendant in a trial related to smuggling, subject to disclosure of witness information, implicated by Ramon Gonzalez Sanchez's deposition testimony",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules"
+  }
+}

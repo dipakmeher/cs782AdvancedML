@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "Mexico/United States border"
+    ],
+    "NOUN_PHRASE": [
+      "this circuit",
+      "the border",
+      "an interstate highway"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas": "location where the defendant was stopped",
+    "Mexico/United States border": "relevant geographical boundary"
+  }
+}

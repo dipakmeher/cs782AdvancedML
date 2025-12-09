@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Officer Reymundo Reyes",
+    "the driver": "IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the passenger side": null,
+    "the glove box": null,
+    "the canine": null,
+    "dispatch": "Freer Police Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "defendant associated with the black Dodge pickup truck, exhibited nervous behavior during a traffic stop",
+    "Officer Reymundo Reyes": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR., noticed he was nervous and shaking during the interaction; issued a citation and impounded the black Dodge pickup truck due to unclear ownership and lack of insurance information",
+    "black Dodge pickup truck": "vehicle that appeared to be used for transporting illegal aliens, believed by Agent Trevino to be connected to the white Malibu sedan due to tandem travel and shared origin in Dallas, Texas",
+    "Freer Police Department": "conducted a traffic stop of Defendant IGNACIO RODRIGUEZ, JR. and cooperated with United States Border Patrol during the stop; received a BOLO for a black Dodge pickup truck"
+  }
+}

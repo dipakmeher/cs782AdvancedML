@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Guatemala": "Guatemala",
+    "Mexico": "Mexico",
+    "United States": "United States",
+    "Nuevo Laredo, Tamaulipas": "Nuevo Laredo, Tamaulipas",
+    "this country": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Guatemala": "country of origin of Juventino Mejia-Orosco and his passengers, citizenship of Juventino Mejia-Orosco",
+    "Mexico": "route of transportation, country through which Juventino Mejia-Orosco transported aliens",
+    "United States": "destination of illegal transportation, country where Juventino Mejia-Orosco was convicted",
+    "Nuevo Laredo, Tamaulipas": "location where passengers disembarked"
+  }
+}

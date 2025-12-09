@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol Agent Hugo Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the holding cells": null,
+    "probable cause": null,
+    "an individual officer": null,
+    "the decision to place the defendant in the holding cells": null,
+    "a de facto arrest": null,
+    "the arrest": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol Agent Hugo Benavides": "Agent who testified about his uncertainty regarding the arrest of IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose arrest was determined to be warranted by probable cause",
+    "IGNACIO RODRIGUEZ, JR. and United States Border Patrol Agent Hugo Benavides": null
+  }
+}

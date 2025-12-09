@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": null,
+    "the agent's phone": null,
+    "the marked United States Border Patrol patrol car's radio": "the United States Border Patrol radio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol radio": "Radio used by United States Border Patrol agents for communication and coordination regarding traffic stops, arrests, and lookout alerts for suspicious vehicles."
+  }
+}

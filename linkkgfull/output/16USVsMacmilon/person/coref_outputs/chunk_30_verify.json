@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Williams": "Zeba Williams",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "Eric Camacho": "Eric Camacho",
+    "the Government": null,
+    "the jury": null,
+    "Border Patrol Agent": "Eric Camacho",
+    "the pair": "Raymond McMillon and Zeba Williams"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "Defendant who allegedly transported aliens with Williams, identified by De La Cruz and Hernandez-Gomez as the person motioning for them to hide, argued against the conspiracy conviction",
+    "Zeba Williams": "Individual allegedly transporting aliens with McMillon, part of the conspiracy",
+    "Ramon De La Cruz": "Unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Jorge Miguel Hernandez-Gomez": "Unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Eric Camacho": "Border Patrol Agent testifying about how aliens or their families commonly pay smugglers indirectly, provided evidence supporting the pecuniary purpose special finding",
+    "Raymond McMillon and Zeba Williams": "Defendants who allegedly transported aliens together, subject of the conspiracy conviction"
+  }
+}

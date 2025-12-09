@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "the Mexico border": null,
+    "Echo 43 checkpoint": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "Conducts roving stops and may temporarily detain vehicles for investigation, governed by the standard articulated in relevant case law. Involved in the stop of the black Dodge pickup truck and white Malibu sedan.",
+    "United States Court of Appeals for the Fifth Circuit": "Court that does not adhere to a bright line rule regarding proximity to the Mexico border; previously held that certain factors can add to reasonable suspicion, such as vehicle registration and route taken.",
+    "black Dodge pickup truck": "Vehicle involved in the smuggling operation, believed by Agent Trevino to be connected to the white Malibu sedan due to tandem travel and shared origin in Dallas, Texas.",
+    "white Malibu sedan": "Vehicle involved in the smuggling operation, with passengers exhibiting suspicious behavior such as sitting stiff and not communicating with each other; stopped by Agent Trevino near Farm-to-Market Road 2050.",
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with the white Malibu sedan, claimed to be a United States citizen but was transporting undocumented individuals.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with the black Dodge pickup truck, exhibited nervous behavior during a traffic stop.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Agent who encountered Defendants' vehicles, white Malibu sedan and black Dodge pickup truck, within the benchmark fifty miles from the Mexico border."
+  }
+}

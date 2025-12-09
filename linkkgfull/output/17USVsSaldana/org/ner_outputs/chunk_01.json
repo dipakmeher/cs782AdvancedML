@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Court"
+    ],
+    "NOUN_PHRASE": [
+      "the Government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referred to as the Government",
+    "Court": "held a hearing and entered an opinion and order"
+  }
+}

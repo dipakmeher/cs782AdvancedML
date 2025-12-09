@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States district court", "federal district court"],
+    "NOUN_PHRASE": ["the federal district court jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States district court": "court that judged the case",
+    "federal district court": "court where the trial took place"
+  }
+}

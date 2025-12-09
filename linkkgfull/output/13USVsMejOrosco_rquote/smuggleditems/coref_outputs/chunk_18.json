@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Sentencing Commission": "United States Sentencing Commission Guidelines",
+    "United States District Court": "United States District Court",
+    "the guidelines": "United States Sentencing Commission Guidelines",
+    "the standard of review for departures from the guidelines": null,
+    "the standard of review for applications of the guidelines": null,
+    "a cramped construction of the United States District Court's fact-finding power": null,
+    "the purpose of the sentencing guidelines": null,
+    "the sentence outside the range of the guidelines": null,
+    "factual findings": null,
+    "legal issues": null,
+    "sentencing decisions": null,
+    "reasonable departures": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission Guidelines": "Guidelines for federal sentencing, providing a framework for evaluating the fairness and appropriateness of sentences for individual offenders",
+    "United States District Court": "Federal court imposing sentences, with judges considering all relevant factors in a case to impose a sentence outside the guidelines if necessary"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol",
+    "Stanley Pruszenski and Alfred Baron": "United States Border Patrol",
+    "marked border patrol sedan": "United States Border Patrol",
+    "pickup truck camper": null,
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that convicted Maria De Jesus Garcia and heard her appeal regarding an unconstitutional stop and search of a pickup truck camper on Interstate Highway 35",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, with agents making stops based on reasonable suspicion, utilizing specialized experience and training to assess smuggling routes and vehicles, including the use of marked sedans for observations",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court reviewing cases related to border patrol stops and reasonable suspicion",
+    "United States v. Maria De Jesus Garcia": "a court case involving a pickup truck camper and suspicious passenger behavior, resulting in a guilty verdict and an appeal regarding the stop's constitutionality",
+    "United States-Mexican border": "geographic boundary relevant to immigration and smuggling cases",
+    "Interstate Highway 35": "highway where stops and searches may occur, commonly used for smuggling of aliens, with agents observing vehicle behavior such as slow speed and heavy loading",
+    "United States v. Pena-Cantu": "a court case where the stop was deemed insufficient due to passengers sitting low",
+    "United States v. Pacheco": "a court case with similar testimony regarding passenger conduct",
+    "United States v. Orona-Sanchez": "a court case where the circumstance of passengers slouching down was not considered sufficient for a stop",
+    "United States": "country where the court is located and the case was heard, referenced in a court case",
+    "Brignoni-Ponce standard": "a legal standard guiding reasonable suspicion for investigatory stops near the border",
+    "U.S.-Mexican border": "an international border relevant to immigration and smuggling cases",
+    "United States Court of Appeals for the Fifth Circuit as the majority": "appellate court making decisions regarding the justification of investigatory stops based on factors such as vehicle loading",
+    "Maria De Jesus Garcia": "defendant in a legal case involving a challenge to the modified Allen charge given to the jury and a request for post-verdict discovery, convicted of aiding and abetting the transportation of undocumented aliens",
+    "Alfred Baron": "border patrol agent involved in the stop and search of a pickup truck camper, providing expertise in distinguishing between characteristics of travelers",
+    "Stanley Pruszenski": "border patrol agent involved in the stop and search of a pickup truck camper, providing expertise in distinguishing between characteristics of travelers",
+    "United States v. Brignoni-Ponce": "a court case referenced for distinguishing suspicious behavior in the context of border patrol stops",
+    "United States Border Patrol as Stanley Pruszenski and Alfred Baron": "border patrol agents involved in stops and searches, with expertise in distinguishing between characteristics of travelers who are illegal aliens and those lawfully present in the United States",
+    "the majority of the court": "appellate court making decisions regarding the justification of investigatory stops based on factors such as vehicle loading",
+    "United States Border Patrol as the border patrol agent": "border patrol agent involved in stops and searches, with expertise in distinguishing between characteristics of travelers who are illegal aliens and those lawfully present in the United States",
+    "United States Border Patrol as the marked border patrol sedan": "vehicle used by border patrol agents during stops and searches",
+    "Stanley Pruszenski and Alfred Baron's expertise": "expertise of border patrol agents in distinguishing between characteristics of travelers who are illegal aliens and those lawfully present in the United States"
+  }
+}

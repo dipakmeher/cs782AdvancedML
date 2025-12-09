@@ -1,0 +1,29 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "UNITED STATES DISTRICT JUDGE",
+      "Gary Haston",
+      "Deputy Jason Cox",
+      "Government",
+      "Federico Saldana",
+      "Daniel Martin Huerta",
+      "Miguel"
+    ],
+    "NOUN_PHRASE": [
+      "the record",
+      "this paragraph",
+      "the traffic stop",
+      "the events in question",
+      "the Court",
+      "the DVD",
+      "the form",
+      "the 24-hour clock",
+      "the 12-hour clock notation",
+      "the timing of events"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "UNITED STATES DISTRICT JUDGE": "title of the judge",
+    "Deputy Jason Cox": "law enforcement officer"
+  }
+}

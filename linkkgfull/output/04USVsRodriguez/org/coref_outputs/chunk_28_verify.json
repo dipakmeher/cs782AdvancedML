@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. Border Patrol": "United States Border Patrol",
+    "the wind farm": null,
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "Highway 59": "Highway 59",
+    "U.S. 359": "Highway 359",
+    "Highway 16": "Highway 16",
+    "the Government": "United States Department of Homeland Security",
+    "JORGE LUIS TREVINO": "United States Border Patrol",
+    "RICARDO RODRIGUEZ, JR.": null,
+    "IGNACIO RODRIGUEZ, JR.": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "a law enforcement agency familiar with local vehicles and recognizing approximately 90-95% of them as belonging to farmers and oil field workers in the Farm-to-Market Road 2050 area, aware of the road's reputation as a smuggling route",
+    "Farm-to-Market Road 2050": "road used by smugglers to circumvent checkpoints on Highway 59 and U.S. 359, with a recent surge in drop-offs where illegal aliens are picked up by vehicles heading north",
+    "San Pablo Road": "road located near the wind farm on Farm-to-Market Road 2050",
+    "Highway 59": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'",
+    "Highway 359": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'",
+    "Highway 16": "highway near the location of the traffic stop, providing access to major highways going north",
+    "United States Department of Homeland Security": "Prohibits unreasonable searches and seizures, responsible for enforcing immigration laws and conducting investigations",
+    "United States Border Patrol, Freer immigration checkpoint": "checkpoint where IGNACIO RODRIGUEZ, JR. was transported for further questioning and placed in a holding cell"
+  }
+}

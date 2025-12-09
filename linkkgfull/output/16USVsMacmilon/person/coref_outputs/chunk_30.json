@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Williams": "Zeba Williams",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "Eric Camacho": "Eric Camacho",
+    "the Government": null,
+    "the jury": null,
+    "Border Patrol Agent": "Eric Camacho"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant identified as the person motioning for aliens to hide, wore white clothing and a blinking cellular Bluetooth Device during the incident, argued against conspiracy conviction",
+    "Zeba Williams": "individual allegedly transporting aliens with McMillon, stopped at an empty parking lot where aliens were waiting, co-conspirator in the case",
+    "Ramon De La Cruz": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Jorge Miguel Hernandez-Gomez": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States",
+    "Eric Camacho": "Border Patrol Agent testifying about how aliens or their families commonly pay smugglers indirectly"
+  }
+}

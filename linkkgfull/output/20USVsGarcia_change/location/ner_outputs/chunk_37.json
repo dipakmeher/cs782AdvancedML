@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "this case"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of attempted illegal entry"
+  }
+}

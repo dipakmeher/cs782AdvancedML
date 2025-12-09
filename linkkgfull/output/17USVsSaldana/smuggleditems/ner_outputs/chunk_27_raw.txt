@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["drugs"],
+    "NOUN_PHRASE": ["the 2008 Chevrolet truck", "the flatbed trailer", "his luggage"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "drugs": "illicit substances being searched for"
+  }
+}

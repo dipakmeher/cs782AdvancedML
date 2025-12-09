@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the trek", "the journey"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

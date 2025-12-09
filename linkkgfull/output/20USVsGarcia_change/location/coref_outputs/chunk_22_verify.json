@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "Maria De Jesus Garcia's vehicle",
+    "the dark cabin": "interior of Maria De Jesus Garcia's vehicle",
+    "the beam of the flashlight": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia's vehicle": "vehicle with occupants reacting to a flashlight by ducking and scrambling, attempting to hide from view",
+    "interior of Maria De Jesus Garcia's vehicle": "location where occupants were observed reacting to a flashlight, attempting to hide from view, with a dark cabin and multiple people moving to conceal themselves"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Agent Baron", "Pruszenski"],
+    "NOUN_PHRASE": ["the passengers", "the male", "the men", "one"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "makes an assertion about the passengers' actions",
+    "Agent Baron": "shines a flashlight into the truck cab",
+    "Pruszenski": "testifies about the passengers' behavior"
+  }
+}

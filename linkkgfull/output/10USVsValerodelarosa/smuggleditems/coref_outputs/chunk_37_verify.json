@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "defense counsel": "Rogelio Valero-De La Rosa's counsel",
+    "Department of Homeland Security/United States Citizenship and Immigration Services (USCIS)": "United States Citizenship and Immigration Services (USCIS)",
+    "Laredo, Texas": "Laredo, Texas",
+    "paternal grandmother": "Rogelio Valero-De La Rosa's paternal grandmother",
+    "alien relative": null,
+    "United States Citizenship and Immigration Services (USCIS)": "United States Citizenship and Immigration Services (USCIS)",
+    "Nuevo Laredo, Tamaulipas": "Nuevo Laredo, Tamaulipas",
+    "Texas": "Laredo, Texas",
+    "the application": null,
+    "the United States Probation Office": "United States Probation Office",
+    "character letter": "Letters submitted by Rogelio Valero-De La Rosa's family members for consideration at sentencing",
+    "Rogelio Valero-De La Rosa's wife": "Rogelio Valero-De La Rosa's wife",
+    "Second Supplemental Addendum": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who applied for derivative citizenship with the Department of Homeland Security/United States Citizenship and Immigration Services (USCIS), native and citizen of Mexico, made statements under oath during plea colloquy",
+    "Rogelio Valero-De La Rosa's counsel": "Defendant's legal representative who assisted in application process for derivative citizenship",
+    "United States Citizenship and Immigration Services (USCIS)": "Agency responsible for processing applications for derivative citizenship, denied Rogelio Valero-De La Rosa's application due to failure to meet residency requirements",
+    "Laredo, Texas": "Location where Rogelio Valero-De La Rosa applied for derivative citizenship",
+    "Rogelio Valero-De La Rosa's paternal grandmother": "Relative who submitted petition for alien relative on behalf of Rogelio Valero-De La Rosa",
+    "United States Probation Office": "Agency that noted character letter from Rogelio Valero-De La Rosa's wife, considered in sentencing",
+    "Letters submitted by Rogelio Valero-De La Rosa's family members for consideration at sentencing": "Character references provided to mitigate sentence, highlighting Rogelio Valero-De La Rosa's positive qualities and potential for rehabilitation",
+    "Rogelio Valero-De La Rosa's wife": "Family member who submitted character letter on behalf of Rogelio Valero-De La Rosa"
+  }
+}

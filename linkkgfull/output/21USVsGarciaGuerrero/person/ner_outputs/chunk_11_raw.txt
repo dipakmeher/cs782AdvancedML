@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Cuyler"],
+    "NOUN_PHRASE": ["the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "guide",
+    "Cuyler": "defendant"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop",
+    "the United States Government": "United States Department of Homeland Security",
+    "Defendant RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "the United States District Judge": "United States Department of Homeland Security",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": null,
+    "the traffic stop": "RICARDO RODRIGUEZ, JR.'s vehicle stop and IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the United States Court": "United States Department of Homeland Security",
+    "Terry": null,
+    "the Supreme Court of the United States": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped by United States Border Patrol Agent Jorge Luis Trevino near Farm-to-Market Road 2050, transporting undocumented aliens, including five passengers and two in the trunk, driven on a road primarily used by local residents and oil company employees, registered to Hertz Rental Car Company, exhibiting suspicious behavior such as driving in tandem with another vehicle and repeatedly going on and off Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who waived his rights and provided a timeline of events, but changed details of his story several times during the interview",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck recognized by United States Border Patrol Agent Jorge Luis Trevino as not belonging to a local resident, stopped at the Freer Immigration Checkpoint, traveling in tandem with RICARDO RODRIGUEZ, JR.'s vehicle, exhibiting suspicious behavior such as driving in tandem and repeatedly going on and off Farm-to-Market Road 2050, involved in illegal activities near the Mexico border",
+    "RICARDO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of RICARDO RODRIGUEZ, JR.'s white Malibu sedan by United States Border Patrol Agent Jorge Luis Trevino on Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle stop": "Traffic stop of IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck by Officer Reymundo Reyes at the Freer Immigration Checkpoint",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with agents conducting interviews and ensuring defendants understand their rights"
+  }
+}

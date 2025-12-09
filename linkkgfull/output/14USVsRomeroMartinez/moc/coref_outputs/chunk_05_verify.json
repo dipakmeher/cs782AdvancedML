@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "his rear-view mirror": "Carlos Martinez-Romero's rear-view mirror",
+    "the wheel": "the wheel of the crew-cab truck used by Carlos Martinez-Romero",
+    "the door jamb": "the door jamb of the crew-cab truck used by Carlos Martinez-Romero",
+    "the front door": "the front door of the crew-cab truck used by Carlos Martinez-Romero",
+    "the crew-cab truck": "the crew-cab truck used by Carlos Martinez-Romero"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Carlos Martinez-Romero's rear-view mirror": "Rear-view mirror in the crew-cab truck used by Carlos Martinez-Romero to glance at following vehicles",
+    "the wheel of the crew-cab truck used by Carlos Martinez-Romero": "Wheel of the vehicle driven by Carlos Martinez-Romero during the investigatory stop",
+    "the door jamb of the crew-cab truck used by Carlos Martinez-Romero": "Door jamb of the crew-cab truck where Carlos Martinez-Romero attempted to hide from view",
+    "the front door of the crew-cab truck used by Carlos Martinez-Romero": "Front door of the vehicle from which Carlos Martinez-Romero attempted to position himself away from view",
+    "the crew-cab truck used by Carlos Martinez-Romero": "Vehicle stopped by United States Border Patrol Agent David Fitzgerald during an investigatory stop, modified with no backseat, indicative of potential smuggling of illegal aliens or narcotics"
+  }
+}

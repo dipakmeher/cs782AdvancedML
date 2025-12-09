@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "Reymundo Reyes's dispatch": "Freer Police Department",
+    "the passenger side": null,
+    "the glove box": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Officer Reymundo Reyes": "conducted a traffic stop of IGNACIO RODRIGUEZ, JR., noticed he was nervous and shaking during the interaction; issued a citation and impounded the black Dodge pickup truck due to unclear ownership and lack of insurance information",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with the black Dodge pickup truck, exhibited nervous behavior during a traffic stop",
+    "Farm-to-Market Road 2050": "Road frequently used by smugglers to circumvent checkpoints; known for its heavy use in smuggling operations",
+    "black Dodge pickup truck": "Vehicle involved in the smuggling operation, believed by Agent Trevino to be connected to the white Malibu sedan due to tandem travel and shared origin in Dallas, Texas",
+    "Freer Police Department": "Involved in the traffic stop of IGNACIO RODRIGUEZ, JR. and cooperated with United States Border Patrol."
+  }
+}

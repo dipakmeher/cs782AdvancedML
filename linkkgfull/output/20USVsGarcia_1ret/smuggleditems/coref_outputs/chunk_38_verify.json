@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court Jury": "United States District Court Jury",
+    "the United States District Court Judge": "the United States District Court Judge",
+    "the jurors": "United States District Court Jury",
+    "the defense": null,
+    "the note": null,
+    "the request": null,
+    "the decision": null,
+    "the evidence": null,
+    "the deliberation": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court Jury": "trial court jury responsible for deciding cases based on evidence and law, consisting of jurors who deliberate to reach a verdict",
+    "the United States District Court Judge": "judge presiding over the trial, providing guidance and instructions to the jury during deliberation"
+  }
+}

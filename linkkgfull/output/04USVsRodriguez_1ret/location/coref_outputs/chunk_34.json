@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "San Antonio": "San Antonio",
+    "Corinth": "Corinth, Texas",
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the roadway": "Farm-to-Market Road 2050",
+    "the border": "Mexico border",
+    "a high crime area": null,
+    "a rarely traveled road": "Farm-to-Market Road 2050",
+    "a smuggling route": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "San Antonio": "location used for comparative direction, north of the events' location",
+    "Corinth, Texas": "registration location of one of the vehicles involved in the case",
+    "Dallas-Fort Worth": "registration location of one of the vehicles involved in the case",
+    "Farm-to-Market Road 2050": "rural road where the vehicles were traveling, known for being a smuggling route with limited traffic",
+    "Freer immigration checkpoint": "location where border patrol agents inspect vehicles and process individuals, relevant to the events' context",
+    "Mexico border": "country border relevant to the smuggling context"
+  }
+}

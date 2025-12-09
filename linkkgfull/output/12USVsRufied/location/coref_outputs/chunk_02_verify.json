@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Highway 59": "Highway 59",
+    "the Border Patrol check point": "Border Patrol check point on Highway 59",
+    "the checkpoint": "Border Patrol check point on Highway 59",
+    "the hospital": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Highway 59": "location of the Border Patrol check point where sixty undocumented aliens were found in a tractor trailer",
+    "Border Patrol check point on Highway 59": "checkpoint where sixty undocumented aliens were found in a tractor trailer during a secondary inspection"
+  }
+}

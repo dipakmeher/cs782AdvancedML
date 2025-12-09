@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the government": null,
+    "the district court": "United States District Court",
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court where Maria De Jesus Garcia's trial was held"
+  }
+}

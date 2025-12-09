@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented aliens": "undocumented aliens",
+    "five undocumented aliens": "five undocumented aliens",
+    "the five undocumented aliens": "five undocumented aliens",
+    "illegal aliens": "undocumented aliens",
+    "the merchandise": null,
+    "the hidden compartment": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "persons being smuggled into the United States",
+    "five undocumented aliens": "undocumented immigrants being smuggled, transported in a hidden van compartment"
+  }
+}

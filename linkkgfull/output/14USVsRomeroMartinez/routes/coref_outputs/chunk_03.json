@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate 35": "Interstate 35",
+    "U.S.-Mexico border": null,
+    "Texas-Mexico border": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate 35": "the route on which Carlos Martinez-Romero was stopped by Border Patrol Agent David Fitzgerald",
+    "U.S.-Mexico border": "geographical boundary relevant to roving border patrol stops",
+    "Texas-Mexico border": "geographical boundary relevant to roving border patrol stops"
+  }
+}

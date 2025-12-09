@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the panel majority": null,
+    "the precedents of the United States Court of Appeals for the Fifth Circuit": null,
+    "the present facts": null,
+    "my brethren in the majority": null,
+    "the majority": null,
+    "a roving United States Border Patrol": "marked United States Border Patrol sedan",
+    "the multi-factorial test": null,
+    "Stanley Pruszenski and Alfred Baron": null,
+    "the time of the stop": null,
+    "the totality of the circumstances": null,
+    "the vehicle in question": "pickup truck camper",
+    "the United States-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35 in Texas": null,
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the defendant": "Maria De Jesus Garcia",
+    "Stanley Pruszenski": null,
+    "Alfred Baron": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals suspected of crossing the border illegally, potentially traveling and being stopped based on appearance and other slight circumstances",
+    "pickup truck camper": "vehicle stopped by United States Border Patrol on Interstate Highway 35, containing undocumented aliens and searched based on probable cause",
+    "Maria De Jesus Garcia": "defendant arguing against the use of the modified Allen charge, claiming it was coercive and seeking post-verdict discovery through juror depositions",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, focusing on the modified Allen charge's potential coercive effect and its proper use in this instance, with a review of the record to determine if the Brignoni-Ponce standard is satisfied",
+    "marked United States Border Patrol sedan": "law enforcement vehicle used for stopping and searching vehicles near the United States-Mexican border",
+    "United States-Mexican border": "border approximately 100 miles south of where the pickup truck camper was stopped"
+  }
+}

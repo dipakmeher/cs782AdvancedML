@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino", "Mills Bennett", "Moglia", "Stag"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "witness during cross examination"
+  }
+}

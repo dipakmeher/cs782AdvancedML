@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this appeal": null,
+    "the district": null,
+    "her automobile": null,
+    "the government": null,
+    "the jury": null,
+    "the vehicle": "pickup truck",
+    "Moore, Texas": "Moore, Texas",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "Mexican border": "Mexican border",
+    "the northbound lanes": "northbound lanes of Interstate Highway 35",
+    "their marked border patrol sedan": null,
+    "the camper": "pickup truck camper",
+    "the bumper": null,
+    "the tires": null,
+    "the wheel wells": null,
+    "the rear": null,
+    "the window": null,
+    "the truck": "pickup truck",
+    "the front end": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "Moore, Texas": "location where the border patrol agents were sitting, near Interstate Highway 35 and approximately 115 miles from the Mexican border",
+    "Interstate Highway 35": "highway where the incident occurred, with northbound lanes where a pickup truck camper was spotted",
+    "Mexican border": "border near the location of the incident, approximately 115 miles from Moore, Texas"
+  }
+}

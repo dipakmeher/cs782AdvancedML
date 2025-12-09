@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "Joseph M. Hood": "Joseph M. Hood",
+    "the Plea Agreement": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the indictment": null,
+    "the sentence": null,
+    "the conviction": null,
+    "the 2255 Motion": null,
+    "the Bureau of Prisons": "Bureau of Prisons"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant in a court case for illegal re-entry after deportation",
+    "United States District Court for the Southern District of Texas": "Court where the case is being heard",
+    "Joseph M. Hood": "Judge presiding over the case",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement between defendant and the United States regarding guilty plea and sentencing",
+    "Bureau of Prisons": "Agency responsible for imprisonment"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Gary Haston": "Gary Haston",
+    "Heather Vargas": "Heather Vargas",
+    "Williamson County Sheriff's Office": null,
+    "IH-35": null,
+    "Daniel Martin Huerta": "Daniel Martin Huerta",
+    "Daniel A. Huerta": "Daniel A. Huerta",
+    "Laredo": null,
+    "San Antonio": null,
+    "a veteran narcotics investigator": "Gary Haston",
+    "a relative newcomer to the narcotics division": "Heather Vargas",
+    "the trailer's license plate": null,
+    "the truck's license plate": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Gary Haston": "veteran narcotics investigator with 17 years of experience, teaching Heather Vargas drug interdiction techniques",
+    "Heather Vargas": "relative newcomer to the narcotics division, learning from Gary Haston",
+    "Daniel Martin Huerta": "registered owner of the trailer, license issued in Laredo",
+    "Daniel A. Huerta": "registered owner of the truck, license registered in San Antonio"
+  }
+}

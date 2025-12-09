@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the 2008 Chevrolet truck driven by Federico Saldana": "2008 Chevrolet truck driven by Federico Saldana",
+    "Williamson County Sheriff's Office": "Williamson County Sheriff's Office",
+    "Josiah Bennett's patrol car": "Josiah Bennett's patrol car",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "flatbed trailer towed by the 2008 Chevrolet truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle involved in a traffic stop due to unsafe lane changes and near-collisions, traveling at approximately 75 miles per hour",
+    "Williamson County Sheriff's Office": "Law enforcement agency conducting the search and requesting consent from Federico Saldana",
+    "Josiah Bennett's patrol car": "Patrol car used to transport K-9 dog used for searching, driven by Josiah Bennett during the search operation",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires"
+  }
+}

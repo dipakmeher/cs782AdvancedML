@@ -1,0 +1,27 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Juan Gonzalez Torres",
+      "Ortega-Chavez",
+      "Josefina Contreras de Gonzalez",
+      "Sanchez"
+    ],
+    "NOUN_PHRASE": [
+      "a party",
+      "an officer",
+      "a person",
+      "the Assistant United States Attorney",
+      "defense counsel",
+      "witnesses",
+      "his father",
+      "another Assistant United States Attorney",
+      "the appellant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Juan Gonzalez Torres": "Witness",
+    "Ortega-Chavez": "Appellant",
+    "Josefina Contreras de Gonzalez": "Witness",
+    "Sanchez": "Defendant"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the oil companies": null,
+    "the Court": "United States District Court",
+    "Ford": "Ford Motor Company"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that interpreted Agent Trevino's testimony about vehicles going off the road on Farm-to-Market Road 2050",
+    "Ford Motor Company": "manufacturer of vehicles commonly used by oil companies, such as Ford F-150s and Ford F-250s"
+  }
+}

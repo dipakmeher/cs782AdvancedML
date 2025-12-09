@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "an undocumented alien": "undocumented alien",
+    "the alien": "undocumented alien",
+    "undocumented alien": "undocumented alien",
+    "nine undocumented aliens": "nine undocumented aliens",
+    "seven other undocumented aliens": "seven other undocumented aliens",
+    "the group": "nine undocumented aliens and seven other undocumented aliens",
+    "a member of the group": "undocumented alien",
+    "the other members of the group": "eighteen undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented alien": "individual being smuggled, involved in a case of reckless endangerment and resulting death during smuggling",
+    "nine undocumented aliens": "group of nine undocumented immigrants being smuggled from Mexico to the United States",
+    "seven other undocumented aliens": "additional group of seven undocumented immigrants being smuggled from Mexico to the United States",
+    "nine undocumented aliens and seven other undocumented aliens": "combined group of nineteen undocumented immigrants being smuggled from Mexico to the United States",
+    "eighteen undocumented aliens": "larger group of eighteen undocumented immigrants, part of a smuggling operation"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia"],
+    "NOUN_PHRASE": ["a juror", "his affidavit", "any other juror"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "appellant"
+  }
+}

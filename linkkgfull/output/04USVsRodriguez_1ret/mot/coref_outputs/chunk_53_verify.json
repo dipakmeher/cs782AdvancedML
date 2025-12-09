@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "F-150": "Ford F-150s",
+    "F-250": "Ford F-250s",
+    "two cars": null,
+    "the first car": null,
+    "the scout car": null,
+    "the load car": null,
+    "a load car": null,
+    "a scout car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Ford F-150s": "used by ranchers and oil companies, typical vehicles seen on Farm-to-Market Road 2050, often white",
+    "Ford F-250s": "used by ranchers, typical vehicles seen on Farm-to-Market Road 2050, has head rack in the back"
+  }
+}

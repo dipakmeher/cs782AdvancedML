@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "U.S. Highway 59": "U.S. Highway 59",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "the Freer immigration checkpoint building": "Freer Immigration Checkpoint Building",
+    "the Border Patrol station parking lot": "Border Patrol Station Parking Lot",
+    "United States Border Patrol Agent Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "United States Border Patrol Agent Ignacio Rodriguez Jr.": "United States Border Patrol Agent Ignacio Rodriguez Jr.",
+    "white Malibu sedan": "white Malibu sedan",
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "conducted a vehicle stop and was involved in the arrest of Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; had an agent stationed at the Freer immigration checkpoint",
+    "U.S. Highway 59": "highway where vehicles were inspected by United States Border Patrol and location of Freer immigration checkpoint; part of route used to avoid checkpoints",
+    "Freer Immigration Checkpoint": "location where Agent Trevino was stationed and conducted inspections; checkpoint avoided by smugglers; location where IGNACIO RODRIGUEZ, JR. was transported for further questioning",
+    "Freer Immigration Checkpoint Building": "building where Agent Trevino processed undocumented individuals; location of processing activities",
+    "Border Patrol Station Parking Lot": "parking lot adjacent to the Freer immigration checkpoint; nearby area where vehicles turned southbound onto Farm-to-Market Road 2050",
+    "United States Border Patrol Agent Jorge Luis Trevino": "approached the white Malibu sedan and presumed it was riding low because there were five people in it; testified that he could drive Farm-to-Market Road 2050 at eighty miles per hour despite its narrowness and sharp turns; was stationed at the Freer immigration checkpoint",
+    "United States Border Patrol Agent Ignacio Rodriguez Jr.": "called out vehicles going southbound during Agent Trevino's shift, driver of the black Dodge pickup truck, was nervous during a traffic stop by Officer Reyes; provided inconsistent information about vehicle ownership",
+    "white Malibu sedan": "vehicle involved in the incident, associated with defendant RICARDO RODRIGUEZ, JR.",
+    "black Dodge pickup truck": "vehicle involved in the incident, associated with defendant IGNACIO RODRIGUEZ, JR.",
+    "Farm-to-Market Road 2050": "road adjacent to the Border Patrol station parking lot where vehicles turned southbound and where drop-offs of undocumented individuals were noticed; used by smugglers to avoid checkpoints; primarily used by ranchers, oil trucks, and occasional small cars from a nearby wind farm"
+  }
+}

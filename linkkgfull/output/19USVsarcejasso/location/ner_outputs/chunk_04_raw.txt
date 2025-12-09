@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America", "District Court"],
+    "NOUN_PHRASE": ["the Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "appellant",
+    "District Court": "court that granted the motion to suppress and entered a judgment for acquittal"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "an individual officer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who testified about the arrest and was uncertain if he could have arrested Ignacio Rodriguez",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a case regarding alien smuggling, whose vehicle was stopped by Agent Trevino, attempted to travel through an indirect route to avoid stationary checkpoints, acknowledged during the hearing that he consented to have his vehicle searched, could not provide insurance information for his vehicle, and was considered for arrest by Agent Benavides",
+    "IGNACIO RODRIGUEZ, JR. and Hugo Benavides": "Individuals involved in a case where Ignacio Rodriguez was a defendant and Hugo Benavides was a United States Border Patrol Agent who testified about the arrest"
+  }
+}

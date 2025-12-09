@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["four illegal aliens"],
+    "NOUN_PHRASE": ["the defendant", "an unlawful alien"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "four illegal aliens": "individuals being smuggled"
+  }
+}

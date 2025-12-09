@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": null,
+    "an unlawful alien": "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales",
+    "four illegal aliens": "four illegal aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales": "Two Guatemalan citizens transported illegally by Juventino Mejia-Orosco",
+    "four illegal aliens": "individuals being smuggled, mentioned in the context of Juventino Mejia-Orosco's previous conviction"
+  }
+}

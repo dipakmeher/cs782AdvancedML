@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": "United States-Mexican border",
+    "the area": null,
+    "the whole picture": null,
+    "the public highway": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate Highway 35": "route leading directly to the United States-Mexican border, passing through several towns including Laredo, Texas",
+    "United States-Mexican border": "geographical boundary relevant to the Brignoni-Ponce standard for determining stop legality"
+  }
+}

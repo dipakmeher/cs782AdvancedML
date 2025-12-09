@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Sam Sparks", "Haston", "Deputy Cox", "Saldana", "Miguel", "Daniel"],
+    "NOUN_PHRASE": ["the Government", "the Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sam Sparks": "UNITED STATES DISTRICT JUDGE",
+    "Haston": "",
+    "Deputy Cox": "",
+    "Saldana": "",
+    "Miguel": "",
+    "Daniel": ""
+  }
+}

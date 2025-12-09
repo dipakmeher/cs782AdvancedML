@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Immigration and Customs Enforcement",
+      "ICE",
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": [
+      "the government"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Immigration and Customs Enforcement": "presented Agent Bruce Henderson as its sole witness",
+    "ICE": "presented Agent Bruce Henderson as its sole witness",
+    "Border Patrol": "conducted a check point on Highway 59"
+  }
+}

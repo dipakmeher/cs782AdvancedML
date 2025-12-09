@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["sixty undocumented aliens", "undocumented aliens"],
+    "NOUN_PHRASE": ["the tractor trailer"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "sixty undocumented aliens": "undocumented individuals found in the tractor trailer",
+    "undocumented aliens": "individuals being smuggled"
+  }
+}

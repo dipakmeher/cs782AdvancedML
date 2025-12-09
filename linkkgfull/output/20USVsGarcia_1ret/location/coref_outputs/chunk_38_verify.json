@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexico border": "United States-Mexican border",
+    "particular highways": null,
+    "smuggling routes": null,
+    "the vehicle": "pickup truck",
+    "the car": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it, patrolled by agents like Stanley Pruszenski and Alfred Baron",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment, with occupants attempting to evade detection, searched by border patrol agents Stanley Pruszenski and Alfred Baron"
+  }
+}

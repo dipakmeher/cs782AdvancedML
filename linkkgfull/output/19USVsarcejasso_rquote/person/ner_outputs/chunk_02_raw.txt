@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Arce-Jasso", "Jesus Garcia", "Garcia"],
+    "NOUN_PHRASE": ["the border patrol checkpoint", "his assistant" ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Arce-Jasso": "driver of the Mercury Cougar",
+    "Jesus Garcia": "border patrol agent",
+    "Garcia": "border patrol agent"
+  }
+}

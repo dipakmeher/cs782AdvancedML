@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "Corinth, Texas": "Corinth, Texas",
+    "San Angelo": "San Angelo",
+    "Fifth Circuit": "Fifth Circuit",
+    "United States": "United States",
+    "Texas": "Texas",
+    "Dallas": "Dallas, Texas",
+    "1-20": "Interstate 20",
+    "1-35": "Interstate 35",
+    "the area": "Farm-to-Market Road 2050 area",
+    "a faraway place": null,
+    "the most direct route": "Interstate 20",
+    "the ranch road": "ranch roads near Farm-to-Market Road 2050",
+    "another part of Texas": null,
+    "the local ranches": null,
+    "that particular road": "Farm-to-Market Road 2050",
+    "a well-traveled interstate highway": "Interstate 35",
+    "the checkpoint": "Freer immigration checkpoint"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Dallas-Fort Worth": "location of vehicle registration, part of the Dallas, Texas area",
+    "Corinth, Texas": "location of vehicle registration, a suburb of Dallas, approximately twenty to twenty-five miles north of Dallas",
+    "San Angelo": "location used as a reference for suspicious vehicle behavior in a previous case, potential destination for smuggled aliens",
+    "Fifth Circuit": "judicial circuit with relevant case law on reasonable suspicion and Border Patrol stops",
+    "United States": "country of jurisdiction for the case involving IGNACIO RODRIGUEZ, JR.",
+    "Texas": "state where the roads and departments are located, with areas known for smuggling activity",
+    "Dallas, Texas": "destination of Defendant's journey, a city in the state of Texas",
+    "Interstate 20": "highway mentioned as a direct route, part of the most direct path from one location to another",
+    "Interstate 35": "highway mentioned as a well-traveled interstate highway, potential route for smuggled aliens",
+    "Farm-to-Market Road 2050 area": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions, frequently used as a smuggling route",
+    "Freer immigration checkpoint": "location where Marco Montemayor arrived to investigate an attempted alien smuggling event"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Federico Saldana"],
+    "NOUN_PHRASE": ["the defendant", "Defendant Federico Saldana", "the Court", "counsel", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Federico Saldana": "defendant"
+  }
+}

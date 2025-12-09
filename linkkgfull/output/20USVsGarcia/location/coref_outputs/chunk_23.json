@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the highway": "Interstate Highway 35",
+    "the point": null,
+    "the border": "United States-Mexican border",
+    "U.S.-Mexico border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the legal case is taking place, with a Constitution that protects residents from unreasonable searches and seizures",
+    "Moore, Texas": "location where the incident occurred, approximately 115 miles from the United States-Mexican border, and where border patrol agents had recently apprehended a number of illegal alien smugglers",
+    "Interstate Highway 35": "highway where the incident took place, with northbound lanes, leading directly to the United States-Mexican border and passing through Laredo, Texas, known as a common smuggling route with a history of alien smuggling",
+    "Mexican border": "geographical reference point, approximately 115 miles from Moore, Texas, relevant for roving border patrol stops",
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and the Brignoni-Ponce test, approximately 115 miles south of the stop in Texas",
+    "Laredo, Texas": "location through which Interstate 35 passes, one of the towns before reaching Moore",
+    "Brignoni-Ponce standard": "a standard for reasonably warranting suspicion in border patrol stops",
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit reviewing the case regarding roving border patrol stops and the Brignoni-Ponce standard",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens and subject of a court case, described as a pickup truck with a camper shell attachment",
+    "camper compartment of Maria De Jesus Garcia's vehicle": "part of the vehicle where occupants were suspected to be hiding, with a dark cabin that was illuminated by a flashlight during the stop, and where physical movement occurred at night immediately after a bright flashlight was directed at the occupants",
+    "jury in Maria De Jesus Garcia's trial": "jury that received a modified Allen charge during deliberations, with their verdict being the subject of an appeal regarding potential coercion",
+    "district court in Maria De Jesus Garcia's case": "court that handled Maria De Jesus Garcia's trial and made decisions on post-verdict discovery requests",
+    "Texas": "location where Maria De Jesus Garcia was stopped, approximately 115 miles north of the United States-Mexican border",
+    "Mexico": "country of origin for illegal migrants",
+    "U.S.-Mexico border": "relevant to the context of illegal alien traffic"
+  }
+}

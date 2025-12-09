@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S. 59": "U.S. 59",
+    "FM 2050": "Farm-to-Market Road 2050",
+    "the checkpoint": "Freer immigration checkpoint",
+    "the ranches": null,
+    "the oil fields": null,
+    "the wind farm": "wind farm on FM 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. 59": "route taken by defendants to avoid the Hebbronville checkpoint, highway where checkpoint is located, intersects with FM 2050 to the west of Freer checkpoint",
+    "Farm-to-Market Road 2050": "rural, two-lane road with sharp turns and no shoulder, where vehicles can be driven at high speeds, road adjacent to Border Patrol station, location of drop-offs for illegal aliens, mostly used by ranchers and oil trucks",
+    "Freer immigration checkpoint": "location where Agent Montemayor arrived and conducted interviews with RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR., situated near the intersection of Highway 16 and U.S. 59, location of border patrol activity",
+    "wind farm on FM 2050": "location of windmills and wind farm office, between twelve and fifteen miles from the Freer immigration checkpoint on U.S. 59, with employees who regularly drive through the checkpoint"
+  }
+}

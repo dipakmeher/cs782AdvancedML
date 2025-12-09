@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Border Patrol"],
+    "NOUN_PHRASE": ["the wind farm", "an oil company", "the agency"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "a law enforcement agency"
+  }
+}

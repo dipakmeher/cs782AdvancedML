@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["aliens", "Juventino Mejia-Orosco's van"],
+    "NOUN_PHRASE": ["the aliens", "the transported aliens"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "undocumented immigrants being smuggled",
+    "Juventino Mejia-Orosco's van": "vehicle used for transporting smuggled aliens"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the driver",
+      "the officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

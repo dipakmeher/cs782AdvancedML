@@ -1,0 +1,33 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the parties": null,
+    "this Report and Recommendation": null,
+    "the findings": null,
+    "the conclusions": null,
+    "the recommendations": null,
+    "a copy": null,
+    "fourteen days": null,
+    "the date": null,
+    "the service": null,
+    "specific written objections": null,
+    "de novo review": null,
+    "those proposed findings": null,
+    "those proposed conclusions and recommendations": null,
+    "Id.": null,
+    "Failure to file written objections within the fourteen days after service": null,
+    "that party": null,
+    "grounds of plain error": null,
+    "the unobjected-to proposed factual findings": null,
+    "the legal conclusions accepted by the United States District Judge": null,
+    "appeal": null,
+    "J. Scott Hacker": "J. Scott Hacker",
+    "United States Magistrate Judge": "United States Department of Homeland Security",
+    "June": null,
+    "Laredo, Texas": "Laredo, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J. Scott Hacker": "United States Magistrate Judge who signed the Report and Recommendation",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident",
+    "Laredo, Texas": "Location where the Report and Recommendation was signed"
+  }
+}

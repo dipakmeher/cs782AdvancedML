@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "United States district court": "United States District Court",
+    "the government": "United States Government",
+    "the federal district court": "United States District Court",
+    "Maria De Jesus Garcia's pickup truck": "Maria De Jesus Garcia's Vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the case is being tried, differentiated from police states",
+    "United States District Court": "court that determined relevance and propriety of post-trial questioning, judged the case, provided initial instructions to the jury, and gave the modified Allen charge, convicted Maria De Jesus Garcia",
+    "United States Government": "government whose agents conducted the stop and search, defendant in the appeal, responsible for enforcing laws through governmental enforcement agents",
+    "Maria De Jesus Garcia's Vehicle": "pickup truck driven by Maria De Jesus Garcia, subject of a stop and search by border patrol agents where occupants exhibited suspicious behavior, including hygienic appearances that were considered in assessing reasonable suspicion for the stop, had passengers who attempted to hide when a light was shone into the vehicle, was traveling at forty to forty-five miles per hour on Interstate Highway 35, had squashed tires, angled headlights, and was weaving"
+  }
+}

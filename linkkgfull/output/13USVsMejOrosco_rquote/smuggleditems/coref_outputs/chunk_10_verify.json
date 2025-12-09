@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the offense": "human smuggling operation",
+    "the defendant's criminal history": "Juventino Mejia-Orosco's criminal history category",
+    "robbery": "robbery",
+    "the amount taken in the robbery": "$2,500",
+    "a firearm": null,
+    "bodily injury resulting from the crime": null,
+    "cooperation with United States of America officials": null,
+    "Juventino Mejia-Orosco's criminal history category": "Juventino Mejia-Orosco's criminal history category",
+    "the base offense level": "18",
+    "the instant offense": "human smuggling operation"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "human smuggling operation": "Crime involving the transportation of smuggled aliens, with Juventino Mejia-Orosco as an organizer or leader",
+    "Juventino Mejia-Orosco's criminal history category": "Category assigned based on prior convictions and other factors, used to determine the sentencing range",
+    "robbery": "crime with a base offense level of 18, used as an example in sentencing guidelines",
+    "$2,500": "amount taken in the robbery that increases the offense level",
+    "18": "Base offense level for certain crimes like robbery"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Pruszenski",
+      "Baron",
+      "Garcia",
+      "Lourdes Rangel-Campos"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "the driver",
+      "the male passengers",
+      "the men",
+      "the women",
+      "the female passengers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Pruszenski": "agent driving the patrol car",
+    "Baron": "agent who observed the truck and its passengers",
+    "Garcia": "owner of the camper",
+    "Lourdes Rangel-Campos": "driver of the camper"
+  }
+}

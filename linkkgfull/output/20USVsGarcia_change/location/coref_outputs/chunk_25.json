@@ -1,0 +1,32 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the highway": "Interstate Highway 35",
+    "the border": "United States-Mexican border",
+    "U.S.-Mexico border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the events are taking place and whose Constitution protects residents from unreasonable searches",
+    "Moore, Texas": "location near the border where Interstate 35 passes",
+    "Interstate Highway 35": "highway leading directly to the border and passing through Laredo, Texas, common smuggling route with history of alien smuggling",
+    "Mexican border": "reference point for the location of the stop, 115 miles south of the incident",
+    "northbound lanes of Interstate Highway 35": "part of the highway where the border patrol agents observed the pickup truck",
+    "camper": "vehicle used to transport illegal aliens, with a compartment searched for evidence, often heavily loaded and with fogged windows, driven by Maria De Jesus Garcia, occupants attempting to hide from view",
+    "United States District Court": "court where the suppression motion was filed and considered, also involved in post-verdict juror deposition decisions",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident",
+    "Laredo, Texas": "city through which Interstate 35 passes and located near the border",
+    "Interstate 35": "highway leading directly to the border and passing through several towns including Laredo, Texas and Moore, common smuggling route with history of alien smuggling",
+    "Moore": "location near the border and one of the towns passed by Interstate 35",
+    "segment of Interstate 35 near Moore, Texas": "specific segment of highway known for alien smuggling activity",
+    "United States Court of Appeals for the Fifth Circuit": "federal court reviewing the case of roving border patrol agents' stops, with precedents applied in a principled way",
+    "United States v. Pena-Cantu": "court case reference where the Allen charge was deemed permissible",
+    "United States v. Pacheco": "court case reference that affirmed the use of the modified Allen charge",
+    "United States v. Orona-Sanchez": "court case reference that upheld the use of the modified Allen charge",
+    "United States federal courts": "courts that have historically not favored interrogations of jurors except in cases of illegal or prejudicial intrusion into the jury process",
+    "Texas": "location where the defendant was stopped, 115 miles north of the Mexico/United States border",
+    "Interstate Highway": "highways where border patrol agents may stop persons, including the location where Maria De Jesus Garcia was stopped",
+    "Mexico": "country of origin for illegal migrants",
+    "Mexico/United States border": "geographical boundary relevant to the case and location of the incident, 115 miles south of the stop in Texas",
+    "Interstate 35 near Moore, Texas": "specific segment of highway known for alien smuggling activity",
+    "interior of Maria De Jesus Garcia's vehicle": "location where occupants were observed reacting to a flashlight"
+  }
+}

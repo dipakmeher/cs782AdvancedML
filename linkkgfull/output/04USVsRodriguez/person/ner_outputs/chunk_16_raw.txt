@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Hugo Benavides", "Jr.", "Ignacio Rodriguez", "Officer Reyes", "Agent Benavides", "Ignacio Rodriguez"],
+    "NOUN_PHRASE": ["his supervisor", "the Freer P.D. officer", "the canine handler", "Defendant", "Mr. Rodriguez"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Hugo Benavides": "United States Border Patrol Agent",
+    "Ignacio Rodriguez": "individual stopped by Officer Reyes",
+    "Officer Reyes": "officer writing a ticket",
+    "Agent Benavides": "United States Border Patrol Agent"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the buses": null,
+    "the vehicle": "black Dodge pickup truck",
+    "a white passenger vehicle": "white Malibu sedan",
+    "a black truck": "black Dodge pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a vehicle mentioned as a white sedan, involved in the incident at the Freer immigration checkpoint, lacked a wind farm sticker, designed to hold five people, stopped by Agent Trevino and found to be transporting illegals, registered to Dallas-Fort Worth as a rental vehicle, traveling in tandem with a black Dodge pickup truck, driven by RICARDO RODRIGUEZ, JR., sped away at around eighty miles per hour, rented from Hertz Dallas-Fort Worth, had two passengers sitting in front and three in back, including two hidden in the trunk, used as a load car, was riding low due to having five passengers, rented at the Laredo International Airport",
+    "black Dodge pickup truck": "a black truck with a camper, suspected of being used to transport illegal aliens, lacked a wind farm sticker, believed to be connected to the white Malibu sedan, subject of a BOLO, stopped by Officer Reymundo Reyes for not using a turning signal, registered to Corinth, Texas, had a dark blue or black camper, was traveling in tandem with the white Malibu sedan on Farm-to-Market Road 2050, used as a lead car"
+  }
+}

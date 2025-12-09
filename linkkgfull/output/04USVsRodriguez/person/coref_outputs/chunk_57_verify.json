@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Santiago Hinojosa": "Santiago Hinojosa",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "the manager": "Santiago Hinojosa",
+    "a manager": null,
+    "the company": null,
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Agent": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who rented a vehicle at the Laredo International Airport, which was registered to Dallas-Fort Worth",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who elicited testimony from Santiago Hinojosa about rental car registrations",
+    "Santiago Hinojosa": "Manager with the Hertz rental car company at the Laredo International Airport, testified that rental vehicle registrations do not necessarily coincide with the location where the car was rented",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified on cross examination about his knowledge of Hertz rental car locations"
+  }
+}

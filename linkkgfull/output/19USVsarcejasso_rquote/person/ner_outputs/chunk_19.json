@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Martinez"
+    ],
+    "NOUN_PHRASE": [
+      "the Government",
+      "appellants"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Martinez": "recognizes the proper vehicle for interlocutory criminal appeals"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the border",
+      "an area much less than 50 miles from the border",
+      "the point where the truck was first sighted",
+      "Highway 385",
+      "the area very close to the border"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

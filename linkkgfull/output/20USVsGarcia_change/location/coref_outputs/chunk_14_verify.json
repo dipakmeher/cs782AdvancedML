@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "United States Court of Appeals for the Fifth Circuit",
+    "district court": "United States District Court",
+    "United States": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the legal case is being tried, with a tradition of not favoring interrogations of jurors except in cases of illegal or prejudicial intrusion into the jury process",
+    "United States Court of Appeals for the Fifth Circuit": "federal court reviewing the case and providing jury instructions on the importance of reaching a verdict, emphasizing individual conscientious conviction in deliberations, with prior decisions upholding the use of the modified Allen charge",
+    "United States District Court": "court where the trial of Maria De Jesus Garcia took place, the jury deliberated, and post-verdict discovery was denied, also made oral findings of fact regarding the constitutionality of the stop and search"
+  }
+}

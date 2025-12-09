@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "5th Circuit Court of Appeals",
+      "United States-Mexican border",
+      "Cotulla, Texas station",
+      "Interstate Highway 35"
+    ],
+    "NOUN_PHRASE": [
+      "roving border patrol",
+      "the officers",
+      "the detaining officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "a court that held principles for investigatory stops",
+    "United States-Mexican border": "a geographical location relevant to the case",
+    "Cotulla, Texas station": "a location where roving patrol agents are based",
+    "Interstate Highway 35": "a location where the investigatory stop was made"
+  }
+}

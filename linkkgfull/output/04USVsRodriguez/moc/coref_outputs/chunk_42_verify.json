@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Border Patrol": "the United States Border Patrol",
+    "the Freer Police Department": "the Freer Police Department",
+    "a law enforcement officer": null,
+    "the arresting law enforcement officer": null,
+    "an officer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States Border Patrol": "Law enforcement agency responsible for monitoring and enforcing immigration laws near the United States-Mexico border",
+    "the Freer Police Department": "Local law enforcement agency that received a BOLO for the black Dodge pickup truck"
+  }
+}

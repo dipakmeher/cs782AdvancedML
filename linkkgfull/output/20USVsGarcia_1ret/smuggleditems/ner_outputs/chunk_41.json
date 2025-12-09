@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's Vehicle"
+    ],
+    "NOUN_PHRASE": [
+      "the pickup truck camper",
+      "living, breathing cargo",
+      "the windows",
+      "the tires",
+      "the headlights"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's Vehicle": "a vehicle involved in the case"
+  }
+}

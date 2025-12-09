@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "two vehicles": null,
+    "the first vehicle": null,
+    "the other vehicle": null,
+    "the second vehicle": null,
+    "a pickup truck": "black Dodge pickup truck",
+    "the pickup truck": "black Dodge pickup truck",
+    "the cars": null,
+    "Cadillac": "Cadillac"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a sedan involved in the incident, described as white, designed to hold five people, used for transporting illegal aliens, stopped by United States Border Patrol Agent Jorge Luis Trevino, searched after owner's consent, had five passengers, rented from Hertz Dallas-Fort Worth, observed riding low with half of its passengers wearing caps, followed by Agent Trevino on Farm-to-Market Road 2050, registered to Dallas-Fort Worth",
+    "black Dodge truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas, possibly equipped with a camper shell, drove behind the white car in tandem, raised suspicions due to out-of-town registration, stopped by Officer Reymundo Reyes for not using a turning signal, used by IGNACIO RODRIGUEZ, JR., described as a non-work truck, searched after owner's consent during a traffic stop",
+    "white Malibu sedan and black Dodge truck": "vehicles jointly involved in the incident, driving in tandem, potentially used for transporting illegal aliens, raised Jorge Luis Trevino's suspicions due to out-of-town registrations",
+    "Ford F-150": "used by most of the ranchers on Farm-to-Market Road 2050, Ford truck model, often with brush guards, commonly used by oil companies, typical vehicle seen on Farm-to-Market Road 2050, usually white",
+    "Ford F-250": "used by most of the ranchers on Farm-to-Market Road 2050, Ford truck model, with head rack in the back, typical vehicle seen on Farm-to-Market Road 2050",
+    "black Dodge pickup truck": "subject of a BOLO, involved in a traffic stop, registered to Corinth, Texas, possibly equipped with a camper shell, drove behind the white car in tandem, raised suspicions due to out-of-town registration, stopped by Officer Reymundo Reyes for not using a turning signal, used by IGNACIO RODRIGUEZ, JR., described as a non-work truck, searched after owner's consent during a traffic stop",
+    "white sedan": "rental vehicle registered to Dallas-Fort Worth, used by smugglers to avoid losing personal vehicles, stopped by Agent Trevino, recognizable to United States Border Patrol agents if displaying a wind farm sticker or passing through the Freer immigration checkpoint, raised suspicions due to out-of-town registration",
+    "black truck": "registered to Corinth, Texas, possibly equipped with a camper shell, atypical of vehicles in the Farm-to-Market Road 2050 area, raised suspicions due to out-of-town registration",
+    "white sedan and black truck": "vehicles with out-of-town registrations, one of which was a rental vehicle, raised Jorge Luis Trevino's suspicions",
+    "Cadillac": "one of the vehicles in a tandem driving scenario"
+  }
+}

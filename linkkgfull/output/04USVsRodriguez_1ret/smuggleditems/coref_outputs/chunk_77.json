@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Hertz Rental Car Company": "Hertz Rental Car Company",
+    "Laredo International Airport": "Laredo International Airport",
+    "SANTIAGO HINOJOSA": "SANTIAGO HINOJOSA",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Dallas, Texas": null,
+    "New York": null,
+    "Florida": null,
+    "Louisiana": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., rented from Hertz Rental Car Company at the Laredo International Airport, and registered to a location other than where it was rented",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop on Farm-to-Market Road 2050, driven by IGNACIO RODRIGUEZ, JR.",
+    "Hertz Rental Car Company": "Rental car company with locations throughout the United States, including the Laredo International Airport",
+    "Laredo International Airport": "Location where RICARDO RODRIGUEZ, JR.'s white Malibu sedan was rented from Hertz Rental Car Company",
+    "SANTIAGO HINOJOSA": "Manager with the Hertz Rental Car Company at the Laredo International Airport, who testified about the company's rental policies",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who stopped RICARDO RODRIGUEZ, JR.'s white Malibu sedan and testified about his knowledge of rental car companies"
+  }
+}

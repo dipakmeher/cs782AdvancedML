@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Williams": "Zeba Williams",
+    "McMillon": "Raymond McMillon",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "De La Cruz": "Ramon De La Cruz",
+    "Jorge Miguel Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "the agents": "Luis Pena and Manuel Hernandez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Zeba Williams": "individual being questioned by Agent Pena, driver of the tractor-trailer, gave consent for the search, charged with conspiracy to transport aliens within the United States",
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed, charged with conspiracy to transport aliens within the United States",
+    "Ramon De La Cruz": "undocumented alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, entered the United States unlawfully",
+    "Jorge Miguel Hernandez-Gomez": "undocumented alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, entered the United States unlawfully",
+    "Luis Pena and Manuel Hernandez": "agents who conducted the checkpoint stop and search of the tractor-trailer, testified about the events during the suppression hearing"
+  }
+}

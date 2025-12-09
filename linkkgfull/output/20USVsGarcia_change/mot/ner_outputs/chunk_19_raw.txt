@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["Maria De Jesus Garcia's vehicle", "a pickup truck with a camper attached to the back of it", "the camper attachment", "the occupants of Maria De Jesus Garcia's vehicle", "Stanley Pruszenski and Alfred Baron's flashlight", "the vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,24 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Laredo, Texas",
+      "Laredo",
+      "Moglia",
+      "San Pablo Road"
+    ],
+    "NOUN_PHRASE": [
+      "the ranch house",
+      "the trailer",
+      "the land",
+      "the various houses"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where the event took place",
+    "Laredo, Texas": "location where the sun set at a specific time",
+    "Laredo": "city where the event occurred",
+    "Moglia": "name of a ranch house",
+    "San Pablo Road": "road where houses are located"
+  }
+}

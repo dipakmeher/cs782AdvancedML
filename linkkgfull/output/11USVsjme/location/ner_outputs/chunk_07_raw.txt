@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas", "TJJD"],
+    "NOUN_PHRASE": ["the juvenile court", "the trial court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas": "referenced in relation to the constitution",
+    "TJJD": "institution where J.M.E. was committed"
+  }
+}

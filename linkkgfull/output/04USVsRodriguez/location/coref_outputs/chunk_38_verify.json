@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas, Texas": "Dallas, Texas",
+    "the vehicle": null,
+    "the route": "U.S. 59 to FM 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "origin of travel for IGNACIO RODRIGUEZ, JR., located on the US-Mexico border",
+    "Dallas, Texas": "destination of travel for IGNACIO RODRIGUEZ, JR., a major city in the United States",
+    "U.S. 59 to FM 2050": "route taken by IGNACIO RODRIGUEZ, JR., which raised suspicions due to its unusual nature"
+  }
+}

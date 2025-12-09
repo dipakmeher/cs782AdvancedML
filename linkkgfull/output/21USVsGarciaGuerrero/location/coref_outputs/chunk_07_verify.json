@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexico": "Mexico",
+    "San Diego": "San Diego",
+    "United States": "United States",
+    "Ninth Circuit": "Ninth Circuit",
+    "the mountains": null,
+    "the journey": null,
+    "the scene": null,
+    "the court": "United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Mexico": "country of origin for illegal aliens",
+    "San Diego": "destination in the United States for illegal aliens",
+    "United States": "country where unlawful aliens were being transported",
+    "Ninth Circuit": "court of appeals that upheld the application of a factual scenario and provided instructional case law on intent requirements for enhancements"
+  }
+}

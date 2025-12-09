@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Border Patrol", "Government"],
+    "NOUN_PHRASE": ["the jury", "a smuggling network"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "testified about how aliens or their families commonly pay smugglers indirectly",
+    "Government": "required to prove the offense, presented evidence and indictment"
+  }
+}

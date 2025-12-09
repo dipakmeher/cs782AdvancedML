@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "CAPS",
+      "SCAN",
+      "Webb County Jail",
+      "Texas Juvenile Justice Department"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "CAPS": "counseling services",
+    "SCAN": "services provided at the Webb County Jail",
+    "Webb County Jail": "location where J.M.E. attended counseling and services",
+    "Texas Juvenile Justice Department": "structured facility for rehabilitation"
+  }
+}

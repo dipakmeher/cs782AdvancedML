@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": "large white Ford pickup truck",
+    "a vehicle": null,
+    "two northbound vehicles": null,
+    "one vehicle": null,
+    "the other vehicle": null,
+    "a lead car": null,
+    "a load car": null,
+    "two vehicles": null,
+    "separate marked Border Patrol vehicles": null,
+    "a late model four-door sedan": "late model four-door sedan",
+    "the vehicle": "late model four-door sedan",
+    "the agents' location": null,
+    "Ford pickup truck": "large white Ford pickup truck",
+    "the second vehicle": "large white Ford pickup truck",
+    "a large white Ford pickup truck": "large white Ford pickup truck",
+    "a work truck": "large white Ford pickup truck",
+    "construction vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "unknown vehicle": "Vehicle involved in a roving United States/Mexican border patrol stop",
+    "late model four-door sedan": "Tourist vehicle with Mississippi license plate and Big Bend National Park registration",
+    "large white Ford pickup truck": "a large white work truck with a Kansas license plate, suspected of being involved in narcotics smuggling"
+  }
+}

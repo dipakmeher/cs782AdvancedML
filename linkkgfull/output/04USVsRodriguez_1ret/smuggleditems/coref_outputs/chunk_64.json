@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Farm-to-Market Road 2050": null,
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "May 2nd Hr'g": null,
+    "Def. Ex. 12": null,
+    "United States District Court": "United States Department of Homeland Security",
+    "Ford F-150s": null,
+    "Ford F-250s": null,
+    "Dodge Rams": null,
+    "oil companies": null,
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol Agent with experience and knowledge of local traffic patterns, testifying about vehicle characteristics and road conditions",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with agents providing testimony and expertise"
+  }
+}

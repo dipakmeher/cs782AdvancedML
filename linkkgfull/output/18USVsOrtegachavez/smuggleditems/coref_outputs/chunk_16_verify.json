@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the van used for smuggling": null,
+    "the hidden compartment": null,
+    "the pinatas": null,
+    "the aliens": "undocumented aliens",
+    "undocumented aliens": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled into the United States, brought in using a van with a hidden compartment and pinatas as cover"
+  }
+}

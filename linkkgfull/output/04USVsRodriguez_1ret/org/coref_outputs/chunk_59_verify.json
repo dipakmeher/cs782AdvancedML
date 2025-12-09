@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agency": "United States Border Patrol",
+    "Agent Hugo Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Corinth, Texas": "Corinth, Texas",
+    "Dallas, Texas": "Dallas, Texas",
+    "the black Dodge pickup truck": "black Dodge pickup truck",
+    "the white Malibu sedan": "white Malibu sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the arrest and investigation of human smuggling cases",
+    "United States Border Patrol Agent Hugo Benavides": "agent who arrested IGNACIO RODRIGUEZ, JR. based on probable cause that he was participating in a smuggling operation with RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "defendant associated with the black Dodge pickup truck, arrested for suspected involvement in human smuggling",
+    "RICARDO RODRIGUEZ, JR.": "defendant associated with the white Malibu sedan, arrested for transporting illegal aliens",
+    "Corinth, Texas": "location where the black Dodge pickup truck was registered, near Dallas, Texas",
+    "Dallas, Texas": "origin of the suspicious vehicles, mentioned as a reference point for the location of the smuggling operation",
+    "black Dodge pickup truck": "vehicle involved in the smuggling operation, driven by IGNACIO RODRIGUEZ, JR.",
+    "white Malibu sedan": "vehicle involved in the smuggling operation, driven by RICARDO RODRIGUEZ, JR."
+  }
+}

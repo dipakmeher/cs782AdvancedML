@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Dallas-Fort Worth", "Corinth, Texas", "San Angelo", "Fifth Circuit", "United States", "Texas", "Dallas"],
+    "NOUN_PHRASE": ["the area", "a faraway place", "the most direct route", "the ranch road", "another part of Texas", "the local ranches", "that particular road", "a well-traveled interstate highway", "the checkpoint"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dallas-Fort Worth": "registration location of a rental vehicle",
+    "Corinth, Texas": "registration location of a black truck",
+    "San Angelo": "location used in a previous case as an example",
+    "Fifth Circuit": "court that previously held that a car's registration can add to reasonable suspicion",
+    "Texas": "state where the events took place and where vehicles were registered",
+    "Dallas": "registration location of a vehicle and destination on a highway"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Brignoni-Ponce"],
+    "NOUN_PHRASE": ["the agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "vehicle owner",
+    "Brignoni-Ponce": "standard or case reference"
+  }
+}

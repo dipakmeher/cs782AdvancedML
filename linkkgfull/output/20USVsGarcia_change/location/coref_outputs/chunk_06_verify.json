@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "this country": "United States",
+    "a substantial distance from the border": null,
+    "the city": "Laredo, Texas",
+    "the town": "Moore",
+    "the public highway": "Interstate 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, reference point for distance",
+    "Laredo, Texas": "city through which Interstate 35 passes and located near the border, one of the towns before reaching Moore",
+    "Interstate 35": "highway leading directly to the border and passing through several towns including Laredo, Texas and Moore, common smuggling route with history of alien smuggling",
+    "Moore": "location near the border and one of the towns passed by Interstate 35, located after Laredo on the way to the border"
+  }
+}

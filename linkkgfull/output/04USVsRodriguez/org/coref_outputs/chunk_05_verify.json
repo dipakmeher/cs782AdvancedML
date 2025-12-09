@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "Agent Rodriguez": "United States Border Patrol",
+    "Agent Trevino": "United States Border Patrol",
+    "white Malibu sedan": "white Malibu sedan",
+    "black Dodge truck": "black Dodge truck",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Freer immigration checkpoint": "United States Border Patrol",
+    "Highway 59": "Highway 59",
+    "Hebbronville checkpoint": "Hebbronville checkpoint",
+    "Highway 359": "Highway 359",
+    "Highway 16": "Highway 16",
+    "Houston": null,
+    "San Antonio": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "agents who have noticed drop-offs on Farm-to-Market Road 2050 and are involved in monitoring traffic at the Freer immigration checkpoint",
+    "white Malibu sedan": "vehicle involved in a case where it was determined to be driving in tandem with a black Dodge truck and exited off Highway 59 onto Farm-to-Market Road 2050",
+    "black Dodge truck": "vehicle involved in a case where it was determined to be driving in tandem with a white Malibu sedan",
+    "Farm-to-Market Road 2050": "road frequently used for drop-offs of illegal aliens to avoid checkpoints and adjacent to the Border Patrol station parking lot",
+    "Freer immigration checkpoint": "checkpoint on Highway 59 that smugglers try to avoid by using alternative routes",
+    "Hebbronville checkpoint": "checkpoint on Highway 359 that smugglers attempt to bypass by using alternative routes such as 'the loop'",
+    "Highway 59": "highway with a checkpoint that smugglers try to avoid by using alternative routes",
+    "Highway 359": "highway with a checkpoint that smugglers attempt to bypass by using alternative routes such as 'the loop'",
+    "Highway 16": "highway used by smugglers after avoiding checkpoints"
+  }
+}

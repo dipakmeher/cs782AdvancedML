@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the driver": "RICARDO RODRIGUEZ, JR. or IGNACIO RODRIGUEZ, JR.",
+    "his supervisor": null,
+    "the black truck's registered owner": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who questioned Defendant at the Border Patrol station and was informed about the encounter with illegal aliens in a white sedan on FM 2050",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who encountered illegal aliens in a white sedan on FM 2050 and radioed for other agents to be on the lookout for a black truck Dodge",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who was driving the white sedan and had been arrested, with his vehicle being stopped by Agent Trevino on FM 2050",
+    "IGNACIO RODRIGUEZ, JR.": "Driver of the black truck Dodge, which was suspected of being involved in alien smuggling activities, and whose registered owner had the same last name as Ricardo Rodriguez",
+    "RICARDO RODRIGUEZ, JR. or IGNACIO RODRIGUEZ, JR.": "Drivers of the two vehicles that were stopped by Border Patrol agents, with one vehicle being a white sedan and the other being a black truck Dodge"
+  }
+}

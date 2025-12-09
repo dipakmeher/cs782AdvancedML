@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "cocaine"
+    ],
+    "NOUN_PHRASE": [
+      "the documents",
+      "the 1996 Mercury Cougar",
+      "the side panel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "cocaine": "hidden in the side panel of the 1996 Mercury Cougar"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "San Antonio, Texas",
+      "Nuevo Laredo, Tamaulipas, Mexico",
+      "Texas",
+      "United States",
+      "Mexico"
+    ],
+    "NOUN_PHRASE": [
+      "the United States"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Antonio, Texas": "location where defense counsel assisted Rogelio Valero-De La Rosa with his application",
+    "Nuevo Laredo, Tamaulipas, Mexico": "place where Rogelio Valero-De La Rosa's father intermittently resided",
+    "Texas": "state where Rogelio Valero-De La Rosa's father intermittently resided",
+    "United States": "country where Rogelio Valero-De La Rosa's father was required to be physically present",
+    "Mexico": "country of origin"
+  }
+}

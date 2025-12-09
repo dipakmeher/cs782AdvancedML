@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the criminal history": null,
+    "the offense level": null,
+    "the advisory guideline range": "70 to 87 months",
+    "the revocation of supervised release": null,
+    "the violation of supervised release": "revocation of supervised release",
+    "the term of imprisonment": "90 months",
+    "the Bureau of Prisons": "Bureau of Prisons"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico",
+    "United States District Court for the Southern District of Texas": "Court responsible for imposing sentences in accordance with federal guidelines, considering factors such as the nature and circumstances of the offense and the history and characteristics of the defendant.",
+    "70 to 87 months": "Advisory guideline range for Rogelio Valero-De La Rosa's sentence, considered in his sentencing",
+    "90 months": "Total term of imprisonment for Rogelio Valero-De La Rosa, resulting from his plea agreement and sentencing",
+    "Bureau of Prisons": "Agency responsible for imprisoning Rogelio Valero-De La Rosa, following his sentencing"
+  }
+}

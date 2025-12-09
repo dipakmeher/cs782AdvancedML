@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "J.M.E.": "J.M.E.",
+    "Ricardo Garcia": "Ricardo Garcia",
+    "Texas Juvenile Justice Department": null,
+    "the defendant": "J.M.E.",
+    "the juvenile court": null,
+    "Officer Pryscilla Castillo": "Officer Pryscilla Castillo",
+    "his parents": null,
+    "the juvenile": "J.M.E.",
+    "the probation officer": "Officer Pryscilla Castillo",
+    "Officer Castillo": "Officer Pryscilla Castillo",
+    "Castillo": "Officer Pryscilla Castillo",
+    "the officer": "Officer Pryscilla Castillo",
+    "he": "J.M.E.",
+    "the woman": null,
+    "his assistant": null,
+    "her supervisor": null,
+    "the inspector": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "J.M.E.": "Defendant involved in a case of alien smuggling as a juvenile, unsuccessfully discharged from the Center for not complying with requirements, with a history of delinquent conduct and substance abuse, attending school and receiving services while at the Webb County Jail",
+    "Ricardo Garcia": "Judge presiding over the case",
+    "Officer Pryscilla Castillo": "Probation officer who testified against J.M.E. regarding his unsuccessful discharge, failure to complete court-ordered services, and history of substance abuse, recommending placement at the TJJD for rehabilitation"
+  }
+}

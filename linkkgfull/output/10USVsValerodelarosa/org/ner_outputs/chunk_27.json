@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States District Court",
+      "Congress"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Court": "court that imposes sentences",
+    "Congress": "legislative body that intended sentencing disparity"
+  }
+}

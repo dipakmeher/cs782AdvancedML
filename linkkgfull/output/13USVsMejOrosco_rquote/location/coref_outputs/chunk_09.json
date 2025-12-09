@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "district court": "district court",
+    "the court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Guatemala": "country of origin of the transported aliens, origin of curios transported by Juventino Mejia-Orosco",
+    "Mexico": "route of transportation for Juventino Mejia-Orosco, country of origin for 574,000 Mexican pesos found in Juventino Mejia-Orosco's van",
+    "United States": "country where aliens were transported, destination of illegal transportation",
+    "Nuevo Laredo, Tamaulipas": "location where passengers disembarked",
+    "Laredo, Texas": "City where Juventino Mejia-Orosco drove his van across the bridge, city where the group spent two days",
+    "Rio Grande": "River waded by Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales, border crossing point",
+    "Laredo": "City where the group spent two days",
+    "Los Angeles": "City where Hector Galvencio Paz-Ortega's family lived, source of $1,000 funds for Juventino Mejia-Orosco",
+    "New York City": "City where relatives of Carlos Enrique Cruz-Morales lived, destination of Carlos Enrique Cruz-Morales' flight",
+    "Laredo International Airport": "Airport where Juventino Mejia-Orosco supplied airline tickets",
+    "San Antonio": "City where Juventino Mejia-Orosco drove Hector Galvencio Paz-Ortega and Carlos Enrique Cruz-Morales, destination of airline tickets provided by Juventino Mejia-Orosco",
+    "San Antonio International Airport": "Airport where Hector Galvencio Paz-Ortega was detained",
+    "district court": "court with fact-finding power, responsible for sentencing and applying the sentencing guidelines"
+  }
+}

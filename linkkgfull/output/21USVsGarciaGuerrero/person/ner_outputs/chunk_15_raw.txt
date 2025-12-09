@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Simon-Fernandez", "Herrera"],
+    "NOUN_PHRASE": ["the appellant", "the individual", "the group members", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "makes an argument about the enhancement",
+    "Simon-Fernandez": "died during the journey",
+    "Herrera": "court made a statement in a footnote"
+  }
+}

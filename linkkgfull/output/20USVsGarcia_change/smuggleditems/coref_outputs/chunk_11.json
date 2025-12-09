@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "the modified Allen charge": null,
+    "the jury": null,
+    "the right to a fair trial": null,
+    "the context of this case": null,
+    "the limitations of our prior decisions": null,
+    "the United States District Court": null,
+    "United States v. Pena-Cantu": "United States v. Pena-Cantu",
+    "United States v. Pacheco": "United States v. Pacheco",
+    "the Fifth Circuit": null,
+    "United States v. Orona-Sanchez": "United States v. Orona-Sanchez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Maria De Jesus Garcia": "defendant in a court case",
+    "United States v. Maria De Jesus Garcia": "court case involving Maria De Jesus Garcia",
+    "United States v. Pena-Cantu": "court case referenced in the context of the modified Allen charge",
+    "United States v. Pacheco": "court case referenced in the context of the modified Allen charge",
+    "United States v. Orona-Sanchez": "court case referenced in the context of the modified Allen charge"
+  }
+}

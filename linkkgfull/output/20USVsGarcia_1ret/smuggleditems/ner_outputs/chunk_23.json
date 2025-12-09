@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the occupants of a vehicle",
+      "the occupants of Maria De Jesus Garcia's Vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

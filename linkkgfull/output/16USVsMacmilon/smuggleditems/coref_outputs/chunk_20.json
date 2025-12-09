@@ -1,0 +1,10 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Act": "Speedy Trial Act",
+    "the United States District Court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Speedy Trial Act": "federal law governing trial timing, excluding certain periods of delay, including continuances granted for ends-of-justice findings",
+    "United States District Court": "court where motions are heard and ruled upon, responsible for making ends-of-justice findings on the record"
+  }
+}

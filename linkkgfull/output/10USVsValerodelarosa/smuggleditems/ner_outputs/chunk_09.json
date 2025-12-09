@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "undocumented aliens",
+      "undocumented alien"
+    ],
+    "NOUN_PHRASE": [
+      "the offense"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented aliens": "individuals aided and abetted in illegal reentry",
+    "undocumented alien": "individual transported within the United States for private financial gain"
+  }
+}

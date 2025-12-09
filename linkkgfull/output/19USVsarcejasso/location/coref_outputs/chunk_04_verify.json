@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the Court": "District Court",
+    "District Court": "District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "appellant seeking review of the district court's judgment",
+    "District Court": "court that granted the motion to suppress and entered a judgment for acquittal"
+  }
+}

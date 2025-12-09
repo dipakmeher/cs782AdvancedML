@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the truck", "the trailer", "the cab of the truck", "the bed of the truck", "the passenger side of the truck", "his patrol car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

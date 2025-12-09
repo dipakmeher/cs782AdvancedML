@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Carlos Martinez-Romero": "Carlos Martinez-Romero",
+    "Appellant": "Carlos Martinez-Romero",
+    "Defendant": "Carlos Martinez-Romero",
+    "the trial court": null,
+    "David Fitzgerald": "David Fitzgerald",
+    "Agent Fitzgerald": "David Fitzgerald",
+    "the appellant": "Carlos Martinez-Romero",
+    "Border Patrol Agent": "David Fitzgerald"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Carlos Martinez-Romero": "Defendant, Appellant, and individual convicted of possession of marijuana",
+    "David Fitzgerald": "Border Patrol Agent who conducted the investigatory stop and arrested the appellant",
+    "Agent Fitzgerald": "conducted an investigatory stop and arrested the appellant"
+  }
+}

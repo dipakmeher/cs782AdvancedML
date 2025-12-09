@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Texas",
+      "Texas Court of Criminal Appeals"
+    ],
+    "NOUN_PHRASE": [
+      "the area",
+      "the border",
+      "this factor"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country with constitution protecting individuals from unreasonable searches and seizures",
+    "Texas": "state with constitution protecting individuals from unreasonable searches and seizures and location of court proceedings",
+    "Texas Court of Criminal Appeals": "court that has made rulings on roving border patrol stops"
+  }
+}

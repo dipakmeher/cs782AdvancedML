@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States-Mexican border": "United States-Mexican border",
+    "Laredo, Texas": "Laredo, Texas",
+    "Interstate 35": "Interstate Highway 35",
+    "Moore": "Moore, Texas",
+    "the border": "United States-Mexican border",
+    "this country": "United States",
+    "a substantial distance from the border": null,
+    "the city": "Laredo, Texas",
+    "the town": "Moore, Texas",
+    "the public highway": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test",
+    "Laredo, Texas": "city located on Interstate Highway 35, leading directly to the Mexican border, and a point of reference for determining distance from the border",
+    "Interstate Highway 35": "highway where stops by border patrol agents may occur, commonly used for smuggling of aliens, and known for its reputation as a common smuggling route",
+    "Moore, Texas": "location near the border, approximately 115 miles from the Mexican border, and a point through which Interstate Highway 35 passes before reaching the United States-Mexican border",
+    "United States": "country where the federal district court is located and whose Constitution protects residents from unreasonable searches"
+  }
+}

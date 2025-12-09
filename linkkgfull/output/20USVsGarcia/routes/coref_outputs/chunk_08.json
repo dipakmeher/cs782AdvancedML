@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States-Mexican border": "United States-Mexican border",
+    "the area": null,
+    "the whole picture": null,
+    "the public highway": null,
+    "common smuggling routes": "Interstate Highway 35 and other highways",
+    "this segment": "Interstate Highway 35"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Interstate Highway 35": "route leading directly to the United States-Mexican border, passing through several towns including Laredo, Texas, and a common smuggling route",
+    "United States-Mexican border": "geographical boundary relevant to the Brignoni-Ponce standard for determining stop legality",
+    "Interstate Highway 35 and other highways": "routes jointly utilized in coordinated smuggling activities near the United States-Mexican border"
+  }
+}

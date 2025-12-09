@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "the defendant": "Alfredo Ortega-Chavez",
+    "the district court": "district court",
+    "the United States Government": null,
+    "the scene of the alleged offense": null,
+    "the defendant's alibi witnesses": null,
+    "any additional witness": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, responsible for disclosing witness information",
+    "Alfredo Ortega-Chavez": "defendant in a trial related to smuggling, subject to disclosure of witness information",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules"
+  }
+}

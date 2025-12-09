@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the group": "nineteen undocumented aliens",
+    "a member of the group": "undocumented alien",
+    "the other members of the group": "eighteen undocumented aliens",
+    "nine undocumented aliens": "nine undocumented aliens",
+    "seven other undocumented aliens": "seven other undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "nineteen undocumented aliens": "individuals being smuggled through South Texas, led by Inocencio Garcia-Guerrero, with inadequate water and food, subjected to substantial risk of death or serious bodily injury during the smuggling journey, transported unrestrained in the bed of a pickup truck",
+    "undocumented alien": "individual being smuggled, part of a group that included Alma Delia Simon-Fernandez, transported by Inocencio Garcia-Guerrero for financial gain",
+    "nine undocumented aliens": "group of nine undocumented immigrants being smuggled from Mexico to the United States, led by Inocencio Garcia-Guerrero",
+    "seven other undocumented aliens": "additional group of seven undocumented immigrants being smuggled from Mexico to the United States, part of the larger group of nineteen",
+    "eighteen undocumented aliens": "larger group of eighteen undocumented immigrants, excluding the individual who remained behind with Alma Delia Simon-Fernandez"
+  }
+}

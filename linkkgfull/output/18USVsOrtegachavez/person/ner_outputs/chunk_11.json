@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ramon Gonzalez Sanchez"
+    ],
+    "NOUN_PHRASE": [
+      "the accomplice",
+      "appellant",
+      "the trial judge",
+      "counsel"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ramon Gonzalez Sanchez": "accomplice and government witness"
+  }
+}

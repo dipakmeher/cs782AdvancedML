@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate 35",
+      "United States-Mexican border",
+      "Interstate Highway 35"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "location of investigatory stop",
+    "United States-Mexican border": "geographical reference point for determining legality of stops",
+    "Interstate Highway 35": "route where smuggling and illegal alien traffic occur"
+  }
+}

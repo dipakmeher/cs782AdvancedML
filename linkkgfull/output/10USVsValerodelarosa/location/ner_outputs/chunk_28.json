@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Mexico",
+      "Rio Grande River",
+      "Laredo, Texas",
+      "Laredo, Texas",
+      "United States",
+      "Nuevo Laredo, Tamaulipas",
+      "Mexico"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country of illegal re-entry",
+    "Mexico": "country of previous deportations",
+    "Rio Grande River": "location of illegal crossing",
+    "Laredo, Texas": "location of illegal re-entry and family residence",
+    "Nuevo Laredo, Tamaulipas": "birthplace of the defendant"
+  }
+}

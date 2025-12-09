@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States": "United States",
+    "border patrol agents": "United States Border Patrol",
+    "governmental enforcement agents": "United States Government",
+    "Stanley Pruszenski and Alfred Baron": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "court reviewing the issue of stops by border patrol agents",
+    "United States": "country being differentiated from police states, with constitutional protections against unreasonable searches",
+    "United States Border Patrol": "law enforcement agency whose agents conduct stops and searches, including roving border patrol agents like Stanley Pruszenski and Alfred Baron",
+    "United States Government": "government whose enforcement agents, including border patrol agents, are bound by the Constitution's prohibition against unreasonable searches"
+  }
+}

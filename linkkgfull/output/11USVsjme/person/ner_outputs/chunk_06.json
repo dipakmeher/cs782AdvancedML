@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "J.M.E.",
+      "Officer Castillo"
+    ],
+    "NOUN_PHRASE": [
+      "the juvenile court",
+      "his parents",
+      "Officer Castillo's"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "J.M.E.": "a juvenile",
+    "Officer Castillo": "a testifying officer"
+  }
+}

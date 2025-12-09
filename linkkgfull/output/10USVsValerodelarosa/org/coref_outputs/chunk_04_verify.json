@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Sentencing Commission": "United States Sentencing Commission",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "Plea Agreement": "Plea Agreement",
+    "Plea Agreement Addendum": "Plea Agreement Addendum"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Sentencing Commission": "issuer of the Guidelines Manual that applies to Rogelio Valero-De La Rosa's case",
+    "Rogelio Valero-De La Rosa": "defendant who waived the right to appeal the sentence imposed and the manner in which it was determined, argued disparity in sentencing due to counsel's failure",
+    "Plea Agreement": "agreement between Rogelio Valero-De La Rosa and the government, including waiver of certain rights",
+    "Plea Agreement Addendum": "document signed by Rogelio Valero-De La Rosa, confirming understanding of rights and provisions of the United States Sentencing Commission's Guidelines Manual"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the car": "the marked United States Border Patrol sedan",
+    "the vehicle": "the pickup truck camper",
+    "the pickup truck camper": "the pickup truck camper",
+    "the marked border patrol sedan": "the marked United States Border Patrol sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the marked United States Border Patrol sedan": "Vehicle used by United States Border Patrol agents Stanley Pruszenski and Alfred Baron for surveillance, from which Baron observed the occupants of the pickup truck camper",
+    "the pickup truck camper": "Vehicle suspected of carrying people, traveling northbound on Interstate Highway 35, with three females in the front seat and five or six men in the back seat, and fourteen additional males found hiding in the camper compartment. It was stopped more than 100 miles from the United States-Mexican border. The vehicle appeared heavily loaded and its windows were completely fogged over. Stopped by United States Border Patrol due to suspicious circumstances. Additionally, it had an obvious overloading, with the rear being low and the headlights noticeably angled up, consistent with carrying around twenty-two people."
+  }
+}

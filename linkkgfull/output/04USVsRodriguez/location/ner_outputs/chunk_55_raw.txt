@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Freer"],
+    "NOUN_PHRASE": ["the nearby gas station", "the Border"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Freer": "location of a patrolman"
+  }
+}

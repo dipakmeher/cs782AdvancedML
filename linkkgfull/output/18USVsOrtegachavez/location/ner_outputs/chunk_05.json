@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "San Antonio, Texas",
+      "Sabinas Hidalgo"
+    ],
+    "NOUN_PHRASE": [
+      "their home",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Antonio, Texas": "location where Graciela Castaneda and her husband had brunch with Alfredo Ortega-Chavez",
+    "Sabinas Hidalgo": "location where Ramon Gonzalez Sanchez's parents claimed to have seen Alfredo Ortega-Chavez"
+  }
+}

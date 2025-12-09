@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["contraband", "the first vehicle", "the second vehicle", "the first car", "the other car"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

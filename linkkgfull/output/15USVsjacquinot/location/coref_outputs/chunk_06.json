@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Marathon, Texas": "Marathon, Texas",
+    "Highway 90": "Highway 90",
+    "Highway 385": "Texas Highway 385",
+    "Fort Stockton": "Fort Stockton",
+    "Interstate 10": "Interstate 10",
+    "Alpine": "Alpine, Texas",
+    "Big Bend": "Big Bend National Park",
+    "Highway 118": "Highway 118",
+    "a stop sign": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Marathon, Texas": "location where the truck stopped at a stop sign",
+    "Highway 90": "road where the truck turned left",
+    "Texas Highway 385": "highway from which most vehicles would continue straight toward Fort Stockton and Interstate 10",
+    "Fort Stockton": "destination for most vehicles coming up Highway 385",
+    "Interstate 10": "highway toward which most vehicles would continue from Highway 385",
+    "Alpine, Texas": "destination of the truck after turning left onto Highway 90",
+    "Big Bend National Park": "remote area with limited gas stations where visitors typically have a map and know which roads to take",
+    "Highway 118": "most direct and logical route of travel from Big Bend to Alpine"
+  }
+}

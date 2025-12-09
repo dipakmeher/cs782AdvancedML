@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the K-9 dog": "K-9 dog used for searching",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "the bed of the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the scissor lift": null,
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "K-9 dog used for searching": "Dog used by Josiah Bennett to search the 2008 Chevrolet truck and flatbed trailer",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by officers, containing a scissor lift",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana, searched by officers for drugs"
+  }
+}

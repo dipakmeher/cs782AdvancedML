@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the presiding magistrate judge": null,
+    "his attorney": "counsel",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "Valero": "Rogelio Valero-De La Rosa"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico, signed the Plea Agreement and Plea Agreement Addendum, pleaded guilty before a United States Magistrate Judge, has a history of violating immigration laws, alleges counsel was constitutionally ineffective, claims he was factually innocent of Illegal Re-entry due to potential United States citizenship, waived the right to appeal the sentence imposed and the right to contest his conviction or sentence by means of any post-conviction proceeding, testified that he understood the rights he was giving up by pleading guilty",
+    "counsel": "Valero's lawyer, helped Valero understand the rights he was giving up by pleading guilty, rendered effective assistance according to Valero's express acknowledgment, subject to standards that consider the acuity of hindsight and the art of representation, allegedly failed to recognize benefits and errors in sentencing, including failure to request 'fast track' downward departure or investigate Valero's claim of United States citizenship"
+  }
+}

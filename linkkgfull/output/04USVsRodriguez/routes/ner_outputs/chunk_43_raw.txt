@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "U.S. 359", "Highway 16"],
+    "NOUN_PHRASE": ["the route"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "location of the traffic stop where Agent Trevino encountered illegals",
+    "U.S. 359": "direction in which a black truck Dodge was heading",
+    "Highway 16": "location of Agent Benavides"
+  }
+}

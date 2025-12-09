@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "U.S. 59",
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "Austin": "Austin, Texas",
+    "Laredo Division": "Laredo Division",
+    "TxDOT": "Texas Department of Transportation",
+    "Texas": "Texas",
+    "Freer checkpoint": "Freer immigration checkpoint",
+    "the Court": "Court",
+    "the mechanism": null,
+    "the area": "Farm-to-Market Road 2050 area",
+    "the road": "Farm-to-Market Road 2050",
+    "the type of vehicles": null,
+    "the direction of the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "location of ranches and a wind farm, with limited traffic, where vehicles with out-of-town registrations raised suspicions, frequently and increasingly used to circumvent checkpoints",
+    "U.S. 59": "route for smugglers, connecting highway with a checkpoint in Hebbronville",
+    "Texas Department of Transportation": "organization providing traffic data and responsible for determining traffic flow on roads such as FM 2050 and U.S. 59",
+    "Austin, Texas": "location of the Transportation, Planning, and Programming Division of the Texas Department of Transportation",
+    "Laredo Division": "division of the Texas Department of Transportation responsible for the Laredo area",
+    "Texas": "State where Laredo is located and part of the United States",
+    "Freer immigration checkpoint": "location where Hugo Benavides took IGNACIO RODRIGUEZ, JR. for further questioning, also known as the destination of Agent Benavides and Defendant",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr., with relevant precedents regarding traffic stops and reasonable suspicion, citing previous Supreme Court cases to establish that the constitutional reasonableness of traffic stops depends on the objective authorization and legal permission of the officers' actions, not their actual motivations",
+    "Farm-to-Market Road 2050 area": "rural area characterized by ranches and a wind farm, with limited traffic, where vehicles with out-of-town registrations raised suspicions, frequently and increasingly used to circumvent checkpoints"
+  }
+}

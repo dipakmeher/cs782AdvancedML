@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the flatbed trailer",
+      "the bed of the 2008 Chevrolet truck",
+      "the cab of the 2008 Chevrolet truck",
+      "the K-9 dog used for searching",
+      "the passenger side of the 2008 Chevrolet truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

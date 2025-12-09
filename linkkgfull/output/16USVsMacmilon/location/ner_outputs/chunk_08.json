@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "district court"
+    ],
+    "NOUN_PHRASE": [
+      "checkpoint",
+      "checkpoint stop"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "court that denied Raymond McMillon's motion to suppress evidence"
+  }
+}

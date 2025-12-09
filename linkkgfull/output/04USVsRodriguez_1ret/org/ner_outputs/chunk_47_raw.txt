@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "Supreme Court", "Court", "District Judge", "Magistrate Judge"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country with lawful bounds for stops",
+    "Supreme Court": "high court that has long held certain principles",
+    "Court": "governing body for traffic stops and arrests",
+    "District Judge": "judge to review the motion independently",
+    "Magistrate Judge": "judge making recommendations"
+  }
+}

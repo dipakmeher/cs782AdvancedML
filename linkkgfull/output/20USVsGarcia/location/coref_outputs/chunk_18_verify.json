@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "the location": "location of the instant stop",
+    "the interstate highway": "Interstate Highway 35",
+    "the back of it": null,
+    "the camper shell attachment": null,
+    "the windows": null,
+    "the truck": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and determining distance",
+    "location of the instant stop": "place where Maria De Jesus Garcia's vehicle was stopped by border patrol agents, based on recent apprehensions of illegal alien smugglers in the area and suspicious behavior of the occupants",
+    "Interstate Highway 35": "common smuggling route with known alien smuggling activity where Maria De Jesus Garcia's vehicle was stopped",
+    "pickup truck": "vehicle type involved in the incident, appeared heavily loaded with fogged-over windows and exhibited unusual behavior"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Saldana", "Haston"],
+    "NOUN_PHRASE": ["the Government", "the officer", "the defendant", "the police"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "gave consent to search",
+    "Haston": "conducted the search"
+  }
+}

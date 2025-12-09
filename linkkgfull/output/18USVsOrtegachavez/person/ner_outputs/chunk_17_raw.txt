@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Sanchez"],
+    "NOUN_PHRASE": ["the judge", "the third government witness", "defense counsel", "counsel", "the appellant", "the witnesses", "ladies and gentlemen", "the jury", "the defense"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Sanchez": "gave deposition testimony"
+  }
+}

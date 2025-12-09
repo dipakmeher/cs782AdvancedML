@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the tractor",
+      "the tractor's sleeper area",
+      "the bed",
+      "the tractor's rear sleeper area",
+      "the tractor's exterior steps",
+      "the tractor's wall",
+      "the tractor's closets"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

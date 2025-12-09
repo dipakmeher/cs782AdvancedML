@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "narcotics",
+      "dope"
+    ],
+    "NOUN_PHRASE": [
+      "the dope",
+      "a load of dope",
+      "the drugs"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "narcotics": "suspected substances",
+    "dope": "illicit drugs"
+  }
+}

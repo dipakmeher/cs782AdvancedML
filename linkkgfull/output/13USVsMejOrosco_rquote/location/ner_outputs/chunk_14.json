@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "this part",
+      "the guidelines",
+      "the term",
+      "the explanation",
+      "the government",
+      "the meaning",
+      "the purposes"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

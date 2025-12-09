@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon": "Raymond McMillon",
+    "Luis Pena": "Luis Pena",
+    "Zeba Williams": "Zeba Williams",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Manuel Hernandez": "Manuel Hernandez",
+    "the United States District Court": "United States District Court",
+    "the tractor-trailer": null,
+    "the search": null,
+    "the checkpoint video": null,
+    "the suppression hearing": null,
+    "the United States Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "involved in a law case, raising issues on appeal including motion to dismiss the indictment and sufficiency of evidence",
+    "Luis Pena": "United States Border Patrol Agent who approached the driver-side door of the tractor-trailer and questioned Zeba Williams and Ramon De La Cruz",
+    "Zeba Williams": "co-defendant of Raymond McMillon, driver of the tractor-trailer at the immigration checkpoint stop",
+    "Ramon De La Cruz": "defendant who was sentenced to 41 months' imprisonment and appealed the decision, arguing that United States Border Patrol Agent's immigration questions unlawfully extended the duration of the immigration checkpoint stop, claimed possessory interest in the tractor-trailer",
+    "Manuel Hernandez": "United States Border Patrol Agent who prepared to have his canine perform a sniff of the tractor-trailer's exterior steps",
+    "United States District Court": "court where Raymond McMillon's case was heard"
+  }
+}

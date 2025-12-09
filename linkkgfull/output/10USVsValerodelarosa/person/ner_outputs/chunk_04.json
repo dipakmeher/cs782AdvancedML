@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Valero"
+    ],
+    "NOUN_PHRASE": [
+      "the defendant",
+      "my attorney"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "defendant who signed the Plea Agreement"
+  }
+}

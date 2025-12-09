@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Marco Montemayor": "Marco Montemayor",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the agents": "United States Department of Homeland Security",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "his partner": null,
+    "the interview": null,
+    "the events": null,
+    "the rights": null,
+    "the waiver": null,
+    "the timeline": null,
+    "the story": null,
+    "the confession": null,
+    "the attorney": null,
+    "the role": null,
+    "the function": null,
+    "the leniency": null,
+    "the release": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security, conducted an interview with IGNACIO RODRIGUEZ, JR. and ensured he understood his Miranda rights",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who waived his rights and provided a timeline of events, but changed details of his story several times during the interview",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with agents conducting interviews and ensuring defendants understand their rights"
+  }
+}

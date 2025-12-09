@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Hugo Benavides": "United States Border Patrol Agent Hugo Benavides",
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "the citation": null,
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who interacted with United States Border Patrol Agent Hugo Benavides and Officer Reymundo Reyes",
+    "United States Border Patrol Agent Hugo Benavides": "Agent who arrived at the scene during Officer Reymundo Reyes's interaction with IGNACIO RODRIGUEZ, JR.",
+    "Officer Reymundo Reyes": "Freer Police Department officer who wrote a citation for IGNACIO RODRIGUEZ, JR. and interacted with him",
+    "United States Border Patrol Agent Hugo Benavides and Officer Reymundo Reyes": null
+  }
+}

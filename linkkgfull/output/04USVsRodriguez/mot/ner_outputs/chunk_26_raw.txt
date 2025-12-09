@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["F-150", "F-250"],
+    "NOUN_PHRASE": ["a vehicle", "the vehicle", "oilfield trucks", "tankers", "utility trucks", "passenger vehicles", "a non-work truck", "a rental passenger vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "F-150": "mentioned as one of the typical vehicles seen on Farm-to-Market Road 2050",
+    "F-250": "mentioned as one of the typical vehicles seen on Farm-to-Market Road 2050"
+  }
+}

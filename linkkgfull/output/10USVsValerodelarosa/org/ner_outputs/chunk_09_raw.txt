@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States District Judge", "Bureau of Prisons"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States District Judge": "the judge who calculated the criminal history and sentenced Rogelio Valero-De La Rosa",
+    "Bureau of Prisons": "the entity responsible for holding Rogelio Valero-De La Rosa in custody"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Sam Sparks": "Sam Sparks",
+    "Haston": "Gary Haston",
+    "Deputy Cox": "Jason Cox",
+    "Saldana": "Federico Saldana",
+    "Miguel": null,
+    "Daniel": "Daniel Martin Huerta",
+    "the Government": null,
+    "the Court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Sam Sparks": "UNITED STATES DISTRICT JUDGE",
+    "Gary Haston": "narcotics investigator who asked Saldana many questions, became more aggressive as suspicions grew, applied pressure to elicit cooperation, obtained consent to search from Saldana, an officer who asked questions regarding consent, developed additional reasonable suspicion of potential drug trafficking",
+    "Jason Cox": "officer involved in the traffic stop, engaged in a cooperative conversation with Saldana, had reasonable suspicion Saldana had committed a traffic violation, developed additional reasonable suspicion of potential drug trafficking through observations and conversations with Saldana",
+    "Federico Saldana": "driver of the truck and trailer, answered questions from Haston and Cox, showed signs of nervousness but denied presence of drugs, gave consent to search the truck and trailer without hesitation, a previously convicted felon experienced with the criminal justice system, defendant in a motion to suppress",
+    "Daniel Martin Huerta": "registered owner of the trailer's license plate, possibly involved in hauling a scissor lift for $300, mentioned by Saldana as the owner"
+  }
+}

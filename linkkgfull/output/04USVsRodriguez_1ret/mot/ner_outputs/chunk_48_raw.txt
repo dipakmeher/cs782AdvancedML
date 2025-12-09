@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cadillac"],
+    "NOUN_PHRASE": ["two vehicles", "the first vehicle", "the other vehicle", "a pickup truck", "the second vehicle", "the cars", "two vehicles traveling in tandem"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cadillac": "one of the vehicles mentioned in a case where insufficient facts demonstrated it was driving in tandem with a pickup truck"
+  }
+}

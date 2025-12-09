@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "the Court": "District Court",
+    "District Court": "District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "country seeking review of the district court's judgment and acting as plaintiff-appellant in the case against Raul Rafael Arce-Jasso, also filed a motion for reconsideration and a joint notice of appeal",
+    "District Court": "court that granted the motion to suppress, entered a judgment for acquittal, and whose decision is being appealed by the United States of America"
+  }
+}

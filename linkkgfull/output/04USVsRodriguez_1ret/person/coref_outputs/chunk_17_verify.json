@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Reymundo Reyes",
+    "his supervisor": null,
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the checkpoint": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who transported Ignacio Rodriguez to the checkpoint for further questioning",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez and issued a citation, later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership"
+  }
+}

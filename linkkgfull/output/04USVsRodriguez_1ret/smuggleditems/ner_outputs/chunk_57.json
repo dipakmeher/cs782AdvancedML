@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "illegals",
+      "LIS",
+      "illegal aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the illegals",
+      "the car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "illegals": "undocumented immigrants",
+    "LIS": "code for smuggling aliens",
+    "illegal aliens": "smuggled individuals"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States/Mexican border patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States/Mexican border patrol": "conducted a roving stop of the large white Ford pickup truck"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "District Judge": "United States District Court",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "IGNACIO RODRIGUEZ, JR.": null,
+    "RICARDO RODRIGUEZ, JR.": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses",
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops"
+  }
+}

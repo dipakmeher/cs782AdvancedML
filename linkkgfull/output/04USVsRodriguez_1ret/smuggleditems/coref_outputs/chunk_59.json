@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "twenty-eight aliens": "undocumented aliens",
+    "the load car": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the scout car": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "the other vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the defendant's vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being transported in vehicles stopped by United States Border Patrol agents",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop on Farm-to-Market Road 2050, driven by IGNACIO RODRIGUEZ, JR., and suspected of being part of a smuggling operation with RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan associated with RICARDO RODRIGUEZ, JR., stopped by United States Border Patrol Agent Jorge Luis Trevino near Farm-to-Market Road 2050, transporting undocumented aliens, and suspected of being part of a smuggling operation with IGNACIO RODRIGUEZ, JR.'s black Dodge pickup truck"
+  }
+}

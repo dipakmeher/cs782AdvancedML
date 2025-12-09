@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the camper": "camper",
+    "a camper shell": "camper shell",
+    "black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "RICARDO RODRIGUEZ, JR.'s white Malibu sedan": "RICARDO RODRIGUEZ, JR.'s vehicle",
+    "illegal aliens": "undocumented aliens",
+    "aliens": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "camper": "tool of the smuggling trade, potentially used to transport aliens",
+    "camper shell": "equipment that could be used to hide illegal aliens in a vehicle",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck driven by IGNACIO RODRIGUEZ, JR., described as having a dark blue or black camper",
+    "RICARDO RODRIGUEZ, JR.'s vehicle": "White Malibu sedan rented by RICARDO RODRIGUEZ, JR. at the Laredo International Airport, registered to Hertz Rental Car Company",
+    "undocumented aliens": "Individuals being transported in vehicles, displaying suspicious behavior such as wearing caps and appearing stiff"
+  }
+}

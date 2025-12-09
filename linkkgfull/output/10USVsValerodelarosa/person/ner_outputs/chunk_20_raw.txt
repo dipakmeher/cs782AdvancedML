@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the lawyer", "defense counsel", "attorneys", "the Government"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

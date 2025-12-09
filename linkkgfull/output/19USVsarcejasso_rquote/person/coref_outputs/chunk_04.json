@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raul Rafael Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "Arce-Jasso": "Raul Rafael Arce-Jasso",
+    "DeMOSS": "DeMOSS",
+    "United States of America": "United States of America",
+    "the Government": "United States of America",
+    "Defendant-Appellee": "Raul Rafael Arce-Jasso",
+    "Plaintiff-Appellant": "United States of America",
+    "Circuit Judge": "DeMOSS",
+    "Jesus Garcia": "Jesus Garcia",
+    "Garcia": "Jesus Garcia",
+    "the border patrol checkpoint": null,
+    "his assistant": null,
+    "a magistrate judge": null,
+    "the district court": null,
+    "Arce-Jasso's counsel": null,
+    "the court": "United States of America"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raul Rafael Arce-Jasso": "defendant, appellant, and defendant-appellee in a case involving possession of cocaine with intent to distribute, driver of the Mercury Cougar, pleaded not guilty before a magistrate judge, filed motions for reconsideration and suppression of evidence",
+    "DeMOSS": "Circuit Judge presiding over the appeal of the United States of America vs. Raul Rafael Arce-Jasso",
+    "United States of America": "plaintiff-appellant seeking review of the district court's judgment of acquittal and denial of motion for reconsideration, filed a joint notice of appeal regarding the court's judgment of acquittal and order denying the Government's motion for reconsideration",
+    "Jesus Garcia": "border patrol agent manning the primary inspection lane at the border patrol checkpoint"
+  }
+}

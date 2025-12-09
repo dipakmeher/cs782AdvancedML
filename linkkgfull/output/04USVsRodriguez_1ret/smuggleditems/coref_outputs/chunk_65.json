@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Corinth, Texas": null,
+    "Dallas, Texas": null,
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Farm-to-Market Road 2050": null,
+    "May 2nd Hr'g": null,
+    "the camper": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck involved in a traffic stop on Farm-to-Market Road 2050, driven by IGNACIO RODRIGUEZ, JR., and suspected of being part of a smuggling operation with RICARDO RODRIGUEZ, JR.'s white Malibu sedan",
+    "Jorge Luis Trevino": "United States Border Patrol Agent with experience and knowledge of local traffic patterns, testifying about vehicle characteristics and road conditions"
+  }
+}

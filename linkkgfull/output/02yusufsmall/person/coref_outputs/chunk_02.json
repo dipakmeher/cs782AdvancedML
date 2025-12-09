@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Abdullah Yusuf": "Abdullah Yusuf",
+    "Yusuf": "Abdullah Yusuf",
+    "Andrew S. Oldham": "Andrew S. Oldham",
+    "the defendant": "Abdullah Yusuf",
+    "a jury": null,
+    "a police dog": null,
+    "the Government": null,
+    "Juan Carlos De Arcos": "Juan Carlos De Arcos",
+    "Agent De Arcos": "Juan Carlos De Arcos",
+    "Homeland Security Inspector": "Juan Carlos De Arcos",
+    "his tractor": null,
+    "a representative": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Abdullah Yusuf": "Defendant involved in a human smuggling case near Laredo, Texas, convicted of trafficking aliens, who waived his Miranda rights and was hauling a load",
+    "Andrew S. Oldham": "Circuit Judge presiding over the appeal of Abdullah Yusuf's case",
+    "Juan Carlos De Arcos": "Homeland Security Inspector who testified about the lot on Auburn Road"
+  }
+}

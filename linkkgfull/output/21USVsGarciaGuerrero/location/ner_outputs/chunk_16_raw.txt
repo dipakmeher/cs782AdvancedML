@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Nuevo Laredo", "Laredo"],
+    "NOUN_PHRASE": ["the brush"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Nuevo Laredo": "location where aliens could have purchased provisions",
+    "Laredo": "location of the hospital where dehydrated aliens were transported"
+  }
+}

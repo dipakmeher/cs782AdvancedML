@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "United States District Judge", "United States Magistrate Judge", "United States District Court"],
+    "NOUN_PHRASE": ["open court", "the district court", "the sentencing guidelines", "the range of punishment", "the Report and Recommendation"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where the legal proceedings are taking place",
+    "United States District Judge": "judge with authority to accept guilty pleas",
+    "United States Magistrate Judge": "judge presiding over the rearraignment hearing",
+    "United States District Court": "court with jurisdiction over the case"
+  }
+}

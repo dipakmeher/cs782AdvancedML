@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the alleged error by counsel in Ground Three": null,
+    "Ground Three": null,
+    "the waiver or the plea": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the 2009 edition of the United States Sentencing Commission Manual": "United States Sentencing Commission's Guidelines Manual",
+    "the United States Probation Office \u00a7 12": "United States Probation Office",
+    "Amendment 742 of the United States Sentencing Commission": "United States Sentencing Commission's Guidelines Manual Amendment 742",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the United States District Court for the Southern District of Texas": "United States District Court for the Southern District of Texas",
+    "the advisory United States Sentencing Commission range": "70 to 87 months",
+    "the criminal history computation": null,
+    "the prejudice prong": null,
+    "the calculation of a criminal history score": null,
+    "the issue whether the defendant's criminal history is under-represented": null,
+    "a defendant's criminal history score": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico, made statements under oath during plea colloquy",
+    "United States District Court for the Southern District of Texas": "Court responsible for imposing sentences in accordance with federal guidelines, considering factors such as the nature and circumstances of the offense and the history and characteristics of the defendant.",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence, signed by Rogelio Valero-De La Rosa. The agreement includes concessions made by the United States in exchange for the defendant's guilty plea.",
+    "United States Sentencing Commission's Guidelines Manual": "Federal guidelines for sentencing, including considerations under fast track programs, applied to Rogelio Valero-De La Rosa's case",
+    "United States Probation Office": "Agency that interviewed Rogelio Valero-De La Rosa and reported on his background and actions",
+    "United States Sentencing Commission's Guidelines Manual Amendment 742": "Amendment eliminating recency points, effective November 1, 2010, considered in Rogelio Valero-De La Rosa's sentencing, but found not applicable"
+  }
+}

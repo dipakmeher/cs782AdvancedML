@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Bruni", "FM 2050", "Hebbronville", "Laredo", "U.S. 359", "U.S. 59", "Ranchitos Las Lomas", "FM 2895"],
+    "NOUN_PHRASE": ["the southern terminus", "one of the ranches", "the southern end", "any other location", "the most direct route", "the indirect route", "the checkpoint", "the journey"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Bruni": "destination",
+    "FM 2050": "farm-to-market road",
+    "Hebbronville": "location with a checkpoint",
+    "Laredo": "origin of journey",
+    "U.S. 359": "alternative route",
+    "U.S. 59": "route taken by defendant",
+    "Ranchitos Las Lomas": "possible origin of journey",
+    "FM 2895": "alternative farm-to-market road"
+  }
+}

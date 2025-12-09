@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "roving border patrol agents",
+      "those agents",
+      "Hispanic residents and citizens",
+      "governmental enforcement agents"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

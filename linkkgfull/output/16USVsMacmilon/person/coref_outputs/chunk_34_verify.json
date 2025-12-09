@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "Raymond McMillon",
+    "McMillon": "Raymond McMillon",
+    "Williams": "Zeba Williams",
+    "the pair": "Raymond McMillon and Zeba Williams",
+    "the district court": null,
+    "the defendant's brief": "Raymond McMillon"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "Defendant who allegedly transported aliens with Williams, identified by De La Cruz and Hernandez-Gomez as the person motioning for them to hide, argued against the conspiracy conviction and had his transportation convictions affirmed, seeking a reduction in offense level due to minimal or minor participation, denied a \u00a7 3B1.2 adjustment",
+    "Zeba Williams": "Individual allegedly transporting aliens with McMillon, part of the conspiracy, testified at sentencing that McMillon did not recruit her but they entered a joint partnership",
+    "Raymond McMillon and Zeba Williams": "Defendants who allegedly transported aliens together, subject of the conspiracy conviction, entered a joint partnership to smuggle aliens"
+  }
+}

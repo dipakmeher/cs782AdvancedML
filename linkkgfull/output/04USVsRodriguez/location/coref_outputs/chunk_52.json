@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Border Patrol": "United States Border Patrol",
+    "the road": "Farm-to-Market Road 2050",
+    "the brush": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "agency encountering illegal aliens, with agents trained to observe specific behaviors and signs indicative of smuggling activity",
+    "Farm-to-Market Road 2050": "paved road with two lanes, one in each direction, and no shoulder, where vehicles are likely to be stopped by Border Patrol for inspection"
+  }
+}

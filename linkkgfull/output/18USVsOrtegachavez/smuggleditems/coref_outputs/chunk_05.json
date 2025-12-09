@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "undocumented aliens": "undocumented aliens",
+    "five undocumented aliens": "five undocumented aliens",
+    "the five undocumented aliens": "five undocumented aliens",
+    "the van used for smuggling": null,
+    "the hidden compartment": null,
+    "the merchandise": null,
+    "illegal aliens": "undocumented aliens",
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez",
+    "Graciela Castaneda": "Graciela Castaneda",
+    "Ramon Gonzalez Sanchez's father": "Ramon Gonzalez Sanchez's father",
+    "Ramon Gonzalez Sanchez's mother": "Ramon Gonzalez Sanchez's mother"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "persons being smuggled into the United States",
+    "five undocumented aliens": "undocumented immigrants being smuggled, transported in a hidden van compartment",
+    "Alfredo Ortega-Chavez": "defendant in a trial related to smuggling",
+    "Graciela Castaneda": "witness for Alfredo Ortega-Chavez, provided alibi testimony",
+    "Ramon Gonzalez Sanchez's father": "rebuttal witness testifying against Alfredo Ortega-Chavez's alibi",
+    "Ramon Gonzalez Sanchez's mother": "rebuttal witness testifying against Alfredo Ortega-Chavez's alibi"
+  }
+}

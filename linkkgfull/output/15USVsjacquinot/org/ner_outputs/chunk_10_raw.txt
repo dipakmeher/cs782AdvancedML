@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S.", "United States/Mexican border", "5th Cir"],
+    "NOUN_PHRASE": ["the agent", "the court", "the vehicle's occupant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S.": "refers to the United States",
+    "United States/Mexican border": "geographic location relevant to the case",
+    "5th Cir": "refers to the 5th Circuit court"
+  }
+}

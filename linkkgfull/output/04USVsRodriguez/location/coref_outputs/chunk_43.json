@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 359": "U.S. 359",
+    "Highway 16": "Highway 16",
+    "Corinth, Texas": "Corinth, Texas",
+    "Dallas-Fort Worth": "Dallas-Fort Worth",
+    "the location of the traffic stop": "Highway 16 and U.S. 59",
+    "that type of a truck": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "location where Agent Trevino encountered illegals, rural road with limited traffic",
+    "U.S. 359": "direction in which the black truck was heading, highway with checkpoints that smugglers try to avoid",
+    "Highway 16": "location of Agent Benavides, highway that allows access to major highways going north",
+    "Corinth, Texas": "origin of one of the vehicles, registration location of a black truck",
+    "Dallas-Fort Worth": "destination of IGNACIO RODRIGUEZ, JR. and origin of another vehicle, metroplex with multiple cities",
+    "Highway 16 and U.S. 59": "location of the intersection where the traffic stop took place, near the Freer immigration checkpoint"
+  }
+}

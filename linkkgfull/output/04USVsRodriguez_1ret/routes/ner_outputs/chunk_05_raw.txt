@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Farm-to-Market Road 2050",
+      "Highway 16",
+      "U.S. 59",
+      "U.S. 359"
+    ],
+    "NOUN_PHRASE": [
+      "the loop"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "route where vehicles drop off illegal aliens",
+    "Highway 16": "route where picked-up aliens are taken after walking from Farm-to-Market Road 2050",
+    "U.S. 59": "road intersecting with Farm-to-Market Road 2050 to the west of Freer immigration checkpoint",
+    "U.S. 359": "road intersecting with Farm-to-Market Road 2050 to the east of the Hebbronville checkpoint"
+  }
+}

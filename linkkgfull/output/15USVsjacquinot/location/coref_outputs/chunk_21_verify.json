@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Kansas": "Kansas",
+    "the southern border area": "United States/Mexican border",
+    "the border": "United States/Mexican border",
+    "a school zone": null,
+    "the park": "Big Bend National Park",
+    "a Stop sign": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "location of the southern border area, state where smuggling activities are taking place",
+    "Kansas": "state of license plate origin, destination of smuggled narcotics",
+    "United States/Mexican border": "area where proximity is a factor in determining reasonable suspicion for temporary investigative stops, reference point for determining proximity and reasonable suspicion, area within which vehicle sensors are activated to track suspicious vehicles, relevant to the case of Brignoni-Ponce Jacquinot, southern border area of Texas",
+    "Big Bend National Park": "area involved in marijuana transportation by a smuggling organization, location where the truck transited from west side to east side, has a major highway used by visitors, location where traffic patterns and visitor behavior are being observed, starting point of the truck's travel route"
+  }
+}

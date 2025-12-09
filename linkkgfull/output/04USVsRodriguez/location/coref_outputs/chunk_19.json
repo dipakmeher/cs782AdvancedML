@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo",
+    "United States": "United States",
+    "Freer checkpoint": "Freer immigration checkpoint",
+    "Border Patrol station": "Border Patrol station",
+    "the primary Border Patrol agent": null,
+    "a holding cell": null,
+    "a locked sliding door": null,
+    "a fairly large room": null,
+    "a separate area": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where defendants were indicted for transporting undocumented aliens, and country of citizenship claimed by the driver",
+    "Laredo": "location where Agent Montemayor received a phone call regarding an attempted alien smuggling event",
+    "Freer immigration checkpoint": "location where Agent Montemayor arrived to investigate an attempted alien smuggling event",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was held in a holding cell before being interviewed by Agent Montemayor"
+  }
+}

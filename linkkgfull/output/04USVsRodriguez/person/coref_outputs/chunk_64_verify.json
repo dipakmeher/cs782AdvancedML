@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Officer Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Mr. Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Montemayor": "Marco Montemayor",
+    "the agent": "Hugo Benavides",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Defendant": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who testified during cross examination and agreed to statements about the stop",
+    "Reymundo Reyes": "Law enforcement officer who stopped the driver and issued a traffic citation",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who drove the black truck, was stopped by Officer Reyes, and had his vehicle registered to somebody in Corinth, Texas",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who made a stop on a sedan and found five or six illegal aliens in the vehicle",
+    "Marco Montemayor": "Agent involved in the case, conducted an interview with the Defendant"
+  }
+}

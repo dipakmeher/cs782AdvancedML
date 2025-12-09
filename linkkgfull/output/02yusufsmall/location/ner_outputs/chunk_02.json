@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Dallas",
+      "Laredo",
+      "Auburn Road",
+      "Flying J"
+    ],
+    "NOUN_PHRASE": [
+      "the pickup location",
+      "the loading dock",
+      "the lot"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Dallas": "destination of Abdullah Yusuf's haul",
+    "Laredo": "location of the pickup and the Auburn Road lot",
+    "Auburn Road": "location of the pickup lot",
+    "Flying J": "place where Abdullah Yusuf waited while his trailer was being loaded"
+  }
+}

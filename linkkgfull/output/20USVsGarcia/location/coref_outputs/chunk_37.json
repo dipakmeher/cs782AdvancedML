@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexican border",
+    "particular highways": null,
+    "particular vehicles": null,
+    "the vehicle": "Maria De Jesus Garcia's vehicle"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographical reference point relevant for roving border patrol stops and the Brignoni-Ponce test, approximately 115 miles south of the stop in Texas",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens and subject of a court case, described as a pickup truck with a camper shell attachment, traveling at 40-45 miles per hour late at night on Interstate 35"
+  }
+}

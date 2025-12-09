@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "district court",
+      "United States/Mexican border",
+      "Texas Highway 385"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "district court": "made a determination",
+    "United States/Mexican border": "geographical reference point",
+    "Texas Highway 385": "location of vehicle sighting"
+  }
+}

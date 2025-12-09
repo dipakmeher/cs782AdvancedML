@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Court": null,
+    "the Defendants": "Raymond McMillon and Zeba Williams",
+    "counsel for the respective Defendants": null,
+    "McMillon": "Raymond McMillon"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "Defendant who had his trial begin after the court denied his motion to dismiss, requested continuances to file pretrial motions",
+    "Zeba Williams": "Co-defendant in the case with Raymond McMillon, also requested continuances to file pretrial motions",
+    "Raymond McMillon and Zeba Williams": "Defendants who were granted continuances by the court due to insufficient time for preparation under the Speedy Trial Act"
+  }
+}

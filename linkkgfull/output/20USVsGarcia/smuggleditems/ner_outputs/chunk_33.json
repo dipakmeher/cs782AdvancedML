@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Maria De Jesus Garcia's pickup truck camper passengers",
+      "Orona-Sanchez case",
+      "Lamas case",
+      "Pacheco case",
+      "Pena-Cantu case"
+    ],
+    "NOUN_PHRASE": [
+      "the passengers",
+      "passengers in the back seat"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Maria De Jesus Garcia's pickup truck camper passengers": "individuals being smuggled",
+    "Orona-Sanchez case": "legal case",
+    "Lamas case": "legal case",
+    "Pacheco case": "legal case",
+    "Pena-Cantu case": "legal case"
+  }
+}

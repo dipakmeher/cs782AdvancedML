@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "Alberto Ramirez": "Alberto Ramirez",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "the Director": "Alberto Ramirez",
+    "the Court": null,
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who introduced district traffic maps into evidence and was involved in a case regarding alien smuggling",
+    "Alberto Ramirez": "Director of Transportation, Planning and Development for the Texas Department of Transportation, Laredo Division, testified about traffic flow data on FM 2050",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who provided testimony about usual traffic patterns on FM 2050 and worked at the Freer checkpoint since August 2011",
+    "J. Scott Hacker": "United States Magistrate Judge who considered the evidence presented in the case and deferred to Agent Trevino's testimony regarding traffic patterns"
+  }
+}

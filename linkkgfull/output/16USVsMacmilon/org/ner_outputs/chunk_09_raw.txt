@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Supreme Court", "Border Patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Supreme Court": "recognized the constitutionality of suspicionless routine vehicle stops",
+    "Border Patrol": "agent asks questions during a stop"
+  }
+}

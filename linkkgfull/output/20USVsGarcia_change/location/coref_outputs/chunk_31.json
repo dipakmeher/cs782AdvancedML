@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the area": "Cotulla, Texas area",
+    "the location": "Interstate 35 near Cotulla, Texas",
+    "Cotulla, Texas": "Cotulla, Texas",
+    "Texas": "Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Cotulla, Texas": "location of the border patrol station where agents Stanley Pruszenski and Alfred Baron served",
+    "Texas": "state where the border patrol agents served and where the events took place",
+    "Cotulla, Texas area": "region covered by the Cotulla, Texas border patrol station",
+    "Interstate 35 near Cotulla, Texas": "specific segment of highway known for alien smuggling activity and location of the instant stop"
+  }
+}

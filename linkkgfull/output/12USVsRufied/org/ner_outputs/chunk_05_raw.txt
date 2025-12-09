@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Diesel Impact 2000", "Border Patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Diesel Impact 2000": "location where Martin Adaboh and others went",
+    "Border Patrol": "conducted a check point on Highway 59"
+  }
+}

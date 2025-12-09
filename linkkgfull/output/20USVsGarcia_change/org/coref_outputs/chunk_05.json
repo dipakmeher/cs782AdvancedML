@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States Border Patrol": "United States Border Patrol",
+    "the agents": "United States Border Patrol",
+    "the border patrol agents": "United States Border Patrol",
+    "border patrol": "United States Border Patrol",
+    "United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "United States-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "United States v. Pena-Cantu": "United States v. Pena-Cantu",
+    "United States v. Pacheco": "United States v. Pacheco",
+    "United States v. Orona-Sanchez": "United States v. Orona-Sanchez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that denied the extension motion and made oral findings of fact regarding the constitutionality of the stop and search",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, smuggling interception, and immigration inspections",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court considering the suppression motion on its merits and articulating principles for investigatory stops near the United States-Mexican border",
+    "United States v. Maria De Jesus Garcia": "a legal case involving an investigatory stop by roving border patrol agents",
+    "United States-Mexican border": "an international border relevant to immigration and smuggling cases",
+    "Interstate Highway 35": "a highway where smuggling and illegal alien traffic have been reported",
+    "United States v. Pena-Cantu": "a legal case referenced in determining the justification for investigatory stops",
+    "United States v. Pacheco": "a legal case referenced in determining the justification for investigatory stops",
+    "United States v. Orona-Sanchez": "a legal case referenced in determining the justification for investigatory stops"
+  }
+}

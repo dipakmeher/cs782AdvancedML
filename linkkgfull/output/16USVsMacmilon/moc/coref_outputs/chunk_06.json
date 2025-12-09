@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon's rental car": "the rental car",
+    "Zeba Williams' tractor-trailer": "the tractor-trailer",
+    "the rental car": "the rental car",
+    "the tractor-trailer": "the tractor-trailer",
+    "Raymond McMillon and Zeba Williams' vehicle": null,
+    "Luis Pena's canine": "Aroxa",
+    "the driver-side door": null,
+    "the engine": null,
+    "the steps of the tractor-trailer": null,
+    "Agent Manuel Hernandez's dog": "Aroxa",
+    "the tractor-trailer's sleeper area": "the tractor-trailer's sleeper area",
+    "the tractor-trailer's rear sleeper area": "the tractor-trailer's rear sleeper area",
+    "the tractor-trailer's exterior steps": "the tractor-trailer's exterior steps",
+    "the fold-up bed": null,
+    "the tractor-trailer's wall": null,
+    "the tractor-trailer's closets": "the tractor-trailer's closets",
+    "the tractor-trailer's beds": "the tractor-trailer's beds",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Jorge Miguel Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the rental car": "Vehicle used by Raymond McMillon and Zeba Williams to travel from Houston to San Antonio",
+    "the tractor-trailer": "Vehicle used by Zeba Williams and accompanied by Raymond McMillon to travel from San Antonio to Laredo, stopped at Freer, Texas",
+    "Aroxa": "Canine used by Agent Manuel Hernandez for detecting contraband",
+    "the tractor-trailer's sleeper area": "Area where undocumented aliens Ramon De La Cruz and Jorge Miguel Hernandez-Gomez were hidden",
+    "the tractor-trailer's rear sleeper area": "Specific area where a person's face was seen hidden between the bed and the wall",
+    "the tractor-trailer's exterior steps": "Location from which Agent Luis Pena peeked into the tractor-trailer's rear sleeper area",
+    "the tractor-trailer's closets": "Hiding place for undocumented aliens",
+    "the tractor-trailer's beds": "Hiding place for undocumented aliens",
+    "Ramon De La Cruz": "Undocumented alien transported by Raymond McMillon",
+    "Jorge Miguel Hernandez-Gomez": "Undocumented alien transported by Raymond McMillon"
+  }
+}

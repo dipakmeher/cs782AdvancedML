@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the Supreme Court": null,
+    "the Border Patrol station": null,
+    "the Defendant": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who questioned Defendant at the Border Patrol station",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause"
+  }
+}

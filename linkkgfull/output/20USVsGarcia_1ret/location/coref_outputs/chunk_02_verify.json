@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Moore, Texas": "Moore, Texas",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "Mexican border": "Mexican border",
+    "the northbound lanes": "northbound lanes of Interstate Highway 35",
+    "their marked border patrol sedan": null,
+    "the camper": "pickup truck camper",
+    "the bumper": null,
+    "the tires": null,
+    "the wheel wells": null,
+    "the rear": null,
+    "the vehicle": "pickup truck",
+    "the window": null,
+    "the truck": "pickup truck",
+    "the front end": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located and whose Constitution protects residents from unreasonable searches",
+    "Moore, Texas": "location near the border, approximately 115 miles from the Mexican border, and a point through which Interstate Highway 35 passes before reaching the United States-Mexican border, also a common location for apprehending illegal alien smugglers",
+    "Interstate Highway 35": "highway where the stop occurred, commonly used for smuggling of aliens, and known for its reputation as a common smuggling route",
+    "Mexican border": "reference point for the location of the stop, 115 miles south of where the pickup truck was stopped",
+    "northbound lanes of Interstate Highway 35": "specific segment of the highway with known alien smuggling activity, where vehicles are unusual to be traveling at slow speeds late at night",
+    "pickup truck camper": "compartment of the vehicle where evidence was found and is relevant to the suppression motion, often used for transporting illegal aliens",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment, also referred to as the vehicle in this context, traveling at slow speed with obvious overloading"
+  }
+}

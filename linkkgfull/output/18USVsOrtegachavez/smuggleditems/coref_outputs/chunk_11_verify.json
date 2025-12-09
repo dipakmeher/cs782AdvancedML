@@ -1,0 +1,26 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the evidence": "evidence against Alfredo Ortega-Chavez",
+    "Alfredo Ortega-Chavez's conviction": "Alfredo Ortega-Chavez",
+    "Ramon Gonzalez Sanchez": "Ramon Gonzalez Sanchez",
+    "the accomplice": "Ramon Gonzalez Sanchez",
+    "the district court": "district court",
+    "the other U.S. Government Attorney witnesses": "U.S. Government Attorney rebuttal witnesses",
+    "Alfredo Ortega-Chavez's trial": "Alfredo Ortega-Chavez",
+    "Judge Kazen": "Judge Kazen",
+    "Ms. Salinas' law firm": "Ms. Salinas' law firm",
+    "the entire court record": "entire court record",
+    "the proceedings": "proceedings in Alfredo Ortega-Chavez's trial"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "evidence against Alfredo Ortega-Chavez": "testimony and statements used to convict Alfredo Ortega-Chavez",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States, objected to juror questioning",
+    "Ramon Gonzalez Sanchez": "accomplice witness whose testimony revealed inconsistencies but was not incredible as a matter of law, provided deposition testimony implicating Alfredo Ortega-Chavez",
+    "district court": "court presiding over Alfredo Ortega-Chavez's trial, responsible for enforcing disclosure rules and excluding undisclosed witnesses",
+    "U.S. Government Attorney rebuttal witnesses": "witnesses testifying against Alfredo Ortega-Chavez's alibi, including Ramon Gonzalez Sanchez's father and mother",
+    "Judge Kazen": "trial judge who handled the case commendably, conducted an inquiry into a juror's ability to remain impartial",
+    "Ms. Salinas' law firm": "law firm representing Alfredo Ortega-Chavez, did not object to juror questioning or indicate dissatisfaction",
+    "entire court record": "complete documentation of proceedings in Alfredo Ortega-Chavez's trial",
+    "proceedings in Alfredo Ortega-Chavez's trial": "events and testimonies that took place during Alfredo Ortega-Chavez's trial"
+  }
+}

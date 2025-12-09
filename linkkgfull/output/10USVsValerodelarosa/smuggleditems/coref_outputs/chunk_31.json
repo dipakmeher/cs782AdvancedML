@@ -1,0 +1,36 @@
+{
+  "RESOLVED_ENTITIES": {
+    "counsel's failure to object to the single recency point": null,
+    "the single recency point": null,
+    "these facts": null,
+    "Ground Three": null,
+    "the claim in Ground Three": null,
+    "the alleged error by counsel in Ground Four": null,
+    "Ground Four": null,
+    "the validity of the waiver or the plea": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "the waiver": "Plea Agreement between Rogelio Valero-De La Rosa and the United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant in a court case for illegal re-entry after deportation, native and citizen of Mexico, sentenced to 90 months of imprisonment, made statements under oath, has a family situation and is a member of a gang",
+    "United States District Court for the Southern District of Texas": "Court where the case is being heard, calculated advisory guideline range and sentenced defendant, considered Rogelio Valero-De La Rosa's family situation and membership in a gang during sentencing",
+    "Joseph M. Hood": "Judge presiding over the case",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement between defendant and the United States regarding guilty plea and sentencing, including a factual basis for the guilty plea and waiver of right to collaterally attack conviction or sentence. The agreement includes concessions by the United States in exchange for waivers contained in the Agreement.",
+    "Bureau of Prisons": "Agency responsible for imprisonment of Rogelio Valero-De La Rosa",
+    "Plea Agreement Addendum between Rogelio Valero-De La Rosa and the United States": "Addendum to the Plea Agreement, outlining additional terms or conditions. The addendum states that the defendant is aware of their right to appeal the sentence imposed and waives this right.",
+    "Rogelio Valero-De La Rosa's counsel": "Defendant's legal representative, accused of being ineffective in representing Rogelio Valero-De La Rosa, subject to standards of professional conduct",
+    "United States Sentencing Commission's Guidelines Manual": "Federal guidelines for sentencing, including Amendment 742 which eliminated recency points effective November 1, 2010",
+    "Indictment against Rogelio Valero-De La Rosa": "Formal charges of illegal re-entry after deportation against the defendant",
+    "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa": "Criminal charges pending against the defendant, includes violation of supervised release by committing additional offenses",
+    "Report and Recommendation to the United States District Court for the Southern District of Texas": "Document recommending acceptance of guilty plea and entry of final judgment of guilt",
+    "Order of the United States District Court for the Southern District of Texas": "Court order adopting the Report and Recommendation",
+    "Presentence Report prepared by the United States Probation Office": "Report calculating advisory imprisonment range based on total offense level and criminal history category, includes information about Rogelio Valero-De La Rosa's prior offenses and current charges",
+    "Supplemental Addendum to Presentence Report prepared by the United States Probation Office": "Additional information provided in support of sentencing, including details about Rogelio Valero-De La Rosa's family situation and membership in a gang",
+    "Letters submitted by Rogelio Valero-De La Rosa's family members for consideration at sentencing": "Character references provided to mitigate sentence, highlighting Rogelio Valero-De La Rosa's positive qualities and potential for rehabilitation",
+    "Request for reduced sentence based on mitigating circumstances": "Downward variance from guideline range requested by defendant's counsel, citing factors such as Rogelio Valero-De La Rosa's family situation and lack of prior violent offenses",
+    "United States Sentencing Commission's Guidelines Manual Amendment 742": "Amendment eliminating recency points, effective November 1, 2010, which could have reduced Rogelio Valero-De La Rosa's criminal history score",
+    "United States Department of Justice": "Agency responsible for overseeing the enforcement of the Plea Agreement and ensuring compliance with federal sentencing guidelines",
+    "United States Court of Appeals for the Fifth Circuit": "Court that gives great weight to defendant's statements at the plea colloquy, and reviews appeals from the United States District Court for the Southern District of Texas",
+    "Rogelio Valero-De La Rosa's Affidavit": "Document submitted by Rogelio Valero-De La Rosa claiming he did not understand the Plea Agreement, which is being considered in his current motion for relief",
+    "United States Sentencing Commission": "Agency responsible for establishing federal sentencing guidelines, contends that counsel's conduct was not objectively unreasonable and that Rogelio Valero-De La Rosa's sentence was appropriate given his criminal history and offense level"
+  }
+}

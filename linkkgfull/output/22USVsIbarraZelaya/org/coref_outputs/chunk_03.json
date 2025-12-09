@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the government": null,
+    "federal grand jury": "United States Federal Grand Jury",
+    "co-defendants": null,
+    "United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Probation Department": "Probation Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nancy F. Atlas": "Judge in the case of Jose Marlon Ibarra-Zelaya",
+    "Jose Marlon Ibarra-Zelaya": "Defendant who filed a motion to vacate, set aside, or correct sentence and charged with conspiracy and assorted offenses related to an illegal alien smuggling venture",
+    "United States Federal Grand Jury": "Returned a five-count superseding indictment against Jose Marlon Ibarra-Zelaya and co-defendants for conspiracy and offenses stemming from an illegal alien smuggling venture",
+    "United States Sentencing Guidelines Manual": "determines punishment under the guidelines for sentencing Jose Marlon Ibarra-Zelaya",
+    "Probation Department": "prepares a presentence report for Jose Marlon Ibarra-Zelaya's sentencing"
+  }
+}

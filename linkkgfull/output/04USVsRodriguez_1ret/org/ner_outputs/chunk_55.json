@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Supreme Court",
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Supreme Court": "refused to authorize investigative interrogations",
+    "Border Patrol": "location of questioning"
+  }
+}

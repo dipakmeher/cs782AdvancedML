@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the modified Allen charge": "modified Allen charge",
+    "United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "the United States Court of Appeals for the Fifth Circuit": "United States v. Maria De Jesus Garcia",
+    "another trial of United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "this trial of United States v. Maria De Jesus Garcia": "United States v. Maria De Jesus Garcia",
+    "any future jury": null,
+    "the same manner and source from which any future jury must be selected": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "modified Allen charge": "judicial instruction given to the jury, potentially coercive as used in this case due to timing and circumstances but found not to be unduly coercive, with its impact on jurors assessed, leading to a guilty verdict after further deliberation",
+    "United States v. Maria De Jesus Garcia": "court case involving allegations against Maria De Jesus Garcia, focusing on the modified Allen charge's potential coercive effect and its proper use in this instance, with a review of the record to determine if the Brignoni-Ponce standard is satisfied"
+  }
+}

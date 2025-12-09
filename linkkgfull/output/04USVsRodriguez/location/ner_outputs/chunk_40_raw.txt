@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the scene of the traffic stop", "the checkpoint", "an open area", "a holding cell"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

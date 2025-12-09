@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Benavides", "Officer Reyes", "Ignacio Rodriguez", "Agent Montemayor", "Defendant", "Benavides", "Reyes", "Rodriguez", "Montemayor"],
+    "NOUN_PHRASE": ["the defendant", "Officer", "the Border Patrol agent", "his assistant", "the canine", "other agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "Border Patrol agent",
+    "Officer Reyes": "officer issuing citation",
+    "Ignacio Rodriguez": "defendant",
+    "Agent Montemayor": "agent who interviewed defendant"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the phone": "a cellular phone",
+    "Hugo Benavides' communication device": "the United States Border Patrol radio",
+    "Reymundo Reyes' communication device": null,
+    "IGNACIO RODRIGUEZ, JR.'s phone": null,
+    "Marco Montemayor's phone": null,
+    "the canine search team's communication device": null,
+    "United States Border Patrol Agent Benavides' communication device": "the United States Border Patrol radio",
+    "Agent Jorge Luis Trevino's communication device": "the United States Border Patrol radio"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "a cellular phone": "Device used for personal communication, mentioned in the context of a call from United States Border Patrol Agent Hugo Benavides' supervisor",
+    "the United States Border Patrol radio": "Communication system used by United States Border Patrol agents to coordinate efforts and share information during operations, including details about traffic stops and encounters with vehicles"
+  }
+}

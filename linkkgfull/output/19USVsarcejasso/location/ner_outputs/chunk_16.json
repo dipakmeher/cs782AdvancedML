@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States of America",
+      "Article III"
+    ],
+    "NOUN_PHRASE": [
+      "this Court",
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "party presenting a case",
+    "Article III": "legal doctrine reference"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the police", "law enforcement"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

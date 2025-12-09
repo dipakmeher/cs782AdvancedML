@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cuyler", "Rodriguez"],
+    "NOUN_PHRASE": ["the defendants", "the court", "the aliens", "the group", "the authorities"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cuyler": "reference in a legal context",
+    "Rodriguez": "defendants in a case"
+  }
+}

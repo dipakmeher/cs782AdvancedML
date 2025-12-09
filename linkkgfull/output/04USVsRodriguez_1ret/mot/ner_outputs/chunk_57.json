@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the vehicle",
+      "stolen vehicles"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

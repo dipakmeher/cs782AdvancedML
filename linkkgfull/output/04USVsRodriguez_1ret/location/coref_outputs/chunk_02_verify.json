@@ -1,0 +1,27 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "the Court": "Court",
+    "Freer Police Department": "Freer Police Department",
+    "the stop": "traffic stop on Farm-to-Market Road 2050",
+    "the scope of the stop": null,
+    "the nature of the interrogation": null,
+    "the traffic stop": "traffic stop on Farm-to-Market Road 2050",
+    "the series of vehicle stops": null,
+    "the warrants": null,
+    "the arrest": null,
+    "the hearing": null,
+    "March": null,
+    "February": null,
+    "May": null,
+    "Dkt. No. 35": null,
+    "Dkt. No. 39": null,
+    "Dkt. No. 21": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the event took place, mentioned in the context of the magistrate judge",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr., citing previous Supreme Court cases to establish the reasonableness of traffic stops",
+    "Freer Police Department": "Employer of Officer Reymundo Reyes, involved in the traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "traffic stop on Farm-to-Market Road 2050": "location of a traffic stop based on articulable factors indicating potential illegal activity, subject to scrutiny of its scope and duration under the totality of the circumstances."
+  }
+}

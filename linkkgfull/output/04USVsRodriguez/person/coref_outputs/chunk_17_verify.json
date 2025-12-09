@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Officer Reyes": "Reymundo Reyes",
+    "his supervisor": null,
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the checkpoint": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who conducted questioning and transported Ignacio Rodriguez to the checkpoint for further questioning",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a case regarding alien smuggling, whose vehicle was stopped by Officer Reyes for failing to use a turn signal, and who appeared extremely nervous during the stop, was transported to the checkpoint by Agent Benavides for further questioning",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop on Ignacio Rodriguez's vehicle and observed that he was shaking and seemed extremely nervous, was informed of the situation by Agent Benavides"
+  }
+}

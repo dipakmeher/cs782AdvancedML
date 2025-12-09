@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this circuit": "United States Court of Appeals for the Fifth Circuit",
+    "the border": "United States-Mexican border",
+    "an interstate highway": "Interstate Highway",
+    "Texas": "Texas",
+    "Mexico/United States border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "federal court reviewing cases related to border patrol stops and searches, with a panel majority attempting to apply precedents in a principled way",
+    "United States-Mexican border": "geographical boundary relevant to the case and location of the incident, 115 miles south of the stop in Texas",
+    "Interstate Highway": "highways where border patrol agents may stop persons, including locations near the US-Mexico border, such as in Texas",
+    "Texas": "state where the defendant was stopped, location of Interstate Highway and events took place, 115 miles north of the Mexico/United States border",
+    "United States-Mexico border": "geographical boundary relevant to the case and location of the incident, reference point for distance"
+  }
+}

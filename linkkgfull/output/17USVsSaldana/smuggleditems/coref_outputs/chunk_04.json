@@ -1,0 +1,35 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana": "Federico Saldana",
+    "the Government": "United States Government",
+    "the Court": "Court in the above-styled cause",
+    "the motion": null,
+    "the hearing": null,
+    "the documents": null,
+    "the evidence": null,
+    "the arguments of counsel": null,
+    "the governing law": null,
+    "Williamson County Sheriff's Office officials": "Gary Haston and Heather Vargas",
+    "the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "Gary Haston": "Gary Haston",
+    "Heather Vargas": "Heather Vargas",
+    "Daniel Martin Huerta": "Daniel Martin Huerta",
+    "Daniel A. Huerta": "Daniel A. Huerta",
+    "loads of narcotics": null,
+    "Josiah Bennett's patrol car": "Josiah Bennett's patrol car"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federico Saldana": "Defendant in the case, driver of the 2008 Chevrolet truck",
+    "United States Government": "Party responding to Federico Saldana's motion",
+    "Court in the above-styled cause": "Court presiding over Federico Saldana's case",
+    "2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana on the day in question, with a license plate registered in San Antonio, outfitted with over-sized tires and after-market rims, involved in unsafe driving maneuvers",
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer towed by the vehicle driven by Federico Saldana, transporting a scissor lift, with a license plate registered in Laredo, modified to potentially hide loads of narcotics",
+    "Gary Haston": "Veteran narcotics investigator with Williamson County Sheriff's Office, testified about atypical features of the 2008 Chevrolet truck and flatbed trailer",
+    "Heather Vargas": "Narcotics detective with Williamson County Sheriff's Office, relative newcomer to the narcotics division",
+    "Daniel Martin Huerta": "Registered owner of the flatbed trailer",
+    "Daniel A. Huerta": "Registered owner of the 2008 Chevrolet truck",
+    "Gary Haston and Heather Vargas": "Williamson County Sheriff's Office detectives involved in the case",
+    "Josiah Bennett's patrol car": "Patrol car used to conduct a traffic stop on the 2008 Chevrolet truck driven by Federico Saldana"
+  }
+}

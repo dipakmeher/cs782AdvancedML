@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "aliens",
+      "pickup truck camper occupants"
+    ],
+    "NOUN_PHRASE": [
+      "the occupants",
+      "the pickup truck camper occupants"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "aliens": "individuals being transported",
+    "pickup truck camper occupants": "persons in the vehicle"
+  }
+}

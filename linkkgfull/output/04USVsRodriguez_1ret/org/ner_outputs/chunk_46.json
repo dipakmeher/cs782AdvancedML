@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S. Highway 385",
+      "Highway 85"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the agent",
+      "law enforcement officers",
+      "the majority",
+      "the area",
+      "the officers",
+      "the marked patrol car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. Highway 385": "a known drug smuggling route",
+    "Highway 85": "a common smuggling route that avoids immigration checkpoints"
+  }
+}

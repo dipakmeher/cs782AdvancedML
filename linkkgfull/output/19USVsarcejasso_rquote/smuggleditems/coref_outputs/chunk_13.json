@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States of America": "United States of America",
+    "United States of America": "United States of America",
+    "the suppressed evidence": null,
+    "the proceeding": null,
+    "the decision": null,
+    "the appeal": null,
+    "the notice of appeal": null,
+    "the acquittal": null,
+    "the guilty verdict": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "cocaine": "evidence suppressed in a criminal case, subject of appeal regarding suppression order and related to a motion for reconsideration denied on August 12, smuggled substance, whose suppression is being appealed",
+    "United States of America": "party in the appeal, appellant regarding post-verdict suppression order, responsible for filing notice of appeal within 30 days after suppression decision is final",
+    "United States Court of Appeals": "court hearing the appeal",
+    "defendant Smith": "indicted suspect in an arson case, joined United States of America on the motion to subpoena footage"
+  }
+}

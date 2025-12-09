@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Graham", "Jacquinot"],
+    "NOUN_PHRASE": ["the agents", "a work truck driver", "park visitors", "the district court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Graham": "testified about traffic patterns and his experience",
+    "Jacquinot": "argues against the contribution to reasonable suspicion"
+  }
+}

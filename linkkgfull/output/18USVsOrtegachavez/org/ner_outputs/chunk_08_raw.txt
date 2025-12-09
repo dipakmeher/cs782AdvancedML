@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Judge Kazen", "Ms. Salinas", "Defense counsel", "Government"],
+    "NOUN_PHRASE": ["the government's attorney", "the jury panel", "the juror"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Judge Kazen": "questioned a juror about impartiality",
+    "Ms. Salinas": "Defense counsel",
+    "Defense counsel": "represented the defendant"
+  }
+}

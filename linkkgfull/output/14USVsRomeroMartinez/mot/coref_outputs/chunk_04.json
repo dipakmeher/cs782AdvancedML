@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a vehicle": null,
+    "a crew-cab truck": "crew-cab truck",
+    "the vehicle": "crew-cab truck",
+    "the truck": "crew-cab truck",
+    "crew-cab trucks": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "crew-cab truck": "Vehicle used by Carlos Martinez-Romero to transport marijuana, possibly modified for stowage of illegal aliens or narcotics"
+  }
+}

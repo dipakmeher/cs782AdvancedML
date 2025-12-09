@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the citation": null,
+    "the driver's license": null,
+    "the canine handler and canine": null,
+    "the United States Border Patrol": "United States Border Patrol",
+    "the United States Court of Appeals for the Fifth Circuit": "United States Department of Homeland Security",
+    "the United States Magistrate Judge": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Officer Reymundo Reyes": "Freer Police Department officer who conducted a traffic stop on IGNACIO RODRIGUEZ, JR.'s vehicle and observed his extreme nervousness",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and involved in a traffic stop on Farm-to-Market Road 2050",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped on Farm-to-Market Road 2050 for failing to use a turn signal, involved in a pretextual traffic stop argument, searched after IGNACIO RODRIGUEZ, JR. gave consent due to his extreme nervousness",
+    "United States Border Patrol": "Law enforcement agency involved in the incident",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with agents conducting interviews and ensuring defendants understand their rights"
+  }
+}

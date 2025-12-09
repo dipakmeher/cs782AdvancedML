@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the mountains", "canyons", "streams"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

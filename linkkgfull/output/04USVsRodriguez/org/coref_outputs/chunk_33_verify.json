@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the district court": "United States District Court",
+    "the area": null,
+    "the agent": "United States Border Patrol",
+    "the officers": "United States Border Patrol",
+    "law enforcement officers": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops",
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents having experience in evaluating circumstances related to reasonable suspicion",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., collaborating with United States Border Patrol agents",
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses",
+    "Hertz Dallas-Fort Worth": "rental car company whose vehicles were used by smugglers, often preferred because if caught, they would only lose a rental car, not one of their own vehicles, highlighting the complexity of smuggling operations",
+    "United States Department of Homeland Security": "Prohibits unreasonable searches and seizures, responsible for enforcing immigration laws and conducting investigations, with a focus on border security and smuggling prevention",
+    "Fifth Circuit Court of Appeals": "a court that has previously held that certain factors can add to reasonable suspicion, including 'erratic driving' and the use of 'load car-lead car' driving patterns",
+    "United States-Mexico border": "geographical boundary used as a factor in determining reasonable suspicion for United States Border Patrol stops, with areas known for smuggling activity being given extra scrutiny",
+    "Echo 43 checkpoint": "checkpoint on Highway 59 where United States Border Patrol agents were stationed, within fifty miles of the Mexico border, serving as a key location for detecting and preventing smuggling",
+    "Supreme Court of the United States": "the highest court in the land that has long held that reasonableness is the touchstone of analysis in determining reasonable suspicion, emphasizing the importance of considering all relevant factors",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was transported for questioning, highlighting the role of Border Patrol stations in immigration enforcement and smuggling investigations",
+    "United States Constitution": "supreme law of the land that outlines the framework of the US government and the relationship between the government and its citizens, including protections against unreasonable searches and seizures",
+    "law enforcement officer": "official responsible for enforcing laws and maintaining public order, with a critical role in detecting and preventing smuggling operations",
+    "United States": "country where the events are taking place, with a complex landscape of immigration policies, border security measures, and law enforcement efforts to combat smuggling"
+  }
+}

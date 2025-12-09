@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the officer",
+      "the agents",
+      "the police",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "vehicle owner and defendant"
+  }
+}

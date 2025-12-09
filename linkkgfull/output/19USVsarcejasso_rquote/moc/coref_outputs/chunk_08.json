@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federal Rule of Appellate Procedure 4(b)": "Federal Rule of Appellate Procedure 4(b)",
+    "the Federal Rule of Appellate Procedure": "Federal Rule of Appellate Procedure",
+    "the United States District Court": "a United States District Court",
+    "the United States of America": "United States of America",
+    "the notice of appeal": "the United States of America's joint notice of appeal filed on September 25, 2003",
+    "the United States Court of Appeals": "the United States Court of Appeals",
+    "a notice of appeal": null,
+    "the defendant": null,
+    "the prosecutor": null,
+    "the additional period": null,
+    "the extension of time to appeal": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Federal Rule of Appellate Procedure 4(b)": "Rule governing the timing and filing of appeals by the United States Government",
+    "Federal Rule of Appellate Procedure": "Set of rules governing appellate procedure in the United States",
+    "a United States District Court": "Trial court where cases are heard",
+    "United States of America": "Plaintiff-Appellant in the case",
+    "the United States of America's joint notice of appeal filed on September 25, 2003": "Notice of appeal filed by the United States of America regarding the judgment of acquittal and the suppression of the cocaine evidence",
+    "the United States Court of Appeals": "Court with appellate jurisdiction over decisions of United States District Courts"
+  }
+}

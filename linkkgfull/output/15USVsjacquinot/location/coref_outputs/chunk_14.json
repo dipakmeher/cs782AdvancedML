@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Big Bend": "Big Bend National Park",
+    "the park": "Big Bend National Park",
+    "the highway": "Texas Highway 385",
+    "the road": "Texas Highway 385"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Big Bend National Park": "location with unusual traffic patterns on Sunday mornings, where work vehicles typically leave in groups at the end of the work day or week",
+    "Texas Highway 385": "highway from which most vehicles would continue straight toward Fort Stockton and Interstate 10, known for alien and narcotics smuggling, had vehicle sensors activated in an area less than 50 miles from the border, notorious smuggling route"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Agent Pena": "Luis Pena",
+    "Williams": "Zeba Williams",
+    "Agent Hernandez": "Manuel Hernandez",
+    "the district court": null,
+    "the Government": null,
+    "the Agents": "Luis Pena and Manuel Hernandez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed, charged with conspiracy to transport aliens within the United States, filed a motion to dismiss the indictment on speedy trial grounds, sentenced to 41 months' imprisonment, argues about the lawfulness of Agent Pena's immigration questions, claimed to have a possessory interest in the tractor-trailer, appellant in the case",
+    "Zeba Williams": "individual being questioned by Agent Pena, driver of the tractor-trailer, gave consent for the search, charged with conspiracy to transport aliens within the United States",
+    "Luis Pena": "Government agent who questioned Williams and McMillon, asked for consent to search the tractor's sleeper area, testified at the jury trial, asked immigration questions, conducted a checkpoint stop within a permissible duration, initiated the search of the tractor-trailer",
+    "Manuel Hernandez": "Government agent working with a dog during the checkpoint stop, alerted Agent Pena to check the back of the tractor, testified at the jury trial",
+    "Luis Pena and Manuel Hernandez": "agents who conducted the checkpoint stop and search of the tractor-trailer, testified about the events during the suppression hearing"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["IGNACIO RODRIGUEZ, JR.'s vehicle"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

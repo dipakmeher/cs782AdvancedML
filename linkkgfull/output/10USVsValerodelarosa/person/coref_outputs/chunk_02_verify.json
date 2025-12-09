@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the undersigned": "Joseph M. Hood",
+    "the Government": "United States",
+    "the United States": "United States",
+    "the defendant": "Rogelio Valero-De La Rosa",
+    "Valero": "Rogelio Valero-De La Rosa"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico",
+    "United States": "the government entity involved in the prosecution of Rogelio Valero-De La Rosa",
+    "Joseph M. Hood": "Senior U.S. District Judge who signed the order granting the government's motion for summary judgment/motion to dismiss Valero's motion, presiding over Valero's sentencing"
+  }
+}

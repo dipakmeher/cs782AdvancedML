@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Farm-to-Market Road 2050", "Highway 16", "U.S. 59"],
+    "NOUN_PHRASE": ["the road", "the ranch roads"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Farm-to-Market Road 2050": "a road with limited traffic, mostly used by local residents and workers",
+    "Highway 16": "a highway mentioned as a reference point for an intersection",
+    "U.S. 59": "a highway mentioned as a reference point for an intersection"
+  }
+}

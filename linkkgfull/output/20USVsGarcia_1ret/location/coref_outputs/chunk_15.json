@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Mexican border": "Mexican border",
+    "an Interstate Highway": "Interstate Highway",
+    "the front seat of the truck cab": "front seat of the truck cab",
+    "the back seat": "back seat of the truck",
+    "this vehicle": "pickup truck",
+    "the stop": null,
+    "the border": "Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "location where the pickup truck was stopped, approximately 115 miles north of the Mexican border",
+    "Mexican border": "reference point for the location of the stop, 115 miles south of where the pickup truck was stopped",
+    "Interstate Highway": "highway where the pickup truck was stopped, in Texas",
+    "front seat of the truck cab": "part of the truck where three women were seated",
+    "back seat of the truck": "rear part of the truck cab where five or six men were seated",
+    "pickup truck": "vehicle stopped on an Interstate Highway in Texas, containing a heavily loaded camper attachment"
+  }
+}

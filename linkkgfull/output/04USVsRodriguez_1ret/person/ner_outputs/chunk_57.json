@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ignacio Rodriguez",
+      "Ricardo Rodriguez",
+      "Santiago Hinojosa",
+      "Agent Trevino"
+    ],
+    "NOUN_PHRASE": [
+      "the manager",
+      "a manager",
+      "the company",
+      "Defendant",
+      "Agent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ignacio Rodriguez": "Defendant",
+    "Ricardo Rodriguez": "Defendant",
+    "Santiago Hinojosa": "manager with the Hertz rental car company",
+    "Agent Trevino": "testified on cross examination"
+  }
+}

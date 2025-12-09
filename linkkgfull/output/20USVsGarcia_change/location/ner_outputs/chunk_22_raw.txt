@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the truck", "the dark cabin", "the beam of the flashlight"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

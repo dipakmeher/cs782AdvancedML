@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Mexican citizens": "undocumented aliens",
+    "illegal aliens": "undocumented aliens",
+    "the driver": "Lourdes Rangel-Campos",
+    "several passengers": "undocumented aliens",
+    "fourteen additional males": "undocumented aliens",
+    "the remaining passengers": "undocumented aliens"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled in relation to Maria De Jesus Garcia's case, attempting to hide from United States Border Patrol agents by ducking and scrambling around, potentially indicated by fogged windows of the pickup truck camper on a cold night, with unwashed and dirty clothes and hair",
+    "Lourdes Rangel-Campos": "driver of Maria De Jesus Garcia's pickup truck camper, arrested by United States Border Patrol agents during an immigration inspection"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "pickup truck camper": "the pickup truck camper",
+    "marked United States Border Patrol sedan": "the marked United States Border Patrol sedan",
+    "United States-Mexican border": null,
+    "Interstate Highway 35": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the pickup truck camper": "Vehicle suspected of carrying people, traveling northbound on Interstate Highway 35",
+    "the marked United States Border Patrol sedan": "Vehicle used by United States Border Patrol agents Stanley Pruszenski and Alfred Baron for surveillance"
+  }
+}

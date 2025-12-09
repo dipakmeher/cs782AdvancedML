@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Judge Kazen": "Judge Kazen",
+    "Alfredo Ortega-Chavez's trial": "Alfredo Ortega-Chavez",
+    "the jury": null,
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Judge Kazen": "trial judge who instructed the jury to disregard his opinions and focus on legal instructions",
+    "Alfredo Ortega-Chavez": "defendant in a trial where Judge Kazen provided clear instructions to the jury",
+    "district court": "court where Alfredo Ortega-Chavez's trial took place, with Judge Kazen presiding"
+  }
+}

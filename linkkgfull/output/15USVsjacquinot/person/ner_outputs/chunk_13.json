@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Jacquinot",
+      "Agent Graham"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Jacquinot": "the individual making an assertion",
+    "Agent Graham": "a witness providing testimony"
+  }
+}

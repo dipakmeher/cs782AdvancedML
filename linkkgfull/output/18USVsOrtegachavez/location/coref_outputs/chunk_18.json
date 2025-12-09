@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the beginning": null,
+    "the jury": "courtroom",
+    "this case": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the court case is being prosecuted and where undocumented aliens were brought into",
+    "Mexico": "country where smuggling operation originated and where Alfredo Ortega-Chavez previously ventured to smuggle undocumented aliens",
+    "Nuevo Laredo": "city where permit was obtained and smuggling operation proceeded",
+    "Sabinas Hidalgo": "location where witnesses saw Alfredo Ortega-Chavez on November 21 and 22, 1980",
+    "a restaurant in Sabinas Hidalgo": "location of meeting between smugglers and undocumented aliens",
+    "San Antonio, Texas": "location where Graciela Castaneda and her husband had brunch with Alfredo Ortega-Chavez, and location where Alfredo Ortega-Chavez had been on the day in question",
+    "Laredo": "location where the juror's friend, another female lawyer, is from",
+    "courtroom": "location where trial of Alfredo Ortega-Chavez took place, conducted fairly and impartially by Judge Kazen"
+  }
+}

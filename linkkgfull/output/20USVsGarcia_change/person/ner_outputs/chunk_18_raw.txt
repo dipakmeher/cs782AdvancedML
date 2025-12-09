@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia"],
+    "NOUN_PHRASE": ["the majority", "my brethren", "the officers", "the agent", "the defendant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "defendant"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "FM 2050",
+      "Bruni",
+      "Farm-to-Market Road 2050",
+      "Highway 16",
+      "Houston",
+      "San Antonio",
+      "Freer",
+      "U.S. 59",
+      "Hebbronville",
+      "U.S. 359"
+    ],
+    "NOUN_PHRASE": [
+      "the checkpoint",
+      "the loop",
+      "the vehicles",
+      "the aliens",
+      "the area",
+      "the gravel lot",
+      "the region",
+      "the premises"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "FM 2050": "location of drop-offs",
+    "Bruni": "reference point for drop-offs",
+    "Farm-to-Market Road 2050": "alternative name for FM 2050",
+    "Highway 16": "route for picked up aliens",
+    "Houston": "destination city",
+    "San Antonio": "destination city",
+    "Freer": "location of checkpoint",
+    "U.S. 59": "road intersecting with FM 2050",
+    "Hebbronville": "location of checkpoint",
+    "U.S. 359": "road intersecting with FM 2050"
+  }
+}

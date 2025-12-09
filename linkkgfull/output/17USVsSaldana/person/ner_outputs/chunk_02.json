@@ -1,0 +1,26 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Gary Haston",
+      "Heather Vargas",
+      "Williamson County Sheriff's Office",
+      "IH-35",
+      "Daniel Martin Huerta",
+      "Daniel A. Huerta",
+      "Laredo",
+      "San Antonio"
+    ],
+    "NOUN_PHRASE": [
+      "a veteran narcotics investigator",
+      "a relative newcomer to the narcotics division",
+      "the trailer's license plate",
+      "the truck's license plate"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Gary Haston": "veteran narcotics investigator",
+    "Heather Vargas": "relative newcomer to the narcotics division",
+    "Daniel Martin Huerta": "registered owner of the trailer",
+    "Daniel A. Huerta": "registered owner of the truck"
+  }
+}

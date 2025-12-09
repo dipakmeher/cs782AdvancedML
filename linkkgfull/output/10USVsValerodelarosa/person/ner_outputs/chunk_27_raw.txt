@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Valero"],
+    "NOUN_PHRASE": ["his counsel", "the magistrate judge", "ICE agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero": "United States citizen claimant and defendant"
+  }
+}

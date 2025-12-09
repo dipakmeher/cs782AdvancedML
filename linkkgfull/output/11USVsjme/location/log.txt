@@ -1,0 +1,2395 @@
+[2025-06-14 11:35:06] Starting Chunking Step...
+[2025-06-14 11:35:06] Starting chunking for ./output/11USVsjme/person/person_resolved_11USVsjme.txt...
+[2025-06-14 11:35:12] Loading GPT-2 tokenizer...
+[2025-06-14 11:35:13] Saved chunk 01 (157 words)
+[2025-06-14 11:35:13] Saved chunk 02 (173 words)
+[2025-06-14 11:35:13] Saved chunk 03 (131 words)
+[2025-06-14 11:35:13] Saved chunk 04 (205 words)
+[2025-06-14 11:35:13] Saved chunk 05 (160 words)
+[2025-06-14 11:35:13] Saved chunk 06 (221 words)
+[2025-06-14 11:35:13] Saved chunk 07 (222 words)
+[2025-06-14 11:35:13] Successfully created 7 chunks in 'output/11USVsjme/location/chunk_outputs'.
+[2025-06-14 11:35:13] Total time taken: 6.58 seconds.
+[2025-06-14 11:35:13] Chunking completed in 6.85 seconds.
+[2025-06-14 11:35:13] Cumulative time after Chunking: 6.85 seconds.
+[2025-06-14 11:35:13] Starting NER Step...
+[2025-06-14 11:35:14] Found 7 chunk files.
+[2025-06-14 11:35:14] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-14 11:35:21] Saved: output/11USVsjme/location/ner_outputs/chunk_01.json
+[2025-06-14 11:35:21] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-14 11:35:26] Saved: output/11USVsjme/location/ner_outputs/chunk_02.json
+[2025-06-14 11:35:26] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-14 11:35:29] Saved: output/11USVsjme/location/ner_outputs/chunk_03.json
+[2025-06-14 11:35:29] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-14 11:35:35] Saved: output/11USVsjme/location/ner_outputs/chunk_04.json
+[2025-06-14 11:35:35] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-14 11:35:40] Saved: output/11USVsjme/location/ner_outputs/chunk_05.json
+[2025-06-14 11:35:40] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-14 11:35:46] Saved: output/11USVsjme/location/ner_outputs/chunk_06.json
+[2025-06-14 11:35:46] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-14 11:35:51] Saved: output/11USVsjme/location/ner_outputs/chunk_07.json
+[2025-06-14 11:35:51] NER completed in 37.82 seconds.
+[2025-06-14 11:35:51] Cumulative time after NER: 44.67 seconds.
+[2025-06-14 11:35:51] Starting Coreference Resolution Step...
+[2025-06-14 11:35:51] Processing chunk_01 (verification=False)...
+[2025-06-14 11:35:51] fname: chunk_01.txt
+[2025-06-14 11:35:51] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {},
+  "AUXILIARY_DESCRIPTIONS": {},
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "Texas Juvenile Justice Department",
+      "Judge Ricardo Garcia Regional Detention Center"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed"
+  },
+  "TEXT": "J.M.E. is a defendant.\n\nMEMORANDUM  OPINION\n\nAFFIRMED\n\nJ.M.E.  appeals the juvenile court's order committing him to the Texas  Juvenile Justice Department (TJJD) for an indeterminate term, not to  exceed his nineteenth birthday. On appeal, J.M.E. argues the  juvenile court abused its discretion because less restrictive  alternatives were available and commitment to the TJJD violated his rights. We affirm the juvenile court's order.\n\nBackground\n\nOn  November 6, 2017, the juvenile court signed an order finding that  J.M.E. was a child who engaged in delinquent conduct by committing a  felony 3 offense of alien  smuggling ,  a violation of .  The juvenile court placed J.M.E. on probation for fifteen months,  with the first four months on intensive supervision probation    (\\\"ISP\\\"). He was placed at the Judge Ricardo Garcia  Regional Detention Center (\\\"the Center\\\") and ordered to  complete certain services including \\\"CAPS and SCAN counseling,  SWK Southwest Keys Program after completion of ISP, Cognitive Life  Skills at YV Youth Village.\\\""
+} 
+[2025-06-14 11:36:02] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_01.json
+[2025-06-14 11:36:02] Processing chunk_02 (verification=False)...
+[2025-06-14 11:36:02] fname: chunk_02.txt
+[2025-06-14 11:36:02] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile",
+    "TJJD": "location where J.M.E. was detained"
+  },
+  "TEXT": "On May 30, 2018, J.M.E. was unsuccessfully discharged from the Center because he failed to comply with its requirements. He was detained at the TJJD, but was later transferred to the Webb County Jail after assaulting another juvenile. Since his transfer, he has not been released. On January 12, 2019, the State filed a motion to modify disposition, alleging J.M.E. violated the conditions of his probation because he was unsuccessfully discharged from the Center and failed to complete any of the court-ordered services.\n\nAt the hearing on the State's motion to modify, J.M.E. pled true to being unsuccessfully discharged from the Center and failing to complete any of the court-ordered services. The juvenile court also heard testimony from J.M.E.'s probation officer, Officer Pryscilla Castillo, who testified J.M.E. was unsuccessfully discharged from the Center because he did not participate in counseling sessions and initiated fights with other juveniles at the Center. She further testified that J.M.E. could not be placed with his parents after his unsuccessful discharge because they did not provide adequate supervision."
+} 
+[2025-06-14 11:36:15] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_02.json
+[2025-06-14 11:36:15] Processing chunk_03 (verification=False)...
+[2025-06-14 11:36:15] fname: chunk_03.txt
+[2025-06-14 11:36:15] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles",
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the Center",
+      "the juvenile court"
+    ]
+  },
+  "AUX_DESC": {},
+  "TEXT": "Officer Pryscilla Castillo also testified that J.M.E. had a history of delinquent conduct and substance abuse. She stated that before his current probation, the appellant had been referred to the juvenile court ten times and placed on probation twice for nonviolent offenses. She further testified he failed to successfully complete his first probation because he reoffended, and his probation was extended as a result. The record reflects he served that probation concurrently with his instant probation until that case was closed in May of 2018 and he was unsuccessfully discharged from the Center. Officer Pryscilla Castillo also testified that during his previous probations, the appellant tested positive multiple times for THC and once for cocaine and benzodiazepines. His last drug test was November 6, 2017, and he tested positive for THC."
+} 
+[2025-06-14 11:36:28] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_03.json
+[2025-06-14 11:36:28] Processing chunk_04 (verification=False)...
+[2025-06-14 11:36:28] fname: chunk_04.txt
+[2025-06-14 11:36:28] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles",
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "Center",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. was attending school and receiving services",
+    "Center": "facility where J.M.E. failed to comply with requirements",
+    "TJJD": "structured facility for rehabilitation"
+  },
+  "TEXT": "Regarding his behavior, Officer Pryscilla Castillo testified that while at the Webb County Jail, J.M.E. was attending school, receiving good grades, attending CAPS counseling, and receiving SCAN services. She explained that in contrast, while at the Center, he failed to comply with the Center's requirements even after he was given a second chance. She testified she believed it was in J.M.E.'s best interest to be placed at the TJJD rather than a boot camp because even though he may qualify for a boot camp, a structured facility like the TJJD would provide J.M.E. with all the services he needed and the best opportunity to rehabilitate.\n\nAt the end of the hearing, the juvenile court found that J.M.E. had violated the terms of his probation and ordered him committed to the TJJD. J.M.E. appeals.\n\nAnalysis\n\nStandard of Review\n\nA juvenile court has broad discretion to determine a suitable disposition for a juvenile found to have engaged in delinquent conduct, particularly in proceedings involving modification. A trial court abuses its discretion when it acts arbitrarily or unreasonably or without reference to guiding rules or principles. Absent such a showing of abuse of discretion, \"we will not disturb the court's modification of a juvenile's disposition.\" Id.\n\nApplicable Law"
+} 
+[2025-06-14 11:36:42] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_04.json
+[2025-06-14 11:36:42] Processing chunk_05 (verification=False)...
+[2025-06-14 11:36:42] fname: chunk_05.txt
+[2025-06-14 11:36:42] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile, and where he attended school, received good grades, attended CAPS counseling, and received SCAN services"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "TJJD",
+      "Southwest Keys",
+      "Youth Village"
+    ],
+    "NOUN_PHRASE": [
+      "a TJJD facility"
+    ]
+  },
+  "AUX_DESC": {
+    "TJJD": "Texas Juvenile Justice Department facility",
+    "Southwest Keys": "program location",
+    "Youth Village": "counseling location"
+  },
+  "TEXT": "When a juvenile has been adjudicated delinquent, the juvenile court may modify its disposition to commit the juvenile to a TJJD facility if it finds by a preponderance of the evidence that the juvenile violated a reasonable and lawful condition of probation. A plea of true to a violation of probation is \"analogous to a judicial confession that justifies the court's finding the violation was committed by a preponderance of the evidence.\" (mem. op.) (quoting). A trial court is not required to exhaust all possible alternatives before sending a juvenile to the TJJD. ; (mem. op.).\n\nApplication\n\nAs a condition of probation, J.M.E. was ordered to complete \"CAPS and SCAN counseling, SWK Southwest Keys Program after completion of ISP, Cognitive Life Skills at YV Youth Village.\" J.M.E. pled true to violating this condition of his probation. Based on J.M.E.'s plea of true, the juvenile court was justified in modifying the disposition from probation to confinement in a TJJD facility. See."
+} 
+[2025-06-14 11:36:57] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_05.json
+[2025-06-14 11:36:57] Processing chunk_06 (verification=False)...
+[2025-06-14 11:36:57] fname: chunk_06.txt
+[2025-06-14 11:36:57] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile, and where he attended school, received good grades, attended CAPS counseling, and received SCAN services",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center",
+      "a boot camp",
+      "a structured facility"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "TJJD": "facility recommended for J.M.E.'s rehabilitation"
+  },
+  "TEXT": "J.M.E. argues the juvenile court abused its discretion because less restrictive alternatives were available, and because he was currently complying with the juvenile court's order by attending CAPS counseling and SCAN services at the Webb County Jail. However, the juvenile court heard evidence that J.M.E. had a history of delinquent conduct\u2014he had been on probation once previously and failed to successfully complete that probation. As to his current probation, Officer Pryscilla Castillo testified J.M.E. was unsuccessfully discharged even after he was given a second chance to comply with the Center's requirements. Officer Pryscilla Castillo also testified placement with his parents or at a boot camp was not feasible, and instead a structured facility like the TJJD would provide J.M.E. with an opportunity to rehabilitate because it offered a variety of services, including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs. Before making its determination to send J.M.E. to the TJJD, the juvenile court noted that although boot camps offered some of these services, \"no boot camp has all of these services.\" The record therefore reflects the juvenile court considered less restrictive alternatives and agreed with Officer Pryscilla Castillo's recommendation that J.M.E. should be committed to the TJJD. We conclude the juvenile court did not abuse its discretion and therefore overrule J.M.E.'s first issue. See ; ."
+} 
+[2025-06-14 11:37:13] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_06.json
+[2025-06-14 11:37:13] Processing chunk_07 (verification=False)...
+[2025-06-14 11:37:13] fname: chunk_07.txt
+[2025-06-14 11:37:13] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the juvenile court",
+      "the trial court"
+    ]
+  },
+  "AUX_DESC": {
+    "Texas": "referenced in relation to the constitution",
+    "TJJD": "institution where J.M.E. was committed"
+  },
+  "TEXT": "J.M.E. also argues the juvenile court violated his right to be free from cruel and unusual punishment because his modified disposition is grossly disproportionate to the offense for which he was placed on probation. However, J.M.E. did not preserve this complaint for appellate review.\n\nTo preserve a complaint for appellate review, a defendant must present the trial court with a timely request, objection, or motion stating the specific grounds for the ruling desired. This preservation rule applies to a complaint that a sentence is grossly disproportionate and constitutes cruel and unusual punishment. (holding complaint of cruel and unusual punishment under Texas Constitution was waived because defendant failed to object in trial court).\n\nHere, J.M.E. did not raise his complaint about the constitutionality of his disposition in the juvenile court when that court modified his disposition or in a motion for new trial. By failing to make an objection in the juvenile court, J.M.E. forfeited his complaint on appeal. See ; see also ; (mem. op.) (holding appellant forfeited his complaint that trial court violated his rights when it ordered him committed to TJJD by failing to present it to the trial court). We therefore overrule J.M.E.'s final issue.\n\nConclusion\n\nHaving overruled each of J.M.E.'s issues, we affirm the juvenile court's order committing J.M.E. to the TJJD.\n\nBeth Watkins, Justice\n\nEnd of Document"
+} 
+[2025-06-14 11:37:23] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_07.json
+[2025-06-14 11:37:23] Final memory saved to: output/11USVsjme/location/final_memory.json
+[2025-06-14 11:37:23] Starting verification pass 1...
+[2025-06-14 11:37:23] Processing chunk_01 (verification=True)...
+[2025-06-14 11:37:23] fname: chunk_01.txt
+[2025-06-14 11:37:23] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "Texas Juvenile Justice Department",
+      "Judge Ricardo Garcia Regional Detention Center"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed"
+  },
+  "TEXT": "J.M.E. is a defendant.\n\nMEMORANDUM  OPINION\n\nAFFIRMED\n\nJ.M.E.  appeals the juvenile court's order committing him to the Texas  Juvenile Justice Department (TJJD) for an indeterminate term, not to  exceed his nineteenth birthday. On appeal, J.M.E. argues the  juvenile court abused its discretion because less restrictive  alternatives were available and commitment to the TJJD violated his rights. We affirm the juvenile court's order.\n\nBackground\n\nOn  November 6, 2017, the juvenile court signed an order finding that  J.M.E. was a child who engaged in delinquent conduct by committing a  felony 3 offense of alien  smuggling ,  a violation of .  The juvenile court placed J.M.E. on probation for fifteen months,  with the first four months on intensive supervision probation    (\\\"ISP\\\"). He was placed at the Judge Ricardo Garcia  Regional Detention Center (\\\"the Center\\\") and ordered to  complete certain services including \\\"CAPS and SCAN counseling,  SWK Southwest Keys Program after completion of ISP, Cognitive Life  Skills at YV Youth Village.\\\""
+} 
+[2025-06-14 11:37:45] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_01_verify.json
+[2025-06-14 11:37:45] Processing chunk_02 (verification=True)...
+[2025-06-14 11:37:45] fname: chunk_02.txt
+[2025-06-14 11:37:45] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile",
+    "TJJD": "location where J.M.E. was detained"
+  },
+  "TEXT": "On May 30, 2018, J.M.E. was unsuccessfully discharged from the Center because he failed to comply with its requirements. He was detained at the TJJD, but was later transferred to the Webb County Jail after assaulting another juvenile. Since his transfer, he has not been released. On January 12, 2019, the State filed a motion to modify disposition, alleging J.M.E. violated the conditions of his probation because he was unsuccessfully discharged from the Center and failed to complete any of the court-ordered services.\n\nAt the hearing on the State's motion to modify, J.M.E. pled true to being unsuccessfully discharged from the Center and failing to complete any of the court-ordered services. The juvenile court also heard testimony from J.M.E.'s probation officer, Officer Pryscilla Castillo, who testified J.M.E. was unsuccessfully discharged from the Center because he did not participate in counseling sessions and initiated fights with other juveniles at the Center. She further testified that J.M.E. could not be placed with his parents after his unsuccessful discharge because they did not provide adequate supervision."
+} 
+[2025-06-14 11:38:08] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_02_verify.json
+[2025-06-14 11:38:08] Processing chunk_03 (verification=True)...
+[2025-06-14 11:38:08] fname: chunk_03.txt
+[2025-06-14 11:38:08] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services, and where J.M.E. was transferred after assaulting another juvenile",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the Center",
+      "the juvenile court"
+    ]
+  },
+  "AUX_DESC": {},
+  "TEXT": "Officer Pryscilla Castillo also testified that J.M.E. had a history of delinquent conduct and substance abuse. She stated that before his current probation, the appellant had been referred to the juvenile court ten times and placed on probation twice for nonviolent offenses. She further testified he failed to successfully complete his first probation because he reoffended, and his probation was extended as a result. The record reflects he served that probation concurrently with his instant probation until that case was closed in May of 2018 and he was unsuccessfully discharged from the Center. Officer Pryscilla Castillo also testified that during his previous probations, the appellant tested positive multiple times for THC and once for cocaine and benzodiazepines. His last drug test was November 6, 2017, and he tested positive for THC."
+} 
+[2025-06-14 11:38:31] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_03_verify.json
+[2025-06-14 11:38:31] Processing chunk_04 (verification=True)...
+[2025-06-14 11:38:31] fname: chunk_04.txt
+[2025-06-14 11:38:31] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance, and where the appellant was also discharged after his probation",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services, and where J.M.E. was transferred after assaulting another juvenile",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "Center",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. was attending school and receiving services",
+    "Center": "facility where J.M.E. failed to comply with requirements",
+    "TJJD": "structured facility for rehabilitation"
+  },
+  "TEXT": "Regarding his behavior, Officer Pryscilla Castillo testified that while at the Webb County Jail, J.M.E. was attending school, receiving good grades, attending CAPS counseling, and receiving SCAN services. She explained that in contrast, while at the Center, he failed to comply with the Center's requirements even after he was given a second chance. She testified she believed it was in J.M.E.'s best interest to be placed at the TJJD rather than a boot camp because even though he may qualify for a boot camp, a structured facility like the TJJD would provide J.M.E. with all the services he needed and the best opportunity to rehabilitate.\n\nAt the end of the hearing, the juvenile court found that J.M.E. had violated the terms of his probation and ordered him committed to the TJJD. J.M.E. appeals.\n\nAnalysis\n\nStandard of Review\n\nA juvenile court has broad discretion to determine a suitable disposition for a juvenile found to have engaged in delinquent conduct, particularly in proceedings involving modification. A trial court abuses its discretion when it acts arbitrarily or unreasonably or without reference to guiding rules or principles. Absent such a showing of abuse of discretion, \"we will not disturb the court's modification of a juvenile's disposition.\" Id.\n\nApplicable Law"
+} 
+[2025-06-14 11:38:49] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_04_verify.json
+[2025-06-14 11:38:49] Processing chunk_05 (verification=True)...
+[2025-06-14 11:38:49] fname: chunk_05.txt
+[2025-06-14 11:38:49] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "TJJD",
+      "Southwest Keys",
+      "Youth Village"
+    ],
+    "NOUN_PHRASE": [
+      "a TJJD facility"
+    ]
+  },
+  "AUX_DESC": {
+    "TJJD": "Texas Juvenile Justice Department facility",
+    "Southwest Keys": "program location",
+    "Youth Village": "counseling location"
+  },
+  "TEXT": "When a juvenile has been adjudicated delinquent, the juvenile court may modify its disposition to commit the juvenile to a TJJD facility if it finds by a preponderance of the evidence that the juvenile violated a reasonable and lawful condition of probation. A plea of true to a violation of probation is \"analogous to a judicial confession that justifies the court's finding the violation was committed by a preponderance of the evidence.\" (mem. op.) (quoting). A trial court is not required to exhaust all possible alternatives before sending a juvenile to the TJJD. ; (mem. op.).\n\nApplication\n\nAs a condition of probation, J.M.E. was ordered to complete \"CAPS and SCAN counseling, SWK Southwest Keys Program after completion of ISP, Cognitive Life Skills at YV Youth Village.\" J.M.E. pled true to violating this condition of his probation. Based on J.M.E.'s plea of true, the juvenile court was justified in modifying the disposition from probation to confinement in a TJJD facility. See."
+} 
+[2025-06-14 11:39:07] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_05_verify.json
+[2025-06-14 11:39:07] Processing chunk_06 (verification=True)...
+[2025-06-14 11:39:07] fname: chunk_06.txt
+[2025-06-14 11:39:07] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center",
+      "a boot camp",
+      "a structured facility"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "TJJD": "facility recommended for J.M.E.'s rehabilitation"
+  },
+  "TEXT": "J.M.E. argues the juvenile court abused its discretion because less restrictive alternatives were available, and because he was currently complying with the juvenile court's order by attending CAPS counseling and SCAN services at the Webb County Jail. However, the juvenile court heard evidence that J.M.E. had a history of delinquent conduct\u2014he had been on probation once previously and failed to successfully complete that probation. As to his current probation, Officer Pryscilla Castillo testified J.M.E. was unsuccessfully discharged even after he was given a second chance to comply with the Center's requirements. Officer Pryscilla Castillo also testified placement with his parents or at a boot camp was not feasible, and instead a structured facility like the TJJD would provide J.M.E. with an opportunity to rehabilitate because it offered a variety of services, including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs. Before making its determination to send J.M.E. to the TJJD, the juvenile court noted that although boot camps offered some of these services, \"no boot camp has all of these services.\" The record therefore reflects the juvenile court considered less restrictive alternatives and agreed with Officer Pryscilla Castillo's recommendation that J.M.E. should be committed to the TJJD. We conclude the juvenile court did not abuse its discretion and therefore overrule J.M.E.'s first issue. See ; ."
+} 
+[2025-06-14 11:39:22] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_06_verify.json
+[2025-06-14 11:39:22] Processing chunk_07 (verification=True)...
+[2025-06-14 11:39:22] fname: chunk_07.txt
+[2025-06-14 11:39:22] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the juvenile court",
+      "the trial court"
+    ]
+  },
+  "AUX_DESC": {
+    "Texas": "referenced in relation to the constitution",
+    "TJJD": "institution where J.M.E. was committed"
+  },
+  "TEXT": "J.M.E. also argues the juvenile court violated his right to be free from cruel and unusual punishment because his modified disposition is grossly disproportionate to the offense for which he was placed on probation. However, J.M.E. did not preserve this complaint for appellate review.\n\nTo preserve a complaint for appellate review, a defendant must present the trial court with a timely request, objection, or motion stating the specific grounds for the ruling desired. This preservation rule applies to a complaint that a sentence is grossly disproportionate and constitutes cruel and unusual punishment. (holding complaint of cruel and unusual punishment under Texas Constitution was waived because defendant failed to object in trial court).\n\nHere, J.M.E. did not raise his complaint about the constitutionality of his disposition in the juvenile court when that court modified his disposition or in a motion for new trial. By failing to make an objection in the juvenile court, J.M.E. forfeited his complaint on appeal. See ; see also ; (mem. op.) (holding appellant forfeited his complaint that trial court violated his rights when it ordered him committed to TJJD by failing to present it to the trial court). We therefore overrule J.M.E.'s final issue.\n\nConclusion\n\nHaving overruled each of J.M.E.'s issues, we affirm the juvenile court's order committing J.M.E. to the TJJD.\n\nBeth Watkins, Justice\n\nEnd of Document"
+} 
+[2025-06-14 11:39:32] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_07_verify.json
+[2025-06-14 11:39:32] Final memory saved to: output/11USVsjme/location/final_memory.json
+[2025-06-14 11:39:32] Starting verification pass 2...
+[2025-06-14 11:39:32] Processing chunk_01 (verification=True)...
+[2025-06-14 11:39:32] fname: chunk_01.txt
+[2025-06-14 11:39:32] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "Texas Juvenile Justice Department",
+      "Judge Ricardo Garcia Regional Detention Center"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Texas": "state where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed"
+  },
+  "TEXT": "J.M.E. is a defendant.\n\nMEMORANDUM  OPINION\n\nAFFIRMED\n\nJ.M.E.  appeals the juvenile court's order committing him to the Texas  Juvenile Justice Department (TJJD) for an indeterminate term, not to  exceed his nineteenth birthday. On appeal, J.M.E. argues the  juvenile court abused its discretion because less restrictive  alternatives were available and commitment to the TJJD violated his rights. We affirm the juvenile court's order.\n\nBackground\n\nOn  November 6, 2017, the juvenile court signed an order finding that  J.M.E. was a child who engaged in delinquent conduct by committing a  felony 3 offense of alien  smuggling ,  a violation of .  The juvenile court placed J.M.E. on probation for fifteen months,  with the first four months on intensive supervision probation    (\\\"ISP\\\"). He was placed at the Judge Ricardo Garcia  Regional Detention Center (\\\"the Center\\\") and ordered to  complete certain services including \\\"CAPS and SCAN counseling,  SWK Southwest Keys Program after completion of ISP, Cognitive Life  Skills at YV Youth Village.\\\""
+} 
+[2025-06-14 11:39:55] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_01_verify.json
+[2025-06-14 11:39:55] Processing chunk_02 (verification=True)...
+[2025-06-14 11:39:55] fname: chunk_02.txt
+[2025-06-14 11:39:55] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. was transferred after assaulting another juvenile",
+    "TJJD": "location where J.M.E. was detained"
+  },
+  "TEXT": "On May 30, 2018, J.M.E. was unsuccessfully discharged from the Center because he failed to comply with its requirements. He was detained at the TJJD, but was later transferred to the Webb County Jail after assaulting another juvenile. Since his transfer, he has not been released. On January 12, 2019, the State filed a motion to modify disposition, alleging J.M.E. violated the conditions of his probation because he was unsuccessfully discharged from the Center and failed to complete any of the court-ordered services.\n\nAt the hearing on the State's motion to modify, J.M.E. pled true to being unsuccessfully discharged from the Center and failing to complete any of the court-ordered services. The juvenile court also heard testimony from J.M.E.'s probation officer, Officer Pryscilla Castillo, who testified J.M.E. was unsuccessfully discharged from the Center because he did not participate in counseling sessions and initiated fights with other juveniles at the Center. She further testified that J.M.E. could not be placed with his parents after his unsuccessful discharge because they did not provide adequate supervision."
+} 
+[2025-06-14 11:40:20] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_02_verify.json
+[2025-06-14 11:40:20] Processing chunk_03 (verification=True)...
+[2025-06-14 11:40:20] fname: chunk_03.txt
+[2025-06-14 11:40:20] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions, location of unsuccessful discharge due to non-participation in counseling sessions and initiating fights",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades, location where J.M.E. was transferred after assaulting another juvenile",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the Center",
+      "the juvenile court"
+    ]
+  },
+  "AUX_DESC": {},
+  "TEXT": "Officer Pryscilla Castillo also testified that J.M.E. had a history of delinquent conduct and substance abuse. She stated that before his current probation, the appellant had been referred to the juvenile court ten times and placed on probation twice for nonviolent offenses. She further testified he failed to successfully complete his first probation because he reoffended, and his probation was extended as a result. The record reflects he served that probation concurrently with his instant probation until that case was closed in May of 2018 and he was unsuccessfully discharged from the Center. Officer Pryscilla Castillo also testified that during his previous probations, the appellant tested positive multiple times for THC and once for cocaine and benzodiazepines. His last drug test was November 6, 2017, and he tested positive for THC."
+} 
+[2025-06-14 11:40:45] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_03_verify.json
+[2025-06-14 11:40:45] Processing chunk_04 (verification=True)...
+[2025-06-14 11:40:45] fname: chunk_04.txt
+[2025-06-14 11:40:45] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions, location of unsuccessful discharge due to non-participation in counseling sessions and initiating fights, had a history of delinquent conduct and substance abuse",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, and attended school while receiving good grades, location where J.M.E. was transferred after assaulting another juvenile",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "Center",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. was attending school and receiving services",
+    "Center": "facility where J.M.E. failed to comply with requirements",
+    "TJJD": "structured facility for rehabilitation"
+  },
+  "TEXT": "Regarding his behavior, Officer Pryscilla Castillo testified that while at the Webb County Jail, J.M.E. was attending school, receiving good grades, attending CAPS counseling, and receiving SCAN services. She explained that in contrast, while at the Center, he failed to comply with the Center's requirements even after he was given a second chance. She testified she believed it was in J.M.E.'s best interest to be placed at the TJJD rather than a boot camp because even though he may qualify for a boot camp, a structured facility like the TJJD would provide J.M.E. with all the services he needed and the best opportunity to rehabilitate.\n\nAt the end of the hearing, the juvenile court found that J.M.E. had violated the terms of his probation and ordered him committed to the TJJD. J.M.E. appeals.\n\nAnalysis\n\nStandard of Review\n\nA juvenile court has broad discretion to determine a suitable disposition for a juvenile found to have engaged in delinquent conduct, particularly in proceedings involving modification. A trial court abuses its discretion when it acts arbitrarily or unreasonably or without reference to guiding rules or principles. Absent such a showing of abuse of discretion, \"we will not disturb the court's modification of a juvenile's disposition.\" Id.\n\nApplicable Law"
+} 
+[2025-06-14 11:41:05] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_04_verify.json
+[2025-06-14 11:41:06] Processing chunk_05 (verification=True)...
+[2025-06-14 11:41:06] fname: chunk_05.txt
+[2025-06-14 11:41:06] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions, location of unsuccessful discharge due to non-participation in counseling sessions and initiating fights, had a history of delinquent conduct and substance abuse",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, attended school while receiving good grades, and location where J.M.E. was transferred after assaulting another juvenile",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "TJJD",
+      "Southwest Keys",
+      "Youth Village"
+    ],
+    "NOUN_PHRASE": [
+      "a TJJD facility"
+    ]
+  },
+  "AUX_DESC": {
+    "TJJD": "Texas Juvenile Justice Department facility",
+    "Southwest Keys": "program location",
+    "Youth Village": "counseling location"
+  },
+  "TEXT": "When a juvenile has been adjudicated delinquent, the juvenile court may modify its disposition to commit the juvenile to a TJJD facility if it finds by a preponderance of the evidence that the juvenile violated a reasonable and lawful condition of probation. A plea of true to a violation of probation is \"analogous to a judicial confession that justifies the court's finding the violation was committed by a preponderance of the evidence.\" (mem. op.) (quoting). A trial court is not required to exhaust all possible alternatives before sending a juvenile to the TJJD. ; (mem. op.).\n\nApplication\n\nAs a condition of probation, J.M.E. was ordered to complete \"CAPS and SCAN counseling, SWK Southwest Keys Program after completion of ISP, Cognitive Life Skills at YV Youth Village.\" J.M.E. pled true to violating this condition of his probation. Based on J.M.E.'s plea of true, the juvenile court was justified in modifying the disposition from probation to confinement in a TJJD facility. See."
+} 
+[2025-06-14 11:41:26] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_05_verify.json
+[2025-06-14 11:41:26] Processing chunk_06 (verification=True)...
+[2025-06-14 11:41:26] fname: chunk_06.txt
+[2025-06-14 11:41:26] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions, location of unsuccessful discharge due to non-participation in counseling sessions and initiating fights, had a history of delinquent conduct and substance abuse, facility where juveniles can be committed if they violate a reasonable and lawful condition of probation",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, attended school while receiving good grades, and location where J.M.E. was transferred after assaulting another juvenile",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the Center",
+      "a boot camp",
+      "a structured facility"
+    ]
+  },
+  "AUX_DESC": {
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling and SCAN services",
+    "TJJD": "facility recommended for J.M.E.'s rehabilitation"
+  },
+  "TEXT": "J.M.E. argues the juvenile court abused its discretion because less restrictive alternatives were available, and because he was currently complying with the juvenile court's order by attending CAPS counseling and SCAN services at the Webb County Jail. However, the juvenile court heard evidence that J.M.E. had a history of delinquent conduct\u2014he had been on probation once previously and failed to successfully complete that probation. As to his current probation, Officer Pryscilla Castillo testified J.M.E. was unsuccessfully discharged even after he was given a second chance to comply with the Center's requirements. Officer Pryscilla Castillo also testified placement with his parents or at a boot camp was not feasible, and instead a structured facility like the TJJD would provide J.M.E. with an opportunity to rehabilitate because it offered a variety of services, including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs. Before making its determination to send J.M.E. to the TJJD, the juvenile court noted that although boot camps offered some of these services, \"no boot camp has all of these services.\" The record therefore reflects the juvenile court considered less restrictive alternatives and agreed with Officer Pryscilla Castillo's recommendation that J.M.E. should be committed to the TJJD. We conclude the juvenile court did not abuse its discretion and therefore overrule J.M.E.'s first issue. See ; ."
+} 
+[2025-06-14 11:41:49] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_06_verify.json
+[2025-06-14 11:41:49] Processing chunk_07 (verification=True)...
+[2025-06-14 11:41:49] fname: chunk_07.txt
+[2025-06-14 11:41:49] full pprompt: -Goal-  
+You are an expert coreference resolution assistant of type LOCATION. You are responsible for linking identified proper nouns and noun phrases to their corresponding resolved canonical location names, and for generating or refining auxiliary descriptions for each resolved location. The output must strictly consist of high-quality RESOLVED_ENTITIES mappings and AUXILIARY_DESCRIPTIONS, which will be used in a downstream coreference resolution pipeline for human smuggling cases. You must strictly follow the instructions provided below and apply the coreference resolution rules carefully to ensure consistency and precision.
+
+Given:
+- A list of identified entities (PROPER_NOUNs and NOUN_PHRASEs) in the chunk
+- An existing RESOLVED_ENTITIES dictionary mapping aliases to canonical location names
+- A dictionary of AUXILIARY_DESCRIPTIONS providing short factual descriptions of canonical locations
+- A TEXT_CHUNK from a legal document
+
+Follow this step-by-step process:
+
+Step 1: Link to Existing Entity
+- If an alias clearly refers to the same location as a previously resolved location, map it to the canonical name from RESOLVED_ENTITIES.
+- This includes: Partial names (e.g., "Laredo" : "Laredo, Texas"), Noun phrases that point to the same location (e.g., "the lot", "pickup location" : "Auburn Road lot" if context supports it), Variants like "Laredo-bound" : "Laredo, Texas-bound"
+- Do not link to unrelated or ambiguous entries.
+
+Step 2: Create a New Singleton
+- If the entity cannot be confidently linked but is a PROPER_NOUN referring to a specific place, add it as a new canonical location exactly as mentioned in the chunk.
+- Do not append or guess missing parts of location names. For example, do not add a state (such as adding "Texas" to "Laredo") unless the state is explicitly mentioned in the text.
+
+Step 3: Map to null
+- If the entity is vague, unresolvable, or generic (such as "this place", "the site") and cannot be confidently linked to any known location, map it to null.
+
+Step 4: Resolve Plural Noun Phrases
+- For plural phrases like "border cities", only map them if all components are explicitly listed in the chunk.
+  - Format: “Laredo, Texas and McAllen, Texas” (for two) or “Laredo, Texas, McAllen, Texas, and El Paso, Texas” (for three or more).
+
+Step 5: Update Auxiliary Descriptions
+- For each entity in RESOLVED_ENTITIES, update AUXILIARY_DESCRIPTIONS with a short, concise description based on any new explicit details found in the TEXT_CHUNK.
+- Only include explicitly stated information; do not infer or guess.
+- Do not set AUXILIARY_DESCRIPTIONS to null. If no new information is found, leave the existing description unchanged.
+
+----
+
+Additional Rules:
+- Do not generate or hallucinate new location names.
+- Do not modify or remove previously resolved entities unrelated to the current chunk.
+- If an alias already exists in RESOLVED_ENTITIES but in the current text chunk it clearly refers to a different person, group of persons, or context, you must add a new alias entry to distinguish it from the previous usage. When forming this new alias, prefer to use the core noun phrase and, if needed, one relevant word before and/or after the phrase in the text to help distinguish the new usage. Do not bloat the alias unnecessarily. Add any additional disambiguating details to AUXILIARY_DESCRIPTIONS wherever possible.
+
+You must output strictly valid JSON, with no explanation, commentary, or markdown. The output must begin directly with the opening curly brace `{` and include only the JSON object. Use `null` (not `None`) for unresolved references. The format must match the structure below.
+
+Example:
+{
+  "RESOLVED_ENTITIES": {
+    "the city": "Laredo, Texas",
+    "Laredo": "Laredo, Texas",
+    "Laredo-bound": "Laredo, Texas-bound",
+    "the checkpoint": "Falcon Dam Port of Entry, Texas",
+    "Falcon Dam": "Falcon Dam Port of Entry, Texas",
+    "McAllen": "McAllen, Texas",
+    "border cities": "Laredo, Texas and McAllen, Texas",
+    "the area": null,
+    "border towns": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity",
+    "Falcon Dam Port of Entry, Texas": "Checkpoint near the Rio Grande river",
+    "McAllen, Texas": "Another border city mentioned as a smuggling hotspot",
+    "Laredo, Texas and McAllen, Texas": "Cities frequently used in smuggling routes across the border"
+  }
+}
+
+The input text chunk is:
+
+{
+  "RESOLVED_ENTITIES": {
+    "Texas": "Texas",
+    "Texas Juvenile Justice Department": "Texas Juvenile Justice Department",
+    "Judge Ricardo Garcia Regional Detention Center": "Judge Ricardo Garcia Regional Detention Center",
+    "the Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Webb County Jail": "Webb County Jail",
+    "TJJD": "Texas Juvenile Justice Department",
+    "the juvenile court": null,
+    "Center": "Judge Ricardo Garcia Regional Detention Center",
+    "Southwest Keys": "Southwest Keys",
+    "Youth Village": "Youth Village",
+    "a TJJD facility": "Texas Juvenile Justice Department",
+    "a boot camp": null,
+    "a structured facility": "Texas Juvenile Justice Department",
+    "the trial court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Texas": "state with its own constitution referenced in the context of cruel and unusual punishment, where the juvenile court is located",
+    "Texas Juvenile Justice Department": "department to which J.M.E. was committed for an indeterminate term, not to exceed his nineteenth birthday, and where J.M.E. was detained, providing a structured facility for rehabilitation with services including behavioral, family counseling, anger management, responsibility, substance abuse, mental health, and educational programs, considered suitable for J.M.E.'s rehabilitation, used as a confinement option after violating probation conditions, location of unsuccessful discharge due to non-participation in counseling sessions and initiating fights, had a history of delinquent conduct and substance abuse, facility where juveniles can be committed if they violate a reasonable and lawful condition of probation, offers a variety of services that are not all available at boot camps",
+    "Judge Ricardo Garcia Regional Detention Center": "detention center where J.M.E. was placed and ordered to complete certain services, and from which he was unsuccessfully discharged due to non-participation in counseling sessions and initiating fights with other juveniles, where he failed to comply with requirements even after a second chance",
+    "Webb County Jail": "location where J.M.E. attended CAPS counseling, received SCAN services, attended school while receiving good grades, and location where J.M.E. was transferred after assaulting another juvenile, where J.M.E. was currently complying with the juvenile court's order by attending CAPS counseling and SCAN services",
+    "Southwest Keys": "program location for SWK Southwest Keys Program after completion of ISP",
+    "Youth Village": "counseling location for Cognitive Life Skills"
+  },
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Texas",
+      "TJJD"
+    ],
+    "NOUN_PHRASE": [
+      "the juvenile court",
+      "the trial court"
+    ]
+  },
+  "AUX_DESC": {
+    "Texas": "referenced in relation to the constitution",
+    "TJJD": "institution where J.M.E. was committed"
+  },
+  "TEXT": "J.M.E. also argues the juvenile court violated his right to be free from cruel and unusual punishment because his modified disposition is grossly disproportionate to the offense for which he was placed on probation. However, J.M.E. did not preserve this complaint for appellate review.\n\nTo preserve a complaint for appellate review, a defendant must present the trial court with a timely request, objection, or motion stating the specific grounds for the ruling desired. This preservation rule applies to a complaint that a sentence is grossly disproportionate and constitutes cruel and unusual punishment. (holding complaint of cruel and unusual punishment under Texas Constitution was waived because defendant failed to object in trial court).\n\nHere, J.M.E. did not raise his complaint about the constitutionality of his disposition in the juvenile court when that court modified his disposition or in a motion for new trial. By failing to make an objection in the juvenile court, J.M.E. forfeited his complaint on appeal. See ; see also ; (mem. op.) (holding appellant forfeited his complaint that trial court violated his rights when it ordered him committed to TJJD by failing to present it to the trial court). We therefore overrule J.M.E.'s final issue.\n\nConclusion\n\nHaving overruled each of J.M.E.'s issues, we affirm the juvenile court's order committing J.M.E. to the TJJD.\n\nBeth Watkins, Justice\n\nEnd of Document"
+} 
+[2025-06-14 11:42:03] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_07_verify.json
+[2025-06-14 11:42:03] Final memory saved to: output/11USVsjme/location/final_memory.json
+[2025-06-14 11:42:03] Coreference Resolution completed in 371.75 seconds.
+[2025-06-14 11:42:03] Cumulative time after Coref: 416.42 seconds.
+[2025-06-14 11:42:03] Starting Final Coref Resolution Step...
+[2025-06-14 11:42:03] Starting coreference resolution loop
+[2025-06-14 11:42:03] Removing 3 unresolved mappings from RESOLVED_ENTITIES: ['the juvenile court', 'a boot camp', 'the trial court']
+[2025-06-14 11:42:03] 11 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-06-14 11:42:03] [Retry 1/3] Resolving coreference for chunk_01...
+[2025-06-14 11:42:17] [Retry 2/3] Resolving coreference for chunk_01...
+[2025-06-14 11:42:28] [Retry 3/3] Resolving coreference for chunk_01...
+[2025-06-14 11:42:39] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_01_resolved.txt
+[2025-06-14 11:42:39] [Retry 1/3] Resolving coreference for chunk_02...
+[2025-06-14 11:42:53] [Retry 2/3] Resolving coreference for chunk_02...
+[2025-06-14 11:43:06] [Retry 3/3] Resolving coreference for chunk_02...
+[2025-06-14 11:43:20] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_02_resolved.txt
+[2025-06-14 11:43:20] [Retry 1/3] Resolving coreference for chunk_03...
+[2025-06-14 11:43:29] [Retry 2/3] Resolving coreference for chunk_03...
+[2025-06-14 11:43:38] [Retry 3/3] Resolving coreference for chunk_03...
+[2025-06-14 11:43:47] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_03_resolved.txt
+[2025-06-14 11:43:47] [Retry 1/3] Resolving coreference for chunk_04...
+[2025-06-14 11:44:02] [Retry 2/3] Resolving coreference for chunk_04...
+[2025-06-14 11:44:17] [Retry 3/3] Resolving coreference for chunk_04...
+[2025-06-14 11:44:31] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_04_resolved.txt
+[2025-06-14 11:44:31] [Retry 1/3] Resolving coreference for chunk_05...
+[2025-06-14 11:44:43] [Retry 2/3] Resolving coreference for chunk_05...
+[2025-06-14 11:44:54] [Retry 3/3] Resolving coreference for chunk_05...
+[2025-06-14 11:45:06] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_05_resolved.txt
+[2025-06-14 11:45:06] [Retry 1/3] Resolving coreference for chunk_06...
+[2025-06-14 11:45:21] [Retry 2/3] Resolving coreference for chunk_06...
+[2025-06-14 11:45:37] [Retry 3/3] Resolving coreference for chunk_06...
+[2025-06-14 11:45:53] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_06_resolved.txt
+[2025-06-14 11:45:53] [Retry 1/3] Resolving coreference for chunk_07...
+[2025-06-14 11:46:08] [Retry 2/3] Resolving coreference for chunk_07...
+[2025-06-14 11:46:23] [Retry 3/3] Resolving coreference for chunk_07...
+[2025-06-14 11:46:38] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_07_resolved.txt
+[2025-06-14 11:46:38] Merging all resolved chunks into output/11USVsjme/location/location_resolved_11USVsjme.txt
+[2025-06-14 11:46:38] All resolved chunks merged and saved to output/11USVsjme/location/location_resolved_11USVsjme.txt
+[2025-06-14 11:46:38] Completed coreference resolution for all chunks.
+[2025-06-14 11:46:38] Final Resolution completed in 275.06 seconds.
+[2025-06-14 11:46:38] Cumulative time after Final Resolution: 691.48 seconds.
+[2025-06-14 11:46:38] Total pipeline time: 691.48 seconds.
+[2025-06-14 22:26:48] Starting Chunking Step...
+[2025-06-14 22:26:48] Starting chunking for ./output/11USVsjme/person/person_resolved_11USVsjme.txt...
+[2025-06-14 22:26:52] Loading GPT-2 tokenizer...
+[2025-06-14 22:27:32] Chunking failed.
+[2025-06-15 10:58:40] Starting Chunking Step...
+[2025-06-15 10:58:40] Starting chunking for ./output/11USVsjme/person/person_resolved_11USVsjme.txt...
+[2025-06-15 10:58:46] Loading GPT-2 tokenizer...
+[2025-06-15 10:58:47] Saved chunk 01 (157 words)
+[2025-06-15 10:58:47] Saved chunk 02 (175 words)
+[2025-06-15 10:58:47] Saved chunk 03 (129 words)
+[2025-06-15 10:58:47] Saved chunk 04 (205 words)
+[2025-06-15 10:58:47] Saved chunk 05 (159 words)
+[2025-06-15 10:58:47] Saved chunk 06 (221 words)
+[2025-06-15 10:58:47] Saved chunk 07 (222 words)
+[2025-06-15 10:58:47] Successfully created 7 chunks in 'output/11USVsjme/location/chunk_outputs'.
+[2025-06-15 10:58:47] Total time taken: 6.73 seconds.
+[2025-06-15 10:58:47] Chunking completed in 7.01 seconds.
+[2025-06-15 10:58:47] Cumulative time after Chunking: 7.02 seconds.
+[2025-06-15 10:58:47] Starting NER Step...
+[2025-06-15 10:58:48] Found 7 chunk files.
+[2025-06-15 10:58:48] Running NER on chunk_01.txt (attempt 1)...
+[2025-06-15 10:58:55] Saved: output/11USVsjme/location/ner_outputs/chunk_01.json
+[2025-06-15 10:58:55] Running NER on chunk_02.txt (attempt 1)...
+[2025-06-15 10:59:01] Saved: output/11USVsjme/location/ner_outputs/chunk_02.json
+[2025-06-15 10:59:01] Running NER on chunk_03.txt (attempt 1)...
+[2025-06-15 10:59:04] Saved: output/11USVsjme/location/ner_outputs/chunk_03.json
+[2025-06-15 10:59:04] Running NER on chunk_04.txt (attempt 1)...
+[2025-06-15 10:59:10] Saved: output/11USVsjme/location/ner_outputs/chunk_04.json
+[2025-06-15 10:59:10] Running NER on chunk_05.txt (attempt 1)...
+[2025-06-15 10:59:15] Saved: output/11USVsjme/location/ner_outputs/chunk_05.json
+[2025-06-15 10:59:15] Running NER on chunk_06.txt (attempt 1)...
+[2025-06-15 10:59:21] Saved: output/11USVsjme/location/ner_outputs/chunk_06.json
+[2025-06-15 10:59:21] Running NER on chunk_07.txt (attempt 1)...
+[2025-06-15 10:59:26] Saved: output/11USVsjme/location/ner_outputs/chunk_07.json
+[2025-06-15 10:59:26] NER completed in 39.30 seconds.
+[2025-06-15 10:59:26] Cumulative time after NER: 46.32 seconds.
+[2025-06-15 10:59:26] Starting Coreference Resolution Step...
+[2025-06-15 10:59:27] Processing chunk_01 (verification=False)...
+[2025-06-15 10:59:38] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_01.json
+[2025-06-15 10:59:38] Processing chunk_02 (verification=False)...
+[2025-06-15 10:59:52] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_02.json
+[2025-06-15 10:59:52] Processing chunk_03 (verification=False)...
+[2025-06-15 11:00:02] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_03.json
+[2025-06-15 11:00:02] Processing chunk_04 (verification=False)...
+[2025-06-15 11:00:15] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_04.json
+[2025-06-15 11:00:15] Processing chunk_05 (verification=False)...
+[2025-06-15 11:00:30] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_05.json
+[2025-06-15 11:00:30] Processing chunk_06 (verification=False)...
+[2025-06-15 11:00:47] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_06.json
+[2025-06-15 11:00:47] Processing chunk_07 (verification=False)...
+[2025-06-15 11:00:56] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_07.json
+[2025-06-15 11:00:56] Final memory saved to: output/11USVsjme/location/final_memory.json
+[2025-06-15 11:00:56] Starting verification pass 1...
+[2025-06-15 11:00:56] Processing chunk_01 (verification=True)...
+[2025-06-15 11:01:19] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_01_verify.json
+[2025-06-15 11:01:19] Processing chunk_02 (verification=True)...
+[2025-06-15 11:01:37] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_02_verify.json
+[2025-06-15 11:01:37] Processing chunk_03 (verification=True)...
+[2025-06-15 11:01:53] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_03_verify.json
+[2025-06-15 11:01:53] Processing chunk_04 (verification=True)...
+[2025-06-15 11:02:13] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_04_verify.json
+[2025-06-15 11:02:13] Processing chunk_05 (verification=True)...
+[2025-06-15 11:02:34] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_05_verify.json
+[2025-06-15 11:02:34] Processing chunk_06 (verification=True)...
+[2025-06-15 11:02:56] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_06_verify.json
+[2025-06-15 11:02:56] Processing chunk_07 (verification=True)...
+[2025-06-15 11:03:06] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_07_verify.json
+[2025-06-15 11:03:06] Final memory saved to: output/11USVsjme/location/final_memory.json
+[2025-06-15 11:03:06] Starting verification pass 2...
+[2025-06-15 11:03:06] Processing chunk_01 (verification=True)...
+[2025-06-15 11:03:22] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_01_verify.json
+[2025-06-15 11:03:22] Processing chunk_02 (verification=True)...
+[2025-06-15 11:03:39] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_02_verify.json
+[2025-06-15 11:03:39] Processing chunk_03 (verification=True)...
+[2025-06-15 11:03:56] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_03_verify.json
+[2025-06-15 11:03:56] Processing chunk_04 (verification=True)...
+[2025-06-15 11:04:15] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_04_verify.json
+[2025-06-15 11:04:16] Processing chunk_05 (verification=True)...
+[2025-06-15 11:04:36] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_05_verify.json
+[2025-06-15 11:04:36] Processing chunk_06 (verification=True)...
+[2025-06-15 11:04:57] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_06_verify.json
+[2025-06-15 11:04:57] Processing chunk_07 (verification=True)...
+[2025-06-15 11:05:08] Saved coref output: output/11USVsjme/location/coref_outputs/chunk_07_verify.json
+[2025-06-15 11:05:08] Final memory saved to: output/11USVsjme/location/final_memory.json
+[2025-06-15 11:05:08] Coreference Resolution completed in 342.02 seconds.
+[2025-06-15 11:05:08] Cumulative time after Coref: 388.34 seconds.
+[2025-06-15 11:05:08] Starting Final Coref Resolution Step...
+[2025-06-15 11:05:09] Starting coreference resolution loop
+[2025-06-15 11:05:09] Removing 3 unresolved mappings from RESOLVED_ENTITIES: ['the juvenile court', 'a boot camp', 'the trial court']
+[2025-06-15 11:05:09] 11 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-06-15 11:05:09] [Retry 1/3] Resolving coreference for chunk_01...
+[2025-06-15 11:05:22] [Retry 2/3] Resolving coreference for chunk_01...
+[2025-06-15 11:05:34] [Retry 3/3] Resolving coreference for chunk_01...
+[2025-06-15 11:05:45] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_01_resolved.txt
+[2025-06-15 11:05:45] [Retry 1/3] Resolving coreference for chunk_02...
+[2025-06-15 11:06:01] [Retry 2/3] Resolving coreference for chunk_02...
+[2025-06-15 11:06:17] [Retry 3/3] Resolving coreference for chunk_02...
+[2025-06-15 11:06:32] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_02_resolved.txt
+[2025-06-15 11:06:32] [Retry 1/3] Resolving coreference for chunk_03...
+[2025-06-15 11:06:42] [Retry 2/3] Resolving coreference for chunk_03...
+[2025-06-15 11:06:51] [Retry 3/3] Resolving coreference for chunk_03...
+[2025-06-15 11:07:01] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_03_resolved.txt
+[2025-06-15 11:07:01] [Retry 1/3] Resolving coreference for chunk_04...
+[2025-06-15 11:07:16] [Retry 2/3] Resolving coreference for chunk_04...
+[2025-06-15 11:07:31] [Retry 3/3] Resolving coreference for chunk_04...
+[2025-06-15 11:07:46] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_04_resolved.txt
+[2025-06-15 11:07:46] [Retry 1/3] Resolving coreference for chunk_05...
+[2025-06-15 11:07:58] [Retry 2/3] Resolving coreference for chunk_05...
+[2025-06-15 11:08:10] [Retry 3/3] Resolving coreference for chunk_05...
+[2025-06-15 11:08:22] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_05_resolved.txt
+[2025-06-15 11:08:22] [Retry 1/3] Resolving coreference for chunk_06...
+[2025-06-15 11:08:38] [Retry 2/3] Resolving coreference for chunk_06...
+[2025-06-15 11:08:54] [Retry 3/3] Resolving coreference for chunk_06...
+[2025-06-15 11:09:10] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_06_resolved.txt
+[2025-06-15 11:09:10] [Retry 1/3] Resolving coreference for chunk_07...
+[2025-06-15 11:09:26] [Retry 2/3] Resolving coreference for chunk_07...
+[2025-06-15 11:09:41] [Retry 3/3] Resolving coreference for chunk_07...
+[2025-06-15 11:09:56] Saved resolved text: output/11USVsjme/location/resolved_outputs/chunk_07_resolved.txt
+[2025-06-15 11:09:56] Merging all resolved chunks into output/11USVsjme/location/location_resolved_11USVsjme.txt
+[2025-06-15 11:09:56] All resolved chunks merged and saved to output/11USVsjme/location/location_resolved_11USVsjme.txt
+[2025-06-15 11:09:56] Completed coreference resolution for all chunks.
+[2025-06-15 11:09:56] Final Resolution completed in 287.91 seconds.
+[2025-06-15 11:09:56] Cumulative time after Final Resolution: 676.26 seconds.
+[2025-06-15 11:09:56] Total pipeline time: 676.26 seconds.

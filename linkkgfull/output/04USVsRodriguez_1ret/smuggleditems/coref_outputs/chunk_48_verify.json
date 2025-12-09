@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "the black Dodge pickup truck": "IGNACIO RODRIGUEZ, JR.'s vehicle",
+    "Farm-to-Market Road 2050": null,
+    "United States Court": "United States Department of Homeland Security",
+    "Supreme Court of the United States": "United States Department of Homeland Security",
+    "the traffic stop on Farm-to-Market Road 2050": "IGNACIO RODRIGUEZ, JR.'s vehicle stop",
+    "the initial traffic stop": "IGNACIO RODRIGUEZ, JR.'s vehicle stop"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "Black Dodge pickup truck stopped by Officer Reymundo Reyes for failing to use a turn signal on Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the traffic stop performed by United States Border Patrol Agent Jorge Luis Trevino",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who challenges the stop of his vehicle by Officer Reymundo Reyes"
+  }
+}

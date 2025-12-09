@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States Magistrate Judge"
+    ],
+    "NOUN_PHRASE": [
+      "the District Judge",
+      "the Magistrate Judge",
+      "the parties"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Magistrate Judge": "signed the Report and Recommendation"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["5th Circuit Court of Appeals", "United States-Mexican"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "5th Circuit Court of Appeals": "court presented with factors for consideration",
+    "United States-Mexican": "border referenced in determining reasonable suspicion"
+  }
+}

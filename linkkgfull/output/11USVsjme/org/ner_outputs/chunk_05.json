@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Webb County Jail",
+      "CAPS",
+      "SCAN",
+      "Judge Ricardo Garcia Regional Detention Center",
+      "Texas Juvenile Justice Department"
+    ],
+    "NOUN_PHRASE": [
+      "the juvenile court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Webb County Jail": "a facility where J.M.E. was attending school and receiving services",
+    "CAPS": "counseling services attended by J.M.E.",
+    "SCAN": "services received by J.M.E.",
+    "Judge Ricardo Garcia Regional Detention Center": "a detention center where J.M.E. failed to comply with requirements",
+    "Texas Juvenile Justice Department": "a facility ordered for J.M.E.'s commitment and rehabilitation"
+  }
+}

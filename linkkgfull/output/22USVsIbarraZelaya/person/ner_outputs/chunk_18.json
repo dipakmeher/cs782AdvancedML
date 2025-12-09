@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the petitioner",
+      "the district court",
+      "jurists of reason",
+      "the movant",
+      "the Court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

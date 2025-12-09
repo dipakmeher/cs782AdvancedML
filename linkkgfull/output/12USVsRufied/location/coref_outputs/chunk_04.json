@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Diesel Impact 2000": "Diesel Impact 2000",
+    "Highway 359": "Highway 359",
+    "Monterrey Inn": "Monterrey Inn",
+    "the tractor": null,
+    "the trailer": null,
+    "the side of the highway": null,
+    "the terrain": null,
+    "the road": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Diesel Impact 2000": "location where aliens were loaded into the trailer",
+    "Highway 359": "highway near Diesel Impact 2000",
+    "Monterrey Inn": "place where Martin Adaboh was approached to smuggle aliens"
+  }
+}

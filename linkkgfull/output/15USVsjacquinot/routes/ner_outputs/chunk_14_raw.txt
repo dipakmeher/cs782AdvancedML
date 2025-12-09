@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Texas Highway 385"],
+    "NOUN_PHRASE": ["a smuggling route", "the road", "a road frequently used for illegal activity", "this court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Texas Highway 385": "a notorious smuggling route and a major highway"
+  }
+}

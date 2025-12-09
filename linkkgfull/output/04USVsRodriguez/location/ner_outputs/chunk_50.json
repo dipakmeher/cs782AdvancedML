@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the road",
+      "the shoulder",
+      "the lane"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

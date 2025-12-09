@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "this appeal": null,
+    "the district": "district court in Maria De Jesus Garcia's case",
+    "her vehicle": "Maria De Jesus Garcia's vehicle",
+    "the jury": "jury in Maria De Jesus Garcia's trial"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the federal district court is located",
+    "district court in Maria De Jesus Garcia's case": "court that handled Maria De Jesus Garcia's trial and made decisions on evidence suppression and juror interviews",
+    "Maria De Jesus Garcia's vehicle": "vehicle searched for undocumented aliens, subject of a court case, and used by Maria De Jesus Garcia during the incident",
+    "jury in Maria De Jesus Garcia's trial": "jury that received a modified Allen charge during deliberations and was involved in Maria De Jesus Garcia's case"
+  }
+}

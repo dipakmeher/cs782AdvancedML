@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Marco Montemayor": "Marco Montemayor",
+    "United States Department of Homeland Security": "United States Department of Homeland Security",
+    "Freer Immigration Checkpoint": "Freer Immigration Checkpoint",
+    "Jorge Luis Trevino": "Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Jorge Luis Trevino",
+    "Laredo, Texas": "Laredo, Texas",
+    "Border Patrol Station Parking Lot": "Freer Immigration Checkpoint",
+    "the interview": null,
+    "the holding cell": null,
+    "the United States Border Patrol intel officer": "United States Border Patrol",
+    "Homeland Security Investigations agent": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security who interviewed RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident",
+    "Freer Immigration Checkpoint": "Location where Marco Montemayor arrived to investigate an attempted alien smuggling event",
+    "Jorge Luis Trevino": "United States Border Patrol agent who conducted the initial stop and provided background information to Marco Montemayor",
+    "RICARDO RODRIGUEZ, JR.": "Defendant interviewed by Marco Montemayor before IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant interviewed by Marco Montemayor in a holding cell at Freer Immigration Checkpoint",
+    "United States Border Patrol Agent Jorge Luis Trevino": "Primary United States Border Patrol agent who conducted the initial stop",
+    "Laredo, Texas": "Location where Marco Montemayor received a phone call regarding an attempted alien smuggling event",
+    "Border Patrol Station Parking Lot": "Location where IGNACIO RODRIGUEZ, JR. was held in a holding cell",
+    "United States Border Patrol": "Law enforcement agency involved in the incident"
+  }
+}

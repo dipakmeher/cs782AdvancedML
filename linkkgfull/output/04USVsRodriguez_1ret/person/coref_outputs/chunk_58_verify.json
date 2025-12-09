@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Officer Reyes": "Reymundo Reyes",
+    "Agent Benavides": "Hugo Benavides",
+    "Orona-Sanchez": "Orona-Sanchez",
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the agents": "Jorge Luis Trevino and Hugo Benavides",
+    "the undersigned": "J. Scott Hacker"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about the black truck and camper, and noted that smugglers often use rental cars to avoid losing their own vehicles if caught",
+    "Reymundo Reyes": "Law enforcement officer who did not corroborate Agent Trevino's testimony about the camper",
+    "Hugo Benavides": "United States Border Patrol Agent who did not corroborate Agent Trevino's testimony about the camper",
+    "Orona-Sanchez": "Individual referenced in a court finding regarding alien smuggling using pickup trucks with camper shells",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a case regarding alien smuggling, whose vehicle was stopped by Agent Trevino",
+    "Jorge Luis Trevino and Hugo Benavides": "Border Patrol agents who testified in the case, with Jorge Luis Trevino providing details about the black truck and camper, and Hugo Benavides not corroborating this testimony",
+    "J. Scott Hacker": "United States Magistrate Judge who considered the evidence presented in the case and gave little weight to the observation of the camper due to ambiguity surrounding its existence"
+  }
+}

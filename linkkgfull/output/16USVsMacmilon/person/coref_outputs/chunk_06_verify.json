@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "Agent Pena": "Luis Pena",
+    "Agent Hernandez": "Manuel Hernandez",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "the Government": null,
+    "the district court": null,
+    "the jury": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "individual being questioned by Agent Pena, passenger in the tractor-trailer, attempted to pull down the fold-up bed, charged with conspiracy to transport aliens within the United States, filed a motion to dismiss the indictment on speedy trial grounds",
+    "Luis Pena": "Government agent who questioned Williams and McMillon, asked for consent to search the tractor's sleeper area, testified at the jury trial",
+    "Manuel Hernandez": "Government agent working with a dog during the checkpoint stop, alerted Agent Pena to check the back of the tractor, testified at the jury trial",
+    "Ramon De La Cruz": "undocumented alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, entered the United States unlawfully, testified at the jury trial",
+    "Jorge Miguel Hernandez-Gomez": "undocumented alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, entered the United States unlawfully, testified at the jury trial"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "stolen vehicles",
+      "the black Dodge pickup truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,29 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ghana",
+      "Africa",
+      "Quebec",
+      "Montreal",
+      "Canada",
+      "Laredo, Texas",
+      "Monterrey Inn"
+    ],
+    "NOUN_PHRASE": [
+      "the courtroom",
+      "the hallway",
+      "the cab",
+      "the tractor trailer",
+      "the room"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ghana": "country of origin for Yusif Ahmed Rufied and Martin Adaboh",
+    "Africa": "continent where Ghana is located",
+    "Quebec": "province in Canada where Yusif Ahmed Rufied and Martin Adaboh live",
+    "Montreal": "city in Quebec, Canada where Yusif Ahmed Rufied and Martin Adaboh live",
+    "Canada": "country where Yusif Ahmed Rufied and Martin Adaboh live",
+    "Laredo, Texas": "location of the Monterrey Inn where Yusif Ahmed Rufied stayed",
+    "Monterrey Inn": "inn where Yusif Ahmed Rufied and Martin Adaboh stayed"
+  }
+}

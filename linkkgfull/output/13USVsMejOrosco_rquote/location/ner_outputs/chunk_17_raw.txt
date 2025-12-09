@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["district courts", "the range", "the guidelines"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

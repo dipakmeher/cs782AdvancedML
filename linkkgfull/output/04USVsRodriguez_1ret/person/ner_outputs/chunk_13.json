@@ -1,0 +1,18 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Reymundo Reyes",
+      "Jr.",
+      "Officer Reyes",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the previous officer",
+      "the driver of the black truck"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Reymundo Reyes": "Officer of the Freer Police Department",
+    "Ignacio Rodriguez": "Driver of the black truck"
+  }
+}

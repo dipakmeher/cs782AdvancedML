@@ -1,0 +1,25 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "San Pablo Road",
+      "United States",
+      "Mexico",
+      "Dallas",
+      "FM 2050"
+    ],
+    "NOUN_PHRASE": [
+      "the wind farm",
+      "the road",
+      "the vehicle",
+      "the trunk",
+      "the country"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "San Pablo Road": "location where Agent Trevino initiated a stop",
+    "United States": "country of citizenship for Ricardo Rodriguez, Jr.",
+    "Mexico": "country of origin for the passengers",
+    "Dallas": "city where the two vehicles originated",
+    "FM 2050": "road where the vehicles were traveling southbound"
+  }
+}

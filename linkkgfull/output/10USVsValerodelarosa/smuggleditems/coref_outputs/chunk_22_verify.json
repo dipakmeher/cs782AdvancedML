@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Rogelio Valero-De La Rosa's statements under oath": "Rogelio Valero-De La Rosa",
+    "the United States Court of Appeals for the Fifth Circuit": "United States Court of Appeals for the Fifth Circuit",
+    "the defendant's statements at the plea colloquy": "Plea Agreement between Rogelio Valero-De La Rosa and the United States",
+    "Rogelio Valero-De La Rosa's claim": null,
+    "his rights": "Rights waived by Rogelio Valero-De La Rosa in Plea Agreement",
+    "the charges against him": "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa",
+    "Rogelio Valero-De La Rosa's waiver of his right to file a motion pursuant to": "Plea Agreement between Rogelio Valero-De La Rosa and the United States"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "Defendant who pleaded guilty to charges of illegal re-entry after deportation, native and citizen of Mexico, made statements under oath during plea colloquy",
+    "United States Court of Appeals for the Fifth Circuit": "Court that reviews appeals from the United States District Court for the Southern District of Texas, providing guidance on the interpretation of fast track programs",
+    "Plea Agreement between Rogelio Valero-De La Rosa and the United States": "Agreement outlining terms of guilty plea, including waiver of right to collaterally attack conviction or sentence, signed by Rogelio Valero-De La Rosa. The agreement includes concessions made by the United States in exchange for the defendant's guilty plea.",
+    "Rights waived by Rogelio Valero-De La Rosa in Plea Agreement": "Appellate rights waived by defendant in exchange for reduced sentence, with waiver considered knowing and voluntary, as found by the court",
+    "Charges of illegal re-entry after deportation against Rogelio Valero-De La Rosa": "Criminal charges pending against the defendant, includes violation of supervised release by committing additional offenses, considered in sentencing"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Mills Bennett Road": "Mills Bennett Road",
+    "United States Border Patrol Freer immigration checkpoint": "United States Border Patrol Freer immigration checkpoint",
+    "the wind farm on Farm-to-Market Road 2050": "the wind farm on Farm-to-Market Road 2050",
+    "San Pablo Road": "San Pablo Road",
+    "Moglia ranch house": "Moglia ranch house",
+    "Stag ranch trailer": "Stag ranch trailer",
+    "Santo Nino Road": "Santo Nino Road",
+    "Dinn Ranch": "Dinn Ranch",
+    "Highway 16": "Highway 16",
+    "Highway 59": "Highway 59"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "Paved road with two lanes and no shoulder, where Agent Jorge Luis Trevino encountered the vehicles, located adjacent to the United States Border Patrol station parking lot",
+    "Mills Bennett Road": "Dirt road intersecting Farm-to-Market Road 2050, approximately five miles south of the United States Border Patrol Freer immigration checkpoint",
+    "United States Border Patrol Freer immigration checkpoint": "Checkpoint near the intersection of Mills Bennett Road and Farm-to-Market Road 2050",
+    "the wind farm on Farm-to-Market Road 2050": "Wind farm located on Farm-to-Market Road 2050 with its entrance and office on the west side, between twelve and fifteen miles from the checkpoint on Highway 59",
+    "San Pablo Road": "Road south of the wind farm on Farm-to-Market Road 2050, extending to the east and providing vehicle access to Highway 16",
+    "Moglia ranch house": "Ranch house near the wind farm on Farm-to-Market Road 2050",
+    "Stag ranch trailer": "Trailer near the wind farm on Farm-to-Market Road 2050",
+    "Santo Nino Road": "Road also known as Dinn Ranch, extending to the east and providing vehicle access to Highway 16",
+    "Dinn Ranch": "Ranch also known as Santo Nino Road",
+    "Highway 16": "Highway near the area where the vehicle was encountered",
+    "Highway 59": "Highway near the area where the vehicle was encountered"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the agent": "Jorge Luis Trevino",
+    "law enforcement officers": null,
+    "the majority": null,
+    "the district court": null,
+    "the officer": "Reymundo Reyes",
+    "the inspector": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant in the case who had his vehicle stopped by a United States Border Patrol agent and is a United States citizen, challenges the stop of his white sedan",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant in the case who was stopped by an officer of the Freer Police Department, driver of the black truck, exhibited nervous behavior during the stop, claimed the vehicle belonged to his aunt and then his cousin, transported to a checkpoint for further questioning",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants indicted for transporting undocumented aliens within the United States, stopped near the Mexico border",
+    "Jorge Luis Trevino": "United States Border Patrol Agent with nearly seven years of experience, stationed at the Freer checkpoint for a year and a half, familiar with ninety to ninety-five percent of the vehicles passing down FM 2050, pursued the defendants and conducted registration checks, explained his suspicions and actions during a traffic stop, made observations of passengers' behavior",
+    "Reymundo Reyes": "Officer of the Freer Police Department who conducted a traffic stop on Ignacio Rodriguez's black truck, observed Ignacio Rodriguez's nervous behavior during the stop, and decided to impound the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership, informed by Agent Benavides"
+  }
+}

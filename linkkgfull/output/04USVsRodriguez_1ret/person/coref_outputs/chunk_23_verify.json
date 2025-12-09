@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the Government": null,
+    "the person": null,
+    "Border Patrol agents": "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.",
+    "the agent": "Hugo Benavides",
+    "the officer": "Reymundo Reyes",
+    "the driver": "IGNACIO RODRIGUEZ, JR.",
+    "the passengers": "Mexican nationals",
+    "officers": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge and who appeared to concede that the route taken would be convenient for smugglers, testified in a hearing about his vehicle not going off the road",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause, exhibited extreme nervousness during a traffic stop, and provided inconsistent statements about the vehicle's ownership",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050, and explained vehicle encounters, noted an observation of Ricardo Rodriguez's vehicle, testified during cross examination, approached a car with five passengers which was riding low due to the number of people, followed the black truck for around five minutes noticing it going often off the shoulder",
+    "Hugo Benavides": "United States Border Patrol Agent who transported Ignacio Rodriguez to the checkpoint for further questioning",
+    "Reymundo Reyes": "Law enforcement officer who conducted a traffic stop of Ignacio Rodriguez and issued a citation, later impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership",
+    "J. Scott Hacker": "United States Magistrate Judge who signed the document, took judicial notice of the fact that the sun set at 6:22 p.m. on February 4, 2013 in Laredo, Texas, does not consider the vehicle's low ride height as contributing to reasonable suspicion for a stop"
+  }
+}

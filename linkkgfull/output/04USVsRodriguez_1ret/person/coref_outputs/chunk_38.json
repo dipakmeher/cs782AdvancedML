@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "a canine handler": null,
+    "the undersigned": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Officer who conducted a traffic stop of Ignacio Rodriguez, issued a citation, and informed him that the vehicle could not continue to its destination",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant stopped by Officer Reyes, driver of the black truck, exhibited nervous behavior during the stop, claimed the vehicle belonged to his aunt and then his cousin, transported to a checkpoint for further questioning, contends that Officer Reyes exceeded the scope of a traffic stop",
+    "RICARDO RODRIGUEZ, JR.": "Defendant in the case who had his vehicle stopped by a United States Border Patrol agent and is a United States citizen, challenges the stop of his white sedan",
+    "Jorge Luis Trevino": "United States Border Patrol Agent with nearly seven years of experience, stationed at the Freer checkpoint for a year and a half, familiar with ninety to ninety-five percent of the vehicles passing down FM 2050, pursued the defendants and conducted registration checks, explained his suspicions and actions during a traffic stop, made observations of passengers' behavior",
+    "Mills Bennett": "Involved in the case, mentioned during the cross examination of Agent Trevino",
+    "Hugo Benavides": "United States Border Patrol Agent who received a phone call regarding the traffic stop of Ignacio Rodriguez, arrived at the scene to assist Officer Reyes, transported Ignacio Rodriguez to a checkpoint for further questioning",
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security involved in investigating an attempted alien smuggling event, testified about the interview with Ignacio Rodriguez"
+  }
+}

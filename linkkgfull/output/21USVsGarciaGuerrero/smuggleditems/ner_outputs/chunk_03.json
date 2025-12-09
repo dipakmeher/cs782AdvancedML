@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Alma Delia Simon-Fernandez",
+      "Jaime Gomez-Arroyo",
+      "Inocencio Garcia-Guerrero",
+      "seven additional undocumented aliens"
+    ],
+    "NOUN_PHRASE": [
+      "the group",
+      "the other members of the group",
+      "two of the aliens",
+      "the aliens"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alma Delia Simon-Fernandez": "deceased undocumented female alien",
+    "Jaime Gomez-Arroyo": "individual met by Border Patrol agents",
+    "Inocencio Garcia-Guerrero": "guide for the group of undocumented aliens",
+    "seven additional undocumented aliens": "part of the group being guided"
+  }
+}

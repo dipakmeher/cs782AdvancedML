@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agent": "United States Border Patrol Agent Jorge Luis Trevino",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "Agent Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "white Malibu sedan": "white Malibu sedan"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "law enforcement agency involved in the arrest and investigation of human smuggling cases, with agents conducting patrols and stops on highways such as U.S. Highway 59 and Farm-to-Market Road 2050",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who conducted the cross-examination and provided testimony about the suspicious behavior of the vehicles involved in the smuggling operation",
+    "RICARDO RODRIGUEZ, JR.": "defendant associated with the white Malibu sedan, arrested for transporting illegal aliens and providing statements during the hearing about the convenience of the route from Laredo, Texas to Dallas, Texas for smugglers",
+    "white Malibu sedan": "vehicle involved in the smuggling operation, driven by RICARDO RODRIGUEZ, JR. and exhibiting suspicious behavior such as driving in tandem with another vehicle"
+  }
+}

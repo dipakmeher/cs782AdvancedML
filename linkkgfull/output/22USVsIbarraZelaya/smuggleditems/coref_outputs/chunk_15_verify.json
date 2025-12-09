@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "Adrian Almaguer": "Adrian Almaguer",
+    "the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the Presentence Report": "Presentence Report",
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "the Probation Department": "Probation Department",
+    "the 2003 edition of the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "the 2004 edition of the United States Sentencing Guidelines Manual": "United States Sentencing Guidelines Manual",
+    "Jose Marlon Ibarra-Zelaya's counsel": "Adrian Almaguer"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jose Marlon Ibarra-Zelaya": "defendant claiming ineffective assistance of counsel due to incorrect application of sentencing guidelines, with a base offense level calculated under the United States Sentencing Guidelines Manual",
+    "Adrian Almaguer": "attorney for Jose Marlon Ibarra-Zelaya, who raised an objection to the base offense level in the Presentence Report but later acknowledged using an incorrect version of the United States Sentencing Guidelines Manual",
+    "United States Sentencing Guidelines Manual": "manual used to determine sentences, with different editions having distinct implications for base offense levels and overall sentencing severity, including amendments that affect the calculation of base offense levels",
+    "Presentence Report": "report prepared for determining punishment under the United States Sentencing Guidelines Manual, including calculations of total offense level based on the most serious count among the group, with objections raised by counsel",
+    "Nancy F. Atlas": "judge who overruled defense counsel's objection to the base offense level calculated in the Presentence Report, noting that the 2004 edition of the United States Sentencing Guidelines Manual was the same as the 2003 edition",
+    "Probation Department": "department that advised on the relevant Guideline found in the United States Sentencing Guidelines Manual and its amendment affecting the base offense level calculation"
+  }
+}

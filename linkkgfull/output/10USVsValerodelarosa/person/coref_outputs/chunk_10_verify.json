@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Valero": "Rogelio Valero-De La Rosa",
+    "his counsel": "counsel",
+    "the Government": "United States",
+    "the court": "Kazen"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Rogelio Valero-De La Rosa": "defendant in a case involving illegal re-entry after deportation, sentenced to 90 months of imprisonment, native and citizen of Mexico, signed the Plea Agreement and Plea Agreement Addendum, pleaded guilty before a United States Magistrate Judge, has a history of violating immigration laws, alleges counsel was constitutionally ineffective, claims he was factually innocent of Illegal Re-entry due to potential United States citizenship",
+    "United States": "the government entity involved in the prosecution of Rogelio Valero-De La Rosa",
+    "counsel": "Valero's lawyer, helped Valero understand the rights he was giving up by pleading guilty, rendered effective assistance according to Valero's express acknowledgment, subject to standards that consider the acuity of hindsight and the art of representation, allegedly failed to recognize benefits and errors in sentencing, including failure to request 'fast track' downward departure or investigate Valero's claim of United States citizenship",
+    "Kazen": "Senior United States District Judge who entered an Order adopting the Report and Recommendation of the United States Magistrate Judge, presiding over Valero's case, sentenced Valero to 90 months of imprisonment"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicle": null,
+    "the cars": null,
+    "the trucks": null,
+    "a bus": "bus",
+    "canoes": null,
+    "a motor vehicle": null,
+    "a vessel": null,
+    "his extended cab pickup truck": "extended cab pickup truck",
+    "the cab of the truck": null,
+    "the bed of a pickup truck": null,
+    "a pickup truck": null,
+    "vehicular transportation": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "bus": "Used to transport undocumented aliens from San Luis, Potosi, Mexico to Nuevo Laredo",
+    "extended cab pickup truck": "Vehicle used to transport seven undocumented aliens in the cab and four in the bed for financial gain"
+  }
+}

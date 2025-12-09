@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["border patrol"],
+    "NOUN_PHRASE": ["the agents"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border patrol": "law enforcement agency conducting immigration inspections"
+  }
+}

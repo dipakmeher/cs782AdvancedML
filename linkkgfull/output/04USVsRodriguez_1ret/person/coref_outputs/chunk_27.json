@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "the agent": "Jorge Luis Trevino",
+    "a smuggler": null,
+    "the Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant in the case who had his vehicle stopped by a United States Border Patrol agent and is a United States citizen, challenges the stop of his white sedan",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant in the case who was stopped by an officer of the Freer Police Department, driver of the black truck, exhibited nervous behavior during the stop, claimed the vehicle belonged to his aunt and then his cousin, transported to a checkpoint for further questioning",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who investigated vehicles on FM 2050 and found suspicious behavior from the drivers of two vehicles with out-of-town registrations, initiated the stop of Ricardo Rodriguez's vehicle"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "pickup truck",
+      "pickup truck camper",
+      "Maria De Jesus Garcia's pickup truck",
+      "the pickup truck",
+      "the pickup truck camper attachment"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

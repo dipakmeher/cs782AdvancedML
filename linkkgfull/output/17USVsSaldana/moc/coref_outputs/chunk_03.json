@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Federico Saldana's phone": null,
+    "the phone": null,
+    "Williamson County Sheriff's Office video": "Williamson County Sheriff's Office video recording",
+    "the 2008 Chevrolet truck": "the 2008 Chevrolet truck driven by Federico Saldana",
+    "the flatbed trailer": "the flatbed trailer towed by the 2008 Chevrolet truck",
+    "Gary Haston's phone": null,
+    "Heather Vargas' phone": null,
+    "the truck's phone": null,
+    "Daniel Martin Huerta's phone": null,
+    "Daniel A. Huerta's phone": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Williamson County Sheriff's Office video recording": "Video evidence submitted at the hearing",
+    "the 2008 Chevrolet truck driven by Federico Saldana": "Vehicle driven by Federico Saldana on the day of the stop and search, with license plate registered in San Antonio on July 31, 2014, to Daniel A. Huerta, outfitted with over-sized tires and after-market rims",
+    "the flatbed trailer towed by the 2008 Chevrolet truck": "Trailer towed by the vehicle driven by Federico Saldana, with license plate issued in Laredo on November 20, 2014, to Daniel Martin Huerta"
+  }
+}

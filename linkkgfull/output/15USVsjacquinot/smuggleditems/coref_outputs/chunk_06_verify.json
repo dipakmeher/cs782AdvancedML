@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Andrew P. Graham": "Agent Andrew P. Graham",
+    "United States/Mexican Border Patrol": "United States/Mexican Border Patrol",
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "Texas Highway 385": "Texas Highway 385",
+    "Big Bend National Park": "Big Bend National Park",
+    "Marathon, Texas": null,
+    "Highway 90": null,
+    "Fort Stockton": null,
+    "Interstate 10": null,
+    "Alpine, Texas": null,
+    "Highway 118": null,
+    "the stop sign": null,
+    "Jay Snodgrass": "Jay Snodgrass",
+    "the registration": null,
+    "the computer-system problems": null,
+    "the left turn signal": null,
+    "the average speed limit": null,
+    "the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Agent Andrew P. Graham": "United States/Mexican Border Patrol agent who followed the large white Ford pickup truck and observed its suspicious behavior",
+    "United States/Mexican Border Patrol": "agency whose agents followed the large white Ford pickup truck and observed its suspicious behavior, including a five-second pause at a stop sign",
+    "large white Ford pickup truck": "vehicle that slowed dramatically, remained stopped at a stop sign for five seconds, and made an unusual turn, increasing reasonable suspicion due to its indirect travel route from Big Bend National Park to Alpine, Texas",
+    "Texas Highway 385": "notorious smuggling route with increased activity observed by Agent Andrew P. Graham in the prior six months, used by thousands of visitors to Big Bend National Park",
+    "Big Bend National Park": "location where the large white Ford pickup truck was seen leaving early on a Sunday morning, deviating from typical traffic patterns, with thousands of visitors using Texas Highway 385",
+    "Jay Snodgrass": "United States/Mexican Border Patrol agent involved in following the vehicles, including the large white Ford pickup truck"
+  }
+}

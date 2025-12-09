@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "U.S. government"
+    ],
+    "NOUN_PHRASE": [
+      "the government",
+      "the courtroom",
+      "the jury"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. government": "the governing body"
+  }
+}

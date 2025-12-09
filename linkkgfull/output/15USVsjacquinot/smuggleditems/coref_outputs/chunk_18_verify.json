@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "narcotics": "narcotics cases",
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "tool boxes": "tool boxes",
+    "a gas tank": "a gas tank",
+    "an air tank": "an air tank"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "narcotics cases": "recently smuggled in the Alpine, Texas area, destined for locations in Kansas",
+    "large white Ford pickup truck": "vehicle driven by Brignoni-Ponce Jacquinot, stopped by United States/Mexican Border Patrol due to suspicious behavior and proximity to the United States/Mexican Border, deviating from typical traffic patterns on Texas Highway 385 early on a Sunday morning, with an indirect travel route from Big Bend National Park to Alpine, Texas, bearing a Kansas license plate",
+    "tool boxes": "equipment found in the large white Ford pickup truck, containing marijuana",
+    "a gas tank": "equipment found in the large white Ford pickup truck, possibly used for smuggling",
+    "an air tank": "equipment found in the large white Ford pickup truck, possibly used for smuggling"
+  }
+}

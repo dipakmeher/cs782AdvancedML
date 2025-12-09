@@ -1,0 +1,31 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the panel majority": null,
+    "the United States Court of Appeals for the Fifth Circuit": "United States v. Maria De Jesus Garcia",
+    "the present facts": null,
+    "my brethren in the majority": null,
+    "the majority": null,
+    "this stop": "pickup truck camper",
+    "a roving United States Border Patrol": null,
+    "the multi-factorial test": null,
+    "Stanley Pruszenski and Alfred Baron": null,
+    "the time of the stop": null,
+    "the totality of the circumstances": null,
+    "the vehicle in question": "pickup truck camper",
+    "the United States-Mexican border": "United States-Mexican border",
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "Interstate Highway 35 in Texas": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled, possibly hidden in a vehicle with fogged windows on a cold night, characterized by unwashed and unkempt appearance, suspected to be in vehicles stopped by Border Patrol agents near the United States-Mexican border, attempting to evade detection, exhibiting efforts to avoid detection by ducking and scrambling, admitted to being undocumented, including three women and five or six men found in a pickup truck camper, perceived as a social problem in controlling hordes from Mexico",
+    "pickup truck camper": "vehicle used for smuggling undocumented aliens on Interstate Highway 35, characterized by heavy loading and difficulty in handling, subject of a suppression motion regarding evidence obtained during its stop and search, with factors such as appearance, behavior of the driver, and number and appearance of passengers considered in determining justification for the stop, stopped more than 100 miles from the United States-Mexican border, often having fogged windows, exhibiting an unusually heavy and overloaded appearance, stopped 115 miles north of the United States-Mexican border",
+    "Maria De Jesus Garcia": "defendant in a court case involving allegations of smuggling undocumented aliens, arguing against the use of the modified Allen charge, seeking post-verdict discovery through juror depositions and interrogatories to determine potential coercion by the modified Allen charge",
+    "United States v. Maria De Jesus Garcia": "court case involving Maria De Jesus Garcia, focusing on the coercive nature of the modified Allen charge given to the jury, addressing the issue of post-verdict discovery to assess potential juror coercion, considering the lawfulness of a stop by United States Border Patrol agents",
+    "United States v. Pena-Cantu": "court case referenced in the context of the modified Allen charge",
+    "United States v. Pacheco": "court case referenced in the context of the modified Allen charge",
+    "United States v. Orona-Sanchez": "court case referenced in the context of the modified Allen charge",
+    "TATE": "Circuit Judge, dissenting in United States v. Maria De Jesus Garcia",
+    "Mexican aliens": "individuals suspected of crossing the border illegally, potentially traveling in a crowded pickup truck camper",
+    "United States-Mexican border": "border crossed by potential illegal aliens, approximately 115 miles south of where the pickup truck camper was stopped"
+  }
+}

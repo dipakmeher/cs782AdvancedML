@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "South Texas"],
+    "NOUN_PHRASE": ["the desert"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where unlawful aliens were being transported",
+    "South Texas": "region where trafficking of illegal aliens occurred"
+  }
+}

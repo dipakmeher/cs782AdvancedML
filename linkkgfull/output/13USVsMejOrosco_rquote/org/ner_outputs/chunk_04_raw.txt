@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["court of appeals", "district court"],
+    "NOUN_PHRASE": ["the court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "court of appeals": "reviews the record and determines sentence validity",
+    "district court": "imposes sentences and judges witness credibility"
+  }
+}

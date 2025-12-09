@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the trial judge": "Judge Kazen",
+    "the jury": null,
+    "any witness": null,
+    "any attorney": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Judge Kazen": "Trial judge who instructed the jury to disregard any opinions or biases they might infer from his rulings or comments"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "U.S.-Mexican border": "United States-Mexican border",
+    "Interstate Highway 35": "Interstate Highway 35",
+    "border patrol": "United States Border Patrol",
+    "the border patrol agent": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexican border": "geographic boundary relevant to immigration and smuggling cases, with its proximity being a factor in justifying investigatory stops.",
+    "Interstate Highway 35": "highway where the stop occurred, commonly used for smuggling of aliens.",
+    "United States Border Patrol": "law enforcement agency involved in border surveillance, smuggling interception, and immigration inspections, with agents making stops based on reasonable suspicion."
+  }
+}

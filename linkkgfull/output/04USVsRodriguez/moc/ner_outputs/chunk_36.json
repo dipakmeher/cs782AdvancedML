@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a computer",
+      "a citation",
+      "a driver's license",
+      "insurance papers",
+      "vehicle registration"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

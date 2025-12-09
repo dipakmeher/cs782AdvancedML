@@ -1,0 +1,29 @@
+{
+  "RESOLVED_ENTITIES": {
+    "FM 2050": "Farm-to-Market Road 2050",
+    "U.S. 59": "U.S. 59",
+    "Texas Department of Transportation": "Texas Department of Transportation",
+    "Austin": "Austin",
+    "Laredo Division": "Laredo Division",
+    "TxDOT": "Texas Department of Transportation",
+    "Texas": "Texas",
+    "Freer checkpoint": "Freer immigration checkpoint",
+    "the Court": "Court",
+    "the mechanism": null,
+    "the area": "area near Corinth and Dallas",
+    "the road": "Farm-to-Market Road 2050",
+    "the type of vehicles": null,
+    "the direction of the vehicles": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Farm-to-Market Road 2050": "road where traffic patterns are being analyzed, with average daily traffic data available from 2011",
+    "U.S. 59": "road where traffic patterns are being analyzed, with average daily traffic data available from 2011",
+    "Texas Department of Transportation": "organization providing traffic data, including average daily traffic data for FM 2050 and U.S. 59",
+    "Austin": "location of the Transportation, Planning, and Programming Division of the Texas Department of Transportation",
+    "Laredo Division": "division of the Texas Department of Transportation responsible for traffic data in the Laredo area",
+    "Texas": "state where the roads and departments are located, with relevant traffic data from 2011",
+    "Freer immigration checkpoint": "location where Jorge Luis Trevino has worked, with knowledge of usual traffic patterns on FM 2050",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr.",
+    "area near Corinth and Dallas": "region where the events took place, with Corinth and Dallas being key locations in the suspected smuggling route"
+  }
+}

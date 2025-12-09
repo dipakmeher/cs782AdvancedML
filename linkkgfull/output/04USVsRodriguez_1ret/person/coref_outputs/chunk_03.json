@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the defendant": null,
+    "Ricardo Rodriguez, Jr.": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez, Jr.": "IGNACIO RODRIGUEZ, JR.",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Defendants": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "the officer": null,
+    "a United States Border Patrol agent": null,
+    "an officer of the Freer Police Department": null,
+    "the Court": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant in the case who had his vehicle stopped by a United States Border Patrol agent",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant in the case who was stopped by an officer of the Freer Police Department",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants indicted for transporting undocumented aliens within the United States"
+  }
+}

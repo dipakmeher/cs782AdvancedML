@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Corinth": "Corinth, Texas",
+    "Dallas": "Dallas, Texas",
+    "this time": null,
+    "the vicinity": "area near Corinth and Dallas",
+    "the roads": "roads in the vicinity of Corinth and Dallas",
+    "the area": "Big Bend area"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location mentioned as being thirty minutes apart from Dallas, relevant to the case context",
+    "Dallas, Texas": "location mentioned as being thirty minutes apart from Corinth, relevant to the case context",
+    "area near Corinth and Dallas": "region where the events took place, with Corinth and Dallas being key locations",
+    "roads in the vicinity of Corinth and Dallas": "routes that may have been used by the vehicles involved in the case",
+    "Big Bend area": "rural area with limited traffic, mostly used by local residents and workers, where vehicles with out-of-town registrations raised suspicions"
+  }
+}

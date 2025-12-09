@@ -1,0 +1,30 @@
+{
+  "RESOLVED_ENTITIES": {
+    "ten undocumented aliens": "ten undocumented aliens",
+    "the tractor-trailer": null,
+    "Zeba Williams": "Zeba Williams",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "Raymond McMillon": "Raymond McMillon",
+    "United States Border Patrol Agent Luis Pena": "Luis Pena",
+    "United States Border Patrol Agent Manuel Hernandez": "Manuel Hernandez",
+    "Aroxa": "Aroxa",
+    "contraband": null,
+    "undocumented aliens": "ten undocumented aliens",
+    "aliens": "ten undocumented aliens",
+    "the person": "ten undocumented aliens",
+    "the bed": null,
+    "the tractor-trailer's sleeper area": null,
+    "the tractor-trailer's rear sleeper area": null,
+    "the tractor-trailer's closets": null,
+    "the tractor-trailer's beds": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ten undocumented aliens": "hidden in the tractor-trailer's closets and beds",
+    "Zeba Williams": "co-defendant of Raymond McMillon, driver of the tractor-trailer at the immigration checkpoint stop",
+    "Ramon De La Cruz": "accompanied Zeba Williams to Laredo, passenger in the tractor-trailer",
+    "Raymond McMillon": "involved in a law case with Zeba Williams",
+    "Luis Pena": "United States Border Patrol Agent who approached the driver-side door of the tractor-trailer and questioned Zeba Williams and Ramon De La Cruz",
+    "Manuel Hernandez": "United States Border Patrol Agent who prepared to have his canine perform a sniff of the tractor-trailer's exterior steps",
+    "Aroxa": "canine used by Manuel Hernandez for inspection that alerted to the presence of contraband"
+  }
+}

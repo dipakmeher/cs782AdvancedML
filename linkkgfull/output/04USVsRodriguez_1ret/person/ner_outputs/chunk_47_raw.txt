@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Ricardo Rodriguez", "Agent Trevino"],
+    "NOUN_PHRASE": ["the defendant", "his counsel", "a smuggler", "a Border Patrolman", "a policeman"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ricardo Rodriguez": "Defendant",
+    "Agent Trevino": "Witness being cross-examined"
+  }
+}

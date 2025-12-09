@@ -1,0 +1,22 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Stanley Pruszenski",
+      "Alfred Baron",
+      "Maria De Jesus Garcia",
+      "Lourdes Rangel-Campos",
+      "United States"
+    ],
+    "NOUN_PHRASE": [
+      "the border",
+      "this country",
+      "the highway"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Stanley Pruszenski": "agent making the assessment",
+    "Alfred Baron": "agent making the assessment",
+    "Maria De Jesus Garcia": "vehicle driver",
+    "Lourdes Rangel-Campos": "vehicle occupant"
+  }
+}

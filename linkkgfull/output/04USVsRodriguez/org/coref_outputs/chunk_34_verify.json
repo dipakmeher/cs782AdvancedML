@@ -1,0 +1,24 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": null,
+    "United States Border Patrol": "United States Border Patrol",
+    "Freer Police Department": "Freer Police Department",
+    "the Court": "United States District Court",
+    "United States Magistrate Judge": "United States Magistrate Judge",
+    "J. Scott Hacker": "United States Magistrate Judge",
+    "District Judge": "United States District Court",
+    "Supreme Court": "Supreme Court of the United States",
+    "law enforcement officer": "law enforcement officer",
+    "United States Department of Homeland Security": "United States Department of Homeland Security",
+    "the Government": "United States Department of Homeland Security"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "court official responsible for the report and recommendation, analyzing reasonable suspicion in traffic stops",
+    "United States Border Patrol": "law enforcement agency involved in detecting illegal entry and smuggling, with agents having experience in evaluating circumstances related to reasonable suspicion",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop and investigation of IGNACIO RODRIGUEZ, JR., collaborating with United States Border Patrol agents",
+    "United States District Court": "court responsible for reviewing and deciding on motions related to immigration and border patrol cases, including reasonable suspicion analyses",
+    "Supreme Court of the United States": "the highest court in the land that has long held that reasonableness is the touchstone of analysis in determining reasonable suspicion, emphasizing the importance of considering all relevant factors",
+    "United States Department of Homeland Security": "Prohibits unreasonable searches and seizures, responsible for enforcing immigration laws and conducting investigations, with a focus on border security and smuggling prevention",
+    "law enforcement officer": "official responsible for enforcing laws and maintaining public order, with a critical role in detecting and preventing smuggling operations"
+  }
+}

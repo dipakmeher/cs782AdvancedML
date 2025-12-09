@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the phone", "the Allen charge"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

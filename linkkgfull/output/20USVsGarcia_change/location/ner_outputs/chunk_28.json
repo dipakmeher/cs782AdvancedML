@@ -1,0 +1,11 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the interior",
+      "the road",
+      "the car"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

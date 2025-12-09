@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the border patrol agents",
+      "the officer",
+      "the agent",
+      "the appellant"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

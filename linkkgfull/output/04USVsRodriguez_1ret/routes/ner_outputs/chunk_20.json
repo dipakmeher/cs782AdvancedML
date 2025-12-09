@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Interstate 35",
+      "Highway 16"
+    ],
+    "NOUN_PHRASE": [
+      "the best route"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Interstate 35": "the best route from Laredo, Texas to Dallas, Texas",
+    "Highway 16": "the route taken towards San Antonio"
+  }
+}

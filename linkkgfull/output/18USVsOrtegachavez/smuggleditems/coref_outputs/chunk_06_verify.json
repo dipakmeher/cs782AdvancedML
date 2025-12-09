@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the witnesses": "U.S. Government Attorney rebuttal witnesses",
+    "Alfredo Ortega-Chavez's alibi witnesses": "Graciela Castaneda",
+    "the U.S. Government Attorney": "U.S. Government Attorney",
+    "rebuttal witnesses": "Ramon Gonzalez Sanchez's father and Ramon Gonzalez Sanchez's mother",
+    "the scene of the alleged offense": null,
+    "Alfredo Ortega-Chavez": "Alfredo Ortega-Chavez"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "U.S. Government Attorney rebuttal witnesses": "witnesses testifying against Alfredo Ortega-Chavez's alibi, including Ramon Gonzalez Sanchez's father and mother",
+    "Graciela Castaneda": "Alfredo Ortega-Chavez's witness providing alibi testimony",
+    "U.S. Government Attorney": "prosecutor in the case against Alfredo Ortega-Chavez, responsible for disclosing witness information",
+    "Ramon Gonzalez Sanchez's father and Ramon Gonzalez Sanchez's mother": "rebuttal witnesses whose testimony confirmed Alfredo Ortega-Chavez was in Sabinas Hidalgo on November 21 and 22, thus rebutting Graciela Castaneda's alibi",
+    "Alfredo Ortega-Chavez": "defendant and appellant in a case involving conspiracy and aiding and abetting the smuggling of undocumented aliens into the United States"
+  }
+}

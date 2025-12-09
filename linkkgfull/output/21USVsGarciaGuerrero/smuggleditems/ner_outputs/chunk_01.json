@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "undocumented alien"
+    ],
+    "NOUN_PHRASE": [
+      "an undocumented alien",
+      "the alien"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "undocumented alien": "individual being smuggled"
+  }
+}

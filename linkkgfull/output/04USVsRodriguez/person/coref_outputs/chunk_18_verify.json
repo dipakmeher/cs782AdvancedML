@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Marco Montemayor": "Marco Montemayor",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the primary Border Patrol agent": "Jorge Luis Trevino",
+    "his partner": "Marco Montemayor",
+    "another HSI agent": null,
+    "a Border Patrol intel officer": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security who interviewed Ricardo and Ignacio Rodriguez",
+    "RICARDO RODRIGUEZ, JR.": "Defendant who appeared to concede that the route taken would be convenient for smugglers and suggested alternative routes for smugglers to avoid detection, testified in a hearing about his vehicle not going off the road",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant involved in a case regarding alien smuggling, whose vehicle was stopped by Officer Reyes for failing to use a turn signal, and who appeared extremely nervous during the stop, was transported to the checkpoint by Agent Benavides for further questioning",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about the black truck and camper, and noted that smugglers often use rental cars to avoid losing their own vehicles if caught"
+  }
+}

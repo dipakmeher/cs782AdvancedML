@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Ramon De La Cruz",
+      "Jorge Miguel Hernandez-Gomez",
+      "Raymond McMillon"
+    ],
+    "NOUN_PHRASE": [
+      "the alien",
+      "the aliens",
+      "the tractor-trailer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Ramon De La Cruz": "an alien transported by Raymond McMillon",
+    "Jorge Miguel Hernandez-Gomez": "an alien transported by Raymond McMillon",
+    "Raymond McMillon": "the defendant who transported the aliens"
+  }
+}

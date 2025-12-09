@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the two vehicles",
+      "the black truck",
+      "the white sedan",
+      "the load car",
+      "the scout car",
+      "the other vehicle",
+      "the defendant's vehicle"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

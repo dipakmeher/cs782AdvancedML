@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the two vehicles": "white Malibu sedan and black Dodge pickup truck",
+    "the small passenger-style vehicle": "white Malibu sedan",
+    "the non-work truck": "black Dodge pickup truck",
+    "the white sedan": "white Malibu sedan",
+    "the black truck": "black Dodge pickup truck",
+    "a car": null,
+    "the truck": "black Dodge pickup truck",
+    "the vehicle": null,
+    "a vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "white Malibu sedan": "a vehicle mentioned as a white sedan, involved in the incident at the Freer immigration checkpoint, lacked a wind farm sticker, designed to hold five people, stopped by Agent Trevino and found to be transporting illegals, registered to Dallas-Fort Worth as a rental vehicle",
+    "black Dodge pickup truck": "a black truck with a camper, suspected of being used to transport illegal aliens, lacked a wind farm sticker, believed to be connected to the white Malibu sedan, subject of a BOLO, stopped by Officer Reymundo Reyes for not using a turning signal, registered to Corinth, Texas",
+    "white Malibu sedan and black Dodge pickup truck": "vehicles jointly involved in the incident at the Freer immigration checkpoint, with out-of-town registrations"
+  }
+}

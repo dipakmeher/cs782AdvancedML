@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "the Border Patrol agents": "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.",
+    "a person": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose motion to suppress was recommended for denial by the Magistrate Judge, testified that he did not feel free to leave after being handed his citation because Officer Reyes said he didn't know what time buses would arrive and that Ignacio Rodriguez needed to wait for Border Patrol agents",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who testified about road conditions during a hearing, specifically regarding Farm-to-Market Road 2050, and explained vehicle encounters, noted an observation of Ricardo Rodriguez's vehicle, testified during cross examination, approached a car with five passengers which was riding low due to the number of people",
+    "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.": "Border Patrol agents involved in the investigation of suspicious vehicles on FM 2050"
+  }
+}

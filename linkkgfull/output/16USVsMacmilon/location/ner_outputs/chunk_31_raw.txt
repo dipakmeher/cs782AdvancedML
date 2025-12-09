@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States"],
+    "NOUN_PHRASE": ["this circuit"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where aliens were smuggled into"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States of America", "Article III"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States of America": "refers to the country imposing a self-restriction for judicial efficiency",
+    "Article III": "part of the legal framework relevant to the case"
+  }
+}

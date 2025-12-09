@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Border Patrol"
+    ],
+    "NOUN_PHRASE": [
+      "the rear of the vehicle",
+      "the roadway"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Border Patrol": "refers to a law enforcement agency involved in the case"
+  }
+}

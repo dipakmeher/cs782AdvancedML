@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the agency": "United States Border Patrol",
+    "Agent Jorge Luis Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050",
+    "Freer immigration checkpoint": "Freer Immigration Checkpoint",
+    "the wind farm near Farm-to-Market Road 2050": null,
+    "oilfield trucks": null,
+    "tankers": null,
+    "utility trucks": null,
+    "Ford F-150s": null,
+    "Ford F-250s": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "border patrol agency with agents working near Farm-to-Market Road 2050, noticing drop-offs and recognizing most vehicles on the road",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who testified about the usage of Farm-to-Market Road 2050, recognizing most vehicles and being familiar with the area",
+    "Farm-to-Market Road 2050": "road used primarily by ranchers and oil trucks, with occasional small cars from a nearby wind farm, and a location where United States Border Patrol agents conduct inspections",
+    "Freer Immigration Checkpoint": "location where Agent Trevino was stationed and conducted inspections; checkpoint avoided by smugglers"
+  }
+}

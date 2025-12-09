@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "cocaine": "cocaine",
+    "the cocaine": "cocaine",
+    "the documents": null,
+    "the 1996 Mercury Cougar": null,
+    "the side panel": null,
+    "drug evidence": "cocaine",
+    "the drug evidence": "cocaine",
+    "the United States of America": "United States of America",
+    "the United States Court of Appeals": "United States Court of Appeals",
+    "the motion for a determination of excusable neglect or good cause": null,
+    "the appeal": null,
+    "the case": null,
+    "United States of America": "United States of America",
+    "the defendant": null,
+    "the motion to subpoena the footage": null,
+    "the subpoena": null,
+    "the videotape": null,
+    "the footage": null,
+    "the evidence": null,
+    "the district court": null,
+    "the defendant Smith": "defendant Smith",
+    "Smith": "defendant Smith",
+    "the suppressed evidence": null,
+    "the proceeding": null,
+    "the decision": null,
+    "the notice of appeal": null,
+    "the acquittal": null,
+    "the guilty verdict": null,
+    "Raul Rafael Arce-Jasso": "Raul Rafael Arce-Jasso"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "cocaine": "evidence discovered during an immigration stop on Interstate 35, subject of appeal regarding suppression order",
+    "United States of America": "party in the appeal, appellant regarding post-verdict suppression order, responsible for filing notice of appeal within 30 days after suppression decision is final",
+    "United States Court of Appeals": "court hearing the appeal",
+    "defendant Smith": "indicted suspect in an arson case, joined United States of America on the motion to subpoena footage",
+    "Raul Rafael Arce-Jasso": "defendant in a criminal case involving cocaine discovered during an immigration stop"
+  }
+}

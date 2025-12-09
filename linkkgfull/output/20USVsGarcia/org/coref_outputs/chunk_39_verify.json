@@ -1,0 +1,9 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the jury": null,
+    "the district court": "United States District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "Court handling post-trial procedures, determining the relevance and propriety of juror questioning, and making decisions on stops by immigration agents. This Court has repeatedly stated that a vital element of the Brignoni-Ponce standard is whether the agent had reason to believe that the pickup truck camper in question had come from the United States-Mexican border. The court also provides guidance to jurors during deliberations, encouraging them to continue discussing and considering the evidence presented. Additionally, it handles motions for post-verdict discovery and determines the admissibility of information obtained through juror questioning, including restrictions on post-trial questioning of jurors."
+  }
+}

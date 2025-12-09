@@ -1,0 +1,21 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon",
+      "Agent Pena",
+      "Williams",
+      "Agent Hernandez"
+    ],
+    "NOUN_PHRASE": [
+      "the district court",
+      "the Government",
+      "the Agents"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "Appellant",
+    "Agent Pena": "Government Agent",
+    "Williams": "Individual who gave consent",
+    "Agent Hernandez": "Government Agent"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo",
+    "San Antonio": "San Antonio",
+    "Dallas": "Dallas",
+    "this sort of truck and trailer combination": null,
+    "the truck": null,
+    "the trailer": null,
+    "the scissor lift": null,
+    "the battery charger area": null,
+    "the tires of the scissor left": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo": "location where the trailer's license plate was registered to Daniel Martin Huerta",
+    "San Antonio": "location where the truck's license plate was registered to Daniel A. Huerta",
+    "Dallas": "ultimate destination of Federico Saldana's trip for repairs"
+  }
+}

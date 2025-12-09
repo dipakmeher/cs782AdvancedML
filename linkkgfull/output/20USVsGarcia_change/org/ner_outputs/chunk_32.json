@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "Maria De Jesus Garcia",
+      "United States v. Pacheco",
+      "United States v. Orona-Sanchez",
+      "United States v. Maria De Jesus Garcia"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced in court cases",
+    "Maria De Jesus Garcia": "court case name",
+    "United States v. Pacheco": "court case name",
+    "United States v. Orona-Sanchez": "court case name",
+    "United States v. Maria De Jesus Garcia": "court case name"
+  }
+}

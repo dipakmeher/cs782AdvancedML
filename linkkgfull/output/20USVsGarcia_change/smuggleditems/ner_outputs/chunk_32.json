@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "twenty-two people",
+      "the pickup truck camper"
+    ],
+    "NOUN_PHRASE": [
+      "the cargo"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "twenty-two people": "people carried by the pickup truck camper",
+    "the pickup truck camper": "vehicle carrying smuggled individuals"
+  }
+}

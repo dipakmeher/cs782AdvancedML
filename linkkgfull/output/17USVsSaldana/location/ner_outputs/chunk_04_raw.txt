@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the lane"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

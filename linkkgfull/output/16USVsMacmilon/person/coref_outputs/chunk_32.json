@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "McMillon": "Raymond McMillon",
+    "De La Cruz": "Ramon De La Cruz",
+    "Hernandez-Gomez": "Jorge Miguel Hernandez-Gomez",
+    "the defendant": "Raymond McMillon",
+    "the jury": null,
+    "the district court": null,
+    "the Government": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "defendant identified as the person motioning for aliens to hide, wore white clothing and a blinking cellular Bluetooth Device during the incident, argued against conspiracy conviction, and was convicted of alien transportation offenses",
+    "Ramon De La Cruz": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, and entered the United States unlawfully",
+    "Jorge Miguel Hernandez-Gomez": "unlawful alien testifying at trial, identified McMillon as the person motioning for them to hide, arranged to pay thousands of dollars to be smuggled into the United States, and entered the United States unlawfully"
+  }
+}

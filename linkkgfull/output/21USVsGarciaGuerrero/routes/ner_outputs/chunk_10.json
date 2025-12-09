@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "a very dangerous way to travel",
+      "this particular offense",
+      "the bed of a pickup truck",
+      "highway driving"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Hertz", "Hertz Dallas-Fort Worth"],
+    "NOUN_PHRASE": ["the Hertz rental car company", "the company"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Hertz": "rental car company",
+    "Hertz Dallas-Fort Worth": "specific location of Hertz rental car company"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["narcotics"],
+    "NOUN_PHRASE": ["the large white Ford pickup truck", "tool boxes", "a gas tank", "an air tank"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "narcotics": "recently smuggled in the Alpine, Texas area"
+  }
+}

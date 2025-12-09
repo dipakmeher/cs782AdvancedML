@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "J.M.E."
+    ],
+    "NOUN_PHRASE": [
+      "the court",
+      "the juvenile",
+      "a trial court",
+      "the juvenile court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "J.M.E.": "a juvenile who pled true to violating a condition of probation"
+  }
+}

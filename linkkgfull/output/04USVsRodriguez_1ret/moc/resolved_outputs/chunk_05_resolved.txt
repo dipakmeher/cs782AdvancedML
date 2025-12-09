@@ -1,0 +1,3 @@
+There is no text to resolve. The TEXT_CHUNK provided does not contain any actual text that needs coreference resolution based on the RESOLVED_ENTITIES dictionary. It appears to be a placeholder or an instruction rather than an actual text excerpt from a legal document that requires entity replacement.
+
+To proceed with the task as instructed, I would need a valid TEXT_CHUNK containing aliases or references to organizations that can be mapped to their canonical names using the RESOLVED_ENTITIES dictionary. Without this, there is no text to resolve or modify according to the provided instructions and mappings.

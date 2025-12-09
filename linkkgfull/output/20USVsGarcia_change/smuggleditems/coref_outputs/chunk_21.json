@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "illegal aliens": "undocumented aliens",
+    "a heavy load": null,
+    "the pickup truck camper": "pickup truck camper",
+    "a heavy load of produce": null,
+    "a heavy load of livestock": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "undocumented aliens": "individuals being smuggled, possibly hidden in a vehicle with fogged windows on a cold night, characterized by unwashed and unkempt appearance, suspected to be in vehicles stopped by Border Patrol agents near the United States-Mexican border, attempting to evade detection, exhibiting efforts to avoid detection by ducking and scrambling, admitted to being undocumented, including three women and five or six men found in a pickup truck camper, perceived as a social problem in controlling hordes from Mexico, unwashed and unkempt, scrambling when approached by Border Patrol agents",
+    "pickup truck camper": "vehicle used for smuggling undocumented aliens on Interstate Highway 35, characterized by heavy loading and difficulty in handling, subject of a suppression motion regarding evidence obtained during its stop and search, with factors such as appearance, behavior of the driver, and number and appearance of passengers considered in determining justification for the stop, stopped more than 100 miles from the United States-Mexican border, often having fogged windows, exhibiting an unusually heavy and overloaded appearance, stopped 115 miles north of the United States-Mexican border"
+  }
+}

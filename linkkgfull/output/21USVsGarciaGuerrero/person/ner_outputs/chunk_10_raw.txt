@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Cuyler", "Garcia"],
+    "NOUN_PHRASE": ["the defendant", "the district court", "the court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Cuyler": "referenced in a case",
+    "Garcia": "arguing against an enhancement"
+  }
+}

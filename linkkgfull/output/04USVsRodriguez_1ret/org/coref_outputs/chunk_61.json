@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the agency": "United States Border Patrol",
+    "the department": "United States Department of Homeland Security",
+    "the District Judge": "United States District Judge",
+    "the Magistrate Judge": "United States Magistrate Judge",
+    "the parties": null,
+    "United States Magistrate Judge": "United States Magistrate Judge"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Magistrate Judge": "judge who signed the Report and Recommendation, making recommendations based on articulable factors indicating that illegal activity might be afoot",
+    "United States District Judge": "judge who conducts independent review of motions to suppress and reviews the findings, conclusions, and recommendations of the Magistrate Judge",
+    "United States Border Patrol": "involved in the stop of RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.; considered the behavior of vehicles' drivers in determining reasonable suspicion to stop; followed suspicious vehicles for approximately five minutes; conducted a roving stop; familiar with most vehicles on Farm-to-Market Road 2050; interacted with law enforcement during the traffic stop; involved in the arrest and questioning of IGNACIO RODRIGUEZ, JR.; location of questioning; had sufficient evidence to conclude that two vehicles were driving in tandem",
+    "United States Department of Homeland Security": "received information regarding attempted alien smuggling events; conducted interviews at the Freer immigration checkpoint; involved in the prosecution of individuals and bears the burden of proving that stops were constitutional"
+  }
+}

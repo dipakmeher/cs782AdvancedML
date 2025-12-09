@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Trevino": "Jorge Luis Trevino",
+    "the agent": "Jorge Luis Trevino",
+    "the officer": "Reymundo Reyes",
+    "two Border Patrol agents": "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Jorge Luis Trevino": "United States Border Patrol Agent with nearly seven years of experience, stationed at the Freer checkpoint for a year and a half, familiar with ninety to ninety-five percent of the vehicles passing down FM 2050",
+    "Reymundo Reyes": "Officer of the Freer Police Department who conducted a traffic stop on Ignacio Rodriguez's black truck, observed Ignacio Rodriguez's nervous behavior during the stop, and decided to impound the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership, informed by Agent Benavides",
+    "Jorge Luis Trevino and IGNACIO RODRIGUEZ, JR.": "Border Patrol agents involved in the investigation of suspicious vehicles on FM 2050"
+  }
+}

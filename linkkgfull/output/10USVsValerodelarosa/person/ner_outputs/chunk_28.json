@@ -1,0 +1,26 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Valero-De La Rosa",
+      "United States",
+      "Mexico",
+      "Rio Grande River",
+      "Laredo",
+      "Texas",
+      "Valero",
+      "Nuevo Laredo",
+      "Tamaulipas"
+    ],
+    "NOUN_PHRASE": [
+      "the United States Probation Officer",
+      "his mother",
+      "his siblings",
+      "the defendant",
+      "the probation officer"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Valero-De La Rosa": "defendant",
+    "Valero": "defendant, also referred to as Valero-De La Rosa"
+  }
+}

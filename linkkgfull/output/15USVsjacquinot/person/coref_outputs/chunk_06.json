@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Graham": "Andrew P. Graham",
+    "Graham": "Andrew P. Graham",
+    "Agents Graham": null,
+    "Agent Snodgrass": "Jay Snodgrass",
+    "Snodgrass": "Jay Snodgrass",
+    "the agents": "Andrew P. Graham and Jay Snodgrass",
+    "the truck": null,
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Andrew P. Graham": "Border Patrol Agent with three years of experience, involved in at least 30 narcotics cases and 15 to 20 alien smuggling cases, suspicious of potential lead and load cars, followed a late model four-door sedan during surveillance, observed a work truck with a Kansas license plate on a Sunday morning, experienced in recognizing unusual vehicle behavior",
+    "Jay Snodgrass": "Border Patrol Agent with eleven years of experience, previously served at the Marfa Sector Area Operations Center and the Laredo, Texas, border area, participated in surveillance near the United States/Mexican border",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents who testified in the evidentiary hearing and were involved in surveillance near the United States/Mexican border"
+  }
+}

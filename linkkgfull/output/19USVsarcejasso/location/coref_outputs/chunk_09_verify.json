@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this Court": "District Court",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "the party filing notice to appeal, appellant in a case where the timing requirements for appeals are under examination",
+    "District Court": "court reviewing the appeal in the current case, with jurisdiction over the appeal process",
+    "district court": "trial court whose decision is under appeal by the United States of America, with rules governing appeals and certification requirements"
+  }
+}

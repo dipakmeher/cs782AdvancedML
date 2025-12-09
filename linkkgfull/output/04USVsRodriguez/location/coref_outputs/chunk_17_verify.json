@@ -1,0 +1,21 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Highway 59": "Highway 59",
+    "Highway 16": "Highway 16",
+    "Freer": "Freer, Texas",
+    "Hebbronville": "Hebbronville",
+    "Dallas, Texas": "Dallas, Texas",
+    "the intersection": "Highway 59 and Highway 16",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "Country where the legal proceedings are taking place, country of jurisdiction",
+    "Freer, Texas": "location of police department and origin of Officer Reymundo Reyes, location of Freer immigration checkpoint",
+    "Highway 59": "location of traffic stop, connecting highway that could be used by smugglers to transport undocumented aliens",
+    "Highway 16": "location of traffic stop, route for picked up aliens",
+    "Hebbronville": "origin of Defendant's journey, location with a checkpoint on U.S. 359",
+    "Dallas, Texas": "destination of Defendant's journey, city mentioned in relation to distance from Corinth",
+    "Highway 59 and Highway 16": "location of traffic stop and intersection where Agent Benavides met Officer Reyes"
+  }
+}

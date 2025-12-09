@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Laredo": "Laredo, Texas",
+    "Dallas, Texas": "Dallas, Texas",
+    "the vehicle": null,
+    "the route": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Laredo, Texas": "City located on the US-Mexico border with high smuggling activity, origin of travel for IGNACIO RODRIGUEZ, JR.",
+    "Dallas, Texas": "Destination of travel for IGNACIO RODRIGUEZ, JR., a major city in Texas"
+  }
+}

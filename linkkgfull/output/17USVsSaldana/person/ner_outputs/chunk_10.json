@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Bennett",
+      "Saldana"
+    ],
+    "NOUN_PHRASE": [
+      "the officers",
+      "the dog",
+      "the Court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Bennett": "testified about the dog's alerts",
+    "Saldana": "drove the truck and trailer to a tire shop"
+  }
+}

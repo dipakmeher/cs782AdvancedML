@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the black Dodge pickup truck": "the black Dodge pickup truck",
+    "IGNACIO RODRIGUEZ, JR.'s vehicle": "the black Dodge pickup truck",
+    "the vehicle": "the black Dodge pickup truck",
+    "Freer Police Department's communication device": null,
+    "law enforcement officer's communication equipment": null,
+    "the citation": "a traffic citation"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the black Dodge pickup truck": "Vehicle driven by IGNACIO RODRIGUEZ, JR., searched and impounded due to lack of insurance information",
+    "a traffic citation": "Document issued to IGNACIO RODRIGUEZ, JR. for a traffic violation"
+  }
+}

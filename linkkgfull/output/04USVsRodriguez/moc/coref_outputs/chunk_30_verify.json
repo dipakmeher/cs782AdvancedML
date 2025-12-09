@@ -1,0 +1,22 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicle's driver": "RICARDO RODRIGUEZ, JR.",
+    "a vehicle": "the white Malibu sedan",
+    "two cars": null,
+    "two vehicles": "the white Malibu sedan and the black Dodge pickup truck",
+    "the checkpoint": "United States Border Patrol Freer immigration checkpoint",
+    "the roadway": "Farm-to-Market Road 2050",
+    "one vehicle": "the white Malibu sedan",
+    "another vehicle": null,
+    "the load car": null,
+    "the lead car": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant and individual related to IGNACIO RODRIGUEZ, JR.",
+    "IGNACIO RODRIGUEZ, JR.": "Driver of the black Dodge pickup truck, subject of the traffic stop",
+    "the white Malibu sedan": "Rental vehicle registered to Hertz Dallas-Fort Worth, driven by IGNACIO RODRIGUEZ, JR.",
+    "the black Dodge pickup truck": "Vehicle registered to Corinth, Texas, driven by IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol Freer immigration checkpoint": "Checkpoint near the intersection of Mills Bennett Road and Farm-to-Market Road 2050",
+    "Farm-to-Market Road 2050": "Road where United States Border Patrol encountered the two vehicles, known for its rural and ranching activities"
+  }
+}

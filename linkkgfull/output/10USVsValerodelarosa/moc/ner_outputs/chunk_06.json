@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the Report",
+      "the Recommendation",
+      "a presentence report",
+      "the United States Sentencing Commission",
+      "the United States Probation Office"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

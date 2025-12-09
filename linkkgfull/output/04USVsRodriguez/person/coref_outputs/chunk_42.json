@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Agent Benavides": "Hugo Benavides",
+    "Agent Trevino": "Jorge Luis Trevino",
+    "Ricardo Rodriguez": "RICARDO RODRIGUEZ, JR.",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the driver": "IGNACIO RODRIGUEZ, JR.",
+    "his supervisor": null,
+    "the black truck's registered owner": "IGNACIO RODRIGUEZ, JR."
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Hugo Benavides": "United States Border Patrol Agent who questioned Defendant at the Border Patrol station and was informed about the smuggling suspicions before making contact with Ignacio Rodriguez",
+    "Jorge Luis Trevino": "United States Border Patrol Agent who encountered suspicious vehicles on FM 2050, including a white sedan and a black truck, and radioed for backup",
+    "RICARDO RODRIGUEZ, JR.": "Defendant in the case who had his vehicle stopped by a United States Border Patrol agent, driver of the white sedan, and was arrested",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant stopped by Officer Reyes, driver of the black truck, exhibited nervous behavior during the stop, claimed the vehicle belonged to his aunt and then his cousin, transported to a checkpoint for further questioning, contends that Officer Reyes exceeded the scope of a traffic stop, subject to an 'unlawful arrest' without probable cause, and was traveling to Dallas",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants indicted for transporting undocumented aliens within the United States, stopped near the Mexico border, with vehicles riding in tandem"
+  }
+}

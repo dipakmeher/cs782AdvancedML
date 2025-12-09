@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "this circuit": "United States Court of Appeals for the Fifth Circuit",
+    "the border": "United States-Mexican border",
+    "an interstate highway": "Interstate Highway 35",
+    "Texas": "Texas",
+    "Mexico/United States border": "United States-Mexican border"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Court of Appeals for the Fifth Circuit": "federal court that reviews cases related to border patrol stops and provides guidance to jurors on their duties and responsibilities, also responsible for giving instructions to the jury",
+    "United States-Mexican border": "geographical boundary relevant to the case and the Brignoni-Ponce test, with Interstate 35 being a common route leading to it",
+    "Interstate Highway 35": "highway where stops by border patrol agents may occur, commonly used for smuggling of aliens, and known for its reputation as a common smuggling route, with other highways intersecting it near the border",
+    "Texas": "location where the pickup truck was stopped, approximately 115 miles north of the Mexican border"
+  }
+}

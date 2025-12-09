@@ -1,0 +1,25 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Border Patrol": "United States Border Patrol",
+    "the wind farm near Farm-to-Market Road 2050": null,
+    "San Pablo Road": "San Pablo Road",
+    "Agent Trevino": "United States Border Patrol Agent Jorge Luis Trevino",
+    "white Malibu sedan": "white Malibu sedan",
+    "RICARDO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR.",
+    "United States citizen": null,
+    "Mexicans": null,
+    "black Dodge pickup truck": "black Dodge pickup truck",
+    "Dallas, Texas": "Dallas, Texas",
+    "Farm-to-Market Road 2050": "Farm-to-Market Road 2050"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Border Patrol": "border patrol agency with agents working near Farm-to-Market Road 2050, noticing drop-offs and recognizing most vehicles on the road; aware of local traffic patterns and vehicle characteristics",
+    "San Pablo Road": "road where the Moglia ranch house and Stag ranch trailer are located, with unknown land ownership",
+    "United States Border Patrol Agent Jorge Luis Trevino": "agent who followed the vehicles and made observations, noting suspicious behavior of passengers in the white Malibu sedan; initiated a stop of the white Malibu sedan due to accumulated facts",
+    "white Malibu sedan": "vehicle involved in the smuggling operation, with passengers exhibiting suspicious behavior such as sitting stiff and not communicating with each other; stopped by Agent Trevino near Farm-to-Market Road 2050",
+    "RICARDO RODRIGUEZ, JR.": "defendant associated with the white Malibu sedan, claimed to be a United States citizen but was transporting undocumented individuals",
+    "black Dodge pickup truck": "vehicle that appeared to be used for transporting illegal aliens, believed by Agent Trevino to be connected to the white Malibu sedan due to tandem travel and shared origin in Dallas, Texas",
+    "Dallas, Texas": "city where the vehicles originated, mentioned as a reference point for the location of the smuggling operation",
+    "Farm-to-Market Road 2050": "road where Agent Trevino encountered suspicious vehicles and raised his suspicions due to its unusual route for out-of-town vehicles; location of the stop of the white Malibu sedan"
+  }
+}

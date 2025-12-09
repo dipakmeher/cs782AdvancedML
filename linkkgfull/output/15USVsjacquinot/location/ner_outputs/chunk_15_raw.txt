@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Alpine", "Alpine area", "Border Patrol", "Andrew P. Graham", "Jay Snodgrass", "district court", "Highway 385", "Highway 90"],
+    "NOUN_PHRASE": ["the region", "this factor", "the stop sign", "the school zone", "the intersection", "the nearest town", "the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Alpine": "location where agents had experience and towards which the truck was traveling",
+    "Alpine area": "region where Agent Andrew P. Graham and Agent Jay Snodgrass served as Border Patrol agents",
+    "Highway 385": "road at an intersection where the driver stopped",
+    "Highway 90": "road with a posted speed limit of 20 miles per hour"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the aliens",
+      "border patrol agents",
+      "one member of the group"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "individual whose advice on journey length was inaccurate"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a piece of heavy machinery": null,
+    "the flatbed trailer": "flatbed trailer towed by the 2008 Chevrolet truck",
+    "the 2008 Chevrolet truck driven by Federico Saldana and the flatbed trailer towed by the 2008 Chevrolet truck": "2008 Chevrolet truck driven by Federico Saldana and flatbed trailer towed by the 2008 Chevrolet truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "flatbed trailer towed by the 2008 Chevrolet truck": "Trailer searched by Williamson County Sheriff's Office after obtaining consent from Federico Saldana, transporting a scissor lift with new paint job and corrugated metal plates under the tires, veered onto Interstate 35 before the traffic stop",
+    "2008 Chevrolet truck driven by Federico Saldana and flatbed trailer towed by the 2008 Chevrolet truck": "Vehicle and trailer combination involved in a traffic stop due to unsafe lane changes and near-collisions, searched by Williamson County Sheriff's Office"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Benavides",
+      "Ignacio Rodriguez"
+    ],
+    "NOUN_PHRASE": [
+      "the Defendant",
+      "Agent Benavides"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "Border Patrol agent",
+    "Ignacio Rodriguez": "Defendant"
+  }
+}

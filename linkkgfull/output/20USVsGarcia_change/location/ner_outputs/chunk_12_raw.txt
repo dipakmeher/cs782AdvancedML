@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["this case", "Friday afternoon", "the jury"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

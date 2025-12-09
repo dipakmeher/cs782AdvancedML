@@ -1,0 +1,16 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the truck's occupants",
+      "a border patrol agent",
+      "the Hispanic occupants",
+      "any other poor and disheveled American of Hispanic descent"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "individual stopped by border patrol"
+  }
+}

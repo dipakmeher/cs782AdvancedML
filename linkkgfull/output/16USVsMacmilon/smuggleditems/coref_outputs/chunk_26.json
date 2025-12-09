@@ -1,0 +1,18 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Raymond McMillon": "Raymond McMillon",
+    "the United States District Court": "United States District Court",
+    "the Speedy Trial Act": "Speedy Trial Act",
+    "Ramon De La Cruz": "Ramon De La Cruz",
+    "the motion to dismiss": null,
+    "the continuance motions": null,
+    "the ends-of-justice findings": null,
+    "the January 20 hearing": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Raymond McMillon": "made arguments regarding the Speedy Trial Act and the exclusion of delay periods related to his continuance motions",
+    "United States District Court": "granted continuances and entered ends-of-justice findings, which were used to determine the exclusion of delay periods under the Speedy Trial Act",
+    "Speedy Trial Act": "governs the timing of trials and requires the United States District Court to enter ends-of-justice findings to support continuances",
+    "Ramon De La Cruz": "defendant whose case was affected by the United States District Court's granting of continuances and entry of ends-of-justice findings"
+  }
+}

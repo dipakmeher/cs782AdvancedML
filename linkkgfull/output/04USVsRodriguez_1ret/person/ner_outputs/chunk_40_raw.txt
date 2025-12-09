@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Benavides", "Defendant"],
+    "NOUN_PHRASE": ["the Supreme Court", "the Border Patrol station", "the Defendant"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Benavides": "law enforcement agent",
+    "Defendant": "individual being questioned"
+  }
+}

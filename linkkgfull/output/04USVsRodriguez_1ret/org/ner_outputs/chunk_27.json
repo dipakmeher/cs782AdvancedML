@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Freer Police Department"
+    ],
+    "NOUN_PHRASE": [
+      "the police department"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Freer Police Department": "the department Officer Reymundo Reyes works for"
+  }
+}

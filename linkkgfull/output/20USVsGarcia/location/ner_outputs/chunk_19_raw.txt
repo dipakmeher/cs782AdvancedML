@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["border"],
+    "NOUN_PHRASE": ["the truck"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "border": "point of origin for potentially smuggling illegal aliens"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States of America": "United States of America",
+    "this Court": "court of appeals",
+    "the district court": "district court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States of America": "party in the case, appellant arguing for excusable neglect or good cause for untimely appeal",
+    "court of appeals": "court reviewing the United States of America's appeal from a district court decision",
+    "district court": "court that made a decision being appealed by the United States of America"
+  }
+}

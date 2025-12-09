@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the vehicle": null,
+    "the cars": null,
+    "the trucks": null,
+    "a bus": "bus",
+    "canoes": "canoes",
+    "a motor vehicle": null,
+    "a vessel": null,
+    "his extended cab pickup truck": "extended cab pickup truck",
+    "the cab of the truck": "pickup truck",
+    "the bed of a pickup truck": "pickup truck",
+    "a pickup truck": "pickup truck",
+    "vehicular transportation": null,
+    "the pickup truck": "pickup truck"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "bus": "Used to transport undocumented aliens from San Luis, Potosi, Mexico to Nuevo Laredo",
+    "extended cab pickup truck": "Vehicle used to transport seven undocumented aliens in the cab and four in the bed for financial gain; involved in reckless conduct by carrying aliens in the cab and bed",
+    "pickup truck": "Involved in transporting unrestrained aliens, posing a substantial risk of death or serious bodily injury; also used to carry aliens in the cab and bed; used to transport aliens in a manner that creates a substantial risk of death or serious bodily injury due to the possibility of being thrown from the bed during accidents or driving maneuvers; transported illegal aliens for money",
+    "canoes": "Used to cross the Rio Grande River"
+  }
+}

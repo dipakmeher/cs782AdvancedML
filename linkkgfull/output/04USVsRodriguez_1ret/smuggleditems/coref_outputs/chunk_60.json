@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States Magistrate Judge": "United States Department of Homeland Security",
+    "Defendant IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "the United States District Judge": "United States Department of Homeland Security",
+    "IGNACIO RODRIGUEZ, JR.'s Motion to Suppress": null,
+    "Defendants RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.'s Motions to Suppress": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant associated with a white Malibu sedan and charged with transporting undocumented aliens",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant associated with a black Dodge pickup truck and involved in a traffic stop on Farm-to-Market Road 2050, transported to the United States Border Patrol station for questioning",
+    "RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.": "Defendants with motions to suppress recommended for denial by the United States Magistrate Judge",
+    "United States Department of Homeland Security": "Law enforcement agency involved in the incident, with agents conducting interviews and ensuring defendants understand their rights"
+  }
+}

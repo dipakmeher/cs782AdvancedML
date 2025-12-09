@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States district court": "United States District Court",
+    "federal district court": "United States District Court",
+    "the federal district court jury": "United States District Court Jury"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court that judged the case and where the trial took place, with a judge who denied a defense motion for mistrial and instructed the jury to continue deliberation",
+    "United States District Court Jury": "jury that was given instructions to continue deliberation after indicating deadlock, deliberated for approximately 2 hours before sending a note to the judge stating they had not reached a unanimous decision, and later returned a guilty verdict"
+  }
+}

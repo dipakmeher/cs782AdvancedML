@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino", "Ricardo Rodriguez"],
+    "NOUN_PHRASE": ["the driver of the vehicle", "the passengers", "the trunk passengers", "Border Patrol Agent"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "Border Patrol Agent",
+    "Ricardo Rodriguez": "driver of the vehicle and a United States citizen"
+  }
+}

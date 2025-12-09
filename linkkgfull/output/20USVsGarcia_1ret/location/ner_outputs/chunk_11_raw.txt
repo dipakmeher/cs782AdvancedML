@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States"],
+    "NOUN_PHRASE": ["this circuit", "this case", "this Court"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where the court case is being held"
+  }
+}

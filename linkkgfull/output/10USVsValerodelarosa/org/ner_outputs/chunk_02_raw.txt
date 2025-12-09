@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Bureau of Prisons", "United States"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Bureau of Prisons": "custody provider",
+    "United States": "party to the plea agreement"
+  }
+}

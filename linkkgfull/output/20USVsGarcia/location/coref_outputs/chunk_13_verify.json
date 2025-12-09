@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States": "United States",
+    "Maria De Jesus Garcia": "Maria De Jesus Garcia",
+    "the district court": "district court in Maria De Jesus Garcia's case",
+    "the jury": "jury in Maria De Jesus Garcia's trial",
+    "this Court": "5th Circuit Court of Appeals"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country where the incident occurred and the federal district court is located",
+    "Maria De Jesus Garcia": "defendant in the legal case",
+    "district court in Maria De Jesus Garcia's case": "court that handled Maria De Jesus Garcia's trial, made decisions on evidence suppression, and allowed presentation of evidence pertinent to the suppression motion",
+    "jury in Maria De Jesus Garcia's trial": "jury that received a modified Allen charge during deliberations, heeded the charge's admonition to reexamine their views, and deliberated for approximately three hours after receiving the charge",
+    "5th Circuit Court of Appeals": "US Court of Appeals circuit reviewing the case regarding roving border patrols and the Brignoni-Ponce standard, providing instructions to jurors on their duties and responsibilities, and upholding the use of the modified Allen charge"
+  }
+}

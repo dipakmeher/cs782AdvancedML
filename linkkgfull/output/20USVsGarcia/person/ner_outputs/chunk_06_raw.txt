@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Garcia", "Pruszenski", "Baron", "Brignoni-Ponce"],
+    "NOUN_PHRASE": ["the agent"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Garcia": "owner of the stopped truck",
+    "Pruszenski": "witness who did not testify to having reason to believe the vehicle came from the border",
+    "Baron": "witness who did not testify to having reason to believe the vehicle came from the border",
+    "Brignoni-Ponce": "namesake of a test"
+  }
+}

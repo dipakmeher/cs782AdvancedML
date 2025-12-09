@@ -1,0 +1,40 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States District Court": "United States District Court",
+    "United States": "United States",
+    "Bureau of Prisons": "Bureau of Prisons",
+    "Mexico": "Mexico",
+    "Department of Homeland Security": "Department of Homeland Security",
+    "United States Attorney General": "United States Attorney General",
+    "United States Sentencing Commission": "United States Sentencing Commission",
+    "United States District Judge": "United States District Court",
+    "United States Magistrate Judge": "United States District Court",
+    "the Magistrate Judge": "United States District Court",
+    "the Magistrate": "United States District Court",
+    "the United States District Court": "United States District Court",
+    "the parties": null,
+    "United States Sentencing Guidelines": "United States Sentencing Commission",
+    "Senior United States District Judge Kazen": "United States District Court",
+    "Rogelio Valero-De La Rosa": "Rogelio Valero-De La Rosa",
+    "the probation office": "United States Probation Office",
+    "the Report and Recommendation": null,
+    "PSR": "United States Probation Office",
+    "The United States": "United States",
+    "Fifth Circuit": "United States Court of Appeals for the Fifth Circuit"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States District Court": "court where Rogelio Valero-De La Rosa entered a plea of guilty, presided over by United States Magistrate Judge and United States District Judge",
+    "United States": "country where Rogelio Valero-De La Rosa was removed from and later found, and party to a plea agreement and prosecutor in the case, referenced in context of 'fast track' program, seeks to enforce the plea agreement, promised not to oppose acceptance of responsibility points in exchange for waiver of collateral relief, party to the motion for summary judgment",
+    "Bureau of Prisons": "custody provider for Rogelio Valero-De La Rosa's imprisonment, responsible for holding Rogelio Valero-De La Rosa in custody",
+    "Mexico": "country where Rogelio Valero-De La Rosa is a native and citizen",
+    "Department of Homeland Security": "department whose Secretary can grant permission to re-enter the United States",
+    "United States Attorney General": "official who can grant permission to re-enter the United States",
+    "United States Sentencing Commission": "issuer of the Guidelines Manual, consulted in determining sentence, issued Amendment 740 and Amendment 742",
+    "United States District Judge": "judge before whom the defendant pleads guilty and decides on sentencing, calculated the criminal history and sentenced Rogelio Valero-De La Rosa",
+    "United States Magistrate Judge": "judge who recommends acceptance of guilty plea and prepared the Report and Recommendation",
+    "United States Sentencing Guidelines": "guidelines used for calculating criminal history points and applying applicable guidelines, consulted in determining sentence, includes amendments such as Amendment 740 for cultural assimilation and Amendment 742 for elimination of recency points",
+    "Rogelio Valero-De La Rosa": "defendant who filed objections in support of a motion for downward departure, has a history of violating immigration laws, sentenced to 90 months of imprisonment, alleges counsel was ineffective for failing to recognize amendments to the United States Sentencing Guidelines and for not investigating claim of United States citizenship, waived right to appeal sentence and conviction",
+    "United States Probation Office": "office that prepared a presentence report calculating the advisory Guideline imprisonment range",
+    "United States Court of Appeals for the Fifth Circuit": "appellate court that gives great weight to defendant's statements at the plea colloquy"
+  }
+}

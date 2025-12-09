@@ -1,0 +1,39 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the events": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States": "country of jurisdiction",
+    "Court": "legal body presiding over the case involving defendants Ricardo Rodriguez, Jr. and Ignacio Rodriguez, Jr.",
+    "Freer Police Department": "Employer of Officer Reymundo Reyes, involved in the traffic stop of IGNACIO RODRIGUEZ, JR.",
+    "Freer, Texas": "location of immigration checkpoint on U.S. 59",
+    "Texas": "state where events occurred",
+    "U.S. 59": "Intersection location with Highway 16, where the traffic stop occurred",
+    "Freer immigration checkpoint": "location where Marco Montemayor arrived to investigate the attempted alien smuggling event",
+    "Corpus": "possible destination for vehicles inspected at the Freer immigration checkpoint",
+    "Houston": "destination city for smuggled aliens, accessible via Highway 16",
+    "Farm-to-Market Road 2050": "a two-lane road where Agent Jorge Luis Trevino made observations of suspicious vehicles, including a white sedan with multiple passengers, and location of the wind farm, where vehicles were traveling southbound",
+    "Freer immigration checkpoint building": "building where border patrol agents process undocumented individuals",
+    "Border Patrol station parking lot": "parking area near the Freer immigration checkpoint",
+    "Freer immigration checkpoint office": "office where border patrol agents inspect vehicles and process individuals",
+    "Bruni": "reference point for drop-offs of undocumented aliens, located between the Freer checkpoint and the drop-off points on FM 2050",
+    "Hebbronville": "origin of Defendant's journey",
+    "Highway 16": "location of traffic stop",
+    "San Antonio": "alternative route location",
+    "Corinth, Texas": "location where the vehicle's plate is registered, north of San Antonio",
+    "Laredo, Texas": "location where Marco Montemayor received a phone call regarding an attempted alien smuggling event",
+    "wind farm": "location near FM 2050 with windmills extending out to the west across various ranches, approximately a mile and a half north of where Agent Trevino initiated a stop",
+    "Dallas, Texas": "destination of Defendant's journey",
+    "Hertz Dallas-Fort Worth": "rental car company used by smugglers",
+    "Highway 35": "alternative route to Dallas or San Antonio",
+    "Mills Bennett Road": "dirt road intersecting FM 2050, approximately five miles south of the checkpoint",
+    "San Pablo Road": "location where Agent Trevino initiated a stop, south of the wind farm",
+    "Moglia ranch house": "ranch house near the wind farm, located on the west side of FM 2050",
+    "Stag ranch trailer": "ranch trailer near the wind farm, located on the west side of FM 2050",
+    "Santo Nino Road": "road extending to the east off of FM 2050, also known as Dinn Ranch",
+    "Dinn Ranch": "alternative name for Santo Nino Road",
+    "Mexico": "country of origin for the passengers",
+    "Highway 16 and U.S. 59": "Location of the intersection where the traffic stop took place",
+    "Border Patrol station": "location where IGNACIO RODRIGUEZ, JR. was held in a holding cell before being interviewed by Marco Montemayor"
+  }
+}

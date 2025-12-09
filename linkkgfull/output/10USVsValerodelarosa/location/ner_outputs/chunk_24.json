@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "United States",
+      "southwestern border of the United States"
+    ],
+    "NOUN_PHRASE": [
+      "the court",
+      "the district",
+      "the criminal process"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "country where the legal case is taking place",
+    "southwestern border of the United States": "region where the 'fast track' program was initially established"
+  }
+}

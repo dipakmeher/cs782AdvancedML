@@ -1,0 +1,14 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States Border Patrol", "Freer Police Department", "U.S. Highway 59", "Highway 16", "Farm-to-Market Road 2050", "Hebbronville checkpoint"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States Border Patrol": "law enforcement agency involved in the traffic stop",
+    "Freer Police Department": "local law enforcement agency involved in the traffic stop",
+    "U.S. Highway 59": "location of the traffic stop",
+    "Highway 16": "location of the traffic stop",
+    "Farm-to-Market Road 2050": "location of the traffic stop",
+    "Hebbronville checkpoint": "border patrol checkpoint mentioned by Defendant"
+  }
+}

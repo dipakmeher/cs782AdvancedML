@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Brignoni-Ponce"
+    ],
+    "NOUN_PHRASE": [
+      "the border"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Brignoni-Ponce": "a standard for reasonably warranting suspicion"
+  }
+}

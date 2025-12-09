@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Agent Trevino", "Ricardo Rodriguez"],
+    "NOUN_PHRASE": ["the witness", "he"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "explaining vehicle encounters and testifying",
+    "Ricardo Rodriguez": "individual pulled over"
+  }
+}

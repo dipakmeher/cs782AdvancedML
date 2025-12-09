@@ -1,0 +1,23 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Agent Trevino",
+      "Trevino",
+      "Hertz",
+      "Dallas"
+    ],
+    "NOUN_PHRASE": [
+      "the second vehicle",
+      "dispatch",
+      "smugglers",
+      "those two vehicles",
+      "his experience"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Agent Trevino": "A law enforcement agent providing testimony",
+    "Trevino": "Refers to Agent Trevino",
+    "Hertz": "Rental car company",
+    "Dallas": "City of origin for the rental car"
+  }
+}

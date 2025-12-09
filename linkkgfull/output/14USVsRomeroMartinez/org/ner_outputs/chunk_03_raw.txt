@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["United States", "Texas", "U.S.-Mexico border", "Texas Court of Criminal Appeals"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "United States": "referenced in the context of its constitution",
+    "Texas": "referenced in the context of its constitution and court",
+    "U.S.-Mexico border": "geographical location relevant to border patrol stops",
+    "Texas Court of Criminal Appeals": "court mentioned in the context of evolving standards"
+  }
+}

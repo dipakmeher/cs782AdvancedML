@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "ROBERT M. PARKER": "ROBERT M. PARKER",
+    "Judge Wiener": "Judge Wiener",
+    "the officer": "Andrew P. Graham",
+    "the officers": null,
+    "the defendants": null,
+    "the Circuit Judge": "ROBERT M. PARKER"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "ROBERT M. PARKER": "Circuit Judge, author of a special concurring opinion",
+    "Judge Wiener": "author of a dissent, highlighted the absurdity of jurisprudence related to the southern border area of Texas",
+    "Andrew P. Graham": "Border Patrol Agent with three years' experience serving in the Alpine area, provided testimony about Highway 385's reputation as a smuggling route, testified about traffic patterns and his experience, described the truck's appearance, aware of recent narcotics smuggling in the Alpine area destined for Kansas",
+    "Andrew P. Graham and Jay Snodgrass": "Border Patrol Agents involved in surveillance near the United States/Mexican border, providing reasonable suspicion for a stop based on proximity to the border, with experience contributing to the determination",
+    "Brignoni-Ponce Jacquinot": "driver of the truck, defendant in a drug trafficking case, argues against the contribution to reasonable suspicion, exhibited suspicious behavior while driving, sole passenger in the truck, found with 286.44 pounds of marijuana and two unloaded handguns"
+  }
+}

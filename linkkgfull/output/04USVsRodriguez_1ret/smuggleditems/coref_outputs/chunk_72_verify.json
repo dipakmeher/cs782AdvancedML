@@ -1,0 +1,19 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reymundo Reyes": "Officer Reymundo Reyes",
+    "IGNACIO RODRIGUEZ, JR.": "IGNACIO RODRIGUEZ, JR.",
+    "the Freer, Texas patrolman": "Officer Reymundo Reyes",
+    "United States Border Patrol agents": "United States Border Patrol",
+    "the gas station": null,
+    "May 2nd Hr'g": null,
+    "May 3rd Hr'g": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Officer Reymundo Reyes": "Freer Police Department officer who interacted with IGNACIO RODRIGUEZ, JR. and provided information about bus schedules",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who appeared to concede the fact that the route from Laredo, Texas to Dallas, Texas would be a convenient route for smugglers",
+    "United States Border Patrol agents": "Law enforcement agency involved in the incident, with agents arriving at the scene after Officer Reymundo Reyes's interaction with IGNACIO RODRIGUEZ, JR.",
+    "the gas station": null,
+    "May 2nd Hr'g": null,
+    "May 3rd Hr'g": null
+  }
+}

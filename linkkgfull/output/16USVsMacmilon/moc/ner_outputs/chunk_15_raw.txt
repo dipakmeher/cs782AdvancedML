@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the checkpoint video", "the phone"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

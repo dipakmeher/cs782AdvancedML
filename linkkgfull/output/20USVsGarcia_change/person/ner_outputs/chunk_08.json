@@ -1,0 +1,20 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Baron",
+      "Pruszenski",
+      "Garcia"
+    ],
+    "NOUN_PHRASE": [
+      "the agents",
+      "border patrol agents",
+      "the occupants",
+      "the district court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Baron": "testified border patrol agent",
+    "Pruszenski": "border patrol agent",
+    "Garcia": "vehicle owner"
+  }
+}

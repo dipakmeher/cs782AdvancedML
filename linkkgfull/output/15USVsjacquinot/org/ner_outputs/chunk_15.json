@@ -1,0 +1,19 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Big Bend National Park",
+      "United States",
+      "Mexican",
+      "Border Patrol",
+      "Texas Highway 385"
+    ],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Big Bend National Park": "location where park visitors were observed",
+    "United States": "country where illegal activity was detected",
+    "Mexican": "part of the border area where agents had experience",
+    "Border Patrol": "agency employing Agent Andrew P. Graham and Agent Jay Snodgrass",
+    "Texas Highway 385": "route known for alien and narcotics smuggling"
+  }
+}

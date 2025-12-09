@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["this court", "the Ninth Circuit"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

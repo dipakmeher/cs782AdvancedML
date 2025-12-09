@@ -1,0 +1,7 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": ["the phone", "the van", "the airplane", "the motel room"]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

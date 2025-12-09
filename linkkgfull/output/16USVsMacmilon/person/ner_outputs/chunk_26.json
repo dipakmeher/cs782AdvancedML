@@ -1,0 +1,13 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "McMillon"
+    ],
+    "NOUN_PHRASE": [
+      "the court"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "McMillon": "defendant"
+  }
+}

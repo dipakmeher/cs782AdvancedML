@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Simon-Fernandez": "Alma Delia Simon-Fernandez",
+    "Gomez-Arroyo": "Jaime Gomez-Arroyo",
+    "Garcia": "Inocencio Garcia-Guerrero",
+    "the ranch hand": null,
+    "border patrol agents": null,
+    "emergency technicians": null,
+    "the probation officer": null,
+    "a border patrol agent": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Alma Delia Simon-Fernandez": "Undocumented female alien who died due to heat stroke",
+    "Jaime Gomez-Arroyo": "Met with border patrol agents after the death of his niece, Alma Delia Simon-Fernandez",
+    "Inocencio Garcia-Guerrero": "Guide for the group of undocumented aliens, guiding them to San Antonio for financial gain"
+  }
+}

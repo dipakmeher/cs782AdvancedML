@@ -1,0 +1,14 @@
+{
+  "RESOLVED_ENTITIES": {
+    "two unloaded handguns": "two unloaded handguns",
+    "the large white Ford pickup truck": "large white Ford pickup truck",
+    "Brignoni-Ponce Jacquinot": "Brignoni-Ponce Jacquinot",
+    "U.S. District Court": "U.S. District Court"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "two unloaded handguns": "dangerous weapons found in the large white Ford pickup truck, connected to Brignoni-Ponce Jacquinot's drug offense",
+    "large white Ford pickup truck": "vehicle stopped by United States/Mexican Border Patrol agents due to suspicious behavior, containing marijuana and two unloaded handguns",
+    "Brignoni-Ponce Jacquinot": "defendant who pleaded guilty to possession with intent to distribute marijuana, arguing that the stop of his vehicle was unjustified",
+    "U.S. District Court": "court that denied Brignoni-Ponce Jacquinot's motion to suppress and upheld the two-level adjustment for possession of a dangerous weapon"
+  }
+}

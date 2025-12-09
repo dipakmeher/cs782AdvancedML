@@ -1,0 +1,15 @@
+{
+  "RESOLVED_ENTITIES": {
+    "a police officer": null,
+    "the suspect": null,
+    "an arresting officer": null,
+    "the defendant": "IGNACIO RODRIGUEZ, JR.",
+    "the agents": "Jorge Luis Trevino and Marco Montemayor"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "RICARDO RODRIGUEZ, JR.": "Defendant who challenges the stop of his white sedan by United States Border Patrol Agent Trevino, arguing that the factors known to Agent Trevino at the time of the stop fall short of reasonable suspicion",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant whose involuntary transportation to the Border Patrol station for questioning was deemed 'sufficiently like an arrest' and required probable cause",
+    "Jorge Luis Trevino": "United States Border Patrol Agent with nearly seven years of experience, including a year and a half at the Freer checkpoint, which has led him to recognize most vehicles passing down FM 2050, explained reasonable suspicion analysis during the hearing",
+    "Marco Montemayor": "Special Agent for the United States Department of Homeland Security who interviewed Ignacio Rodriguez after he was transported to the checkpoint"
+  }
+}

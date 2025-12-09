@@ -1,0 +1,10 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["Fifth Circuit", "Dallas-Fort Worth"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Fifth Circuit": "a court that has previously held that certain factors can add to reasonable suspicion",
+    "Dallas-Fort Worth": "a location where a vehicle was registered"
+  }
+}

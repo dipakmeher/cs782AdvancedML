@@ -1,0 +1,17 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [
+      "Saldana",
+      "Haston"
+    ],
+    "NOUN_PHRASE": [
+      "the officers",
+      "defendants",
+      "the officers"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "Saldana": "a previously convicted felon",
+    "Haston": "an officer who asked questions regarding consent"
+  }
+}

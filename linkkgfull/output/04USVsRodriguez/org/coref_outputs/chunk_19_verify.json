@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "United States Department of Homeland Security": "United States Department of Homeland Security",
+    "United States Border Patrol": "United States Border Patrol",
+    "the primary United States Border Patrol agent": "United States Border Patrol",
+    "the Border Patrol station": "United States Border Patrol",
+    "a United States Border Patrol intel officer": "United States Border Patrol"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States Department of Homeland Security": "Received a phone call regarding an attempted alien smuggling event and conducted interviews with RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.",
+    "United States Border Patrol": "Conducted the initial traffic stop, had an agent present during interviews, and provided a station for holding and interviewing individuals"
+  }
+}

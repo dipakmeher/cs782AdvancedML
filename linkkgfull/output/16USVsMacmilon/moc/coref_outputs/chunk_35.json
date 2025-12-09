@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the United States District Court": "the United States District Court",
+    "Raymond McMillon's brief": "Raymond McMillon's brief",
+    "Zeba Williams' live sentencing testimony": "Zeba Williams' live sentencing testimony",
+    "Raymond McMillon's \u00a7 3B1.2 request": "Raymond McMillon's \u00a7 3B1.2 request",
+    "the offenses": null,
+    "the partnership to smuggle aliens": null,
+    "the tractor-trailer": "the tractor-trailer",
+    "Zeba Williams' testimony": "Zeba Williams' live sentencing testimony",
+    "Raymond McMillon's arguments": null,
+    "the sentencing or trial evidence": null,
+    "the managerial responsibilities": null,
+    "the \u00a7 3B1.2 adjustment": "the \u00a7 3B1.2 adjustment"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "the United States District Court": "Court responsible for making ends-of-justice findings on the record and for ruling on motions related to speedy trial determinations",
+    "Raymond McMillon's brief": "Document submitted by Raymond McMillon in support of his arguments",
+    "Zeba Williams' live sentencing testimony": "Testimony given by Zeba Williams during the sentencing hearing that contradicted Raymond McMillon's minor-role arguments",
+    "the tractor-trailer": "Vehicle used by Zeba Williams and accompanied by Raymond McMillon to transport undocumented aliens",
+    "the \u00a7 3B1.2 adjustment": "Adjustment requested by Raymond McMillon based on his claimed minor role in the offenses"
+  }
+}

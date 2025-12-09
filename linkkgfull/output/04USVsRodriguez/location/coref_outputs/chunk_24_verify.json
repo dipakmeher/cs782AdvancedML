@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the border": "United States-Mexico border",
+    "the area": "Farm-to-Market Road 2050 area",
+    "the road": "Farm-to-Market Road 2050",
+    "the vehicle": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "United States-Mexico border": "International boundary where roving Border Patrol stops are conducted, proximity to which is a factor in determining reasonable suspicion",
+    "Farm-to-Market Road 2050 area": "rural area characterized by ranches and a wind farm, with limited traffic, where vehicles with out-of-town registrations raised suspicions",
+    "Farm-to-Market Road 2050": "a two-lane road where observations were made, with sharp turns and no shoulder, used by ranchers and oil trucks, location of drop-offs for illegal aliens, has a wind farm with an office and entrance on the west side"
+  }
+}

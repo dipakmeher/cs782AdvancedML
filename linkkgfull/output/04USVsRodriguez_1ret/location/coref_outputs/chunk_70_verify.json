@@ -1,0 +1,11 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the same location": "traffic stop on Farm-to-Market Road 2050",
+    "the vehicle": null,
+    "Corinth, Texas": "Corinth, Texas"
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Corinth, Texas": "location where the truck was registered, suburb of Dallas",
+    "traffic stop on Farm-to-Market Road 2050": "location of a traffic stop based on articulable factors indicating potential illegal activity, subject to scrutiny of its scope and duration under the totality of the circumstances."
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": ["U.S. Border Patrol"],
+    "NOUN_PHRASE": []
+  },
+  "PROPER_NOUN_DESCRIPTION": {
+    "U.S. Border Patrol": "employer of Stanley Pruszenski and Alfred Baron as border patrol agents"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Nancy F. Atlas": "Nancy F. Atlas",
+    "Jose Marlon Ibarra-Zelaya": "Jose Marlon Ibarra-Zelaya",
+    "the United States of America": "the United States of America",
+    "a United States Federal Grand Jury": "a United States Federal Grand Jury",
+    "the indictment": null,
+    "the conspiracy": null,
+    "the hostage taking": null,
+    "the ransom": null,
+    "the illegal alien smuggling venture": null,
+    "the foreign nationals": null,
+    "the co-defendants": null,
+    "the commercial advantage": null,
+    "the private financial gain": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Nancy F. Atlas": "Judge in the criminal case",
+    "Jose Marlon Ibarra-Zelaya": "Defendant filing a motion to vacate, set aside, or correct sentence",
+    "the United States of America": "Plaintiff responding to Jose Marlon Ibarra-Zelaya's motion",
+    "a United States Federal Grand Jury": "Grand jury that returned the superseding indictment against Jose Marlon Ibarra-Zelaya and co-defendants"
+  }
+}

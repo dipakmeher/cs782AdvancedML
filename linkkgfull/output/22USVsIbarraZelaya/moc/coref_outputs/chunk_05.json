@@ -1,0 +1,13 @@
+{
+  "RESOLVED_ENTITIES": {
+    "The United States Court of Appeals for the Fifth Circuit": "The United States Court of Appeals for the Fifth Circuit",
+    "Jose Marlon Ibarra-Zelaya's conviction and sentence": null,
+    "the joint appeal": null,
+    "the United States Supreme Court": "the United States Supreme Court",
+    "a petition for a writ of certiorari": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "The United States Court of Appeals for the Fifth Circuit": "Court that affirmed Jose Marlon Ibarra-Zelaya's conviction and sentence",
+    "the United States Supreme Court": "Highest court in the United States, which could have been appealed to by filing a petition for a writ of certiorari"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "RESOLVED_ENTITIES": {
+    "Officer Reyes": "Reymundo Reyes",
+    "Ignacio Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "Reyes": "Reymundo Reyes",
+    "Rodriguez": "IGNACIO RODRIGUEZ, JR.",
+    "the officer": "Reymundo Reyes",
+    "Defendant": "IGNACIO RODRIGUEZ, JR.",
+    "his assistant": null,
+    "the passenger": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "Reymundo Reyes": "Law enforcement officer who performed the traffic stop on Ignacio Rodriguez's vehicle and is argued by Ignacio Rodriguez to have exceeded the scope of the stop",
+    "IGNACIO RODRIGUEZ, JR.": "Defendant who contests the reasonableness of his initial traffic stop for failing to use a turn signal and argues it was pretextual, also contends that Officer Reyes exceeded the scope of a traffic stop",
+    "Reymundo Reyes and IGNACIO RODRIGUEZ, JR.": "Individuals involved in a traffic stop where Reymundo Reyes impounded the vehicle due to lack of insurance information and uncertainty about the vehicle's ownership, and Ignacio Rodriguez was the driver who felt he could not leave after being handed his citation"
+  }
+}

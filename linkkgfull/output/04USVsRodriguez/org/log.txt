@@ -1,0 +1,1401 @@
+[2025-08-25 05:23:41] Starting Chunking Step...
+[2025-08-25 05:23:41] Starting chunking for ./output/04USVsRodriguez/mot/mot_resolved_04USVsRodriguez.txt...
+[2025-08-25 05:23:44] Loading GPT-2 tokenizer...
+[2025-08-25 05:23:44] Saved chunk 01 (21 words)
+[2025-08-25 05:23:44] Saved chunk 02 (267 words)
+[2025-08-25 05:23:44] Saved chunk 03 (2 words)
+[2025-08-25 05:23:44] Saved chunk 04 (219 words)
+[2025-08-25 05:23:44] Saved chunk 05 (223 words)
+[2025-08-25 05:23:44] Saved chunk 06 (46 words)
+[2025-08-25 05:23:44] Saved chunk 07 (250 words)
+[2025-08-25 05:23:44] Saved chunk 08 (218 words)
+[2025-08-25 05:23:44] Saved chunk 09 (371 words)
+[2025-08-25 05:23:44] Saved chunk 10 (222 words)
+[2025-08-25 05:23:44] Saved chunk 11 (224 words)
+[2025-08-25 05:23:44] Saved chunk 12 (284 words)
+[2025-08-25 05:23:44] Saved chunk 13 (311 words)
+[2025-08-25 05:23:44] Saved chunk 14 (231 words)
+[2025-08-25 05:23:44] Saved chunk 15 (289 words)
+[2025-08-25 05:23:44] Saved chunk 16 (341 words)
+[2025-08-25 05:23:44] Saved chunk 17 (264 words)
+[2025-08-25 05:23:44] Saved chunk 18 (270 words)
+[2025-08-25 05:23:44] Saved chunk 19 (173 words)
+[2025-08-25 05:23:44] Saved chunk 20 (228 words)
+[2025-08-25 05:23:44] Saved chunk 21 (2 words)
+[2025-08-25 05:23:44] Saved chunk 22 (332 words)
+[2025-08-25 05:23:44] Saved chunk 23 (12 words)
+[2025-08-25 05:23:44] Saved chunk 24 (355 words)
+[2025-08-25 05:23:44] Saved chunk 25 (300 words)
+[2025-08-25 05:23:44] Saved chunk 26 (436 words)
+[2025-08-25 05:23:44] Saved chunk 27 (335 words)
+[2025-08-25 05:23:44] Saved chunk 28 (495 words)
+[2025-08-25 05:23:44] Saved chunk 29 (313 words)
+[2025-08-25 05:23:44] Saved chunk 30 (410 words)
+[2025-08-25 05:23:44] Saved chunk 31 (302 words)
+[2025-08-25 05:23:44] Saved chunk 32 (228 words)
+[2025-08-25 05:23:44] Saved chunk 33 (307 words)
+[2025-08-25 05:23:44] Saved chunk 34 (180 words)
+[2025-08-25 05:23:44] Saved chunk 35 (164 words)
+[2025-08-25 05:23:44] Saved chunk 36 (224 words)
+[2025-08-25 05:23:44] Saved chunk 37 (295 words)
+[2025-08-25 05:23:44] Saved chunk 38 (213 words)
+[2025-08-25 05:23:44] Saved chunk 39 (231 words)
+[2025-08-25 05:23:44] Saved chunk 40 (263 words)
+[2025-08-25 05:23:44] Saved chunk 41 (85 words)
+[2025-08-25 05:23:44] Saved chunk 42 (201 words)
+[2025-08-25 05:23:44] Saved chunk 43 (285 words)
+[2025-08-25 05:23:44] Saved chunk 44 (242 words)
+[2025-08-25 05:23:44] Saved chunk 45 (276 words)
+[2025-08-25 05:23:44] Saved chunk 46 (90 words)
+[2025-08-25 05:23:44] Saved chunk 47 (149 words)
+[2025-08-25 05:23:44] Saved chunk 48 (235 words)
+[2025-08-25 05:23:44] Saved chunk 49 (103 words)
+[2025-08-25 05:23:44] Saved chunk 50 (156 words)
+[2025-08-25 05:23:44] Saved chunk 51 (109 words)
+[2025-08-25 05:23:44] Saved chunk 52 (204 words)
+[2025-08-25 05:23:44] Saved chunk 53 (107 words)
+[2025-08-25 05:23:44] Saved chunk 54 (113 words)
+[2025-08-25 05:23:44] Saved chunk 55 (120 words)
+[2025-08-25 05:23:44] Saved chunk 56 (203 words)
+[2025-08-25 05:23:44] Saved chunk 57 (160 words)
+[2025-08-25 05:23:44] Saved chunk 58 (73 words)
+[2025-08-25 05:23:44] Saved chunk 59 (121 words)
+[2025-08-25 05:23:44] Saved chunk 60 (55 words)
+[2025-08-25 05:23:44] Saved chunk 61 (318 words)
+[2025-08-25 05:23:44] Saved chunk 62 (107 words)
+[2025-08-25 05:23:44] Saved chunk 63 (332 words)
+[2025-08-25 05:23:44] Saved chunk 64 (230 words)
+[2025-08-25 05:23:44] Saved chunk 65 (200 words)
+[2025-08-25 05:23:44] Saved chunk 66 (214 words)
+[2025-08-25 05:23:44] Saved chunk 67 (171 words)
+[2025-08-25 05:23:44] Saved chunk 68 (185 words)
+[2025-08-25 05:23:44] Saved chunk 69 (330 words)
+[2025-08-25 05:23:44] Saved chunk 70 (76 words)
+[2025-08-25 05:23:44] Saved chunk 71 (202 words)
+[2025-08-25 05:23:44] Successfully created 71 chunks in 'output/04USVsRodriguez/org/chunk_outputs'.
+[2025-08-25 05:23:44] Total time taken: 3.35 seconds.
+[2025-08-25 05:23:44] Chunking completed in 3.43 seconds.
+[2025-08-25 05:23:44] Cumulative time after Chunking: 3.44 seconds.
+[2025-08-25 05:23:44] Starting NER Step...
+[2025-08-25 05:23:44] Found 71 chunk files.
+[2025-08-25 05:23:44] Running NER on chunk_01.txt (attempt 1)...
+[2025-08-25 05:23:45] Prompt length (chars): 3344
+[2025-08-25 05:23:48] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_01.json
+[2025-08-25 05:23:48] Running NER on chunk_02.txt (attempt 1)...
+[2025-08-25 05:23:48] Prompt length (chars): 4810
+[2025-08-25 05:23:53] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_02.json
+[2025-08-25 05:23:53] Running NER on chunk_03.txt (attempt 1)...
+[2025-08-25 05:23:53] Prompt length (chars): 3216
+[2025-08-25 05:23:54] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_03.json
+[2025-08-25 05:23:54] Running NER on chunk_04.txt (attempt 1)...
+[2025-08-25 05:23:54] Prompt length (chars): 4448
+[2025-08-25 05:23:58] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_04.json
+[2025-08-25 05:23:58] Running NER on chunk_05.txt (attempt 1)...
+[2025-08-25 05:23:58] Prompt length (chars): 4540
+[2025-08-25 05:24:01] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_05.json
+[2025-08-25 05:24:01] Running NER on chunk_06.txt (attempt 1)...
+[2025-08-25 05:24:01] Prompt length (chars): 3500
+[2025-08-25 05:24:03] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_06.json
+[2025-08-25 05:24:03] Running NER on chunk_07.txt (attempt 1)...
+[2025-08-25 05:24:03] Prompt length (chars): 4685
+[2025-08-25 05:24:06] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_07.json
+[2025-08-25 05:24:06] Running NER on chunk_08.txt (attempt 1)...
+[2025-08-25 05:24:06] Prompt length (chars): 4403
+[2025-08-25 05:24:08] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_08.json
+[2025-08-25 05:24:08] Running NER on chunk_09.txt (attempt 1)...
+[2025-08-25 05:24:08] Prompt length (chars): 5237
+[2025-08-25 05:24:12] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_09.json
+[2025-08-25 05:24:12] Running NER on chunk_10.txt (attempt 1)...
+[2025-08-25 05:24:12] Prompt length (chars): 4465
+[2025-08-25 05:24:16] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_10.json
+[2025-08-25 05:24:16] Running NER on chunk_11.txt (attempt 1)...
+[2025-08-25 05:24:16] Prompt length (chars): 4481
+[2025-08-25 05:24:18] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_11.json
+[2025-08-25 05:24:18] Running NER on chunk_12.txt (attempt 1)...
+[2025-08-25 05:24:18] Prompt length (chars): 4834
+[2025-08-25 05:24:20] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_12.json
+[2025-08-25 05:24:20] Running NER on chunk_13.txt (attempt 1)...
+[2025-08-25 05:24:20] Prompt length (chars): 5024
+[2025-08-25 05:24:24] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_13.json
+[2025-08-25 05:24:24] Running NER on chunk_14.txt (attempt 1)...
+[2025-08-25 05:24:24] Prompt length (chars): 4515
+[2025-08-25 05:24:28] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_14.json
+[2025-08-25 05:24:28] Running NER on chunk_15.txt (attempt 1)...
+[2025-08-25 05:24:28] Prompt length (chars): 4812
+[2025-08-25 05:24:30] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_15.json
+[2025-08-25 05:24:30] Running NER on chunk_16.txt (attempt 1)...
+[2025-08-25 05:24:30] Prompt length (chars): 5194
+[2025-08-25 05:24:33] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_16.json
+[2025-08-25 05:24:33] Running NER on chunk_17.txt (attempt 1)...
+[2025-08-25 05:24:33] Prompt length (chars): 4719
+[2025-08-25 05:24:38] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_17.json
+[2025-08-25 05:24:38] Running NER on chunk_18.txt (attempt 1)...
+[2025-08-25 05:24:38] Prompt length (chars): 4867
+[2025-08-25 05:24:40] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_18.json
+[2025-08-25 05:24:40] Running NER on chunk_19.txt (attempt 1)...
+[2025-08-25 05:24:40] Prompt length (chars): 4333
+[2025-08-25 05:24:46] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_19.json
+[2025-08-25 05:24:46] Running NER on chunk_20.txt (attempt 1)...
+[2025-08-25 05:24:46] Prompt length (chars): 4545
+[2025-08-25 05:24:48] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_20.json
+[2025-08-25 05:24:48] Running NER on chunk_21.txt (attempt 1)...
+[2025-08-25 05:24:48] Prompt length (chars): 3217
+[2025-08-25 05:24:50] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_21.json
+[2025-08-25 05:24:50] Running NER on chunk_22.txt (attempt 1)...
+[2025-08-25 05:24:50] Prompt length (chars): 5262
+[2025-08-25 05:24:56] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_22.json
+[2025-08-25 05:24:56] Running NER on chunk_23.txt (attempt 1)...
+[2025-08-25 05:24:56] Prompt length (chars): 3276
+[2025-08-25 05:24:58] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_23.json
+[2025-08-25 05:24:58] Running NER on chunk_24.txt (attempt 1)...
+[2025-08-25 05:24:58] Prompt length (chars): 5610
+[2025-08-25 05:25:03] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_24.json
+[2025-08-25 05:25:03] Running NER on chunk_25.txt (attempt 1)...
+[2025-08-25 05:25:03] Prompt length (chars): 5142
+[2025-08-25 05:25:08] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_25.json
+[2025-08-25 05:25:08] Running NER on chunk_26.txt (attempt 1)...
+[2025-08-25 05:25:08] Prompt length (chars): 5871
+[2025-08-25 05:25:12] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_26.json
+[2025-08-25 05:25:12] Running NER on chunk_27.txt (attempt 1)...
+[2025-08-25 05:25:12] Prompt length (chars): 5285
+[2025-08-25 05:25:18] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_27.json
+[2025-08-25 05:25:18] Running NER on chunk_28.txt (attempt 1)...
+[2025-08-25 05:25:18] Prompt length (chars): 6194
+[2025-08-25 05:25:22] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_28.json
+[2025-08-25 05:25:22] Running NER on chunk_29.txt (attempt 1)...
+[2025-08-25 05:25:22] Prompt length (chars): 5110
+[2025-08-25 05:25:26] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_29.json
+[2025-08-25 05:25:26] Running NER on chunk_30.txt (attempt 1)...
+[2025-08-25 05:25:26] Prompt length (chars): 5676
+[2025-08-25 05:25:29] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_30.json
+[2025-08-25 05:25:29] Running NER on chunk_31.txt (attempt 1)...
+[2025-08-25 05:25:29] Prompt length (chars): 5058
+[2025-08-25 05:25:31] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_31.json
+[2025-08-25 05:25:31] Running NER on chunk_32.txt (attempt 1)...
+[2025-08-25 05:25:31] Prompt length (chars): 4666
+[2025-08-25 05:25:34] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_32.json
+[2025-08-25 05:25:34] Running NER on chunk_33.txt (attempt 1)...
+[2025-08-25 05:25:34] Prompt length (chars): 5182
+[2025-08-25 05:25:37] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_33.json
+[2025-08-25 05:25:37] Running NER on chunk_34.txt (attempt 1)...
+[2025-08-25 05:25:37] Prompt length (chars): 4339
+[2025-08-25 05:25:41] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_34.json
+[2025-08-25 05:25:41] Running NER on chunk_35.txt (attempt 1)...
+[2025-08-25 05:25:41] Prompt length (chars): 4207
+[2025-08-25 05:25:44] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_35.json
+[2025-08-25 05:25:44] Running NER on chunk_36.txt (attempt 1)...
+[2025-08-25 05:25:44] Prompt length (chars): 4564
+[2025-08-25 05:25:47] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_36.json
+[2025-08-25 05:25:47] Running NER on chunk_37.txt (attempt 1)...
+[2025-08-25 05:25:47] Prompt length (chars): 5019
+[2025-08-25 05:25:50] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_37.json
+[2025-08-25 05:25:50] Running NER on chunk_38.txt (attempt 1)...
+[2025-08-25 05:25:50] Prompt length (chars): 4519
+[2025-08-25 05:25:53] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_38.json
+[2025-08-25 05:25:53] Running NER on chunk_39.txt (attempt 1)...
+[2025-08-25 05:25:53] Prompt length (chars): 4620
+[2025-08-25 05:25:57] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_39.json
+[2025-08-25 05:25:57] Running NER on chunk_40.txt (attempt 1)...
+[2025-08-25 05:25:57] Prompt length (chars): 4867
+[2025-08-25 05:26:01] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_40.json
+[2025-08-25 05:26:01] Running NER on chunk_41.txt (attempt 1)...
+[2025-08-25 05:26:01] Prompt length (chars): 3768
+[2025-08-25 05:26:04] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_41.json
+[2025-08-25 05:26:04] Running NER on chunk_42.txt (attempt 1)...
+[2025-08-25 05:26:04] Prompt length (chars): 4472
+[2025-08-25 05:26:06] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_42.json
+[2025-08-25 05:26:06] Running NER on chunk_43.txt (attempt 1)...
+[2025-08-25 05:26:06] Prompt length (chars): 4920
+[2025-08-25 05:26:10] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_43.json
+[2025-08-25 05:26:10] Running NER on chunk_44.txt (attempt 1)...
+[2025-08-25 05:26:10] Prompt length (chars): 4762
+[2025-08-25 05:26:13] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_44.json
+[2025-08-25 05:26:13] Running NER on chunk_45.txt (attempt 1)...
+[2025-08-25 05:26:13] Prompt length (chars): 4902
+[2025-08-25 05:26:16] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_45.json
+[2025-08-25 05:26:16] Running NER on chunk_46.txt (attempt 1)...
+[2025-08-25 05:26:16] Prompt length (chars): 3825
+[2025-08-25 05:26:19] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_46.json
+[2025-08-25 05:26:19] Running NER on chunk_47.txt (attempt 1)...
+[2025-08-25 05:26:19] Prompt length (chars): 4141
+[2025-08-25 05:26:22] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_47.json
+[2025-08-25 05:26:22] Running NER on chunk_48.txt (attempt 1)...
+[2025-08-25 05:26:22] Prompt length (chars): 4398
+[2025-08-25 05:26:25] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_48.json
+[2025-08-25 05:26:25] Running NER on chunk_49.txt (attempt 1)...
+[2025-08-25 05:26:25] Prompt length (chars): 3828
+[2025-08-25 05:26:29] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_49.json
+[2025-08-25 05:26:29] Running NER on chunk_50.txt (attempt 1)...
+[2025-08-25 05:26:29] Prompt length (chars): 4115
+[2025-08-25 05:26:31] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_50.json
+[2025-08-25 05:26:31] Running NER on chunk_51.txt (attempt 1)...
+[2025-08-25 05:26:31] Prompt length (chars): 3821
+[2025-08-25 05:26:33] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_51.json
+[2025-08-25 05:26:33] Running NER on chunk_52.txt (attempt 1)...
+[2025-08-25 05:26:33] Prompt length (chars): 4330
+[2025-08-25 05:26:36] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_52.json
+[2025-08-25 05:26:36] Running NER on chunk_53.txt (attempt 1)...
+[2025-08-25 05:26:36] Prompt length (chars): 3945
+[2025-08-25 05:26:38] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_53.json
+[2025-08-25 05:26:38] Running NER on chunk_54.txt (attempt 1)...
+[2025-08-25 05:26:38] Prompt length (chars): 3781
+[2025-08-25 05:26:40] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_54.json
+[2025-08-25 05:26:40] Running NER on chunk_55.txt (attempt 1)...
+[2025-08-25 05:26:40] Prompt length (chars): 3965
+[2025-08-25 05:26:43] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_55.json
+[2025-08-25 05:26:43] Running NER on chunk_56.txt (attempt 1)...
+[2025-08-25 05:26:43] Prompt length (chars): 4316
+[2025-08-25 05:26:46] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_56.json
+[2025-08-25 05:26:46] Running NER on chunk_57.txt (attempt 1)...
+[2025-08-25 05:26:46] Prompt length (chars): 4090
+[2025-08-25 05:26:48] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_57.json
+[2025-08-25 05:26:48] Running NER on chunk_58.txt (attempt 1)...
+[2025-08-25 05:26:48] Prompt length (chars): 3624
+[2025-08-25 05:26:50] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_58.json
+[2025-08-25 05:26:50] Running NER on chunk_59.txt (attempt 1)...
+[2025-08-25 05:26:50] Prompt length (chars): 3885
+[2025-08-25 05:26:54] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_59.json
+[2025-08-25 05:26:54] Running NER on chunk_60.txt (attempt 1)...
+[2025-08-25 05:26:54] Prompt length (chars): 3533
+[2025-08-25 05:26:55] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_60.json
+[2025-08-25 05:26:55] Running NER on chunk_61.txt (attempt 1)...
+[2025-08-25 05:26:55] Prompt length (chars): 5040
+[2025-08-25 05:26:59] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_61.json
+[2025-08-25 05:26:59] Running NER on chunk_62.txt (attempt 1)...
+[2025-08-25 05:26:59] Prompt length (chars): 3826
+[2025-08-25 05:27:01] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_62.json
+[2025-08-25 05:27:01] Running NER on chunk_63.txt (attempt 1)...
+[2025-08-25 05:27:01] Prompt length (chars): 5238
+[2025-08-25 05:27:07] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_63.json
+[2025-08-25 05:27:07] Running NER on chunk_64.txt (attempt 1)...
+[2025-08-25 05:27:07] Prompt length (chars): 4620
+[2025-08-25 05:27:11] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_64.json
+[2025-08-25 05:27:11] Running NER on chunk_65.txt (attempt 1)...
+[2025-08-25 05:27:11] Prompt length (chars): 4390
+[2025-08-25 05:27:15] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_65.json
+[2025-08-25 05:27:15] Running NER on chunk_66.txt (attempt 1)...
+[2025-08-25 05:27:15] Prompt length (chars): 4555
+[2025-08-25 05:27:17] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_66.json
+[2025-08-25 05:27:17] Running NER on chunk_67.txt (attempt 1)...
+[2025-08-25 05:27:17] Prompt length (chars): 4274
+[2025-08-25 05:27:19] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_67.json
+[2025-08-25 05:27:19] Running NER on chunk_68.txt (attempt 1)...
+[2025-08-25 05:27:19] Prompt length (chars): 4331
+[2025-08-25 05:27:21] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_68.json
+[2025-08-25 05:27:21] Running NER on chunk_69.txt (attempt 1)...
+[2025-08-25 05:27:21] Prompt length (chars): 5251
+[2025-08-25 05:27:25] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_69.json
+[2025-08-25 05:27:25] Running NER on chunk_70.txt (attempt 1)...
+[2025-08-25 05:27:25] Prompt length (chars): 3685
+[2025-08-25 05:27:27] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_70.json
+[2025-08-25 05:27:27] Running NER on chunk_71.txt (attempt 1)...
+[2025-08-25 05:27:27] Prompt length (chars): 4323
+[2025-08-25 05:27:29] Saved: output/04USVsRodriguez/org/ner_outputs/chunk_71.json
+[2025-08-25 05:27:29] NER completed in 224.49 seconds.
+[2025-08-25 05:27:29] Cumulative time after NER: 227.93 seconds.
+[2025-08-25 05:27:29] Starting Coreference Resolution Step...
+[2025-08-25 05:27:29] Processing chunk_01 (verification=False)...
+[2025-08-25 05:27:29] Prompt length (chars): 6264
+[2025-08-25 05:27:34] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_01.json
+[2025-08-25 05:27:34] Processing chunk_02 (verification=False)...
+[2025-08-25 05:27:35] Prompt length (chars): 8042
+[2025-08-25 05:27:43] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_02.json
+[2025-08-25 05:27:43] Processing chunk_03 (verification=False)...
+[2025-08-25 05:27:43] Prompt length (chars): 6693
+[2025-08-25 05:27:50] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_03.json
+[2025-08-25 05:27:50] Processing chunk_04 (verification=False)...
+[2025-08-25 05:27:50] Prompt length (chars): 8096
+[2025-08-25 05:28:00] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_04.json
+[2025-08-25 05:28:00] Processing chunk_05 (verification=False)...
+[2025-08-25 05:28:00] Prompt length (chars): 8409
+[2025-08-25 05:28:11] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_05.json
+[2025-08-25 05:28:11] Processing chunk_06 (verification=False)...
+[2025-08-25 05:28:11] Prompt length (chars): 7278
+[2025-08-25 05:28:22] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_06.json
+[2025-08-25 05:28:22] Processing chunk_07 (verification=False)...
+[2025-08-25 05:28:22] Prompt length (chars): 8572
+[2025-08-25 05:28:34] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_07.json
+[2025-08-25 05:28:34] Processing chunk_08 (verification=False)...
+[2025-08-25 05:28:34] Prompt length (chars): 8356
+[2025-08-25 05:28:47] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_08.json
+[2025-08-25 05:28:47] Processing chunk_09 (verification=False)...
+[2025-08-25 05:28:47] Prompt length (chars): 9450
+[2025-08-25 05:29:02] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_09.json
+[2025-08-25 05:29:03] Processing chunk_10 (verification=False)...
+[2025-08-25 05:29:03] Prompt length (chars): 8737
+[2025-08-25 05:29:19] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_10.json
+[2025-08-25 05:29:19] Processing chunk_11 (verification=False)...
+[2025-08-25 05:29:19] Prompt length (chars): 8862
+[2025-08-25 05:29:37] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_11.json
+[2025-08-25 05:29:37] Processing chunk_12 (verification=False)...
+[2025-08-25 05:29:37] Prompt length (chars): 9265
+[2025-08-25 05:29:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_12.json
+[2025-08-25 05:29:58] Processing chunk_13 (verification=False)...
+[2025-08-25 05:29:58] Prompt length (chars): 9856
+[2025-08-25 05:30:22] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_13.json
+[2025-08-25 05:30:22] Processing chunk_14 (verification=False)...
+[2025-08-25 05:30:22] Prompt length (chars): 9564
+[2025-08-25 05:30:46] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_14.json
+[2025-08-25 05:30:46] Processing chunk_15 (verification=False)...
+[2025-08-25 05:30:46] Prompt length (chars): 9846
+[2025-08-25 05:31:13] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_15.json
+[2025-08-25 05:31:13] Processing chunk_16 (verification=False)...
+[2025-08-25 05:31:13] Prompt length (chars): 10399
+[2025-08-25 05:31:42] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_16.json
+[2025-08-25 05:31:42] Processing chunk_17 (verification=False)...
+[2025-08-25 05:31:42] Prompt length (chars): 10325
+[2025-08-25 05:32:13] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_17.json
+[2025-08-25 05:32:13] Processing chunk_18 (verification=False)...
+[2025-08-25 05:32:13] Prompt length (chars): 10474
+[2025-08-25 05:32:45] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_18.json
+[2025-08-25 05:32:45] Processing chunk_19 (verification=False)...
+[2025-08-25 05:32:45] Prompt length (chars): 10550
+[2025-08-25 05:33:21] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_19.json
+[2025-08-25 05:33:21] Processing chunk_20 (verification=False)...
+[2025-08-25 05:33:21] Prompt length (chars): 10812
+[2025-08-25 05:33:59] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_20.json
+[2025-08-25 05:33:59] Processing chunk_21 (verification=False)...
+[2025-08-25 05:33:59] Prompt length (chars): 9562
+[2025-08-25 05:34:35] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_21.json
+[2025-08-25 05:34:35] Processing chunk_22 (verification=False)...
+[2025-08-25 05:34:35] Prompt length (chars): 11973
+[2025-08-25 05:35:14] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_22.json
+[2025-08-25 05:35:14] Processing chunk_23 (verification=False)...
+[2025-08-25 05:35:14] Prompt length (chars): 9903
+[2025-08-25 05:35:54] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_23.json
+[2025-08-25 05:35:54] Processing chunk_24 (verification=False)...
+[2025-08-25 05:35:54] Prompt length (chars): 12556
+[2025-08-25 05:36:17] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_24.json
+[2025-08-25 05:36:17] Processing chunk_25 (verification=False)...
+[2025-08-25 05:36:17] Prompt length (chars): 12319
+[2025-08-25 05:36:45] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_25.json
+[2025-08-25 05:36:46] Processing chunk_26 (verification=False)...
+[2025-08-25 05:36:46] Prompt length (chars): 13598
+[2025-08-25 05:37:01] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_26.json
+[2025-08-25 05:37:01] Processing chunk_27 (verification=False)...
+[2025-08-25 05:37:01] Prompt length (chars): 13273
+[2025-08-25 05:37:54] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_27.json
+[2025-08-25 05:37:54] Processing chunk_28 (verification=False)...
+[2025-08-25 05:37:54] Prompt length (chars): 14184
+[2025-08-25 05:38:30] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_28.json
+[2025-08-25 05:38:30] Processing chunk_29 (verification=False)...
+[2025-08-25 05:38:30] Prompt length (chars): 13407
+[2025-08-25 05:39:28] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_29.json
+[2025-08-25 05:39:28] Processing chunk_30 (verification=False)...
+[2025-08-25 05:39:28] Prompt length (chars): 13900
+[2025-08-25 05:40:28] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_30.json
+[2025-08-25 05:40:28] Processing chunk_31 (verification=False)...
+[2025-08-25 05:40:28] Prompt length (chars): 13451
+[2025-08-25 05:41:28] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_31.json
+[2025-08-25 05:41:28] Processing chunk_32 (verification=False)...
+[2025-08-25 05:41:28] Prompt length (chars): 13305
+[2025-08-25 05:42:29] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_32.json
+[2025-08-25 05:42:29] Processing chunk_33 (verification=False)...
+[2025-08-25 05:42:29] Prompt length (chars): 13914
+[2025-08-25 05:43:04] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_33.json
+[2025-08-25 05:43:04] Processing chunk_34 (verification=False)...
+[2025-08-25 05:43:04] Prompt length (chars): 13488
+[2025-08-25 05:44:10] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_34.json
+[2025-08-25 05:44:10] Processing chunk_35 (verification=False)...
+[2025-08-25 05:44:10] Prompt length (chars): 13525
+[2025-08-25 05:45:17] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_35.json
+[2025-08-25 05:45:17] Processing chunk_36 (verification=False)...
+[2025-08-25 05:45:17] Prompt length (chars): 13924
+[2025-08-25 05:45:53] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_36.json
+[2025-08-25 05:45:53] Processing chunk_37 (verification=False)...
+[2025-08-25 05:45:53] Prompt length (chars): 14620
+[2025-08-25 05:46:32] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_37.json
+[2025-08-25 05:46:32] Processing chunk_38 (verification=False)...
+[2025-08-25 05:46:32] Prompt length (chars): 14362
+[2025-08-25 05:47:45] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_38.json
+[2025-08-25 05:47:45] Processing chunk_39 (verification=False)...
+[2025-08-25 05:47:45] Prompt length (chars): 14573
+[2025-08-25 05:48:57] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_39.json
+[2025-08-25 05:48:58] Processing chunk_40 (verification=False)...
+[2025-08-25 05:48:58] Prompt length (chars): 14976
+[2025-08-25 05:50:11] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_40.json
+[2025-08-25 05:50:11] Processing chunk_41 (verification=False)...
+[2025-08-25 05:50:11] Prompt length (chars): 13967
+[2025-08-25 05:51:27] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_41.json
+[2025-08-25 05:51:27] Processing chunk_42 (verification=False)...
+[2025-08-25 05:51:27] Prompt length (chars): 14727
+[2025-08-25 05:51:53] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_42.json
+[2025-08-25 05:51:53] Processing chunk_43 (verification=False)...
+[2025-08-25 05:51:53] Prompt length (chars): 16095
+[2025-08-25 05:53:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_43.json
+[2025-08-25 05:53:20] Processing chunk_44 (verification=False)...
+[2025-08-25 05:53:20] Prompt length (chars): 15983
+[2025-08-25 05:53:30] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_44.json
+[2025-08-25 05:53:30] Processing chunk_45 (verification=False)...
+[2025-08-25 05:53:30] Prompt length (chars): 16094
+[2025-08-25 05:54:00] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_45.json
+[2025-08-25 05:54:00] Processing chunk_46 (verification=False)...
+[2025-08-25 05:54:00] Prompt length (chars): 15207
+[2025-08-25 05:55:29] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_46.json
+[2025-08-25 05:55:29] Processing chunk_47 (verification=False)...
+[2025-08-25 05:55:29] Prompt length (chars): 15640
+[2025-08-25 05:55:38] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_47.json
+[2025-08-25 05:55:38] Processing chunk_48 (verification=False)...
+[2025-08-25 05:55:38] Prompt length (chars): 16072
+[2025-08-25 05:56:07] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_48.json
+[2025-08-25 05:56:07] Processing chunk_49 (verification=False)...
+[2025-08-25 05:56:07] Prompt length (chars): 15767
+[2025-08-25 05:57:43] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_49.json
+[2025-08-25 05:57:43] Processing chunk_50 (verification=False)...
+[2025-08-25 05:57:43] Prompt length (chars): 16117
+[2025-08-25 05:59:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_50.json
+[2025-08-25 05:59:20] Processing chunk_51 (verification=False)...
+[2025-08-25 05:59:20] Prompt length (chars): 15796
+[2025-08-25 06:00:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_51.json
+[2025-08-25 06:00:58] Processing chunk_52 (verification=False)...
+[2025-08-25 06:00:58] Prompt length (chars): 16480
+[2025-08-25 06:02:35] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_52.json
+[2025-08-25 06:02:35] Processing chunk_53 (verification=False)...
+[2025-08-25 06:02:35] Prompt length (chars): 16033
+[2025-08-25 06:02:41] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_53.json
+[2025-08-25 06:02:41] Processing chunk_54 (verification=False)...
+[2025-08-25 06:02:41] Prompt length (chars): 16007
+[2025-08-25 06:03:36] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_54.json
+[2025-08-25 06:03:36] Processing chunk_55 (verification=False)...
+[2025-08-25 06:03:36] Prompt length (chars): 16310
+[2025-08-25 06:05:15] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_55.json
+[2025-08-25 06:05:15] Processing chunk_56 (verification=False)...
+[2025-08-25 06:05:15] Prompt length (chars): 16659
+[2025-08-25 06:06:54] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_56.json
+[2025-08-25 06:06:54] Processing chunk_57 (verification=False)...
+[2025-08-25 06:06:54] Prompt length (chars): 16383
+[2025-08-25 06:08:39] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_57.json
+[2025-08-25 06:08:39] Processing chunk_58 (verification=False)...
+[2025-08-25 06:08:39] Prompt length (chars): 16340
+[2025-08-25 06:10:27] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_58.json
+[2025-08-25 06:10:27] Processing chunk_59 (verification=False)...
+[2025-08-25 06:10:27] Prompt length (chars): 16974
+[2025-08-25 06:10:55] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_59.json
+[2025-08-25 06:10:55] Processing chunk_60 (verification=False)...
+[2025-08-25 06:10:55] Prompt length (chars): 16019
+[2025-08-25 06:12:41] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_60.json
+[2025-08-25 06:12:41] Processing chunk_61 (verification=False)...
+[2025-08-25 06:12:41] Prompt length (chars): 18068
+[2025-08-25 06:13:16] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_61.json
+[2025-08-25 06:13:16] Processing chunk_62 (verification=False)...
+[2025-08-25 06:13:16] Prompt length (chars): 17202
+[2025-08-25 06:13:50] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_62.json
+[2025-08-25 06:13:50] Processing chunk_63 (verification=False)...
+[2025-08-25 06:13:50] Prompt length (chars): 19195
+[2025-08-25 06:14:02] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_63.json
+[2025-08-25 06:14:02] Processing chunk_64 (verification=False)...
+[2025-08-25 06:14:02] Prompt length (chars): 18963
+[2025-08-25 06:14:10] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_64.json
+[2025-08-25 06:14:10] Processing chunk_65 (verification=False)...
+[2025-08-25 06:14:10] Prompt length (chars): 18957
+[2025-08-25 06:15:21] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_65.json
+[2025-08-25 06:15:21] Processing chunk_66 (verification=False)...
+[2025-08-25 06:15:21] Prompt length (chars): 19122
+[2025-08-25 06:17:21] [Attempt 1] Failed to process chunk_66: Ollama inference timed out.
+[2025-08-25 06:17:21] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:19:28] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_66.json
+[2025-08-25 06:19:28] Processing chunk_67 (verification=False)...
+[2025-08-25 06:19:28] Prompt length (chars): 19043
+[2025-08-25 06:21:28] [Attempt 1] Failed to process chunk_67: Ollama inference timed out.
+[2025-08-25 06:21:28] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:23:36] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_67.json
+[2025-08-25 06:23:36] Processing chunk_68 (verification=False)...
+[2025-08-25 06:23:36] Prompt length (chars): 19191
+[2025-08-25 06:25:37] [Attempt 1] Failed to process chunk_68: Ollama inference timed out.
+[2025-08-25 06:25:37] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:27:46] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_68.json
+[2025-08-25 06:27:46] Processing chunk_69 (verification=False)...
+[2025-08-25 06:27:46] Prompt length (chars): 20344
+[2025-08-25 06:29:03] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_69.json
+[2025-08-25 06:29:03] Processing chunk_70 (verification=False)...
+[2025-08-25 06:29:03] Prompt length (chars): 18857
+[2025-08-25 06:29:29] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_70.json
+[2025-08-25 06:29:29] Processing chunk_71 (verification=False)...
+[2025-08-25 06:29:29] Prompt length (chars): 19524
+[2025-08-25 06:31:29] [Attempt 1] Failed to process chunk_71: Ollama inference timed out.
+[2025-08-25 06:31:29] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:33:42] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_71.json
+[2025-08-25 06:33:42] Final memory saved to: output/04USVsRodriguez/org/final_memory.json
+[2025-08-25 06:33:42] Starting verification pass 1...
+[2025-08-25 06:33:42] Processing chunk_01 (verification=True)...
+[2025-08-25 06:33:42] Prompt length (chars): 18650
+[2025-08-25 06:35:42] [Attempt 1] Failed to process chunk_01: Ollama inference timed out.
+[2025-08-25 06:35:42] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:37:54] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_01_verify.json
+[2025-08-25 06:37:54] Processing chunk_02 (verification=True)...
+[2025-08-25 06:37:54] Prompt length (chars): 20250
+[2025-08-25 06:39:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_02_verify.json
+[2025-08-25 06:39:08] Processing chunk_03 (verification=True)...
+[2025-08-25 06:39:08] Prompt length (chars): 18672
+[2025-08-25 06:41:09] [Attempt 1] Failed to process chunk_03: Ollama inference timed out.
+[2025-08-25 06:41:09] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:43:24] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_03_verify.json
+[2025-08-25 06:43:24] Processing chunk_04 (verification=True)...
+[2025-08-25 06:43:24] Prompt length (chars): 20075
+[2025-08-25 06:45:24] [Attempt 1] Failed to process chunk_04: Ollama inference timed out.
+[2025-08-25 06:45:24] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:47:41] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_04_verify.json
+[2025-08-25 06:47:41] Processing chunk_05 (verification=True)...
+[2025-08-25 06:47:41] Prompt length (chars): 20159
+[2025-08-25 06:48:03] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_05_verify.json
+[2025-08-25 06:48:03] Processing chunk_06 (verification=True)...
+[2025-08-25 06:48:03] Prompt length (chars): 18114
+[2025-08-25 06:50:03] [Attempt 1] Failed to process chunk_06: Ollama inference timed out.
+[2025-08-25 06:50:03] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:52:11] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_06_verify.json
+[2025-08-25 06:52:11] Processing chunk_07 (verification=True)...
+[2025-08-25 06:52:11] Prompt length (chars): 19408
+[2025-08-25 06:52:17] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_07_verify.json
+[2025-08-25 06:52:17] Processing chunk_08 (verification=True)...
+[2025-08-25 06:52:17] Prompt length (chars): 19118
+[2025-08-25 06:52:35] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_08_verify.json
+[2025-08-25 06:52:35] Processing chunk_09 (verification=True)...
+[2025-08-25 06:52:35] Prompt length (chars): 20197
+[2025-08-25 06:52:45] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_09_verify.json
+[2025-08-25 06:52:45] Processing chunk_10 (verification=True)...
+[2025-08-25 06:52:45] Prompt length (chars): 19405
+[2025-08-25 06:53:04] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_10_verify.json
+[2025-08-25 06:53:04] Processing chunk_11 (verification=True)...
+[2025-08-25 06:53:04] Prompt length (chars): 19453
+[2025-08-25 06:55:04] [Attempt 1] Failed to process chunk_11: Ollama inference timed out.
+[2025-08-25 06:55:04] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 06:57:21] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_11_verify.json
+[2025-08-25 06:57:21] Processing chunk_12 (verification=True)...
+[2025-08-25 06:57:21] Prompt length (chars): 20083
+[2025-08-25 06:59:21] [Attempt 1] Failed to process chunk_12: Ollama inference timed out.
+[2025-08-25 06:59:21] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:01:38] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_12_verify.json
+[2025-08-25 07:01:38] Processing chunk_13 (verification=True)...
+[2025-08-25 07:01:38] Prompt length (chars): 20414
+[2025-08-25 07:03:38] [Attempt 1] Failed to process chunk_13: Ollama inference timed out.
+[2025-08-25 07:03:38] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:05:56] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_13_verify.json
+[2025-08-25 07:05:56] Processing chunk_14 (verification=True)...
+[2025-08-25 07:05:56] Prompt length (chars): 19938
+[2025-08-25 07:06:01] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_14_verify.json
+[2025-08-25 07:06:01] Processing chunk_15 (verification=True)...
+[2025-08-25 07:06:01] Prompt length (chars): 19860
+[2025-08-25 07:08:01] [Attempt 1] Failed to process chunk_15: Ollama inference timed out.
+[2025-08-25 07:08:01] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:10:17] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_15_verify.json
+[2025-08-25 07:10:17] Processing chunk_16 (verification=True)...
+[2025-08-25 07:10:17] Prompt length (chars): 20395
+[2025-08-25 07:12:17] [Attempt 1] Failed to process chunk_16: Ollama inference timed out.
+[2025-08-25 07:12:17] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:14:38] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_16_verify.json
+[2025-08-25 07:14:38] Processing chunk_17 (verification=True)...
+[2025-08-25 07:14:38] Prompt length (chars): 20575
+[2025-08-25 07:14:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_17_verify.json
+[2025-08-25 07:14:58] Processing chunk_18 (verification=True)...
+[2025-08-25 07:14:58] Prompt length (chars): 19771
+[2025-08-25 07:16:07] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_18_verify.json
+[2025-08-25 07:16:07] Processing chunk_19 (verification=True)...
+[2025-08-25 07:16:07] Prompt length (chars): 19867
+[2025-08-25 07:18:07] [Attempt 1] Failed to process chunk_19: Ollama inference timed out.
+[2025-08-25 07:18:07] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:20:23] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_19_verify.json
+[2025-08-25 07:20:23] Processing chunk_20 (verification=True)...
+[2025-08-25 07:20:23] Prompt length (chars): 19732
+[2025-08-25 07:20:31] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_20_verify.json
+[2025-08-25 07:20:31] Processing chunk_21 (verification=True)...
+[2025-08-25 07:20:31] Prompt length (chars): 18271
+[2025-08-25 07:22:31] [Attempt 1] Failed to process chunk_21: Ollama inference timed out.
+[2025-08-25 07:22:31] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:24:45] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_21_verify.json
+[2025-08-25 07:24:45] Processing chunk_22 (verification=True)...
+[2025-08-25 07:24:45] Prompt length (chars): 20682
+[2025-08-25 07:24:54] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_22_verify.json
+[2025-08-25 07:24:54] Processing chunk_23 (verification=True)...
+[2025-08-25 07:24:54] Prompt length (chars): 18213
+[2025-08-25 07:26:54] [Attempt 1] Failed to process chunk_23: Ollama inference timed out.
+[2025-08-25 07:26:54] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:29:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_23_verify.json
+[2025-08-25 07:29:08] Processing chunk_24 (verification=True)...
+[2025-08-25 07:29:08] Prompt length (chars): 20767
+[2025-08-25 07:29:18] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_24_verify.json
+[2025-08-25 07:29:18] Processing chunk_25 (verification=True)...
+[2025-08-25 07:29:18] Prompt length (chars): 20490
+[2025-08-25 07:29:42] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_25_verify.json
+[2025-08-25 07:29:42] Processing chunk_26 (verification=True)...
+[2025-08-25 07:29:42] Prompt length (chars): 21532
+[2025-08-25 07:29:52] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_26_verify.json
+[2025-08-25 07:29:52] Processing chunk_27 (verification=True)...
+[2025-08-25 07:29:52] Prompt length (chars): 21104
+[2025-08-25 07:30:05] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_27_verify.json
+[2025-08-25 07:30:05] Processing chunk_28 (verification=True)...
+[2025-08-25 07:30:05] Prompt length (chars): 21747
+[2025-08-25 07:30:28] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_28_verify.json
+[2025-08-25 07:30:28] Processing chunk_29 (verification=True)...
+[2025-08-25 07:30:28] Prompt length (chars): 20421
+[2025-08-25 07:32:28] [Attempt 1] Failed to process chunk_29: Ollama inference timed out.
+[2025-08-25 07:32:28] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:34:46] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_29_verify.json
+[2025-08-25 07:34:46] Processing chunk_30 (verification=True)...
+[2025-08-25 07:34:46] Prompt length (chars): 21038
+[2025-08-25 07:36:47] [Attempt 1] Failed to process chunk_30: Ollama inference timed out.
+[2025-08-25 07:36:47] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:39:06] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_30_verify.json
+[2025-08-25 07:39:06] Processing chunk_31 (verification=True)...
+[2025-08-25 07:39:06] Prompt length (chars): 20402
+[2025-08-25 07:39:30] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_31_verify.json
+[2025-08-25 07:39:30] Processing chunk_32 (verification=True)...
+[2025-08-25 07:39:30] Prompt length (chars): 20416
+[2025-08-25 07:41:30] [Attempt 1] Failed to process chunk_32: Ollama inference timed out.
+[2025-08-25 07:41:30] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:43:51] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_32_verify.json
+[2025-08-25 07:43:51] Processing chunk_33 (verification=True)...
+[2025-08-25 07:43:51] Prompt length (chars): 20956
+[2025-08-25 07:45:04] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_33_verify.json
+[2025-08-25 07:45:04] Processing chunk_34 (verification=True)...
+[2025-08-25 07:45:04] Prompt length (chars): 20653
+[2025-08-25 07:45:22] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_34_verify.json
+[2025-08-25 07:45:22] Processing chunk_35 (verification=True)...
+[2025-08-25 07:45:22] Prompt length (chars): 19945
+[2025-08-25 07:47:22] [Attempt 1] Failed to process chunk_35: Ollama inference timed out.
+[2025-08-25 07:47:22] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:49:44] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_35_verify.json
+[2025-08-25 07:49:44] Processing chunk_36 (verification=True)...
+[2025-08-25 07:49:44] Prompt length (chars): 20276
+[2025-08-25 07:50:50] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_36_verify.json
+[2025-08-25 07:50:50] Processing chunk_37 (verification=True)...
+[2025-08-25 07:50:50] Prompt length (chars): 20909
+[2025-08-25 07:52:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_37_verify.json
+[2025-08-25 07:52:08] Processing chunk_38 (verification=True)...
+[2025-08-25 07:52:08] Prompt length (chars): 20681
+[2025-08-25 07:52:24] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_38_verify.json
+[2025-08-25 07:52:24] Processing chunk_39 (verification=True)...
+[2025-08-25 07:52:24] Prompt length (chars): 20590
+[2025-08-25 07:52:31] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_39_verify.json
+[2025-08-25 07:52:31] Processing chunk_40 (verification=True)...
+[2025-08-25 07:52:31] Prompt length (chars): 20912
+[2025-08-25 07:52:49] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_40_verify.json
+[2025-08-25 07:52:49] Processing chunk_41 (verification=True)...
+[2025-08-25 07:52:49] Prompt length (chars): 19871
+[2025-08-25 07:52:59] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_41_verify.json
+[2025-08-25 07:52:59] Processing chunk_42 (verification=True)...
+[2025-08-25 07:52:59] Prompt length (chars): 20494
+[2025-08-25 07:53:15] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_42_verify.json
+[2025-08-25 07:53:15] Processing chunk_43 (verification=True)...
+[2025-08-25 07:53:15] Prompt length (chars): 21096
+[2025-08-25 07:55:15] [Attempt 1] Failed to process chunk_43: Ollama inference timed out.
+[2025-08-25 07:55:15] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 07:57:42] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_43_verify.json
+[2025-08-25 07:57:42] Processing chunk_44 (verification=True)...
+[2025-08-25 07:57:42] Prompt length (chars): 20939
+[2025-08-25 07:57:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_44_verify.json
+[2025-08-25 07:57:58] Processing chunk_45 (verification=True)...
+[2025-08-25 07:57:58] Prompt length (chars): 20993
+[2025-08-25 07:58:16] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_45_verify.json
+[2025-08-25 07:58:16] Processing chunk_46 (verification=True)...
+[2025-08-25 07:58:16] Prompt length (chars): 19908
+[2025-08-25 08:00:16] [Attempt 1] Failed to process chunk_46: Ollama inference timed out.
+[2025-08-25 08:00:16] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:02:42] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_46_verify.json
+[2025-08-25 08:02:42] Processing chunk_47 (verification=True)...
+[2025-08-25 08:02:42] Prompt length (chars): 20296
+[2025-08-25 08:02:53] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_47_verify.json
+[2025-08-25 08:02:53] Processing chunk_48 (verification=True)...
+[2025-08-25 08:02:53] Prompt length (chars): 20616
+[2025-08-25 08:03:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_48_verify.json
+[2025-08-25 08:03:08] Processing chunk_49 (verification=True)...
+[2025-08-25 08:03:08] Prompt length (chars): 20088
+[2025-08-25 08:03:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_49_verify.json
+[2025-08-25 08:03:20] Processing chunk_50 (verification=True)...
+[2025-08-25 08:03:20] Prompt length (chars): 20397
+[2025-08-25 08:05:20] [Attempt 1] Failed to process chunk_50: Ollama inference timed out.
+[2025-08-25 08:05:20] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:07:48] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_50_verify.json
+[2025-08-25 08:07:48] Processing chunk_51 (verification=True)...
+[2025-08-25 08:07:48] Prompt length (chars): 19994
+[2025-08-25 08:09:48] [Attempt 1] Failed to process chunk_51: Ollama inference timed out.
+[2025-08-25 08:09:48] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:12:16] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_51_verify.json
+[2025-08-25 08:12:16] Processing chunk_52 (verification=True)...
+[2025-08-25 08:12:16] Prompt length (chars): 20615
+[2025-08-25 08:12:25] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_52_verify.json
+[2025-08-25 08:12:25] Processing chunk_53 (verification=True)...
+[2025-08-25 08:12:25] Prompt length (chars): 20224
+[2025-08-25 08:12:32] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_53_verify.json
+[2025-08-25 08:12:32] Processing chunk_54 (verification=True)...
+[2025-08-25 08:12:32] Prompt length (chars): 20025
+[2025-08-25 08:13:41] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_54_verify.json
+[2025-08-25 08:13:41] Processing chunk_55 (verification=True)...
+[2025-08-25 08:13:41] Prompt length (chars): 20328
+[2025-08-25 08:15:41] [Attempt 1] Failed to process chunk_55: Ollama inference timed out.
+[2025-08-25 08:15:41] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:18:09] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_55_verify.json
+[2025-08-25 08:18:09] Processing chunk_56 (verification=True)...
+[2025-08-25 08:18:09] Prompt length (chars): 20677
+[2025-08-25 08:18:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_56_verify.json
+[2025-08-25 08:18:20] Processing chunk_57 (verification=True)...
+[2025-08-25 08:18:20] Prompt length (chars): 20343
+[2025-08-25 08:18:37] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_57_verify.json
+[2025-08-25 08:18:37] Processing chunk_58 (verification=True)...
+[2025-08-25 08:18:37] Prompt length (chars): 20122
+[2025-08-25 08:20:37] [Attempt 1] Failed to process chunk_58: Ollama inference timed out.
+[2025-08-25 08:20:37] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:23:09] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_58_verify.json
+[2025-08-25 08:23:09] Processing chunk_59 (verification=True)...
+[2025-08-25 08:23:09] Prompt length (chars): 20513
+[2025-08-25 08:23:21] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_59_verify.json
+[2025-08-25 08:23:21] Processing chunk_60 (verification=True)...
+[2025-08-25 08:23:21] Prompt length (chars): 19711
+[2025-08-25 08:25:21] [Attempt 1] Failed to process chunk_60: Ollama inference timed out.
+[2025-08-25 08:25:21] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:27:51] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_60_verify.json
+[2025-08-25 08:27:51] Processing chunk_61 (verification=True)...
+[2025-08-25 08:27:51] Prompt length (chars): 21502
+[2025-08-25 08:28:00] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_61_verify.json
+[2025-08-25 08:28:00] Processing chunk_62 (verification=True)...
+[2025-08-25 08:28:00] Prompt length (chars): 20138
+[2025-08-25 08:30:00] [Attempt 1] Failed to process chunk_62: Ollama inference timed out.
+[2025-08-25 08:30:00] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:32:33] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_62_verify.json
+[2025-08-25 08:32:33] Processing chunk_63 (verification=True)...
+[2025-08-25 08:32:33] Prompt length (chars): 22220
+[2025-08-25 08:32:49] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_63_verify.json
+[2025-08-25 08:32:49] Processing chunk_64 (verification=True)...
+[2025-08-25 08:32:49] Prompt length (chars): 21577
+[2025-08-25 08:32:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_64_verify.json
+[2025-08-25 08:32:58] Processing chunk_65 (verification=True)...
+[2025-08-25 08:32:58] Prompt length (chars): 21323
+[2025-08-25 08:34:11] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_65_verify.json
+[2025-08-25 08:34:11] Processing chunk_66 (verification=True)...
+[2025-08-25 08:34:11] Prompt length (chars): 21308
+[2025-08-25 08:36:11] [Attempt 1] Failed to process chunk_66: Ollama inference timed out.
+[2025-08-25 08:36:11] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:38:48] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_66_verify.json
+[2025-08-25 08:38:48] Processing chunk_67 (verification=True)...
+[2025-08-25 08:38:48] Prompt length (chars): 21033
+[2025-08-25 08:40:48] [Attempt 1] Failed to process chunk_67: Ollama inference timed out.
+[2025-08-25 08:40:48] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:43:24] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_67_verify.json
+[2025-08-25 08:43:24] Processing chunk_68 (verification=True)...
+[2025-08-25 08:43:24] Prompt length (chars): 21086
+[2025-08-25 08:45:24] [Attempt 1] Failed to process chunk_68: Ollama inference timed out.
+[2025-08-25 08:45:24] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:47:36] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_68_verify.json
+[2025-08-25 08:47:36] Processing chunk_69 (verification=True)...
+[2025-08-25 08:47:36] Prompt length (chars): 19509
+[2025-08-25 08:48:33] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_69_verify.json
+[2025-08-25 08:48:33] Processing chunk_70 (verification=True)...
+[2025-08-25 08:48:33] Prompt length (chars): 17970
+[2025-08-25 08:48:43] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_70_verify.json
+[2025-08-25 08:48:43] Processing chunk_71 (verification=True)...
+[2025-08-25 08:48:43] Prompt length (chars): 18610
+[2025-08-25 08:50:43] [Attempt 1] Failed to process chunk_71: Ollama inference timed out.
+[2025-08-25 08:50:44] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:52:55] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_71_verify.json
+[2025-08-25 08:52:55] Final memory saved to: output/04USVsRodriguez/org/final_memory.json
+[2025-08-25 08:52:55] Starting verification pass 2...
+[2025-08-25 08:52:55] Processing chunk_01 (verification=True)...
+[2025-08-25 08:52:55] Prompt length (chars): 17736
+[2025-08-25 08:53:00] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_01_verify.json
+[2025-08-25 08:53:00] Processing chunk_02 (verification=True)...
+[2025-08-25 08:53:00] Prompt length (chars): 19249
+[2025-08-25 08:53:11] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_02_verify.json
+[2025-08-25 08:53:11] Processing chunk_03 (verification=True)...
+[2025-08-25 08:53:11] Prompt length (chars): 17269
+[2025-08-25 08:55:11] [Attempt 1] Failed to process chunk_03: Ollama inference timed out.
+[2025-08-25 08:55:11] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:57:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_03_verify.json
+[2025-08-25 08:57:20] Processing chunk_04 (verification=True)...
+[2025-08-25 08:57:20] Prompt length (chars): 18672
+[2025-08-25 08:59:20] [Attempt 1] Failed to process chunk_04: Ollama inference timed out.
+[2025-08-25 08:59:20] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 08:59:37] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_04_verify.json
+[2025-08-25 08:59:38] Processing chunk_05 (verification=True)...
+[2025-08-25 08:59:38] Prompt length (chars): 19079
+[2025-08-25 09:00:02] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_05_verify.json
+[2025-08-25 09:00:02] Processing chunk_06 (verification=True)...
+[2025-08-25 09:00:02] Prompt length (chars): 18054
+[2025-08-25 09:02:02] [Attempt 1] Failed to process chunk_06: Ollama inference timed out.
+[2025-08-25 09:02:02] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:04:15] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_06_verify.json
+[2025-08-25 09:04:15] Processing chunk_07 (verification=True)...
+[2025-08-25 09:04:15] Prompt length (chars): 19348
+[2025-08-25 09:04:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_07_verify.json
+[2025-08-25 09:04:20] Processing chunk_08 (verification=True)...
+[2025-08-25 09:04:20] Prompt length (chars): 19033
+[2025-08-25 09:04:37] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_08_verify.json
+[2025-08-25 09:04:37] Processing chunk_09 (verification=True)...
+[2025-08-25 09:04:37] Prompt length (chars): 20034
+[2025-08-25 09:06:37] [Attempt 1] Failed to process chunk_09: Ollama inference timed out.
+[2025-08-25 09:06:37] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:08:59] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_09_verify.json
+[2025-08-25 09:08:59] Processing chunk_10 (verification=True)...
+[2025-08-25 09:08:59] Prompt length (chars): 19727
+[2025-08-25 09:09:19] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_10_verify.json
+[2025-08-25 09:09:19] Processing chunk_11 (verification=True)...
+[2025-08-25 09:09:19] Prompt length (chars): 19750
+[2025-08-25 09:09:37] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_11_verify.json
+[2025-08-25 09:09:37] Processing chunk_12 (verification=True)...
+[2025-08-25 09:09:37] Prompt length (chars): 20200
+[2025-08-25 09:10:05] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_12_verify.json
+[2025-08-25 09:10:05] Processing chunk_13 (verification=True)...
+[2025-08-25 09:10:05] Prompt length (chars): 20897
+[2025-08-25 09:10:28] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_13_verify.json
+[2025-08-25 09:10:28] Processing chunk_14 (verification=True)...
+[2025-08-25 09:10:28] Prompt length (chars): 20016
+[2025-08-25 09:10:36] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_14_verify.json
+[2025-08-25 09:10:36] Processing chunk_15 (verification=True)...
+[2025-08-25 09:10:36] Prompt length (chars): 20190
+[2025-08-25 09:10:56] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_15_verify.json
+[2025-08-25 09:10:56] Processing chunk_16 (verification=True)...
+[2025-08-25 09:10:56] Prompt length (chars): 20964
+[2025-08-25 09:12:56] [Attempt 1] Failed to process chunk_16: Ollama inference timed out.
+[2025-08-25 09:12:56] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:15:25] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_16_verify.json
+[2025-08-25 09:15:25] Processing chunk_17 (verification=True)...
+[2025-08-25 09:15:25] Prompt length (chars): 20692
+[2025-08-25 09:15:47] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_17_verify.json
+[2025-08-25 09:15:47] Processing chunk_18 (verification=True)...
+[2025-08-25 09:15:47] Prompt length (chars): 20118
+[2025-08-25 09:15:55] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_18_verify.json
+[2025-08-25 09:15:55] Processing chunk_19 (verification=True)...
+[2025-08-25 09:15:55] Prompt length (chars): 20072
+[2025-08-25 09:16:07] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_19_verify.json
+[2025-08-25 09:16:07] Processing chunk_20 (verification=True)...
+[2025-08-25 09:16:07] Prompt length (chars): 19863
+[2025-08-25 09:16:15] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_20_verify.json
+[2025-08-25 09:16:15] Processing chunk_21 (verification=True)...
+[2025-08-25 09:16:15] Prompt length (chars): 18514
+[2025-08-25 09:18:15] [Attempt 1] Failed to process chunk_21: Ollama inference timed out.
+[2025-08-25 09:18:15] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:20:39] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_21_verify.json
+[2025-08-25 09:20:39] Processing chunk_22 (verification=True)...
+[2025-08-25 09:20:39] Prompt length (chars): 20925
+[2025-08-25 09:21:48] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_22_verify.json
+[2025-08-25 09:21:48] Processing chunk_23 (verification=True)...
+[2025-08-25 09:21:48] Prompt length (chars): 18686
+[2025-08-25 09:23:48] [Attempt 1] Failed to process chunk_23: Ollama inference timed out.
+[2025-08-25 09:23:48] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:26:12] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_23_verify.json
+[2025-08-25 09:26:12] Processing chunk_24 (verification=True)...
+[2025-08-25 09:26:12] Prompt length (chars): 21215
+[2025-08-25 09:26:19] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_24_verify.json
+[2025-08-25 09:26:20] Processing chunk_25 (verification=True)...
+[2025-08-25 09:26:20] Prompt length (chars): 20762
+[2025-08-25 09:26:43] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_25_verify.json
+[2025-08-25 09:26:43] Processing chunk_26 (verification=True)...
+[2025-08-25 09:26:43] Prompt length (chars): 21613
+[2025-08-25 09:26:53] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_26_verify.json
+[2025-08-25 09:26:53] Processing chunk_27 (verification=True)...
+[2025-08-25 09:26:53] Prompt length (chars): 21143
+[2025-08-25 09:27:19] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_27_verify.json
+[2025-08-25 09:27:19] Processing chunk_28 (verification=True)...
+[2025-08-25 09:27:19] Prompt length (chars): 21860
+[2025-08-25 09:27:45] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_28_verify.json
+[2025-08-25 09:27:45] Processing chunk_29 (verification=True)...
+[2025-08-25 09:27:45] Prompt length (chars): 21050
+[2025-08-25 09:28:07] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_29_verify.json
+[2025-08-25 09:28:07] Processing chunk_30 (verification=True)...
+[2025-08-25 09:28:07] Prompt length (chars): 21596
+[2025-08-25 09:30:07] [Attempt 1] Failed to process chunk_30: Ollama inference timed out.
+[2025-08-25 09:30:07] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:32:44] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_30_verify.json
+[2025-08-25 09:32:45] Processing chunk_31 (verification=True)...
+[2025-08-25 09:32:45] Prompt length (chars): 23631
+[2025-08-25 09:33:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_31_verify.json
+[2025-08-25 09:33:08] Processing chunk_32 (verification=True)...
+[2025-08-25 09:33:08] Prompt length (chars): 23152
+[2025-08-25 09:33:27] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_32_verify.json
+[2025-08-25 09:33:27] Processing chunk_33 (verification=True)...
+[2025-08-25 09:33:27] Prompt length (chars): 24047
+[2025-08-25 09:34:00] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_33_verify.json
+[2025-08-25 09:34:00] Processing chunk_34 (verification=True)...
+[2025-08-25 09:34:00] Prompt length (chars): 23225
+[2025-08-25 09:34:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_34_verify.json
+[2025-08-25 09:34:20] Processing chunk_35 (verification=True)...
+[2025-08-25 09:34:20] Prompt length (chars): 23117
+[2025-08-25 09:34:30] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_35_verify.json
+[2025-08-25 09:34:30] Processing chunk_36 (verification=True)...
+[2025-08-25 09:34:30] Prompt length (chars): 23607
+[2025-08-25 09:35:02] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_36_verify.json
+[2025-08-25 09:35:02] Processing chunk_37 (verification=True)...
+[2025-08-25 09:35:02] Prompt length (chars): 24155
+[2025-08-25 09:36:37] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_37_verify.json
+[2025-08-25 09:36:37] Processing chunk_38 (verification=True)...
+[2025-08-25 09:36:37] Prompt length (chars): 23835
+[2025-08-25 09:36:55] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_38_verify.json
+[2025-08-25 09:36:55] Processing chunk_39 (verification=True)...
+[2025-08-25 09:36:55] Prompt length (chars): 23914
+[2025-08-25 09:38:55] [Attempt 1] Failed to process chunk_39: Ollama inference timed out.
+[2025-08-25 09:38:55] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:41:56] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_39_verify.json
+[2025-08-25 09:41:56] Processing chunk_40 (verification=True)...
+[2025-08-25 09:41:56] Prompt length (chars): 24337
+[2025-08-25 09:43:39] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_40_verify.json
+[2025-08-25 09:43:39] Processing chunk_41 (verification=True)...
+[2025-08-25 09:43:39] Prompt length (chars): 23501
+[2025-08-25 09:43:53] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_41_verify.json
+[2025-08-25 09:43:53] Processing chunk_42 (verification=True)...
+[2025-08-25 09:43:53] Prompt length (chars): 24184
+[2025-08-25 09:44:10] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_42_verify.json
+[2025-08-25 09:44:10] Processing chunk_43 (verification=True)...
+[2025-08-25 09:44:10] Prompt length (chars): 25025
+[2025-08-25 09:44:47] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_43_verify.json
+[2025-08-25 09:44:47] Processing chunk_44 (verification=True)...
+[2025-08-25 09:44:47] Prompt length (chars): 24704
+[2025-08-25 09:45:05] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_44_verify.json
+[2025-08-25 09:45:05] Processing chunk_45 (verification=True)...
+[2025-08-25 09:45:05] Prompt length (chars): 24704
+[2025-08-25 09:45:23] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_45_verify.json
+[2025-08-25 09:45:23] Processing chunk_46 (verification=True)...
+[2025-08-25 09:45:23] Prompt length (chars): 23566
+[2025-08-25 09:45:34] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_46_verify.json
+[2025-08-25 09:45:34] Processing chunk_47 (verification=True)...
+[2025-08-25 09:45:34] Prompt length (chars): 23876
+[2025-08-25 09:45:42] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_47_verify.json
+[2025-08-25 09:45:42] Processing chunk_48 (verification=True)...
+[2025-08-25 09:45:42] Prompt length (chars): 24196
+[2025-08-25 09:45:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_48_verify.json
+[2025-08-25 09:45:58] Processing chunk_49 (verification=True)...
+[2025-08-25 09:45:58] Prompt length (chars): 23394
+[2025-08-25 09:46:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_49_verify.json
+[2025-08-25 09:46:08] Processing chunk_50 (verification=True)...
+[2025-08-25 09:46:08] Prompt length (chars): 23530
+[2025-08-25 09:47:43] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_50_verify.json
+[2025-08-25 09:47:43] Processing chunk_51 (verification=True)...
+[2025-08-25 09:47:43] Prompt length (chars): 23127
+[2025-08-25 09:49:18] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_51_verify.json
+[2025-08-25 09:49:18] Processing chunk_52 (verification=True)...
+[2025-08-25 09:49:18] Prompt length (chars): 23858
+[2025-08-25 09:51:00] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_52_verify.json
+[2025-08-25 09:51:00] Processing chunk_53 (verification=True)...
+[2025-08-25 09:51:00] Prompt length (chars): 23563
+[2025-08-25 09:51:07] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_53_verify.json
+[2025-08-25 09:51:07] Processing chunk_54 (verification=True)...
+[2025-08-25 09:51:07] Prompt length (chars): 23384
+[2025-08-25 09:52:47] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_54_verify.json
+[2025-08-25 09:52:47] Processing chunk_55 (verification=True)...
+[2025-08-25 09:52:47] Prompt length (chars): 23687
+[2025-08-25 09:52:57] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_55_verify.json
+[2025-08-25 09:52:57] Processing chunk_56 (verification=True)...
+[2025-08-25 09:52:57] Prompt length (chars): 24036
+[2025-08-25 09:53:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_56_verify.json
+[2025-08-25 09:53:08] Processing chunk_57 (verification=True)...
+[2025-08-25 09:53:08] Prompt length (chars): 23653
+[2025-08-25 09:53:44] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_57_verify.json
+[2025-08-25 09:53:44] Processing chunk_58 (verification=True)...
+[2025-08-25 09:53:44] Prompt length (chars): 24045
+[2025-08-25 09:55:45] [Attempt 1] Failed to process chunk_58: Ollama inference timed out.
+[2025-08-25 09:55:45] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 09:59:02] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_58_verify.json
+[2025-08-25 09:59:02] Processing chunk_59 (verification=True)...
+[2025-08-25 09:59:02] Prompt length (chars): 24719
+[2025-08-25 09:59:15] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_59_verify.json
+[2025-08-25 09:59:15] Processing chunk_60 (verification=True)...
+[2025-08-25 09:59:15] Prompt length (chars): 23982
+[2025-08-25 10:01:05] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_60_verify.json
+[2025-08-25 10:01:05] Processing chunk_61 (verification=True)...
+[2025-08-25 10:01:05] Prompt length (chars): 25701
+[2025-08-25 10:01:20] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_61_verify.json
+[2025-08-25 10:01:20] Processing chunk_62 (verification=True)...
+[2025-08-25 10:01:20] Prompt length (chars): 24277
+[2025-08-25 10:01:36] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_62_verify.json
+[2025-08-25 10:01:36] Processing chunk_63 (verification=True)...
+[2025-08-25 10:01:36] Prompt length (chars): 26257
+[2025-08-25 10:01:58] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_63_verify.json
+[2025-08-25 10:01:58] Processing chunk_64 (verification=True)...
+[2025-08-25 10:01:58] Prompt length (chars): 26001
+[2025-08-25 10:02:08] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_64_verify.json
+[2025-08-25 10:02:08] Processing chunk_65 (verification=True)...
+[2025-08-25 10:02:08] Prompt length (chars): 25766
+[2025-08-25 10:02:22] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_65_verify.json
+[2025-08-25 10:02:22] Processing chunk_66 (verification=True)...
+[2025-08-25 10:02:22] Prompt length (chars): 26076
+[2025-08-25 10:04:22] [Attempt 1] Failed to process chunk_66: Ollama inference timed out.
+[2025-08-25 10:04:22] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 10:07:50] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_66_verify.json
+[2025-08-25 10:07:50] Processing chunk_67 (verification=True)...
+[2025-08-25 10:07:50] Prompt length (chars): 25801
+[2025-08-25 10:09:51] [Attempt 1] Failed to process chunk_67: Ollama inference timed out.
+[2025-08-25 10:09:51] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 10:13:19] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_67_verify.json
+[2025-08-25 10:13:19] Processing chunk_68 (verification=True)...
+[2025-08-25 10:13:19] Prompt length (chars): 25854
+[2025-08-25 10:15:19] [Attempt 1] Failed to process chunk_68: Ollama inference timed out.
+[2025-08-25 10:15:19] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 10:18:48] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_68_verify.json
+[2025-08-25 10:18:48] Processing chunk_69 (verification=True)...
+[2025-08-25 10:18:48] Prompt length (chars): 26890
+[2025-08-25 10:19:14] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_69_verify.json
+[2025-08-25 10:19:14] Processing chunk_70 (verification=True)...
+[2025-08-25 10:19:14] Prompt length (chars): 25204
+[2025-08-25 10:21:14] [Attempt 1] Failed to process chunk_70: Ollama inference timed out.
+[2025-08-25 10:21:14] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 10:24:39] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_70_verify.json
+[2025-08-25 10:24:39] Processing chunk_71 (verification=True)...
+[2025-08-25 10:24:39] Prompt length (chars): 25844
+[2025-08-25 10:26:39] [Attempt 1] Failed to process chunk_71: Ollama inference timed out.
+[2025-08-25 10:26:39] Timeout detected. Retrying once with increased timeout (300 seconds).
+[2025-08-25 10:30:07] Saved coref output: output/04USVsRodriguez/org/coref_outputs/chunk_71_verify.json
+[2025-08-25 10:30:07] Final memory saved to: output/04USVsRodriguez/org/final_memory.json
+[2025-08-25 10:30:07] Coreference Resolution completed in 18158.54 seconds.
+[2025-08-25 10:30:07] Cumulative time after Coref: 18386.48 seconds.
+[2025-08-25 10:30:07] Starting Final Coref Resolution Step...
+[2025-08-25 10:30:08] Starting coreference resolution loop
+[2025-08-25 10:30:08] Removing 60 unresolved mappings from RESOLVED_ENTITIES: ['an oil company', 'the wind farm', 'Moglia ranch house', 'Stag ranch trailer', 'Santo Nino Road', 'Dinn Ranch', 'IGNACIO RODRIGUEZ, JR.', 'RICARDO RODRIGUEZ, JR.', 'MARCO MONTEMAYOR', 'the area', 'dispatch', 'an arrest', 'a warrant', 'the suspect', 'the defendant', 'the offense', 'the events', 'the collective knowledge doctrine', 'other circuits', 'two vehicles', 'Interstate highway', 'Arizona plates', 'Cadillac', 'pickup truck', 'the oil companies', 'the vehicle', 'the camper shell', 'RICARDO RODRIGUEZ, JR. and IGNACIO RODRIGUEZ, JR.', 'Farm-to-Market Road 2895', 'Ranchitos Las Lomas', 'a white passenger vehicle', 'the Defendant', 'the vehicles', 'San Antonio', 'the second vehicle', 'Highway 35', 'Hebbronville', 'Houston', 'the agency', 'the canine search', 'the traffic stop', 'Marco Montemayor', 'Stag trailer', 'the driver', 'the passenger side', 'the glove box', 'a canine', 'the search', 'the canine handler', 'the canine', 'San Angelo', "Agent Jorge Luis Trevino's patrol car", 'the road', 'the patrol car', 'the license plate', 'the high-beams', 'the passengers', 'the roadway', 'the stop', 'probable cause']
+[2025-08-25 10:30:08] 99 valid RESOLVED_ENTITIES retained for final resolution.
+[2025-08-25 10:30:08] [Retry 1/3] Resolving coreference for chunk_01...
+[2025-08-25 10:30:08] Prompt length (chars): 20841
+[2025-08-25 10:30:08] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20841) with timeout=120s
+[2025-08-25 10:30:19] Response received in 10.83 seconds for chunk_01
+[2025-08-25 10:30:19] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_01_resolved.txt
+[2025-08-25 10:30:19] [Retry 1/3] Resolving coreference for chunk_02...
+[2025-08-25 10:30:19] Prompt length (chars): 22314
+[2025-08-25 10:30:19] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22314) with timeout=120s
+[2025-08-25 10:30:40] Response received in 21.97 seconds for chunk_02
+[2025-08-25 10:30:40] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_02_resolved.txt
+[2025-08-25 10:30:40] [Retry 1/3] Resolving coreference for chunk_03...
+[2025-08-25 10:30:40] Prompt length (chars): 20710
+[2025-08-25 10:30:40] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20710) with timeout=120s
+[2025-08-25 10:30:41] Response received in 0.28 seconds for chunk_03
+[2025-08-25 10:30:41] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_03_resolved.txt
+[2025-08-25 10:30:41] [Retry 1/3] Resolving coreference for chunk_04...
+[2025-08-25 10:30:41] Prompt length (chars): 21962
+[2025-08-25 10:30:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21962) with timeout=120s
+[2025-08-25 10:30:57] Response received in 16.58 seconds for chunk_04
+[2025-08-25 10:30:57] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_04_resolved.txt
+[2025-08-25 10:30:57] [Retry 1/3] Resolving coreference for chunk_05...
+[2025-08-25 10:30:57] Prompt length (chars): 22046
+[2025-08-25 10:30:57] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22046) with timeout=120s
+[2025-08-25 10:31:14] Response received in 16.99 seconds for chunk_05
+[2025-08-25 10:31:14] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_05_resolved.txt
+[2025-08-25 10:31:14] [Retry 1/3] Resolving coreference for chunk_06...
+[2025-08-25 10:31:14] Prompt length (chars): 20998
+[2025-08-25 10:31:14] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20998) with timeout=120s
+[2025-08-25 10:31:17] Response received in 2.94 seconds for chunk_06
+[2025-08-25 10:31:17] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_06_resolved.txt
+[2025-08-25 10:31:17] [Retry 1/3] Resolving coreference for chunk_07...
+[2025-08-25 10:31:17] Prompt length (chars): 22208
+[2025-08-25 10:31:17] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22208) with timeout=120s
+[2025-08-25 10:31:38] Response received in 20.32 seconds for chunk_07
+[2025-08-25 10:31:38] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_07_resolved.txt
+[2025-08-25 10:31:38] [Retry 1/3] Resolving coreference for chunk_08...
+[2025-08-25 10:31:38] Prompt length (chars): 21923
+[2025-08-25 10:31:38] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21923) with timeout=120s
+[2025-08-25 10:31:56] Response received in 18.54 seconds for chunk_08
+[2025-08-25 10:31:56] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_08_resolved.txt
+[2025-08-25 10:31:56] [Retry 1/3] Resolving coreference for chunk_09...
+[2025-08-25 10:31:56] Prompt length (chars): 22753
+[2025-08-25 10:31:56] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22753) with timeout=120s
+[2025-08-25 10:32:23] Response received in 26.59 seconds for chunk_09
+[2025-08-25 10:32:23] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_09_resolved.txt
+[2025-08-25 10:32:23] [Retry 1/3] Resolving coreference for chunk_10...
+[2025-08-25 10:32:23] Prompt length (chars): 21977
+[2025-08-25 10:32:23] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21977) with timeout=120s
+[2025-08-25 10:32:40] Response received in 17.25 seconds for chunk_10
+[2025-08-25 10:32:40] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_10_resolved.txt
+[2025-08-25 10:32:40] [Retry 1/3] Resolving coreference for chunk_11...
+[2025-08-25 10:32:40] Prompt length (chars): 21999
+[2025-08-25 10:32:40] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21999) with timeout=120s
+[2025-08-25 10:32:58] Response received in 17.71 seconds for chunk_11
+[2025-08-25 10:32:58] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_11_resolved.txt
+[2025-08-25 10:32:58] [Retry 1/3] Resolving coreference for chunk_12...
+[2025-08-25 10:32:58] Prompt length (chars): 22346
+[2025-08-25 10:32:58] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22346) with timeout=120s
+[2025-08-25 10:33:25] Response received in 26.78 seconds for chunk_12
+[2025-08-25 10:33:25] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_12_resolved.txt
+[2025-08-25 10:33:25] [Retry 1/3] Resolving coreference for chunk_13...
+[2025-08-25 10:33:25] Prompt length (chars): 22518
+[2025-08-25 10:33:25] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22518) with timeout=120s
+[2025-08-25 10:33:49] Response received in 24.01 seconds for chunk_13
+[2025-08-25 10:33:49] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_13_resolved.txt
+[2025-08-25 10:33:49] [Retry 1/3] Resolving coreference for chunk_14...
+[2025-08-25 10:33:49] Prompt length (chars): 22033
+[2025-08-25 10:33:49] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22033) with timeout=120s
+[2025-08-25 10:34:06] Response received in 17.53 seconds for chunk_14
+[2025-08-25 10:34:06] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_14_resolved.txt
+[2025-08-25 10:34:06] [Retry 1/3] Resolving coreference for chunk_15...
+[2025-08-25 10:34:06] Prompt length (chars): 22318
+[2025-08-25 10:34:06] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22318) with timeout=120s
+[2025-08-25 10:34:29] Response received in 22.89 seconds for chunk_15
+[2025-08-25 10:34:29] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_15_resolved.txt
+[2025-08-25 10:34:29] [Retry 1/3] Resolving coreference for chunk_16...
+[2025-08-25 10:34:29] Prompt length (chars): 22706
+[2025-08-25 10:34:29] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22706) with timeout=120s
+[2025-08-25 10:34:58] Response received in 28.9 seconds for chunk_16
+[2025-08-25 10:34:58] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_16_resolved.txt
+[2025-08-25 10:34:58] [Retry 1/3] Resolving coreference for chunk_17...
+[2025-08-25 10:34:58] Prompt length (chars): 22233
+[2025-08-25 10:34:58] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22233) with timeout=120s
+[2025-08-25 10:35:21] Response received in 23.03 seconds for chunk_17
+[2025-08-25 10:35:21] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_17_resolved.txt
+[2025-08-25 10:35:21] [Retry 1/3] Resolving coreference for chunk_18...
+[2025-08-25 10:35:21] Prompt length (chars): 22377
+[2025-08-25 10:35:21] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22377) with timeout=120s
+[2025-08-25 10:35:46] Response received in 25.14 seconds for chunk_18
+[2025-08-25 10:35:47] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_18_resolved.txt
+[2025-08-25 10:35:47] [Retry 1/3] Resolving coreference for chunk_19...
+[2025-08-25 10:35:47] Prompt length (chars): 21841
+[2025-08-25 10:35:47] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21841) with timeout=120s
+[2025-08-25 10:36:03] Response received in 16.44 seconds for chunk_19
+[2025-08-25 10:36:03] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_19_resolved.txt
+[2025-08-25 10:36:03] [Retry 1/3] Resolving coreference for chunk_20...
+[2025-08-25 10:36:03] Prompt length (chars): 22045
+[2025-08-25 10:36:03] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22045) with timeout=120s
+[2025-08-25 10:36:21] Response received in 17.81 seconds for chunk_20
+[2025-08-25 10:36:21] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_20_resolved.txt
+[2025-08-25 10:36:21] [Retry 1/3] Resolving coreference for chunk_21...
+[2025-08-25 10:36:21] Prompt length (chars): 20711
+[2025-08-25 10:36:21] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20711) with timeout=120s
+[2025-08-25 10:36:21] Response received in 0.39 seconds for chunk_21
+[2025-08-25 10:36:21] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_21_resolved.txt
+[2025-08-25 10:36:21] [Retry 1/3] Resolving coreference for chunk_22...
+[2025-08-25 10:36:21] Prompt length (chars): 22772
+[2025-08-25 10:36:21] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22772) with timeout=120s
+[2025-08-25 10:36:46] Response received in 24.98 seconds for chunk_22
+[2025-08-25 10:36:46] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_22_resolved.txt
+[2025-08-25 10:36:46] [Retry 1/3] Resolving coreference for chunk_23...
+[2025-08-25 10:36:46] Prompt length (chars): 20770
+[2025-08-25 10:36:46] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=20770) with timeout=120s
+[2025-08-25 10:36:48] Response received in 1.33 seconds for chunk_23
+[2025-08-25 10:36:48] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_23_resolved.txt
+[2025-08-25 10:36:48] [Retry 1/3] Resolving coreference for chunk_24...
+[2025-08-25 10:36:48] Prompt length (chars): 23118
+[2025-08-25 10:36:48] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23118) with timeout=120s
+[2025-08-25 10:37:12] Response received in 24.69 seconds for chunk_24
+[2025-08-25 10:37:12] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_24_resolved.txt
+[2025-08-25 10:37:12] [Retry 1/3] Resolving coreference for chunk_25...
+[2025-08-25 10:37:12] Prompt length (chars): 22654
+[2025-08-25 10:37:12] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22654) with timeout=120s
+[2025-08-25 10:37:34] Response received in 21.19 seconds for chunk_25
+[2025-08-25 10:37:34] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_25_resolved.txt
+[2025-08-25 10:37:34] [Retry 1/3] Resolving coreference for chunk_26...
+[2025-08-25 10:37:34] Prompt length (chars): 23401
+[2025-08-25 10:37:34] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23401) with timeout=120s
+[2025-08-25 10:38:03] Response received in 29.77 seconds for chunk_26
+[2025-08-25 10:38:03] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_26_resolved.txt
+[2025-08-25 10:38:03] [Retry 1/3] Resolving coreference for chunk_27...
+[2025-08-25 10:38:03] Prompt length (chars): 22797
+[2025-08-25 10:38:03] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22797) with timeout=120s
+[2025-08-25 10:38:25] Response received in 21.47 seconds for chunk_27
+[2025-08-25 10:38:25] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_27_resolved.txt
+[2025-08-25 10:38:25] [Retry 1/3] Resolving coreference for chunk_28...
+[2025-08-25 10:38:25] Prompt length (chars): 23720
+[2025-08-25 10:38:25] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23720) with timeout=120s
+[2025-08-25 10:38:59] Response received in 34.64 seconds for chunk_28
+[2025-08-25 10:38:59] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_28_resolved.txt
+[2025-08-25 10:39:00] [Retry 1/3] Resolving coreference for chunk_29...
+[2025-08-25 10:39:00] Prompt length (chars): 22622
+[2025-08-25 10:39:00] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22622) with timeout=120s
+[2025-08-25 10:39:19] Response received in 19.22 seconds for chunk_29
+[2025-08-25 10:39:19] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_29_resolved.txt
+[2025-08-25 10:39:19] [Retry 1/3] Resolving coreference for chunk_30...
+[2025-08-25 10:39:19] Prompt length (chars): 23208
+[2025-08-25 10:39:19] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=23208) with timeout=120s
+[2025-08-25 10:39:46] Response received in 27.54 seconds for chunk_30
+[2025-08-25 10:39:46] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_30_resolved.txt
+[2025-08-25 10:39:46] [Retry 1/3] Resolving coreference for chunk_31...
+[2025-08-25 10:39:46] Prompt length (chars): 22572
+[2025-08-25 10:39:46] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22572) with timeout=120s
+[2025-08-25 10:40:07] Response received in 20.72 seconds for chunk_31
+[2025-08-25 10:40:07] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_31_resolved.txt
+[2025-08-25 10:40:07] [Retry 1/3] Resolving coreference for chunk_32...
+[2025-08-25 10:40:07] Prompt length (chars): 22170
+[2025-08-25 10:40:07] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22170) with timeout=120s
+[2025-08-25 10:40:21] Response received in 13.92 seconds for chunk_32
+[2025-08-25 10:40:21] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_32_resolved.txt
+[2025-08-25 10:40:21] [Retry 1/3] Resolving coreference for chunk_33...
+[2025-08-25 10:40:21] Prompt length (chars): 22686
+[2025-08-25 10:40:21] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22686) with timeout=120s
+[2025-08-25 10:40:41] Response received in 19.73 seconds for chunk_33
+[2025-08-25 10:40:41] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_33_resolved.txt
+[2025-08-25 10:40:41] [Retry 1/3] Resolving coreference for chunk_34...
+[2025-08-25 10:40:41] Prompt length (chars): 21841
+[2025-08-25 10:40:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21841) with timeout=120s
+[2025-08-25 10:40:54] Response received in 13.35 seconds for chunk_34
+[2025-08-25 10:40:54] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_34_resolved.txt
+[2025-08-25 10:40:54] [Retry 1/3] Resolving coreference for chunk_35...
+[2025-08-25 10:40:54] Prompt length (chars): 21707
+[2025-08-25 10:40:54] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21707) with timeout=120s
+[2025-08-25 10:41:05] Response received in 10.65 seconds for chunk_35
+[2025-08-25 10:41:05] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_35_resolved.txt
+[2025-08-25 10:41:05] [Retry 1/3] Resolving coreference for chunk_36...
+[2025-08-25 10:41:05] Prompt length (chars): 22066
+[2025-08-25 10:41:05] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22066) with timeout=120s
+[2025-08-25 10:41:21] Response received in 15.68 seconds for chunk_36
+[2025-08-25 10:41:21] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_36_resolved.txt
+[2025-08-25 10:41:21] [Retry 1/3] Resolving coreference for chunk_37...
+[2025-08-25 10:41:21] Prompt length (chars): 22531
+[2025-08-25 10:41:21] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22531) with timeout=120s
+[2025-08-25 10:41:41] Response received in 20.75 seconds for chunk_37
+[2025-08-25 10:41:41] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_37_resolved.txt
+[2025-08-25 10:41:41] [Retry 1/3] Resolving coreference for chunk_38...
+[2025-08-25 10:41:41] Prompt length (chars): 22027
+[2025-08-25 10:41:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22027) with timeout=120s
+[2025-08-25 10:41:55] Response received in 13.67 seconds for chunk_38
+[2025-08-25 10:41:55] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_38_resolved.txt
+[2025-08-25 10:41:55] [Retry 1/3] Resolving coreference for chunk_39...
+[2025-08-25 10:41:55] Prompt length (chars): 22124
+[2025-08-25 10:41:55] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22124) with timeout=120s
+[2025-08-25 10:42:12] Response received in 17.11 seconds for chunk_39
+[2025-08-25 10:42:12] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_39_resolved.txt
+[2025-08-25 10:42:12] [Retry 1/3] Resolving coreference for chunk_40...
+[2025-08-25 10:42:12] Prompt length (chars): 22376
+[2025-08-25 10:42:12] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22376) with timeout=120s
+[2025-08-25 10:42:33] Response received in 21.05 seconds for chunk_40
+[2025-08-25 10:42:33] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_40_resolved.txt
+[2025-08-25 10:42:33] [Retry 1/3] Resolving coreference for chunk_41...
+[2025-08-25 10:42:33] Prompt length (chars): 21264
+[2025-08-25 10:42:33] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21264) with timeout=120s
+[2025-08-25 10:42:39] Response received in 6.0 seconds for chunk_41
+[2025-08-25 10:42:39] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_41_resolved.txt
+[2025-08-25 10:42:39] [Retry 1/3] Resolving coreference for chunk_42...
+[2025-08-25 10:42:39] Prompt length (chars): 21990
+[2025-08-25 10:42:39] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21990) with timeout=120s
+[2025-08-25 10:42:52] Response received in 13.09 seconds for chunk_42
+[2025-08-25 10:42:52] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_42_resolved.txt
+[2025-08-25 10:42:52] [Retry 1/3] Resolving coreference for chunk_43...
+[2025-08-25 10:42:52] Prompt length (chars): 22433
+[2025-08-25 10:42:52] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22433) with timeout=120s
+[2025-08-25 10:43:16] Response received in 23.92 seconds for chunk_43
+[2025-08-25 10:43:16] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_43_resolved.txt
+[2025-08-25 10:43:16] [Retry 1/3] Resolving coreference for chunk_44...
+[2025-08-25 10:43:16] Prompt length (chars): 22274
+[2025-08-25 10:43:16] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22274) with timeout=120s
+[2025-08-25 10:43:31] Response received in 14.45 seconds for chunk_44
+[2025-08-25 10:43:31] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_44_resolved.txt
+[2025-08-25 10:43:31] [Retry 1/3] Resolving coreference for chunk_45...
+[2025-08-25 10:43:31] Prompt length (chars): 22405
+[2025-08-25 10:43:31] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22405) with timeout=120s
+[2025-08-25 10:43:49] Response received in 17.84 seconds for chunk_45
+[2025-08-25 10:43:49] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_45_resolved.txt
+[2025-08-25 10:43:49] [Retry 1/3] Resolving coreference for chunk_46...
+[2025-08-25 10:43:49] Prompt length (chars): 21327
+[2025-08-25 10:43:49] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21327) with timeout=120s
+[2025-08-25 10:43:57] Response received in 8.11 seconds for chunk_46
+[2025-08-25 10:43:57] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_46_resolved.txt
+[2025-08-25 10:43:57] [Retry 1/3] Resolving coreference for chunk_47...
+[2025-08-25 10:43:57] Prompt length (chars): 21644
+[2025-08-25 10:43:57] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21644) with timeout=120s
+[2025-08-25 10:44:06] Response received in 9.0 seconds for chunk_47
+[2025-08-25 10:44:06] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_47_resolved.txt
+[2025-08-25 10:44:06] [Retry 1/3] Resolving coreference for chunk_48...
+[2025-08-25 10:44:06] Prompt length (chars): 21900
+[2025-08-25 10:44:06] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21900) with timeout=120s
+[2025-08-25 10:44:22] Response received in 16.11 seconds for chunk_48
+[2025-08-25 10:44:22] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_48_resolved.txt
+[2025-08-25 10:44:22] [Retry 1/3] Resolving coreference for chunk_49...
+[2025-08-25 10:44:22] Prompt length (chars): 21332
+[2025-08-25 10:44:22] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21332) with timeout=120s
+[2025-08-25 10:44:29] Response received in 7.46 seconds for chunk_49
+[2025-08-25 10:44:29] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_49_resolved.txt
+[2025-08-25 10:44:29] [Retry 1/3] Resolving coreference for chunk_50...
+[2025-08-25 10:44:29] Prompt length (chars): 21623
+[2025-08-25 10:44:29] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21623) with timeout=120s
+[2025-08-25 10:44:43] Response received in 13.71 seconds for chunk_50
+[2025-08-25 10:44:43] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_50_resolved.txt
+[2025-08-25 10:44:43] [Retry 1/3] Resolving coreference for chunk_51...
+[2025-08-25 10:44:43] Prompt length (chars): 21323
+[2025-08-25 10:44:43] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21323) with timeout=120s
+[2025-08-25 10:44:52] Response received in 8.98 seconds for chunk_51
+[2025-08-25 10:44:52] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_51_resolved.txt
+[2025-08-25 10:44:52] [Retry 1/3] Resolving coreference for chunk_52...
+[2025-08-25 10:44:52] Prompt length (chars): 21830
+[2025-08-25 10:44:52] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21830) with timeout=120s
+[2025-08-25 10:45:08] Response received in 15.41 seconds for chunk_52
+[2025-08-25 10:45:08] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_52_resolved.txt
+[2025-08-25 10:45:08] [Retry 1/3] Resolving coreference for chunk_53...
+[2025-08-25 10:45:08] Prompt length (chars): 21451
+[2025-08-25 10:45:08] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21451) with timeout=120s
+[2025-08-25 10:45:32] Response received in 24.73 seconds for chunk_53
+[2025-08-25 10:45:32] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_53_resolved.txt
+[2025-08-25 10:45:32] [Retry 1/3] Resolving coreference for chunk_54...
+[2025-08-25 10:45:32] Prompt length (chars): 21278
+[2025-08-25 10:45:32] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21278) with timeout=120s
+[2025-08-25 10:45:41] Response received in 8.54 seconds for chunk_54
+[2025-08-25 10:45:41] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_54_resolved.txt
+[2025-08-25 10:45:41] [Retry 1/3] Resolving coreference for chunk_55...
+[2025-08-25 10:45:41] Prompt length (chars): 21465
+[2025-08-25 10:45:41] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21465) with timeout=120s
+[2025-08-25 10:45:48] Response received in 6.8 seconds for chunk_55
+[2025-08-25 10:45:48] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_55_resolved.txt
+[2025-08-25 10:45:48] [Retry 1/3] Resolving coreference for chunk_56...
+[2025-08-25 10:45:48] Prompt length (chars): 21816
+[2025-08-25 10:45:48] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21816) with timeout=120s
+[2025-08-25 10:46:02] Response received in 14.68 seconds for chunk_56
+[2025-08-25 10:46:03] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_56_resolved.txt
+[2025-08-25 10:46:03] [Retry 1/3] Resolving coreference for chunk_57...
+[2025-08-25 10:46:03] Prompt length (chars): 21596
+[2025-08-25 10:46:03] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21596) with timeout=120s
+[2025-08-25 10:46:16] Response received in 13.2 seconds for chunk_57
+[2025-08-25 10:46:16] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_57_resolved.txt
+[2025-08-25 10:46:16] [Retry 1/3] Resolving coreference for chunk_58...
+[2025-08-25 10:46:16] Prompt length (chars): 21124
+[2025-08-25 10:46:16] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21124) with timeout=120s
+[2025-08-25 10:46:22] Response received in 5.79 seconds for chunk_58
+[2025-08-25 10:46:22] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_58_resolved.txt
+[2025-08-25 10:46:22] [Retry 1/3] Resolving coreference for chunk_59...
+[2025-08-25 10:46:22] Prompt length (chars): 21387
+[2025-08-25 10:46:22] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21387) with timeout=120s
+[2025-08-25 10:46:32] Response received in 10.22 seconds for chunk_59
+[2025-08-25 10:46:32] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_59_resolved.txt
+[2025-08-25 10:46:32] [Retry 1/3] Resolving coreference for chunk_60...
+[2025-08-25 10:46:32] Prompt length (chars): 21031
+[2025-08-25 10:46:32] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21031) with timeout=120s
+[2025-08-25 10:46:37] Response received in 4.78 seconds for chunk_60
+[2025-08-25 10:46:37] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_60_resolved.txt
+[2025-08-25 10:46:37] [Retry 1/3] Resolving coreference for chunk_61...
+[2025-08-25 10:46:37] Prompt length (chars): 22564
+[2025-08-25 10:46:37] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22564) with timeout=120s
+[2025-08-25 10:47:02] Response received in 24.97 seconds for chunk_61
+[2025-08-25 10:47:02] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_61_resolved.txt
+[2025-08-25 10:47:02] [Retry 1/3] Resolving coreference for chunk_62...
+[2025-08-25 10:47:02] Prompt length (chars): 21326
+[2025-08-25 10:47:02] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21326) with timeout=120s
+[2025-08-25 10:47:09] Response received in 7.39 seconds for chunk_62
+[2025-08-25 10:47:09] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_62_resolved.txt
+[2025-08-25 10:47:09] [Retry 1/3] Resolving coreference for chunk_63...
+[2025-08-25 10:47:09] Prompt length (chars): 22744
+[2025-08-25 10:47:09] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22744) with timeout=120s
+[2025-08-25 10:47:35] Response received in 26.15 seconds for chunk_63
+[2025-08-25 10:47:35] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_63_resolved.txt
+[2025-08-25 10:47:35] [Retry 1/3] Resolving coreference for chunk_64...
+[2025-08-25 10:47:35] Prompt length (chars): 22134
+[2025-08-25 10:47:35] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22134) with timeout=120s
+[2025-08-25 10:47:52] Response received in 17.01 seconds for chunk_64
+[2025-08-25 10:47:52] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_64_resolved.txt
+[2025-08-25 10:47:52] [Retry 1/3] Resolving coreference for chunk_65...
+[2025-08-25 10:47:52] Prompt length (chars): 21898
+[2025-08-25 10:47:52] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21898) with timeout=120s
+[2025-08-25 10:48:06] Response received in 14.19 seconds for chunk_65
+[2025-08-25 10:48:06] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_65_resolved.txt
+[2025-08-25 10:48:06] [Retry 1/3] Resolving coreference for chunk_66...
+[2025-08-25 10:48:06] Prompt length (chars): 22057
+[2025-08-25 10:48:06] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22057) with timeout=120s
+[2025-08-25 10:48:23] Response received in 16.94 seconds for chunk_66
+[2025-08-25 10:48:23] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_66_resolved.txt
+[2025-08-25 10:48:23] [Retry 1/3] Resolving coreference for chunk_67...
+[2025-08-25 10:48:23] Prompt length (chars): 21782
+[2025-08-25 10:48:23] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21782) with timeout=120s
+[2025-08-25 10:48:36] Response received in 12.76 seconds for chunk_67
+[2025-08-25 10:48:36] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_67_resolved.txt
+[2025-08-25 10:48:36] [Retry 1/3] Resolving coreference for chunk_68...
+[2025-08-25 10:48:36] Prompt length (chars): 21835
+[2025-08-25 10:48:36] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21835) with timeout=120s
+[2025-08-25 10:48:49] Response received in 13.02 seconds for chunk_68
+[2025-08-25 10:48:49] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_68_resolved.txt
+[2025-08-25 10:48:49] [Retry 1/3] Resolving coreference for chunk_69...
+[2025-08-25 10:48:49] Prompt length (chars): 22759
+[2025-08-25 10:48:49] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=22759) with timeout=120s
+[2025-08-25 10:49:13] Response received in 23.58 seconds for chunk_69
+[2025-08-25 10:49:13] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_69_resolved.txt
+[2025-08-25 10:49:13] [Retry 1/3] Resolving coreference for chunk_70...
+[2025-08-25 10:49:13] Prompt length (chars): 21185
+[2025-08-25 10:49:13] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21185) with timeout=120s
+[2025-08-25 10:49:19] Response received in 5.66 seconds for chunk_70
+[2025-08-25 10:49:19] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_70_resolved.txt
+[2025-08-25 10:49:19] [Retry 1/3] Resolving coreference for chunk_71...
+[2025-08-25 10:49:19] Prompt length (chars): 21825
+[2025-08-25 10:49:19] [run_ollama_inference] Sending prompt to model 'llama3370gb32k' (len=21825) with timeout=120s
+[2025-08-25 10:49:34] Response received in 15.29 seconds for chunk_71
+[2025-08-25 10:49:34] Saved resolved text: output/04USVsRodriguez/org/resolved_outputs/chunk_71_resolved.txt
+[2025-08-25 10:49:34] Merging all resolved chunks into output/04USVsRodriguez/org/org_resolved_04USVsRodriguez.txt
+[2025-08-25 10:49:34] All resolved chunks merged and saved to output/04USVsRodriguez/org/org_resolved_04USVsRodriguez.txt
+[2025-08-25 10:49:34] Completed coreference resolution for all chunks.
+[2025-08-25 10:49:34] Final Resolution completed in 1166.61 seconds.
+[2025-08-25 10:49:34] Cumulative time after Final Resolution: 19553.10 seconds.
+[2025-08-25 10:49:34] Total pipeline time: 19553.10 seconds.

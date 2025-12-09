@@ -1,0 +1,12 @@
+{
+  "ENTITIES": {
+    "PROPER_NOUN": [],
+    "NOUN_PHRASE": [
+      "the white car",
+      "the white vehicle",
+      "white cars",
+      "black cars"
+    ]
+  },
+  "PROPER_NOUN_DESCRIPTION": {}
+}

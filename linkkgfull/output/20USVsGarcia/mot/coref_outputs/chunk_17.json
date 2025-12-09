@@ -1,0 +1,16 @@
+{
+  "RESOLVED_ENTITIES": {
+    "the truck": null,
+    "the vehicle": null,
+    "vehicles": null,
+    "automobile": null,
+    "vehicle": null,
+    "a pickup truck": null,
+    "pickup truck camper": null,
+    "marked border patrol sedan": null
+  },
+  "AUXILIARY_DESCRIPTIONS": {
+    "pickup truck camper": "Vehicle used in the transportation of undocumented aliens, seized on Interstate Highway 35, stopped more than 100 miles from the United States-Mexican border, and subject to a suppression motion regarding the stop and search, frequently used for transporting illegal aliens with an unusually heavy and overloaded appearance, fogged windows, and occupants who tried to avoid detection. It had three women in the front seat and five or six men in the back seat.",
+    "marked border patrol sedan": "United States Border Patrol vehicle used for surveillance and immigration inspections"
+  }
+}
