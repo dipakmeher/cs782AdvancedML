@@ -39,7 +39,14 @@ The repository includes the complete implementation of both the LINK-KG pipeline
 - Python: 3.12
 - Ollama (for local LLM inference): https://ollama.com/download
 - GraphRAG version 0.3.2 (for KG construction baseline): https://github.com/microsoft/graphrag
-
+  
+## Dataset Links
+- Ablation Study Cases (16 Legal Documents): 
+  https://github.com/dipakmeher/cs782AdvancedML/tree/main/linkkg-no-str-prompt/input
+  
+- NER Evaluation Dataset (Annotated CSV):  
+  https://github.com/dipakmeher/cs782AdvancedML/blob/main/legal_ner.csv
+   
 ## Commands
 
 ### 1. Run Coreference Resolution (LINK-KG)
