@@ -40,16 +40,16 @@ The repository includes the complete implementation of both the LINK-KG pipeline
 - Ollama (for local LLM inference): https://ollama.com/download
 - GraphRAG version 0.3.2 (for KG construction baseline): https://github.com/microsoft/graphrag
   
-## Dataset Links
+### Dataset Links
 - Ablation Study Cases (16 Legal Documents): 
   https://github.com/dipakmeher/cs782AdvancedML/tree/main/linkkg-no-str-prompt/input
   
 - NER Evaluation Dataset (Annotated CSV):  
   https://github.com/dipakmeher/cs782AdvancedML/blob/main/legal_ner.csv
    
-## Commands
+### Commands
 
-### 1. Run Coreference Resolution (LINK-KG)
+#### 1. Run Coreference Resolution (LINK-KG)
 
 Use the following command template to run the coreference resolution pipeline. This resolves entity mentions in a legal document using a type-specific LLM prompt.
 
@@ -70,18 +70,18 @@ python run_pipeline5.py \
   --run-stages chunk ner coref resolve
 ```
 
-#### Argument Descriptions
+##### Argument Descriptions
 - `--input-file`: Path to the raw document (e.g., `.txt` file)
 - `--input-file-name`: Unique name used to create output folders
 - `--entity-type`: One of person, location, routes, etc.
 - `--run-stages`: Sequence of pipeline stages to run (chunk, ner, coref, resolve)
 
-### LINK-KG Prompt Files
+#### LINK-KG Prompt Files
 
 - Coreference Prompts: `link-kg/prompts/`
 - KG Construction Prompts: `link-kg/kgconstruction/ragtest/prompts/`
 
-### 2. Run KG Construction (GraphRAG-based)
+#### 2. Run KG Construction (GraphRAG-based)
 
 ```bash
 python index.py --root ./ragtest
@@ -91,7 +91,7 @@ Make sure you are in the correct directory and have installed GraphRAG dependenc
 https://github.com/microsoft/graphrag
 
 
-### 2. Run KG Construction (For all 4 ablation variants)
+#### 3. Run KG Construction (For all 4 ablation variants)
 
 ```bash
 python index.py --root ./ragtest
@@ -99,7 +99,7 @@ python index.py --root ./ragtest
 
 Ensure directory structure is consistent with GraphRAG format.
 
-## Baseline: GraphRAG Only
+#### 4. Baseline: GraphRAG Only
 
 To run GraphRAG as a standalone baseline:
 
